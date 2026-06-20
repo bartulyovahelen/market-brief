@@ -1,0 +1,40 @@
+name: daily-market-brief
+
+on:
+  schedule:
+    # 06:00 UTC ≈ 09:00 Kyiv in summer (EEST, UTC+3).
+    # In winter (EET, UTC+2) this fires at 08:00 Kyiv — see README DST note.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write          # needed to commit the new digest back
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install google-genai
+
+      - name: Generate today's brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python brief.py
+
+      - name: Rebuild calendar
+        run: python build_calendar.py
+
+      - name: Commit results
+        run: |
+          git config user.name "market-brief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add digests index.html
+          git commit -m "brief: $(date -u +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
