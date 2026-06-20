@@ -1,0 +1,360 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах ключових платформ, посиленням монетизаційних можливостей для творців та подальшою інтеграцією ШІ. YouTube та TikTok переорієнтовують свої алгоритми на глибинну взаємодію та задоволеність користувачів, тоді як Instagram посилює боротьбу з неоригінальним контентом. Snapchat розширює програми монетизації для творців, а Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 6
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 0
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "Алгоритми",
+   "stream": "Платформа",
+   "source": "YouTube / CreatorGrowAi Blog / vidIQ / OutlierKit / SocialBee",
+   "title": "YouTube змінює алгоритм у 2026 році: фокус на задоволеність користувачів та нішеві спільноти",
+   "why": "Алгоритм YouTube все більше віддає перевагу якісному контенту, що задовольняє глядачів, та нішевим каналам, що впливає на стратегії зростання творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhvzIGFjFkZ3j4j6z9Q_siyieugb-zIGwZi7sYmO-bO3XAn8Dyp0JaWmMS8YL9wjVD6aAQxNLsawddRHBRtFLuvxUb0Xt_SyDYjz7pMMVN6sdgQSeMOyLoot2V1ZNHz4lAvu-UZXRMau1Tp3oeFjB422FjQw4AadOm0Q_1UhOt3hKu_-A="
+  },
+  {
+   "importance": "high",
+   "theme": "Алгоритми",
+   "stream": "Платформа",
+   "source": "TikTok / Micky Weis / Stack Influence / Hootsuite Blog",
+   "title": "Оновлення алгоритму TikTok у 2026 році: пріоритетність залучення підписників та глибинної взаємодії",
+   "why": "Зміни в алгоритмі вимагають від творців переорієнтації на якість контенту та взаємодію з існуючою аудиторією для ширшого розповсюдження.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyC13QppVBAUwEhAJ3Q8aESLEnjDL19bjiWw_pi3QjoMptlGPyqpToyl2QTGCE7vwTO8wVA1s9oK_2jS3mhZvdCtz659Vak1qhsV8dZukQA4xOABS0Zdk7wbobEXA_aS_dB4n1OwQxe3LaKoD1g="
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "Платформа",
+   "source": "YouTube / Clapper / Conbersa / Ssemble / Loopex Digital",
+   "title": "Деталі монетизації YouTube Shorts у 2026 році: вимоги та розподіл доходів",
+   "why": "Роз'яснює поточні умови та механізми заробітку для творців коротких відео, підкреслюючи роль Shorts як інструменту залучення аудиторії для довгого формату.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGWfy8TS7ezNo0E-khQ4tfp_cSOUqAkpjh3HfmUJBoatb2sxoslfPmGHclwqHEPuMuscjuzBNJpB__q5yOn8O1Lg50N45Pr8tszh1ZTh_q970dIBdNHFjkv92jvcFGBQUtLlppzMFvfRT55DQLyzuqVjIF5LH-1ugcoFT7w28k4Drv6H35lrx2WWSHeRB65Z1HF4ku_3zH8nnoozivS-of0WBgi6PSrOL59BO-CkVl1KKOkO79Cys5Ni4_MPOh_eEK4EgXLhDMHdtWoU0="
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "Платформа",
+   "source": "Snap Inc. / MediaPost / TechBullion",
+   "title": "Snapchat розширює програму підписок для творців на глобальному рівні",
+   "why": "Надає творцям нові можливості для прямої монетизації аудиторії, створюючи додатковий потік доходу.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSSdi532OvAnASjA9CoGKFQk00MqT6dC9uwKv8hfrAYqBkEtPJbL_HJPYvw-k7an4udL0199SLjKrrjiBEVqILKfvMFfiKHlutFepvmo0fjNi4sAx3FA41ueOJlkdf1YVXyvkif74Ptt5NVQwMyhO9NJB07AkdUQDn1vc6kqk8fN5Nkn99wXTCOm8Vey_c5qZiTuoWnwf_z9S5YyFIi2FVMe9ktOYNlyYVbBzCyHOjeOg="
+  },
+  {
+   "importance": "high",
+   "theme": "Продукт",
+   "stream": "Платформа",
+   "source": "Snap Inc.",
+   "title": "Snapchat запускає пакет рекламних інструментів на базі ШІ для оптимізації кампаній",
+   "why": "Інтеграція ШІ в рекламні інструменти може значно покращити ефективність реклами та монетизацію для творців та брендів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82DV-z4rTwHtwh-sLVNExCLW2_ixxCtHRsArAN_Ts8AhxJKrIgH0saFfU6xh_jd8bkFbp-yugE0sRRZOn6UfgHEw0bGN05oB3FiChCLWJDdskLMu81UnG-3JV1-DVHDJFDpwiXQ_pi3kmXr8U54I5IHjaa1UejqSY1PWbtXq3zO9zFt4MI3VVNMlHUc99RybK-oCpf47FruxOrcr5v5PlEoNqqVgI3GInWzVi5RupJUVlad4SOGdk"
+  },
+  {
+   "importance": "high",
+   "theme": "Контент",
+   "stream": "Платформа",
+   "source": "Instagram / Metricool / MediaPost / Disrupt Marketing",
+   "title": "Instagram посилює боротьбу з агрегаторами контенту, обмежуючи рекомендації для неоригінальних постів",
+   "why": "Ця зміна підкреслює пріоритет оригінального контенту та впливає на стратегії творців та брендів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGElL8vfMPTAqEp7IyWPjkb5EOP1_Kk4Ls0JAC5pWv4ytcA80kYB8XHJiyO9N869WK_Ht7JXPzShT0oGJdZOAz1KhIwvBrb8Myu7e486N4Je582c3tnenugcF4xI3fnlXM="
+  },
+  {
+   "importance": "medium",
+   "theme": "Монетизація",
+   "stream": "Платформа",
+   "source": "Bilibili",
+   "title": "Bilibili звітує про прибуток у Q1 2026 завдяки зростанню користувачів та рекламних доходів за допомогою ШІ",
+   "why": "Демонструє успішну стратегію монетизації та інтеграції ШІ для зростання платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP3iS_vRwMGe6ioYajR01ZNsep9_n5cLi5ZokwR2HfZEmZIKexkNv3DlsX1ZvbTQX1zL5FlsCrPOb9lAh6bkWN3nKyu0TlqiC427CxaJ-LUAqy6tPjIWdGGHCsll7uGv8wtieLg8s="
+  },
+  {
+   "importance": "medium",
+   "theme": "Контент",
+   "stream": "Конкурент",
+   "source": "Amazon / PCMag / Screen Daily / The Economic Times",
+   "title": "Amazon MGM Studios відмовилася від фільму про Сема Альтмана (OpenAI)",
+   "why": "Рішення може відображати стратегічні зміни у контентній політиці Amazon, пов'язані з її інвестиціями в ШІ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82DV-z4rTwHtwh-sLVNExCLW2_ixxCtHRsArAN_Ts8AhxJKrIgH0saFfU6xh_jd8bkFbp-yugE0sRRZOn6UfgHEw0bGN05oB3FiChCLWJDdskLMu81UnG-3JV1-DVHDJFDpwiXQ_pi3kmXr8U54I5IHjaa1UejqSY1PWbtXq3zO9zFt4MI3VVNMlHUc99RybK-oCpf47FruxOrcr5v5PlEoNqqVgI3GInWzVi5RupJUVlad4SOGdk"
+  },
+  {
+   "importance": "medium",
+   "theme": "Монетизація",
+   "stream": "Платформа",
+   "source": "Instagram / Disrupt Marketing",
+   "title": "Instagram дозволяє додавати афілійовані посилання безпосередньо в Reels",
+   "why": "Розширює можливості монетизації для творців контенту через прямі продажі та партнерські програми.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfBOBwx3A_ik9KjSEKtBz-Gymw3xoSYnhAX7bRcCvWwvh49yEI-yVUVZR0Akcq7Y1tuTKv_VhX6BB2xbywh5btv-DQwCKosfOX7yTT-KESKug6p30arXU84qHmWK_OYv5KjC1FKY6kULxI0bm8yg=="
+  },
+  {
+   "importance": "medium",
+   "theme": "Партнерства",
+   "stream": "Конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює з OTT Studio для дистрибуції контенту",
+   "why": "Розширює можливості дистрибуції контенту TheSoul Group через нове партнерство.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydxMxVpyP6X_s3lOSWtaQggh1JAw8XoQJKhAFNlPp5rMGx-cOANvDk1TEYoxdUFdmq_wE3KvVxUvT5hJTfoMH2NebLiEAaGbn86CA8idASlIXhA8x"
+  },
+  {
+   "importance": "medium",
+   "theme": "Контент",
+   "stream": "Конкурент",
+   "source": "TheSoul Group",
+   "title": "5-Minute Crafts тепер доступний на Prime Video у США",
+   "why": "Демонструє розширення присутності контенту TheSoul Group на великих стрімінгових платформах.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydxMxVpyP6X_s3lOSWtaQggh1JAw8XoQJKhAFNlPp5rMGx-cOANvDk1TEYoxdUFdmq_wE3KvVxUvT5hJTfoMH2NebLiEAaGbn86CA8idASlIXhA8x"
+  },
+  {
+   "importance": "medium",
+   "theme": "Регуляції",
+   "stream": "Платформа",
+   "source": "TikTok / Iceland Review",
+   "title": "Міністр Ісландії зустрічається з TikTok щодо потенційних вікових обмежень для дітей",
+   "why": "Можливі регуляторні зміни можуть вплинути на доступність платформи та стратегії контенту, орієнтованого на молоду аудиторію.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ406rsB1lnlcQ8_LUUzUVk_8S7Ngkiu9mRkbE8KlSQRNw1s4L-IZm3ehtGxWSbHTclVIzbJJBsSkBJ2BbnSW0LEaX_eom0nahc1peOfhw-34Ml9I2_WI908nlpa6QG4qWb-Lbvs9gMWK0Tb-nbOdkCiiGM3K7jKzAR1-L2M_cWMX6Irc9Jhe9s55f-ITxn2m_JUYXC1ANin4FFK1KSBSHsQ=="
+  },
+  {
+   "importance": "low",
+   "theme": "Продукт",
+   "stream": "Платформа",
+   "source": "Instagram / Metricool",
+   "title": "Instagram запускає функцію \"Ваш алгоритм\" для персоналізації стрічки Reels",
+   "why": "Дозволяє користувачам краще контролювати контент, що може вплинути на стратегії таргетингу для творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGElL8vfMPTAqEp7IyWPjkb5EOP1_Kk4Ls0JAC5pWv4ytcA80kYB8XHJiyO9N869WK_Ht7JXPzShT0oGJdZOAz1KhIwvBrb8Myu7e486N4Je582c3tnenugcF4xI3fnlXM="
+  },
+  {
+   "importance": "low",
+   "theme": "Продукт",
+   "stream": "Платформа",
+   "source": "Instagram / Disrupt Marketing",
+   "title": "Instagram відкриває інструменти для творців для всіх публічних акаунтів",
+   "why": "Демократизує доступ до аналітики та планування, що може сприяти зростанню менших творців.",
+   "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQFfBOBwx3A_ik9KjSEKtBz-Gymw3xoSYnhAX7bRcCvWwvh49yEI-yVUVZR0Akcq7Y1tuTKv_VhX6BB2xbywh5btv-DQwCKosfOX7yTT-KESKug6p30arXU84qHmWK_OYv5KjC1FKY6kULxI0bm8yg=="
+  }
+ ],
+ "trends": [
+  "Посилення ролі ШІ у відеодистрибуції: від оптимізації рекламних кампаній до покращення рекомендаційних систем та інструментів для творців.",
+  "Еволюція монетизації для творців: платформи пропонують більш диверсифіковані моделі заробітку, включаючи прямі підписки та афілійовані посилання, на додаток до розподілу рекламних доходів.",
+  "Пріоритет оригінального та якісного контенту: алгоритми платформ все більше винагороджують унікальний, залучаючий та нішевий контент, обмежуючи розповсюдження агрегованого або низькоякісного матеріалу.",
+  "Зміни в алгоритмах для підвищення задоволеності користувачів: фокус на глибинну взаємодію, час перегляду та персоналізацію стрічок, а не лише на кількість переглядів.",
+  "Посилення регуляторного тиску: обговорення вікових обмежень та питань безпеки для дітей на соціальних медіа-платформах."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Активні зміни в алгоритмах YouTube та Instagram, нові інструменти монетизації на Snapchat, стратегічні рішення Amazon MGM."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання прибутку та користувачів завдяки ШІ та рекламним доходам."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка ШІ-інструментів для оптимізації створення контенту та рекламних кампаній, що відповідають новим вимогам алгоритмів платформ.",
+  "Створення стратегій для творців, орієнтованих на нішевий та оригінальний контент, з акцентом на глибинну взаємодію та задоволеність аудиторії.",
+  "Дослідження можливостей інтеграції з новими моделями монетизації платформ, такими як підписки для творців та афілійовані програми."
+ ],
+ "watch_next": [
+  "Подальші оновлення алгоритмів YouTube, TikTok та Instagram, особливо щодо впливу ШІ та пріоритетності контенту.",
+  "Розвиток регуляторних ініціатив щодо соціальних медіа та вікових обмежень у різних країнах.",
+  "Розширення програм монетизації для творців на всіх платформах та їхній вплив на доходи.",
+  "Стратегічні партнерства та M&A у сфері відеодистрибуції, особливо з урахуванням зростання ШІ."
+ ],
+ "sources": [
+  {
+   "label": "Bilibili Q1 2026 Earnings: AI Boosts User Growth & Ad Revenue Surge - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP3iS_vRwMGe6ioYajR01ZNsep9_n5cLi5ZokwR2HfZEmZIKexkNv3DlsX1ZvbTQX1zL5FlsCrPOb9lAh6bkWN3nKyu0TlqiC427CxaJ-LUAqy6tPjIWdGGHCsll7uGv8wtieLg8s="
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: What It Pays, What It Requires, and What Creators Are Choosing Instead - - Clapper",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGWfy8TS7ezNo0E-khQ4tfp_cSOUqAkpjh3HfmUJBoatb2sxoslfPmGHclwqHEPuMuscjuzBNJpB__q5yOn8O1Lg50N45Pr8tszh1ZTh_q970dIBdNHFjkv92jvcFGBQUtLlppzMFvfRT55DQLyzuqVjIF5LH-1ugcoFT7w28k4Drv6H35lrx2WWSHeRB65Z1HF4ku_3zH8nnoozivS-of0WBgi6PSrOL59BO-CkVl1KKOkO79Cys5Ni4_MPOh_eEK4EgXLhDMHdtWoU0="
+  },
+  {
+   "label": "Blog - TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHydxMxVpyP6X_s3lOSWtaQggh1JAw8XoQJKhAFNlPp5rMGx-cOANvDk1TEYoxdUFdmq_wE3KvVxUvT5hJTfoMH2NebLiEAaGbn86CA8idASlIXhA8x"
+  },
+  {
+   "label": "Snapchat Creator Monetization Program - Grokipedia",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4OflLEBhBZq8g29LRvJgL2zYzzKYZZNkL0sCT2a8Hwa1U_Eqp2IP9s48rVdPpniCZ5rqmujqE8u6PteKsLISUkkT6T5MDRn54ubbQJZwOO_f9JFO1SQWS81ILPeJEti7fpUF15-h898DiZMohTpqIyrRzU6U-QXnErFU4="
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: Requirements and Revenue in 2026 - Conbersa",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNaceG7Xe8y8dJMWkzdxGBKpOkpIecEQkTRWHGJLBd4gvr_FAntKPc-AC4jk5VS-FWgXqL5nomqV54WgREl-duEBaM6HnWTqN0-kUOIdW6jGzaUZ16NEGZ63gA9HvSbLLXYlma_60v5Cs9g_T3DUQgpf9Wz8RTlE_ng-55dKsZeiCniM4v5g=="
+  },
+  {
+   "label": "TikTok's algorithm in 2026: How to adapt your strategy - Micky Weis",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyC13QppVBAUwEhAJ3Q8aESLEnjDL19bjiWw_pi3QjoMptlGPyqpToyl2QTGCE7vwTO8wVA1s9oK_2jS3mhZvdCtz659Vak1qhsV8dZukQA4xOABS0Zdk7wbobEXA_aS_dB4n1OwQxe3LaKoD1g="
+  },
+  {
+   "label": "Snap (SNAP) Introduces AI-Powered Advertising Suite to Streamline Campaign Workflow",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82DV-z4rTwHtwh-sLVNExCLW2_ixxCtHRsArAN_Ts8AhxJKrIgH0saFfU6xh_jd8bkFbp-yugE0sRRZOn6UfgHEw0bGN05oB3FiChCLWJDdskLMu81UnG-3JV1-DVHDJFDpwiXQ_pi3kmXr8U54I5IHjaa1UejqSY1PWbtXq3zO9zFt4MI3VVNMlHUc99RybK-oCpf47FruxOrcr5v5PlEoNqqVgI3GInWzVi5RupJUVlad4SOGdk"
+  },
+  {
+   "label": "TikTok Algorithm 2026: What Creators Must Know - Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGregdb2PH2c-JkMULqGUu_QIuHbR_mwoSd6uh8U-IfQlf15EuV8WYgFHz49Scffhxnz48pk1NZ01amLaZsns2j0Uvzc6-Zr5V0yDQnodFM0_1E9tnbJxBk2igubybIYY_GLyJJ7k-L9vNDVcDyl5zpU-2hAoA-YZ4uU8z6p39982UMSwhwqevB"
+  },
+  {
+   "label": "YouTube Algorithm Changes in 2026: What Creators Need to Know | CreatorGrowAi Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhvzIGFjFkZ3j4j6z9Q_siyieugb-zIGwZi7sYmO-bO3XAn8Dyp0JaWmMS8YL9wjVD6aAQxNLsawddRHBRtFLuvxUb0Xt_SyDYjz7pMMVN6sdgQSeMOyLoot2V1ZNHz4lAvu-UZXRMau1Tp3oeFjB422FjQw4AadOm0Q_1UhOt3hKu_-A="
+  },
+  {
+   "label": "Amazon MGM Studios Dumps Upcoming OpenAI Movie - PCMag",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE82DV-z4rTwHtwh-sLVNExCLW2_ixxCtHRsArAN_Ts8AhxJKrIgH0saFfU6xh_jd8bkFbp-yugE0sRRZOn6UfgHEw0bGN05oB3FiChCLWJDdskLMu81UnG-3JV1-DVHDJFDpwiXQ_pi3kmXr8U54I5IHjaa1UejqSY1PWbtXq3zO9zFt4MI3VVNMlHUc99RybK-oCpf47FruxOrcr5v5PlEoNqqVgI3GInWzVi5RupJUVlad4SOGdk"
+  },
+  {
+   "label": "Instagram Updates & News 2026 - Metricool",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGElL8vfMPTAqEp7IyWPjkb5EOP1_Kk4Ls0JAC5pWv4ytcA80kYB8XHJiyO9N869WK_Ht7JXPzShT0oGJdZOAz1KhIwvBrb8Myu7e486N4Je582c3tnenugcF4xI3fnlXM="
+  },
+  {
+   "label": "All Eligible Snap Creators Can Now Offer Subscriptions - MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSSdi532OvAnASjA9CoGKFQk00MqT6dC9uwKv8hfrAYqBkEtPJbL_HJPYvw-k7an4udL0199SLjKrrjiBEVqILKfvMFfiKHlutFepvmo0fjNi4sAx3FA41ueOJlkdf1YVXyvkif74Ptt5NVQwMyhO9NJB07AkdUQDn1vc6kqk8fN5Nkn99wXTCOm8Vey_c5qZiTuoWnwf_z9S5YyFIi2FVMe9ktOYNlyYVbBzCyHOjeOg="
+  },
+  {
+   "label": "Minister Meets TikTok Over Potential Age Restrictions for Children - Iceland Review",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ406rsB1lnlcQ8_LUUzUVk_8S7Ngkiu9mRkbE8KlSQRNw1s4L-IZm3ehtGxWSbHTclVIzbJJBsSkBJ2BbnSW0LEaX_eom0nahc1peOfhw-34Ml9I2_WI908nlpa6QG4qWb-Lbvs9gMWK0Tb-nbOdkCiiGM3K7jKzAR1-L2M_cWMX6Irc9Jhe9s55f-ITxn2m_JUYXC1ANin4FFK1KSBSHsQ=="
+  },
+  {
+   "label": "Amazon MGM Studios offloading Luca Guadagnino's 'Artificial' about OpenAI head Sam Altman | News - Screen Daily",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnWhriint786a_TyaWbU72M-zsRzbu25TRbF5Pj_UJckSzgToQ4KW323gAAclFebDu1V6_lShkCZ4oYZ1xeFJel9JaAQtIE0_Qxi-puJB_iWeDdqG_-Wi3KEwiMbFCi3aKUQgGGJxXUqjdtGS5Zvk6WW7GOFpWFyMrBaF1b7D2t3a8X1QrXpssRARH3A_9VjAX2GEH_ZishRZsBSaZu3k9GdJABazwXKuVdDsBaGNVsBx-yNISD2k_XnsCNwALx_yR8ig="
+  },
+  {
+   "label": "YouTube Shorts Monetization 2026: How Much Shorts Pay + How to Earn More | Ssemble",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwckCXTsSfLb77lXpKurJr4Vq0AApTFhww81ycKiT5KxAnzUzm10cxzZxJeowuh9RZoEUMw_ucjpWDZuDAystDRsgu-R4S064_X6cFeqR2pQhS8y5XveqdQYXraDuygmY-UjjxBTIXD_Sbg_E884SvNIQYfTSD1Gs="
+  },
+  {
+   "label": "YouTube Shorts Statistics 2026: Usage, Growth, And Monetization Data - Loopex Digital",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgUE9kgeT956gKS5owAfzFV75Q7tNBEyMxNPwrXTqb6Av_0HivC3VN33hRa7SpPuGx5DVjciJBllS-yM3kTp_Pk1TS5qXOmrZ_EpIFpfkBG02mOa1zywUUeRfr--UIoViEvL4z7nkedGJoeyTsinpjownhj6qQBg=="
+  },
+  {
+   "label": "Amazon MGM Studios offloading Luca Guadagnino's 'Artificial' about OpenAI head Sam Altman - The Economic Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzmmxqa8bnC-OSgYjGUekQu19MfFjjLu7O-H25PwZWeIhJnXX0oyZhMDThrUHHe4DfzzsxR2j32chAQaRMQ9U18VX3q4fyA_TR-lz0M_oF7xKDsJhFfP9jAPL8eACJFWOTikAc9mKEXYZTwQjc_nGD6fFSrx7JOk7pw90EEBvBYxrow5yTPiC0r__vwZMf6ouVBJ4I9ycRWvhLD-1drD7ljioOCQhoSBkH09Lun7JzlXn33pIW1i0TlzF2g-D"
+  },
+  {
+   "label": "YouTube Just Changed The Entire Algorithm DO THIS GET MORE SUBSCRIBERS IN JUNE 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnsXO_89VRdKsPTinecCQ8u1fUuoKKbINuF5BI77mGySxYdNlggBICk4yXp9ELcaEo69pZP8NSe-PrJ67HKPEWZCGObDs5N0Mlp-9RsNjnGPcZY0cI68_41f1z2qsWlv9OqK1vXos="
+  },
+  {
+   "label": "YouTube Algorithm Updates 2026: Every Confirmed Change Explained - OutlierKit",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOhwFLKU8Sf1Benqu47ilYAz6SDhLXQV-ohuq7pMp4PDS-q8ESfV27vtMbzA7vIiDRWJPu_r5nZ5xNQapUGn4sR5Fo3_KSXWcGFiGmkbv4luqy2Tv-4nxlvgAlCggAMbkocBMVh9vLeZ37Kc7e30_GZZ2ykmm3"
+  },
+  {
+   "label": "New to Prime Video in June 2026 - Amazon MGM Studios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4xfHqP5Gh5pzrA5LF7wBs2vabDHmSeeTdmaBf_9ZBxZQzuca77eAocOWsla6Xs198-bNKnTgekNips0e-nsK6qxLcUlEUASOsLVdXUHVU6SuTtmmI1Eh4iwgmCuSI-M9hRPbkbujGlkIcLKBo7J3t8HI8qe0="
+  },
+  {
+   "label": "How the YouTube Algorithm Works in 2026: Updates & Tips - vidIQ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTlfGl4KoZdxpVEq-F99uiFQUJW3_NHdZWoV53cDQJ88bRUYBEllP15HEKQScYbhr1jhpY9FjcNfI-qnmaObEsPcfw5LfGQ-TWV_IkjSkcP4liybpUFT0EbnZc9UiyI_M4kqBipLa3EoyXGuxDXa00lpG_MlY1hg=="
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: Requirements, RPM, and How Much You Get Paid",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8dIWe9GZkWrPd-bncw7O47oC52ltGorphKZBvJACm5J1kkeTeE570vJiIuSzfjZwSK60Fc_KcxQzAaoEM2kvWlHxUJoSVOiWbaWM_ycq-IzTvcSPkLd_KhwFwqDNbJjrOHWCdMAIDRNdNsv_SMHBZ7lUJ"
+  },
+  {
+   "label": "Amazon MGM Studios unveils its ambitious theatrical slate for 2026 and beyond at CinemaCon",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWUGm1ZsDncyWG-gAT4eoE-6pX-qjvBJWdf5sa_xlbF3Ung5lcZQxHZow_PQQ6vUcZPxdzmm6QBXEC8FtPJeY1PC4oHjyiTQxgsspsHXMtacVlwinvRkuoCqiy-j1d_CS9PFuQOwqcAhusUQBZ-wFgeyOAVCuK9xDrsjwhqBgEoBe6"
+  },
+  {
+   "label": "Snapchat Monetization 2026: Eligibility & Payouts - Kompozy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdaj_rwjOvZCpZp0o3HMRU78RndEHXanDgKCdGMQwcAlevS8f5dTgVfLKl2pN_XBe4ldPEJRJCQwha4KNTPTVl3VOBiOMFQjK9khVdqLOrt9mXTpxVsIXJdKqjwzhWO-xsRrwHgJafheh0cNq9t6n5D6FyAcdWbA=="
+  },
+  {
+   "label": "What Content Creators Need to Know About TikTok's New Algorithm in 2026 - OpusClip Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtuasXs60I5DBwF_BdfnEECw0GdU-5IzhcDyNm-tBK5CFJHBwi-xN7DMgXHq3qYoYKMFa_TQQiYPkiW74s0XZpPiGIYY66HiXsoKrN82AWXiztWp7T2fqRbuKMAf-ow2719SFfHJJ5eSmzfqXDSdA="
+  },
+  {
+   "label": "How Snapchat Monetization Is Changing Social Media in 2026 - TechBullion",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXZhU5icluussmmst7pvRnUtbOdbEzepQiYp2b1jgnnrrxkynWn1s1Z4ubrZCPBYGTH0Pyube-tm-nfvRn_s3IAq5J1LRftC1jdJ_ENlEJaiOWNPeeF7kSqKLODXlacRsoBSSdjpRmj0aFljlE1-jzw10="
+  },
+  {
+   "label": "How the TikTok algorithm works in 2026 - Hootsuite Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsEy6Ek88W_6neSDdTp6_RtfpI2RD7S9YDBhzfY_TN3LfPrfa2EOC_DkeieJRrUs21u5e4_bGhu8df7BeTAF2PWNPhbgV-XpTU7HHtDZyGSU8J91NUfvdanO_ALpAB6PrRjcPOB_Vg"
+  },
+  {
+   "label": "Efforts to ban TikTok in the United States - Wikipedia",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB42J7_LbSsu-_-Y5UPlGEIN8sdQoZOgTKdG6wgyF1sE2o3kqUKxKOoXExqBovNncp9haRSy8GmqeVN9fqBAx3LcV4oeopA5IGL-YlADim_n5KcYtqwqYwv7EoG6WZGHJ5nzSZNKGLEzIV1IoR4VzsQ9y8unvU_yfLfhgQYOdCAasZUQ=="
+  },
+  {
+   "label": "TikTok parent signs away majority control to avoid US ban - Silicon Republic",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNiAB1TMYk2oJPHS_XB4WAT6Vtsdh_CQnPBEK_hD2zsxnA8cJqN28SG-dV-VFNO4MvnlQBrS1xC0L7sVCTYmRvvNFYnUUmpL4G8Nl-Cpo5uuuj2Qg8tXYG78te8DbS7qVI959zCCyC1_TzQxngHmwxbvBxybDunUXrBUxRqGoE5dZz5wbdYVrJ9Vfi4mtX5Jp97isW"
+  },
+  {
+   "label": "Life at TheSoul - JoinTheSoul",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbDWFub5DkBHS5tZ8jyNBlCuANg-wQJz8K8u5Py91okbUrek-0X62uxt6GXSNQBpVUZFvKTwzv929whzQArC77jmMtPW5vOuiI2WKLbSPm4UBHKL4pyn6CE6uz"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHX2ix49mk8qNHC2X-zNd3ShZgfEl84PN2HlVIwcY0rbZVc65eO-Yul4nz5bAlNYOd1z4pcoNn6s0NV7RZyU3eFW2VTxlV8B9h8KDhxzBi4yI="
+  },
+  {
+   "label": "Bilibili Swings to Profit as Ads, Gaming Rebound - Caixin Global",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtGa9NL3VDyN0ofnv8I3AE4PoxjbWfo3ipwfVgC1n9HB-NA6wOBPr57ni821U7kZ1eRytmwsQstR4b0O3MOS3wVRlwGK4EGHwLugjC_Jr1M4pDZauBrOpVS1TyN0hhCEe39TlaNYdilBCm1G2WuIu6fLZsQ6wrTWYosrx-7eJoCAA_98-_mwxFaYUg_oDxSh-qHrcrNvrRmU6IMyq6Hlv5ow=="
+  },
+  {
+   "label": "Changes to Instagram's Algorithm Raising Concerns for Creators and Businesses",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpbvcLKur1N9ViXqfLvoH6I-a5Wp4xSkrAJcr9VEHOMK8A8YT4zCyJ1yebOBPk7oPZl6xV-xrlKkOVpCp9gzAG2l0juZfdp7ihnxVEox3uyRox-kEAmYEX7g1QpUT8VQMBNLjRD65OeSgq5CFmN7RlOcTU3I0bK3jXuTlIy0-PCB3v5p126OlRKbUzFkzcRE5YVjFdrNIDeZ0X4KAVaagCNJVDgYrw0BetfyoPyA=="
+  },
+  {
+   "label": "Bilibili Inc. Announces Results of Annual General Meeting - Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUxxxLWCda_emFHItxvpunKixppSDHnBikcNiPoSA3Y_Tzp6STQxj0NcpMNQmpR-5Hb8JIbvFr8-BO7vjU0pHOjMz6M4ntFY9IZ-OOM0UQ2PDMwxLqSW_mXwAugGbaPkdAj0iJMHGz985r8A-1sPU2GAGBV0t9P0eq2k7G0qICI_qKgQ9oAmCilcpI9_KBYY8SEy1YJ6qxKRw49HWiGpsNdRw="
+  },
+  {
+   "label": "Bilibili's New Era: AI and Ads Drive Return to Profit in Q1 2026 - BriefGlance.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFhWpaM8z_6TQHsnNH6HQAVfYkn8Ii2j_oAxFvBTHd4lqe0SeQa8SLX6NPa2e9VnXZe85TrdIScVoiod0QbL8M1QqCcoLcQv-OYlH1-wBa1bkBVvJPD-rlYMO6HMnYapqEc5ymu03yipETNPC7pLsQVqNLw-9xJ2N_RL_ANZ5gfQzKPIrbu7j5xYGV6bsOuZz0_sRh8yqJ_Jza"
+  },
+  {
+   "label": "Snapchat trolls Meta with Spotlight name change prank | Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbdLaw5jEyeh7nnqsdkGyahcpw9xZFAk7eu2X4CylLuyhYJEMrMs8w60ZZcm-8LuXpaPfLwSgMnPQjoxHbqlbHLQLZhC0h5cNWuWdMP8DXha6yiEIGBLe8vaqbJGlKMcdnuIHugWLqtdqwYk9xLERaYbu0xBpBmsZZosOgDK-WZMEL44F0rtgJIHfAeq1eQjXYYjUfPjOy64BCHRddRA=="
+  },
+  {
+   "label": "Still Spotlight… But Still Real - Snap Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEurOh-Ai1fg0w6Zi9rSYP9EUZafKGJTfM2kVJxvJZxxqcYWsl1jNEWJgQEKnkt6u6MudF4G5iJrVAxbhwLrSOzCmsouPcNgr7gWNbLtj5xJG7BJ4VgKQz-oChU0PcjcaZ1pz-601XWALdxzzAr5JFXwAzV"
+  },
+  {
+   "label": "Snapchat Spotlight: feature gives rival TikTok a run for its money - The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpEQGtCr7x7Hg1BEkDm_GniXeMYJ3CCllcGwVNbTm3kF1CWs1bqoa1p4_nVcTDZcYC-57qm4eGzREQxklDNjVRgprO0gXUWix8vWnYDntQV02sHX7v6cX10aNAOaa7eIruCqlSjBsTOuWNzYeqZ4GEbvsJQIiBfIGzI-RFHm0D_MFoZB8AcjZf_59EqcqgjZBkaKy6Dp2iBxVr-TZhqqbeHbfi5Tu7KYevOS6haZH"
+  },
+  {
+   "label": "The biggest Instagram updates from 2026: A social media manager's guide to this year's Instagram changes [updated monthly] | HeyOrca",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIc74RhSWLMjOFU-7Sml5ruJz6MkMNUOUjEwmlJw44Knau-6DydmMvICd26Ewlkk5Ow8W0vacyZM3-vD4ttazQd8ZkXYowROPBvyOk6kMccJw0EFZvi-imAmhBVjZd_McDP2z8qpJFDe1UDYw"
+  },
+  {
+   "label": "How does the YouTube algorithm work in 2026? - SocialBee",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEOVWxTeBd2VlLA4f30ElM5XA2tR59f71-HUwChRomaVegiwErQm4QADwFZJp8_5bEjiJnsbel9vlw1xP7MhHXHYgXksw86tTtgWQC5JoebT137dFxpv1CQSyWINrYXcmE-LJrmeK5Xw=="
+  },
+  {
+   "label": "How the TikTok Algorithm Works in 2026 | Sprout Social",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRYREWlaE9wDHb9Bhc7AuS_VT5jUJ8gGLc8YIZrQpvKR73OQsWWT-SJgbqUwG8ebRHtU1tdz-ZZcAnMdU3h0zgtTDToc3VZ5Zs8fIALXFOLpxUih5hQ3PsSKN3N8YrFjKMuWTBe4vs0GAQmB7hMA=="
+  },
+  {
+   "label": "TikTok finalizes deal to form new U.S. entity to avoid ban - CBS News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKnoPkDoqyuzUMb_18d-3ubktsKszHhQyPF_ZvJxyWK8-34grgQGq1eod16YE6-6uUpF7lR-Ttv_pRPxDjcoz0wg0s2a5h5P8DxdcGezRnBpx2oC52lC1mJc4Y14AAKc0Afv89ul4Bbd7mjOGRuTQ=="
+  },
+  {
+   "label": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc_vzZHipGcx76zsfIMIxEd4Ok-Dc_nSvh9q6Ku0CHHF7ONc65d4AfFyFizNG5Jcn3o9KHGkBLhE7Enub6r4qBwoyAb0msahe72fSxH6JaqOGymWXpLsnZEtYaDdgapIiDu6m9Dfz2io-wqDc4TAsG-qANGxI5tB3iSfdtBKKzDlTl"
+  },
+  {
+   "label": "Instagram Updates 2026: New Features & Changes - Disrupt Marketing",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfBOBwx3A_ik9KjSEKtBz-Gymw3xoSYnhAX7bRcCvWwvh49yEI-yVUVZR0Akcq7Y1tuTKv_VhX6BB2xbywh5btv-DQwCKosfOX7yTT-KESKug6p30arXU84qHmWK_OYv5KjC1FKY6kULxI0bm8yg=="
+  }
+ ]
+}
