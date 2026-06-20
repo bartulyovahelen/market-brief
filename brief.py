@@ -1,57 +1,82 @@
 #!/usr/bin/env python3
 """
-Daily video-distribution market brief — cloud edition (Gemini brain).
+Щоденний бриф ринку відеодистрибуції — хмарна версія (мозок: Gemini).
 
-Runs headless in GitHub Actions: Gemini (with Google Search grounding) researches
-two streams, returns structured JSON, and this script renders it into a dated HTML
-page. build_calendar.py then rebuilds the clickable calendar. The workflow commits
-the result back to the repo.
+Працює headless у GitHub Actions: Gemini (з пошуком Google) досліджує ринок,
+повертає структуру, скрипт малює україномовну сторінку дня + зберігає сирий JSON.
+Тренди визначаються з історії кількох останніх днів. build_calendar.py збирає
+клікабельний календар. Workflow комітить результат назад у репозиторій.
 
-Env: GEMINI_API_KEY (free key from Google AI Studio, stored as a GitHub Secret).
+Env: GEMINI_API_KEY (безкоштовний ключ з Google AI Studio, GitHub Secret).
 """
 import os, re, json, glob, html, datetime as dt
 
 from google import genai
 from google.genai import types
 
-MODEL = "gemini-2.5-flash"   # free tier. "gemini-3.5-flash" = newer if available.
+MODEL = "gemini-2.5-flash"     # безкоштовний рівень. "gemini-3.5-flash" — новіший, якщо доступний.
+HISTORY_DAYS = 5               # скільки попередніх днів читати для трендів
 ROOT = os.getcwd()
 DIGEST_DIR = os.path.join(ROOT, "digests")
 TEMPLATE = os.path.join(ROOT, "day_template.html")
 SOURCES = os.path.join(ROOT, "sources.md")
 
+IMP_CLASS = {"high": "imp-high", "medium": "imp-med", "low": "imp-low"}
+IMP_ORDER = {"high": 0, "medium": 1, "low": 2}
+
 def read(p):
     with open(p, encoding="utf-8") as f:
         return f.read()
 
-def previous_date():
-    dates = []
-    for p in glob.glob(os.path.join(DIGEST_DIR, "*.html")):
-        m = re.search(r"(\d{4}-\d{2}-\d{2})\.html$", p)
-        if m:
-            dates.append(m.group(1))
-    return max(dates) if dates else None
+def history():
+    """Останні HISTORY_DAYS JSON-дайджестів (без сьогоднішнього) для трендів і 'що змінилось'."""
+    files = sorted(glob.glob(os.path.join(DIGEST_DIR, "*.json")), reverse=True)
+    items = []
+    for p in files[:HISTORY_DAYS]:
+        try:
+            d = json.load(open(p, encoding="utf-8"))
+            date = re.search(r"(\d{4}-\d{2}-\d{2})", p).group(1)
+            titles = [s.get("title", "") for s in d.get("signals", [])][:6]
+            items.append(f"{date}: {d.get('tldr','')} | " + " · ".join(titles))
+        except Exception:
+            pass
+    return "\n".join(items)
 
-def ask_gemini(watchlist, today, prev):
-    prompt = f"""You are a market-intelligence analyst. Using web search, build today's
-video-distribution market brief for {today}. Geography: global + Asia + Ukraine/CIS.
-Recency: only developments from the last 7 days{f' (newer than the {prev} brief)' if prev else ''}.
-EXCLUDE AIR Media-Tech from all analysis. Do NOT fabricate — if a stream is quiet, say so.
+def ask_gemini(watchlist, today, hist):
+    prompt = f"""Ти — аналітик ринку відеодистрибуції. Звіт пиши УКРАЇНСЬКОЮ.
+Назви компаній/продуктів і посилання-джерела лишай в оригіналі (не перекладай).
+Аналізуй ВЕСЬ ринок відеодистрибуції нейтрально, без прив'язки до конкретної компанії.
+ВИКЛЮЧИ AIR Media-Tech з аналізу. Не вигадуй — якщо тема порожня, так і скажи.
+Через пошук знайди події за останні 7 днів. Дата сьогодні: {today}.
 
-Watchlist and signals:
+Що відстежувати (watchlist і сигнали):
 {watchlist}
 
-Return ONLY valid JSON (no markdown fences), with this exact shape:
+Контекст останніх днів (для трендів і розділу «що змінилось»):
+{hist or "— історії ще немає, це перший бриф —"}
+
+Поверни ЛИШЕ валідний JSON (без markdown-огорожі) такої форми:
 {{
-  "tldr": "2-4 sentences, the single most important thing today",
-  "bars": [{{"label": "Competitor moves", "n": 0}}, {{"label": "Algorithm changes", "n": 0}}, {{"label": "Funding / M&A", "n": 0}}],
-  "stream_a": [{{"source": "...", "title": "...", "why": "one line why it matters", "url": "https://..."}}],
-  "stream_b": [{{"source": "...", "title": "...", "why": "...", "url": "https://..."}}],
-  "changed": "what is new vs the previous brief, or 'First brief — no prior baseline.'",
-  "conclusions": ["implication for Holywater BizDev", "..."],
-  "sources": [{{"label": "...", "url": "https://..."}}]
+  "tldr": "2-3 речення: найважливіше за сьогодні",
+  "bars": [{{"label": "Монетизація", "n": 0}}, {{"label": "Алгоритми", "n": 0}}, {{"label": "Контент", "n": 0}}, {{"label": "M&A / фандинг", "n": 0}}],
+  "signals": [
+    {{"importance": "high|medium|low",
+      "theme": "монетизація|алгоритми|контент|M&A|регуляції|продукт",
+      "stream": "конкурент|платформа",
+      "source": "оригінальна назва джерела/компанії",
+      "title": "стислий заголовок українською",
+      "why": "один рядок: чому це важливо для ринку",
+      "url": "https://..."}}
+  ],
+  "trends": ["напрям ніші за останні дні, не одна новина", "..."],
+  "regions": [{{"region": "Захід", "note": "один рядок або 'без помітних рухів'"}}, {{"region": "Азія", "note": "..."}}, {{"region": "CIS", "note": "..."}}],
+  "changed": "що нового проти попередніх днів, або 'Перший бриф — бази для порівняння ще нема.'",
+  "bizdev": ["можливість або дія для BizDev у відеодистрибуції загалом", "..."],
+  "watch_next": ["що варто моніторити найближчими днями", "..."],
+  "sources": [{{"label": "оригінальна назва", "url": "https://..."}}]
 }}
-Bars numbers must match the count of items you list. Mark anything unconfirmed with [VERIFY] inside the text."""
+Сортуй signals від high до low. Числа в bars мають збігатися з кількістю пунктів.
+Неперевірене познач [VERIFY]."""
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     resp = client.models.generate_content(
@@ -65,10 +90,8 @@ Bars numbers must match the count of items you list. Mark anything unconfirmed w
     return resp.text or ""
 
 def parse_json(text):
-    t = text.strip()
-    t = re.sub(r"^```(?:json)?", "", t).strip()
+    t = re.sub(r"^```(?:json)?", "", text.strip()).strip()
     t = re.sub(r"```$", "", t).strip()
-    # grab the outermost JSON object if there's stray prose
     a, b = t.find("{"), t.rfind("}")
     if a != -1 and b != -1:
         t = t[a:b + 1]
@@ -77,16 +100,23 @@ def parse_json(text):
 def esc(s):
     return html.escape(str(s), quote=False)
 
-def render_items(items):
-    if not items:
-        return "<li>No significant developments in this stream today.</li>"
+def render_signals(signals):
+    if not signals:
+        return "<li>Сьогодні без помітних сигналів.</li>"
+    sig = sorted(signals, key=lambda s: IMP_ORDER.get(s.get("importance", "low"), 2))
     out = []
-    for it in items:
-        url = it.get("url", "")
+    for s in sig:
+        cls = IMP_CLASS.get(s.get("importance", "low"), "imp-low")
+        url = s.get("url", "")
         link = f' <a href="{esc(url)}" target="_blank">↗</a>' if url else ""
+        theme = esc(s.get("theme", ""))
+        stream = esc(s.get("stream", ""))
         out.append(
-            f'<li><b>{esc(it.get("source",""))} — {esc(it.get("title",""))}</b>{link}'
-            f'<span class="why">{esc(it.get("why",""))}</span></li>'
+            f'<li class="sig"><span class="dot {cls}"></span><div class="sig-body">'
+            f'<div class="sig-head"><b>{esc(s.get("source",""))} — {esc(s.get("title",""))}</b>{link}</div>'
+            f'<div class="meta"><span class="chip">{theme}</span>'
+            f'<span class="chip ghost">{stream}</span></div>'
+            f'<span class="why">{esc(s.get("why",""))}</span></div></li>'
         )
     return "".join(out)
 
@@ -96,36 +126,55 @@ def render_bars(bars):
     out = []
     for b in bars:
         n = max(0, int(b.get("n", 0)))
-        pct = int(100 * n / top)
         out.append(
             f'<div class="bar"><span>{esc(b.get("label",""))}</span>'
-            f'<span class="track"><span class="fill" style="width:{pct}%"></span></span>'
+            f'<span class="track"><span class="fill" style="width:{int(100*n/top)}%"></span></span>'
             f'<span class="n">{n}</span></div>'
         )
     return "".join(out)
+
+def render_list(items, empty="—"):
+    if not items:
+        return f"<li>{empty}</li>"
+    return "".join(f"<li>{esc(x)}</li>" for x in items)
 
 def render_sources(sources):
     if not sources:
         return "—"
     return "".join(
-        f'<a href="{esc(s.get("url",""))}" target="_blank">{esc(s.get("label","source"))}</a>'
+        f'<a href="{esc(s.get("url",""))}" target="_blank">{esc(s.get("label","джерело"))}</a>'
         for s in sources
+    )
+
+def render_regions(regions):
+    if not regions:
+        return '<div class="reg"><b>—</b><span>—</span></div>'
+    return "".join(
+        f'<div class="reg"><b>{esc(r.get("region",""))}</b>'
+        f'<span>{esc(r.get("note",""))}</span></div>'
+        for r in regions
     )
 
 def main():
     today = dt.date.today().isoformat()
-    today_human = dt.date.today().strftime("%A, %d %B %Y")
-    prev = previous_date()
+    today_human = dt.date.today().strftime("%d.%m.%Y")
     watchlist = read(SOURCES)
+    hist = history()
 
-    raw = ask_gemini(watchlist, today, prev)
+    raw = ask_gemini(watchlist, today, hist)
     try:
         data = parse_json(raw)
     except Exception as e:
-        print(f"JSON parse failed ({e}); writing raw fallback.")
-        data = {"tldr": "Automated parse failed — raw model output below.",
-                "bars": [], "stream_a": [{"source": "raw", "title": raw[:400], "why": "", "url": ""}],
-                "stream_b": [], "changed": "", "conclusions": [], "sources": []}
+        print(f"JSON parse failed ({e}); raw fallback.")
+        data = {"tldr": "Автоматичний розбір не вдався — нижче сирий вивід.",
+                "bars": [], "signals": [{"importance": "low", "theme": "—", "stream": "—",
+                "source": "raw", "title": raw[:300], "why": "", "url": ""}],
+                "trends": [], "changed": "", "bizdev": [], "watch_next": [], "sources": []}
+
+    # сирий JSON — для трендів наступних днів
+    os.makedirs(DIGEST_DIR, exist_ok=True)
+    with open(os.path.join(DIGEST_DIR, f"{today}.json"), "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)
 
     page = read(TEMPLATE)
     repl = {
@@ -133,21 +182,21 @@ def main():
         "{{DATE_HUMAN}}": today_human,
         "{{TLDR}}": esc(data.get("tldr", "")),
         "{{BARS}}": render_bars(data.get("bars", [])),
-        "{{STREAM_A}}": render_items(data.get("stream_a", [])),
-        "{{STREAM_B}}": render_items(data.get("stream_b", [])),
-        "{{CHANGED}}": esc(data.get("changed", "")) or "First brief — no prior baseline.",
-        "{{CONCLUSIONS}}": "".join(f"<li>{esc(c)}</li>" for c in data.get("conclusions", [])) or "<li>—</li>",
+        "{{SIGNALS}}": render_signals(data.get("signals", [])),
+        "{{TRENDS}}": render_list(data.get("trends", [])),
+        "{{REGIONS}}": render_regions(data.get("regions", [])),
+        "{{CHANGED}}": esc(data.get("changed", "")) or "Перший бриф — бази для порівняння ще нема.",
+        "{{BIZDEV}}": render_list(data.get("bizdev", [])),
+        "{{WATCH}}": render_list(data.get("watch_next", [])),
         "{{SOURCES}}": render_sources(data.get("sources", [])),
         "{{GENERATED_AT}}": dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
     }
     for k, v in repl.items():
         page = page.replace(k, v)
 
-    os.makedirs(DIGEST_DIR, exist_ok=True)
-    out = os.path.join(DIGEST_DIR, f"{today}.html")
-    with open(out, "w", encoding="utf-8") as f:
+    with open(os.path.join(DIGEST_DIR, f"{today}.html"), "w", encoding="utf-8") as f:
         f.write(page)
-    print(f"wrote {out}")
+    print(f"wrote digests/{today}.html and .json")
 
 if __name__ == "__main__":
     main()

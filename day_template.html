@@ -1,74 +1,102 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Market Brief — {{DATE_ISO}}</title>
+<title>Бриф відеодистрибуції — {{DATE_ISO}}</title>
 <style>
   :root{
     --bg:#0f1216; --card:#171b21; --line:#262c35; --ink:#e8ecf1;
     --mut:#9aa6b2; --accent:#5b9dff; --accent2:#7ee0c0; --warn:#f0b86e;
+    --hi:#f3705a; --md:#f0b86e; --lo:#6b7682;
   }
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
     font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
   .wrap{max-width:820px;margin:0 auto;padding:32px 20px 64px}
   .top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;
-    border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:24px}
-  .top h1{font-size:20px;margin:0;letter-spacing:.2px}
+    border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:22px}
+  .top h1{font-size:19px;margin:0;letter-spacing:.2px}
   .top .date{color:var(--mut);font-size:14px}
-  a.back{color:var(--accent);text-decoration:none;font-size:14px}
-  h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mut);
-    margin:28px 0 12px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px}
+  a.back{color:var(--accent);text-decoration:none;font-size:14px;white-space:nowrap}
+  h2{font-size:12px;text-transform:uppercase;letter-spacing:.09em;color:var(--mut);margin:26px 0 11px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
   .tldr{font-size:17px;line-height:1.5}
-  ul{margin:0;padding-left:18px}
-  li{margin:10px 0}
-  li b{color:var(--ink)}
-  .why{color:var(--mut);font-size:14px;display:block;margin-top:2px}
+  ul{margin:0;padding-left:0;list-style:none}
+  ul.plain{padding-left:18px;list-style:disc}
+  ul.plain li{margin:8px 0}
   a{color:var(--accent)}
-  .bars{display:flex;flex-direction:column;gap:10px}
-  .bar{display:grid;grid-template-columns:150px 1fr 40px;align-items:center;gap:10px;font-size:14px}
-  .bar .track{height:10px;background:#222a33;border-radius:6px;overflow:hidden}
+  li.sig{display:flex;gap:11px;margin:13px 0;align-items:flex-start}
+  li.sig:first-child{margin-top:0}
+  .dot{width:9px;height:9px;border-radius:50%;margin-top:7px;flex:0 0 9px}
+  .imp-high{background:var(--hi)} .imp-med{background:var(--md)} .imp-low{background:var(--lo)}
+  .sig-body{flex:1}
+  .sig-head b{color:var(--ink)}
+  .meta{margin:3px 0 2px}
+  .chip{display:inline-block;font-size:11px;color:var(--accent2);border:1px solid #2f5d50;
+    border-radius:20px;padding:1px 9px;margin-right:6px}
+  .chip.ghost{color:var(--mut);border-color:var(--line)}
+  .why{color:var(--mut);font-size:14px;display:block;margin-top:2px}
+  .bars{display:flex;flex-direction:column;gap:9px}
+  .bar{display:grid;grid-template-columns:130px 1fr 36px;align-items:center;gap:10px;font-size:14px}
+  .bar .track{height:9px;background:#222a33;border-radius:6px;overflow:hidden}
   .bar .fill{height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2))}
   .bar .n{color:var(--mut);text-align:right}
   .verify{color:var(--warn)}
-  .foot{color:var(--mut);font-size:12px;margin-top:32px;border-top:1px solid var(--line);padding-top:14px}
+  .legend{font-size:12px;color:var(--mut);margin-top:8px}
+  .legend .dot{display:inline-block;vertical-align:middle;margin:0 4px 0 10px}
+  .foot{color:var(--mut);font-size:12px;margin-top:30px;border-top:1px solid var(--line);padding-top:14px}
   .sources{font-size:13px;color:var(--mut)}
   .sources a{display:inline-block;margin:2px 8px 2px 0}
+  .regions{display:flex;flex-direction:column;gap:7px}
+  .reg{display:grid;grid-template-columns:62px 1fr;gap:10px;font-size:14px}
+  .reg b{color:var(--ink)} .reg span{color:var(--mut)}
 </style>
 </head>
 <body>
 <div class="wrap">
   <div class="top">
     <div>
-      <h1>Video-Distribution Market Brief</h1>
+      <h1>Бриф ринку відеодистрибуції</h1>
       <div class="date">{{DATE_HUMAN}}</div>
     </div>
-    <a class="back" href="../index.html">← calendar</a>
+    <a class="back" href="../index.html">← календар</a>
   </div>
 
   <div class="card tldr">{{TLDR}}</div>
 
-  <h2>At a glance</h2>
-  <div class="card"><div class="bars">{{BARS}}</div></div>
+  <h2>За темами</h2>
+  <div class="card">
+    <div class="bars">{{BARS}}</div>
+    <div class="legend">Важливість:
+      <span class="dot imp-high"></span>ключове
+      <span class="dot imp-med"></span>варто знати
+      <span class="dot imp-low"></span>фон
+    </div>
+  </div>
 
-  <h2>Stream A — competitors &amp; distribution</h2>
-  <div class="card"><ul>{{STREAM_A}}</ul></div>
+  <h2>За регіонами</h2>
+  <div class="card"><div class="regions">{{REGIONS}}</div></div>
 
-  <h2>Stream B — platforms &amp; algorithms</h2>
-  <div class="card"><ul>{{STREAM_B}}</ul></div>
+  <h2>Сигнали дня</h2>
+  <div class="card"><ul>{{SIGNALS}}</ul></div>
 
-  <h2>What changed since last brief</h2>
+  <h2>Тренди й тенденції</h2>
+  <div class="card"><ul class="plain">{{TRENDS}}</ul></div>
+
+  <h2>Що змінилось</h2>
   <div class="card">{{CHANGED}}</div>
 
-  <h2>So what — for Holywater BizDev</h2>
-  <div class="card"><ul>{{CONCLUSIONS}}</ul></div>
+  <h2>Можливості та дії для BizDev</h2>
+  <div class="card"><ul class="plain">{{BIZDEV}}</ul></div>
 
-  <h2>Sources</h2>
+  <h2>На що дивитись далі</h2>
+  <div class="card"><ul class="plain">{{WATCH}}</ul></div>
+
+  <h2>Джерела</h2>
   <div class="card sources">{{SOURCES}}</div>
 
-  <div class="foot">Generated {{GENERATED_AT}} · AIR Media-Tech excluded from analysis · unverified items tagged <span class="verify">[VERIFY]</span></div>
+  <div class="foot">Згенеровано {{GENERATED_AT}} · AIR Media-Tech виключено з аналізу · неперевірене позначено <span class="verify">[VERIFY]</span></div>
 </div>
 </body>
 </html>
