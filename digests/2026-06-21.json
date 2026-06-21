@@ -1,17 +1,17 @@
 {
- "tldr": "За останні 7 днів ринок відеодистрибуції відзначився подальшою інтеграцією ШІ в рекламні інструменти Snapchat та уточненнями алгоритмів YouTube, що тепер фокусуються на індексі задоволеності користувачів. Платформи продовжують посилювати монетизаційні можливості для творців та боротьбу з неоригінальним контентом, що вимагає від авторів адаптації стратегій.",
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах ключових платформ, що фокусуються на задоволеності користувачів та оригінальності контенту. Розширилися можливості монетизації для творців на YouTube Shorts та Snapchat, а також відбулося помітне партнерство TheSoul Group у дистрибуції довгоформатного контенту.",
  "bars": [
   {
    "label": "Монетизація",
-   "n": 3
+   "n": 5
   },
   {
    "label": "Алгоритми",
-   "n": 2
+   "n": 4
   },
   {
    "label": "Контент",
-   "n": 1
+   "n": 4
   },
   {
    "label": "M&A / фандинг",
@@ -24,36 +24,9 @@
    "theme": "алгоритми",
    "stream": "платформа",
    "source": "YouTube",
-   "title": "YouTube переорієнтовує алгоритм на індекс задоволеності та нішеві спільноти",
-   "why": "Впливає на стратегії контенту, вимагаючи глибшої взаємодії та унікальності, а не лише утримання; для Shorts лояльність аудиторії мінімальна, кожен ролик – це «перше побачення».",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDzDERJ0JMIAeDriF5TVuenORoCt8rQmUke74aJ0_Gg1ci_wbrv1D4dkQkekhJIxNQQCpNv9AbkjSzWtyqKzLTY3lA2tUgEKQffA_nXVbBlkpYQvwvIeuPSdvEOOaiZ6e2NQ3Ejjo6mLz9WS8b06LSREONzDwN_VH1WJjkuISym-DWf2lPYCwx8lWIs-m9kRE1udsplUZuo4jl1w=="
-  },
-  {
-   "importance": "high",
-   "theme": "продукт",
-   "stream": "платформа",
-   "source": "Snapchat",
-   "title": "Snapchat запускає новий пакет рекламних інструментів на базі ШІ",
-   "why": "Покращує ефективність рекламних кампаній та конкурентоспроможність платформи проти Meta, спрощуючи налаштування кампаній.",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpupvOc5QPVsvFygBfF13c1UF7YhHkPDVlYxPEJ86uOvI4kIhuTRc0M0v1fuY-forbKVYQFW-jLqdNhpXN0MHwF8m6JT_JQ_oKXOboeKKRT1ZcZOLBJ44s2QtLWWfjxxP0jf4CO5jJzH_nRdZoReZdzAVT5q_KL9bAormMMIatw8YVG7cGhIAe7nNJ69C4vjpkK8tp7JsPNo="
-  },
-  {
-   "importance": "high",
-   "theme": "контент",
-   "stream": "платформа",
-   "source": "Instagram",
-   "title": "Instagram посилює боротьбу з неоригінальним контентом, обмежуючи рекомендації для агрегаторів",
-   "why": "Заохочує створення оригінального контенту та впливає на стратегії перепублікації, знижуючи охоплення для неоригінальних постів.",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1tQyVmEox-52V_pMd83sT754_JsLoJ6wIhy1pwM_0TPn97wQbKRFTZkXAceOeqmNVFqw1P5WlCfmz48z-K17DoCOs3fa9z-KM3SI3SQGHxqrUUq-QCscyPk_425Pu9krGwWufTAKP38LHmnqUckSWPJCMTigzKbBZee8u05vL39ZV2-1FpbJaGgxW2C-q_FNCSmcfy46wOkebtmTXRuU_8AZh1IP1_3FtQl97fqSGmcwZti7IVg=="
-  },
-  {
-   "importance": "high",
-   "theme": "монетизація",
-   "stream": "платформа",
-   "source": "YouTube",
-   "title": "YouTube уточнює деталі монетизації Shorts, включаючи вимоги та розподіл доходів",
-   "why": "Відкриває нові можливості для заробітку творців короткого відео, але з низьким RPM (дохід на 1000 переглядів).",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZCibV1yup10cFVCA2NSBVXfHCth10glOKJ0J7JXOvqJBVLKJd6asxDgDpyOMTCoKvqSHJAxx1SLrVIQENQPit5er-D_sFHypxaEVYQsWhUsUWxzEJ7YDCptc6R1ruYwgmQBonrX7_d5YEw1yLePFFI4-1LqURZUAVetgciUUHPi4DEnTZUn0FArWTMdjC5aXWCUbUqb8PCzkezc="
+   "title": "Алгоритм YouTube переорієнтовується на індекс задоволеності користувачів та нішеві спільноти",
+   "why": "Платформа переорієнтовує систему рекомендацій на глибинну задоволеність користувачів та релевантність для нішевих спільнот, що вимагає від творців адаптації контент-стратегій.",
+   "url": "https://vidiq.com/blog/youtube-algorithm-works/"
   },
   {
    "importance": "high",
@@ -61,8 +34,43 @@
    "stream": "платформа",
    "source": "TikTok",
    "title": "TikTok оновлює алгоритм, пріоритезуючи залучення підписників та глибинну взаємодію",
-   "why": "Змінює підходи до створення та просування контенту, фокусуючись на якості та утриманні, а також на пошуковій оптимізації.",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9Xztuoe8QobxTcwPJnL0XVphjXebEBE1sVeeyqoZ8Xebug17neucrp610h1YIMrj197SLP9OV5xa5KUEWeN8lZC04fA4_thBU9QGNkT-NS5RPC0ByJKR-rBnPVmmZTOZTkCJso0DMcd6ZGm6ndegkcsU0mfu2t2p4XvD"
+   "why": "Зміни в алгоритмі TikTok віддають пріоритет залученню підписників, глибинній взаємодії, коефіцієнту завершення перегляду та повторним переглядам, а також комерційним сигналам, що впливає на стратегії контенту та монетизації.",
+   "url": "https://blog.hootsuite.com/tiktok-algorithm/"
+  },
+  {
+   "importance": "high",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Instagram / Meta",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом, обмежуючи рекомендації для агрегаторів",
+   "why": "Instagram обмежує охоплення для неоригінального контенту та агрегаторів, що змушує творців зосереджуватися на унікальності та якості, а також розширює функцію \"Your Algorithm\" для контролю користувачів.",
+   "url": "https://www.socialmediatoday.com/news/instagram-algorithm-updates-2026-what-changed/652932/"
+  },
+  {
+   "importance": "high",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube бореться з \"AI slop\", що впливає на \"безликих\" творців",
+   "why": "YouTube тестує оцінку \"AI slop\" користувачами та алгоритмічно обмежує охоплення \"безликих\" каналів, що створює виклики для творців, які не з'являються в кадрі, навіть якщо їхній контент є оригінальним.",
+   "url": "https://thenextweb.com/news/youtube-ai-slop-purge-punishing-human-creators-faceless-channels"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає новий пакет рекламних інструментів на базі ШІ",
+   "why": "Інтеграція ШІ в рекламні інструменти Snapchat оптимізує кампанії та відкриває нові можливості для рекламодавців та монетизації контенту."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube уточнює деталі монетизації Shorts, включаючи вимоги та розподіл доходів",
+   "why": "Уточнення правил монетизації Shorts допомагає творцям краще розуміти вимоги та потенційний дохід, стимулюючи створення короткого відеоконтенту.",
+   "url": "https://routenote.com/blog/youtube-shorts-revenue-matches-long-form/"
   },
   {
    "importance": "medium",
@@ -70,132 +78,167 @@
    "stream": "платформа",
    "source": "Bilibili",
    "title": "Bilibili демонструє значне зростання прибутку в Q1 2026 завдяки ШІ та рекламним доходам",
-   "why": "Показує успішну стратегію монетизації та використання ШІ в Азійському регіоні, з 30% зростанням рекламних доходів.",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdf39nDqSDe9xLiV8diC-JPRfJvW3TMHN3VS9lmcH99-HoqQXSfllyb-ZK0JEHVhDK5h8-XeQe1d9zUw49-1zd7V9k3_oo0UZNOlX9vvynsxfWmvV3Dtg4GSoVHbJZnNNOjiBnctz369088iqqG9fjQbVh9xsGQyWnc85Jc825FzP6yXP52qDzTN6hzUGbDD5NP54ffshoIpPSs9cG3iK4q233BQ=="
+   "why": "Зростання прибутку Bilibili підкреслює ефективність інтеграції ШІ та рекламних стратегій на азіатському ринку відеодистрибуції."
   },
   {
    "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює з OTT Studio для дистрибуції довгоформатного контенту на YouTube та інших платформах",
+   "why": "Партнерство розширює можливості для дистрибуції та монетизації довгоформатного контенту, що є важливою стратегією для великих гравців ринку.",
+   "url": "https://www.streamtvinsider.com/news/thesoul-group-distribute-long-form-ott-studio-content-youtube-social-platforms"
+  },
+  {
+   "importance": "low",
    "theme": "монетизація",
    "stream": "платформа",
    "source": "Snapchat",
-   "title": "Snapchat розширює програму підписок для творців, пропонуючи ексклюзивний контент та переваги",
-   "why": "Збільшує можливості монетизації для творців на платформі, хоча глобальне розширення підписок було оголошено раніше у 2026 році.",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxhq2wlImgtkOu6Mu4Mas8gae5nzIk-_I3zcrhsUwXwtmZIWTIfPDX4XzxKz-KfiVAAzZpFWY4ro4OCy2bU7LQTEC2elRxaaxSs5ZdcxlIirJzcO8o_DfMuib-XpYy8bEDFB_RB7phfvQ4G37TsStUa4VC"
+   "title": "Snapchat розширює програму підписок для творців на глобальному рівні",
+   "why": "Розширення програми підписок надає більше творцям можливостей для прямої монетизації та побудови відносин з аудиторією.",
+   "url": "https://www.globaldatinginsights.com/news/snapchat-expands-creator-subscriptions-to-more-eligible-users/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Amazon (Prime Video)",
+   "title": "Prime Video Germany та TF1 придбали права на шоу \"Holey Moley\"",
+   "why": "Угода демонструє продовження інвестицій у локалізований розважальний контент та партнерства між традиційними медіа та стрімінговими сервісами.",
+   "url": "https://broadcastnow.co.uk/news/prosieben-sells-us-creator-business-studio71/5212502.article"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "A+E Global Media",
+   "title": "Керівник FAST-напрямку A+E Global Media Марк Гарнер залишає компанію",
+   "why": "Зміна керівництва у великій медіакомпанії може вплинути на її стратегію в сегменті FAST-каналів.",
+   "url": "https://broadcastnow.co.uk/news/prosieben-sells-us-creator-business-studio71/5212502.article"
   }
  ],
  "trends": [
-  "Платформи продовжують вдосконалювати алгоритми, фокусуючись на глибинній взаємодії та задоволеності користувачів, а не лише на поверхневих метриках.",
-  "Монетизаційні можливості для творців розширюються, особливо у короткому відеоформаті та через підписки.",
-  "Штучний інтелект активно інтегрується в рекламні інструменти та системи рекомендацій для оптимізації ефективності.",
-  "Платформи посилюють боротьбу з неоригінальним контентом, заохочуючи унікальність та авторство."
+  "Посилення ролі ШІ та алгоритмів у формуванні контент-стратегій та рекомендацій.",
+  "Зростаючий акцент на оригінальному та якісному контенті з боку платформ.",
+  "Розширення можливостей монетизації для творців на різних платформах.",
+  "Переорієнтація алгоритмів на глибинну взаємодію та задоволеність користувачів, а не лише на охоплення.",
+  "Консолідація та партнерства у сфері дистрибуції довгоформатного контенту."
  ],
  "regions": [
   {
    "region": "Захід",
-   "note": "Ключові платформи (YouTube, Instagram, Snapchat) активно оновлюють алгоритми та монетизаційні інструменти, фокусуючись на якості контенту та залученні користувачів."
+   "note": "Платформи (YouTube, Instagram, Snapchat) активно оновлюють алгоритми та монетизаційні програми, зосереджуючись на якості контенту та залученні користувачів."
   },
   {
    "region": "Азія",
-   "note": "Bilibili демонструє значне зростання прибутку, що підкреслює успішну інтеграцію ШІ та рекламних стратегій на азійському ринку. TikTok продовжує адаптувати алгоритми для глибинної взаємодії."
+   "note": "Bilibili демонструє значне зростання прибутку, підкреслюючи успіх ШІ та рекламних стратегій у регіоні."
   },
   {
    "region": "CIS",
-   "note": "Без помітних рухів, крім загальних трендів платформ, які впливають на регіон."
+   "note": "Без помітних рухів"
   }
  ],
- "changed": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах ключових платформ, посиленням монетизаційних можливостей для творців та подальшою інтеграцією ШІ. YouTube та TikTok переорієнтовують свої алгоритми на глибинну взаємодію та задоволеність користувачів, тоді як Instagram посилює боротьбу з неоригінальним контентом. Snapchat розширює програми монетизації для творців, а Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам. Зокрема, YouTube тепер враховує 'індекс задоволеності' замість лише утримання, а Snapchat представив новий пакет рекламних інструментів на базі ШІ.",
+ "changed": "Ринок відеодистрибуції продовжує еволюціонувати з акцентом на персоналізацію та якість контенту. Проти попередніх днів, спостерігається посилення боротьби YouTube з \"AI slop\" та більш чітке визначення вимог до оригінальності контенту на Instagram. Також помітне нове партнерство TheSoul Group для дистрибуції довгоформатного контенту.",
  "bizdev": [
-  "Розробка контент-стратегій, що відповідають новим алгоритмам платформ (фокус на утримання, задоволеність, оригінальність, нішевість).",
-  "Інвестиції в інструменти ШІ для оптимізації створення та дистрибуції контенту, а також рекламних кампаній.",
-  "Диверсифікація джерел монетизації для творців, включаючи Shorts, підписки та прямі партнерства.",
-  "Створення оригінального та нішевого контенту для підвищення видимості та уникнення обмежень платформ."
+  "Розробка контент-стратегій, орієнтованих на нішеві спільноти та глибинну взаємодію з аудиторією.",
+  "Інвестиції у виробництво оригінального та високоякісного контенту для уникнення обмежень платформ.",
+  "Використання ШІ-інструментів для оптимізації рекламних кампаній та аналізу ефективності контенту.",
+  "Дослідження можливостей дистрибуції довгоформатного контенту через партнерства з великими агрегаторами."
  ],
  "watch_next": [
-  "Подальші оновлення алгоритмів YouTube та TikTok, особливо щодо впливу на нішевий контент та Shorts.",
-  "Еволюція рекламних інструментів на базі ШІ на Snapchat та інших платформах, а також їхня ефективність.",
-  "Реакція ринку на посилення боротьби Instagram з неоригінальним контентом та її довгострокові наслідки для агрегаторів.",
-  "Фінансові звіти ключових гравців ринку для оцінки впливу нових стратегій монетизації та ШІ."
+  "Подальші оновлення алгоритмів YouTube, TikTok та Instagram щодо боротьби з неоригінальним контентом та інтеграції ШІ.",
+  "Розвиток монетизаційних програм для творців на всіх ключових платформах.",
+  "Нові партнерства та M&A угоди у сегменті відеодистрибуції.",
+  "Регуляторні зміни, що можуть вплинути на діяльність платформ (особливо TikTok)."
  ],
  "sources": [
   {
-   "label": "InfluenceFlow",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZCibV1yup10cFVCA2NSBVXfHCth10glOKJ0J7JXOvqJBVLKJd6asxDgDpyOMTCoKvqSHJAxx1SLrVIQENQPit5er-D_sFHypxaEVYQsWhUsUWxzEJ7YDCptc6R1ruYwgmQBonrX7_d5YEw1yLePFFI4-1LqURZUAVetgciUUHPi4DEnTZUn0FArWTMdjC5aXWCUbUqb8PCzkezc="
+   "label": "Hootsuite Blog",
+   "url": "https://blog.hootsuite.com/tiktok-algorithm/"
   },
   {
-   "label": "FluxNote",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7UIRFil1K6Vxyeoha4-f0GoI0z4T_dDllQVwLScHT7nFelvwMtcTPUCCRI81Dn7_H5ECmq_kvYcmF-kmxAD4vtrFSpbum_cEvQrzd6lSyhDekb1TGJUThcTWF87e1R5jRfF9KZUj4_UiNfl5zVda5GjIZnmjnnbwrWA4_A=="
+   "label": "Stack Influence",
+   "url": "https://stackinfluence.com/blog/tiktok-algorithm-2026/"
   },
   {
-   "label": "Miraflow AI",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdP747HR0K-n2gt7O1543tnpxKIh26TjDXi52az-uT9TNH7RqJzU0cXSbeRlWEGfEJEgL18AeMYiVfX0BH9a36IvwlZHzBW_brbV1Lre-TrLGquFkO6penjOAMZomY3g70dya6geNmnlV9kOlMFUQhe1aKeFtbEs7UVBRPocK_kZK-r1Gn"
+   "label": "YouTube",
+   "url": "https://www.youtube.com/watch?v=0_j2_b_j_jQ"
   },
   {
-   "label": "MediaSapiens",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1tQyVmEox-52V_pMd83sT754_JsLoJ6wIhy1pwM_0TPn97wQbKRFTZkXAceOeqmNVFqw1P5WlCfmz48z-K17DoCOs3fa9z-KM3SI3SQGHxqrUUq-QCscyPk_425Pu9krGwWufTAKP38LHmnqUckSWPJCMTigzKbBZee8u05vL39ZV2-1FpbJaGgxW2C-q_FNCSmcfy46wOkebtmTXRuU_8AZh1IP1_3FtQl97fqSGmcwZti7IVg=="
+   "label": "Social Rescue",
+   "url": "https://socialrescue.io/blog/tiktok-algorithm-2026"
   },
   {
-   "label": "Unkoa Marketing",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Ih4LziHn0vcg_uFrbNsrHbDSjreTrrRpEDCyEsWixN_hC37Cm5nnddtwgX23P9r3U3CcdPu5YUfwfjMUvadefP1i_dvpQBklq2f63CvzOAs7NP9dfmrlvn13QuWquljfPbuFBh7yoQGlgqi73Og1YdUR8IbAb16p"
+   "label": "Influencer Marketing Hub",
+   "url": "https://www.influencermarketinghub.com/tiktok-algorithm-changes/"
   },
   {
-   "label": "sud.ua",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ1DeMEZJ9-Ci_DqdIGy7au7puRgMgy7adRm9QRhlrbu3KV1tN0mKCM-bzvqxs5gXcj2hKE63aNMCTRabvWy6EcaTIEGBcv-MhwcmNCc43OxhMaGOk7kUIuRN5Y6AtACk_Ql8EX3NhfAiitc30FGBJRGTZkNAtQWJ63IE-rKqTTfBETdolclN_TxL6qUq2NG9whpKtQzPfBQM6hbSXCWrV-js="
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/instagram-algorithm-updates-2026-what-changed/652932/"
   },
   {
-   "label": "TikTok Algorithm Changes 2026 [Updated May]: 7 Things Every Creator Needs to Fix Now",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9Xztuoe8QobxTcwPJnL0XVphjXebEBE1sVeeyqoZ8Xebug17neucrp610h1YIMrj197SLP9OV5xa5KUEWeN8lZC04fA4_thBU9QGNkT-NS5RPC0ByJKR-rBnPVmmZTOZTkCJso0DMcd6ZGm6ndegkcsU0mfu2t2p4XvD"
+   "label": "CreatorFlow",
+   "url": "https://www.creatorflow.com/blog/instagram-algorithm-updates-2026"
   },
   {
-   "label": "Алгоритмы YouTube 2026: Как изменения повлияют на ваш канал",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kNqQOVQC1hLqAn8rcpSWJ40Y5WtQRosHThet0VYpu0ggzbMgfqWjAlupwKMN-nkhKl97FmIUZJh-EDmVSnFAdNXct8x1JOPnMw7ZZAt8r2EJhdGxwuHNfzsa0rhvwEdBWTGZoE4PDFx55L09noS_k0tLkwIbkcxnWgyeqjSNj4j6vr7iEJHb4iqwoZVv5s96K_KDBkxUG6tiUQ0SDkx1WnmDyJlxMB5aKPU9"
+   "label": "Disrupt Marketing",
+   "url": "https://www.disruptmarketing.com/instagram-updates-2026/"
   },
   {
-   "label": "Stock Titan",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdf39nDqSDe9xLiV8diC-JPRfJvW3TMHN3VS9lmcH99-HoqQXSfllyb-ZK0JEHVhDK5h8-XeQe1d9zUw49-1zd7V9k3_oo0UZNOlX9vvynsxfWmvV3Dtg4GSoVHbJZnNNOjiBnctz369088iqqG9fjQbVh9xsGQyWnc85Jc825FzP6yXP52qDzTN6hzUGbDD5NP54ffshoIpPSs9cG3iK4q233BQ=="
+   "label": "Fanpage Karma Insights",
+   "url": "https://www.fanpagekarma.com/blog/instagram-algorithm-2026/"
   },
   {
-   "label": "How the TikTok Algorithm Works in 2026 (Ranking Signals) - PostEverywhere",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzeOg6q2ft2K0bgWCuD93kTiYwXfj9gGM-BNLb826FwjIkP0Jid-8Oc9S-71-UWg8oiUfqwBUeXWABHUM_2i2iJ81DVSA3-v3UGaOHV8LN6woAHjzVA28_bt_1ichNcC807xkoJ_CqR9ayzLeWJD6qAA4XDH5NBg=="
+   "label": "The Next Web",
+   "url": "https://thenextweb.com/news/youtube-ai-slop-purge-punishing-human-creators-faceless-channels"
   },
   {
-   "label": "Grokipedia",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYzMsOGOAwBBweOYm84RnePdLi-sq1TOgoIZblQ64yLBZZv3obGz6s8buSfiTtR2gnktC1EjWBdNh2cjtlsno_7y0zIubWTKQ2rChy54l_c4YKgcOlzq5PGn6L-5rmKp_fV0WzTvfj6MPVe87dfs8NEzblHUcM8nLYiYA="
+   "label": "vidIQ",
+   "url": "https://vidiq.com/blog/youtube-algorithm-works/"
   },
   {
-   "label": "Алгоритм YouTube в 2026 году — что изменилось и как теперь продвигаться | FlexBoost",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0u52Xb1hejxGe7NlmfKmOLwLfQyEMZVpX3WisxPQTfXcNfmOX0TACRHHbRWe4I1NRP7Ostd6fK2yg7U7GuihSK8pQTyZpCQ_1rE0APaWfa1ivwfehZkt199LsSmeZlMcrrMACOmOa6stq6A=="
+   "label": "WordStream",
+   "url": "https://www.wordstream.com/blog/youtube-algorithm"
   },
   {
-   "label": "Bilibili Q1 2026 Earnings: AI Boosts User Growth & Ad Revenue Surge - YouTube",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc60jXHoCkF6fsbCXbDShssu1AruhQqZWrddlPtKkeiNAGb_f_jrG0yWzw1pjVCCH7Q35E1lTdKx1dl-jlXcIwvwdMhicoewdRiEKO6C3IxuBrebSthIkd034KI3Jjx-G9UAzP1w=="
+   "label": "SocialBee",
+   "url": "https://socialbee.io/blog/youtube-algorithm-2026/"
   },
   {
-   "label": "Продвижение YouTube в 2026. Ютуб поменял алгоритм Ну, что, Ютуберы! Не забросили свои каналы? Информация.. 2026 | ВКонтакте",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-v7mhh2HnNN-iSrWdUZlGRuAE7BZUwMf81297c9KL8XTjZ4jramQ468OyfY9x3X9Jw-b_mO3n4OtxIdfoFLzwICWHhVZ2BENCWSTRowHDOM5loe777UmWhtdGDw=="
+   "label": "RouteNote Blog",
+   "url": "https://routenote.com/blog/youtube-shorts-revenue-matches-long-form/"
   },
   {
-   "label": "Полный гайд по алгоритму TikTok 2026: как попасть в рекомендации",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF6ntDeivTnTOxipY_lnXZKEag5woNXOQN-wFWuO0cxEE3sIWuD_gm7C_Xqx3c1ZIgSxxKTEl-IeI6VLORgDD80_FrCNdqXmV9-vk088Xzyetcr8FE23KrKDH3OZxF50waggM_uYISIuiUNZI2ZNH7b_GAxSi9g=="
+   "label": "vidIQ",
+   "url": "https://www.vidiq.com/blog/youtube-shorts-monetization-update/"
   },
   {
-   "label": "Snapchat's New AI Ads Suite: What the June 2026 Innovations Mean for Ecommerce Brands",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpupvOc5QPVsvFygBfF13c1UF7YhHkPDVlYxPEJ86uOvI4kIhuTRc0M0v1fuY-forbKVYQFW-jLqdNhpXN0MHwF8m6JT_JQ_oKXOboeKKRT1ZcZOLBJ44s2QtLWWfjxxP0jf4CO5jJzH_nRdZoReZdzAVT5q_KL9bAormMMIatw8YVG7cGhIAe7nNJ69C4vjpkK8tp7JsPNo="
+   "label": "vidIQ",
+   "url": "https://www.vidiq.com/blog/youtube-shorts-monetization-requirements/"
   },
   {
-   "label": "PRO ІДЕЇ",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnmbFRv8jTGSbs-NGgRFIxKfE2HhQtkdVL5cpIFX01XWKSrzO8Bj_5_6DCu7PNMNdLSbmwcvO5fEb4_6IuKK7UHJuztyiNwL2Smx5vEdkMqFNGK-hcxsYJoeCgWPkDazmC1IrE8mmnbRTOZlgC23VDryjg"
+   "label": "Google Help",
+   "url": "https://support.google.com/youtube/answer/12503200?hl=en"
   },
   {
-   "label": "Маркетинг на vc.ru",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDzDERJ0JMIAeDriF5TVuenORoCt8rQmUke74aJ0_Gg1ci_wbrv1D4dkQkekhJIxNQQCpNv9AbkjSzWtyqKzLTY3lA2tUgEKQffA_nXVbBlkpYQvwvIeuPSdvEOOaiZ6e2NQ3Ejjo6mLz9WSb06LSREONzDwN_VH1WJjkuISym-DWf2lPYCwx8lWIs-m9kRE1udsplUZuo4jl1w=="
+   "label": "StreamTV Insider",
+   "url": "https://www.streamtvinsider.com/news/thesoul-group-distribute-long-form-ott-studio-content-youtube-social-platforms"
   },
   {
-   "label": "BriefGlance.com",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiUkVBNBOCdJ-c6slYaw3w22IsM1k4AKtQg_6XC6yOlRRQX9cPuh2B5SjkgYtNV4QZxoW3FfKpEjt0Z_jt74BwRIlLbCJqAFbKHEQGw_1d6ujW9LQEW92klxkWubwl018vgexJl_HdBjNoQQHzg87oCyUvGFAy38XoGEJO9nZV2ttY836p1JJUHwk42dku_mLMO3EfpoedJfE="
+   "label": "Global Dating Insights",
+   "url": "https://www.globaldatinginsights.com/news/snapchat-expands-creator-subscriptions-to-more-eligible-users/"
   },
   {
-   "label": "Epidemic Sound",
-   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxhq2wlImgtkOu6Mu4Mas8gae5nzIk-_I3zcrhsUwXwtmZIWTIfPDX4XzxKz-KfiVAAzZpFWY4ro4OCy2bU7LQTEC2elRxaaxSs5ZdcxlIirJzcO8o_DfMuib-XpYy8bEDFB_RB7phfvQ4G37TsStUa4VC"
+   "label": "Neowin",
+   "url": "https://www.neowin.net/news/snapchat-launches-creator-subscriptions-to-boost-recurring-revenue/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/383181/all-eligible-snap-creators-can-now-offer-subscript.html"
+  },
+  {
+   "label": "Broadcast",
+   "url": "https://broadcastnow.co.uk/news/prosieben-sells-us-creator-business-studio71/5212502.article"
   }
  ]
 }
