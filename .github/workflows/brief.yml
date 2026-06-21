@@ -4,7 +4,7 @@ on:
   schedule:
     # 06:00 UTC ≈ 09:00 Kyiv in summer (EEST, UTC+3).
     # In winter (EET, UTC+2) this fires at 08:00 Kyiv — see README DST note.
-    - cron: "0 6 * * *"
+    - cron: "12 6 * * *"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 permissions:
