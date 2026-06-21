@@ -1,0 +1,201 @@
+{
+ "tldr": "За останні 7 днів ринок відеодистрибуції відзначився подальшою інтеграцією ШІ в рекламні інструменти Snapchat та уточненнями алгоритмів YouTube, що тепер фокусуються на індексі задоволеності користувачів. Платформи продовжують посилювати монетизаційні можливості для творців та боротьбу з неоригінальним контентом, що вимагає від авторів адаптації стратегій.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 0
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube переорієнтовує алгоритм на індекс задоволеності та нішеві спільноти",
+   "why": "Впливає на стратегії контенту, вимагаючи глибшої взаємодії та унікальності, а не лише утримання; для Shorts лояльність аудиторії мінімальна, кожен ролик – це «перше побачення».",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDzDERJ0JMIAeDriF5TVuenORoCt8rQmUke74aJ0_Gg1ci_wbrv1D4dkQkekhJIxNQQCpNv9AbkjSzWtyqKzLTY3lA2tUgEKQffA_nXVbBlkpYQvwvIeuPSdvEOOaiZ6e2NQ3Ejjo6mLz9WS8b06LSREONzDwN_VH1WJjkuISym-DWf2lPYCwx8lWIs-m9kRE1udsplUZuo4jl1w=="
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає новий пакет рекламних інструментів на базі ШІ",
+   "why": "Покращує ефективність рекламних кампаній та конкурентоспроможність платформи проти Meta, спрощуючи налаштування кампаній.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpupvOc5QPVsvFygBfF13c1UF7YhHkPDVlYxPEJ86uOvI4kIhuTRc0M0v1fuY-forbKVYQFW-jLqdNhpXN0MHwF8m6JT_JQ_oKXOboeKKRT1ZcZOLBJ44s2QtLWWfjxxP0jf4CO5jJzH_nRdZoReZdzAVT5q_KL9bAormMMIatw8YVG7cGhIAe7nNJ69C4vjpkK8tp7JsPNo="
+  },
+  {
+   "importance": "high",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Instagram",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом, обмежуючи рекомендації для агрегаторів",
+   "why": "Заохочує створення оригінального контенту та впливає на стратегії перепублікації, знижуючи охоплення для неоригінальних постів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1tQyVmEox-52V_pMd83sT754_JsLoJ6wIhy1pwM_0TPn97wQbKRFTZkXAceOeqmNVFqw1P5WlCfmz48z-K17DoCOs3fa9z-KM3SI3SQGHxqrUUq-QCscyPk_425Pu9krGwWufTAKP38LHmnqUckSWPJCMTigzKbBZee8u05vL39ZV2-1FpbJaGgxW2C-q_FNCSmcfy46wOkebtmTXRuU_8AZh1IP1_3FtQl97fqSGmcwZti7IVg=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube уточнює деталі монетизації Shorts, включаючи вимоги та розподіл доходів",
+   "why": "Відкриває нові можливості для заробітку творців короткого відео, але з низьким RPM (дохід на 1000 переглядів).",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZCibV1yup10cFVCA2NSBVXfHCth10glOKJ0J7JXOvqJBVLKJd6asxDgDpyOMTCoKvqSHJAxx1SLrVIQENQPit5er-D_sFHypxaEVYQsWhUsUWxzEJ7YDCptc6R1ruYwgmQBonrX7_d5YEw1yLePFFI4-1LqURZUAVetgciUUHPi4DEnTZUn0FArWTMdjC5aXWCUbUqb8PCzkezc="
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм, пріоритезуючи залучення підписників та глибинну взаємодію",
+   "why": "Змінює підходи до створення та просування контенту, фокусуючись на якості та утриманні, а також на пошуковій оптимізації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9Xztuoe8QobxTcwPJnL0XVphjXebEBE1sVeeyqoZ8Xebug17neucrp610h1YIMrj197SLP9OV5xa5KUEWeN8lZC04fA4_thBU9QGNkT-NS5RPC0ByJKR-rBnPVmmZTOZTkCJso0DMcd6ZGm6ndegkcsU0mfu2t2p4XvD"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє значне зростання прибутку в Q1 2026 завдяки ШІ та рекламним доходам",
+   "why": "Показує успішну стратегію монетизації та використання ШІ в Азійському регіоні, з 30% зростанням рекламних доходів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdf39nDqSDe9xLiV8diC-JPRfJvW3TMHN3VS9lmcH99-HoqQXSfllyb-ZK0JEHVhDK5h8-XeQe1d9zUw49-1zd7V9k3_oo0UZNOlX9vvynsxfWmvV3Dtg4GSoVHbJZnNNOjiBnctz369088iqqG9fjQbVh9xsGQyWnc85Jc825FzP6yXP52qDzTN6hzUGbDD5NP54ffshoIpPSs9cG3iK4q233BQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює програму підписок для творців, пропонуючи ексклюзивний контент та переваги",
+   "why": "Збільшує можливості монетизації для творців на платформі, хоча глобальне розширення підписок було оголошено раніше у 2026 році.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxhq2wlImgtkOu6Mu4Mas8gae5nzIk-_I3zcrhsUwXwtmZIWTIfPDX4XzxKz-KfiVAAzZpFWY4ro4OCy2bU7LQTEC2elRxaaxSs5ZdcxlIirJzcO8o_DfMuib-XpYy8bEDFB_RB7phfvQ4G37TsStUa4VC"
+  }
+ ],
+ "trends": [
+  "Платформи продовжують вдосконалювати алгоритми, фокусуючись на глибинній взаємодії та задоволеності користувачів, а не лише на поверхневих метриках.",
+  "Монетизаційні можливості для творців розширюються, особливо у короткому відеоформаті та через підписки.",
+  "Штучний інтелект активно інтегрується в рекламні інструменти та системи рекомендацій для оптимізації ефективності.",
+  "Платформи посилюють боротьбу з неоригінальним контентом, заохочуючи унікальність та авторство."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Ключові платформи (YouTube, Instagram, Snapchat) активно оновлюють алгоритми та монетизаційні інструменти, фокусуючись на якості контенту та залученні користувачів."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання прибутку, що підкреслює успішну інтеграцію ШІ та рекламних стратегій на азійському ринку. TikTok продовжує адаптувати алгоритми для глибинної взаємодії."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, крім загальних трендів платформ, які впливають на регіон."
+  }
+ ],
+ "changed": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах ключових платформ, посиленням монетизаційних можливостей для творців та подальшою інтеграцією ШІ. YouTube та TikTok переорієнтовують свої алгоритми на глибинну взаємодію та задоволеність користувачів, тоді як Instagram посилює боротьбу з неоригінальним контентом. Snapchat розширює програми монетизації для творців, а Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам. Зокрема, YouTube тепер враховує 'індекс задоволеності' замість лише утримання, а Snapchat представив новий пакет рекламних інструментів на базі ШІ.",
+ "bizdev": [
+  "Розробка контент-стратегій, що відповідають новим алгоритмам платформ (фокус на утримання, задоволеність, оригінальність, нішевість).",
+  "Інвестиції в інструменти ШІ для оптимізації створення та дистрибуції контенту, а також рекламних кампаній.",
+  "Диверсифікація джерел монетизації для творців, включаючи Shorts, підписки та прямі партнерства.",
+  "Створення оригінального та нішевого контенту для підвищення видимості та уникнення обмежень платформ."
+ ],
+ "watch_next": [
+  "Подальші оновлення алгоритмів YouTube та TikTok, особливо щодо впливу на нішевий контент та Shorts.",
+  "Еволюція рекламних інструментів на базі ШІ на Snapchat та інших платформах, а також їхня ефективність.",
+  "Реакція ринку на посилення боротьби Instagram з неоригінальним контентом та її довгострокові наслідки для агрегаторів.",
+  "Фінансові звіти ключових гравців ринку для оцінки впливу нових стратегій монетизації та ШІ."
+ ],
+ "sources": [
+  {
+   "label": "InfluenceFlow",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZCibV1yup10cFVCA2NSBVXfHCth10glOKJ0J7JXOvqJBVLKJd6asxDgDpyOMTCoKvqSHJAxx1SLrVIQENQPit5er-D_sFHypxaEVYQsWhUsUWxzEJ7YDCptc6R1ruYwgmQBonrX7_d5YEw1yLePFFI4-1LqURZUAVetgciUUHPi4DEnTZUn0FArWTMdjC5aXWCUbUqb8PCzkezc="
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7UIRFil1K6Vxyeoha4-f0GoI0z4T_dDllQVwLScHT7nFelvwMtcTPUCCRI81Dn7_H5ECmq_kvYcmF-kmxAD4vtrFSpbum_cEvQrzd6lSyhDekb1TGJUThcTWF87e1R5jRfF9KZUj4_UiNfl5zVda5GjIZnmjnnbwrWA4_A=="
+  },
+  {
+   "label": "Miraflow AI",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdP747HR0K-n2gt7O1543tnpxKIh26TjDXi52az-uT9TNH7RqJzU0cXSbeRlWEGfEJEgL18AeMYiVfX0BH9a36IvwlZHzBW_brbV1Lre-TrLGquFkO6penjOAMZomY3g70dya6geNmnlV9kOlMFUQhe1aKeFtbEs7UVBRPocK_kZK-r1Gn"
+  },
+  {
+   "label": "MediaSapiens",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1tQyVmEox-52V_pMd83sT754_JsLoJ6wIhy1pwM_0TPn97wQbKRFTZkXAceOeqmNVFqw1P5WlCfmz48z-K17DoCOs3fa9z-KM3SI3SQGHxqrUUq-QCscyPk_425Pu9krGwWufTAKP38LHmnqUckSWPJCMTigzKbBZee8u05vL39ZV2-1FpbJaGgxW2C-q_FNCSmcfy46wOkebtmTXRuU_8AZh1IP1_3FtQl97fqSGmcwZti7IVg=="
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5Ih4LziHn0vcg_uFrbNsrHbDSjreTrrRpEDCyEsWixN_hC37Cm5nnddtwgX23P9r3U3CcdPu5YUfwfjMUvadefP1i_dvpQBklq2f63CvzOAs7NP9dfmrlvn13QuWquljfPbuFBh7yoQGlgqi73Og1YdUR8IbAb16p"
+  },
+  {
+   "label": "sud.ua",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ1DeMEZJ9-Ci_DqdIGy7au7puRgMgy7adRm9QRhlrbu3KV1tN0mKCM-bzvqxs5gXcj2hKE63aNMCTRabvWy6EcaTIEGBcv-MhwcmNCc43OxhMaGOk7kUIuRN5Y6AtACk_Ql8EX3NhfAiitc30FGBJRGTZkNAtQWJ63IE-rKqTTfBETdolclN_TxL6qUq2NG9whpKtQzPfBQM6hbSXCWrV-js="
+  },
+  {
+   "label": "TikTok Algorithm Changes 2026 [Updated May]: 7 Things Every Creator Needs to Fix Now",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc9Xztuoe8QobxTcwPJnL0XVphjXebEBE1sVeeyqoZ8Xebug17neucrp610h1YIMrj197SLP9OV5xa5KUEWeN8lZC04fA4_thBU9QGNkT-NS5RPC0ByJKR-rBnPVmmZTOZTkCJso0DMcd6ZGm6ndegkcsU0mfu2t2p4XvD"
+  },
+  {
+   "label": "Алгоритмы YouTube 2026: Как изменения повлияют на ваш канал",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kNqQOVQC1hLqAn8rcpSWJ40Y5WtQRosHThet0VYpu0ggzbMgfqWjAlupwKMN-nkhKl97FmIUZJh-EDmVSnFAdNXct8x1JOPnMw7ZZAt8r2EJhdGxwuHNfzsa0rhvwEdBWTGZoE4PDFx55L09noS_k0tLkwIbkcxnWgyeqjSNj4j6vr7iEJHb4iqwoZVv5s96K_KDBkxUG6tiUQ0SDkx1WnmDyJlxMB5aKPU9"
+  },
+  {
+   "label": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdf39nDqSDe9xLiV8diC-JPRfJvW3TMHN3VS9lmcH99-HoqQXSfllyb-ZK0JEHVhDK5h8-XeQe1d9zUw49-1zd7V9k3_oo0UZNOlX9vvynsxfWmvV3Dtg4GSoVHbJZnNNOjiBnctz369088iqqG9fjQbVh9xsGQyWnc85Jc825FzP6yXP52qDzTN6hzUGbDD5NP54ffshoIpPSs9cG3iK4q233BQ=="
+  },
+  {
+   "label": "How the TikTok Algorithm Works in 2026 (Ranking Signals) - PostEverywhere",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzeOg6q2ft2K0bgWCuD93kTiYwXfj9gGM-BNLb826FwjIkP0Jid-8Oc9S-71-UWg8oiUfqwBUeXWABHUM_2i2iJ81DVSA3-v3UGaOHV8LN6woAHjzVA28_bt_1ichNcC807xkoJ_CqR9ayzLeWJD6qAA4XDH5NBg=="
+  },
+  {
+   "label": "Grokipedia",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYzMsOGOAwBBweOYm84RnePdLi-sq1TOgoIZblQ64yLBZZv3obGz6s8buSfiTtR2gnktC1EjWBdNh2cjtlsno_7y0zIubWTKQ2rChy54l_c4YKgcOlzq5PGn6L-5rmKp_fV0WzTvfj6MPVe87dfs8NEzblHUcM8nLYiYA="
+  },
+  {
+   "label": "Алгоритм YouTube в 2026 году — что изменилось и как теперь продвигаться | FlexBoost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0u52Xb1hejxGe7NlmfKmOLwLfQyEMZVpX3WisxPQTfXcNfmOX0TACRHHbRWe4I1NRP7Ostd6fK2yg7U7GuihSK8pQTyZpCQ_1rE0APaWfa1ivwfehZkt199LsSmeZlMcrrMACOmOa6stq6A=="
+  },
+  {
+   "label": "Bilibili Q1 2026 Earnings: AI Boosts User Growth & Ad Revenue Surge - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc60jXHoCkF6fsbCXbDShssu1AruhQqZWrddlPtKkeiNAGb_f_jrG0yWzw1pjVCCH7Q35E1lTdKx1dl-jlXcIwvwdMhicoewdRiEKO6C3IxuBrebSthIkd034KI3Jjx-G9UAzP1w=="
+  },
+  {
+   "label": "Продвижение YouTube в 2026. Ютуб поменял алгоритм Ну, что, Ютуберы! Не забросили свои каналы? Информация.. 2026 | ВКонтакте",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-v7mhh2HnNN-iSrWdUZlGRuAE7BZUwMf81297c9KL8XTjZ4jramQ468OyfY9x3X9Jw-b_mO3n4OtxIdfoFLzwICWHhVZ2BENCWSTRowHDOM5loe777UmWhtdGDw=="
+  },
+  {
+   "label": "Полный гайд по алгоритму TikTok 2026: как попасть в рекомендации",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF6ntDeivTnTOxipY_lnXZKEag5woNXOQN-wFWuO0cxEE3sIWuD_gm7C_Xqx3c1ZIgSxxKTEl-IeI6VLORgDD80_FrCNdqXmV9-vk088Xzyetcr8FE23KrKDH3OZxF50waggM_uYISIuiUNZI2ZNH7b_GAxSi9g=="
+  },
+  {
+   "label": "Snapchat's New AI Ads Suite: What the June 2026 Innovations Mean for Ecommerce Brands",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWpupvOc5QPVsvFygBfF13c1UF7YhHkPDVlYxPEJ86uOvI4kIhuTRc0M0v1fuY-forbKVYQFW-jLqdNhpXN0MHwF8m6JT_JQ_oKXOboeKKRT1ZcZOLBJ44s2QtLWWfjxxP0jf4CO5jJzH_nRdZoReZdzAVT5q_KL9bAormMMIatw8YVG7cGhIAe7nNJ69C4vjpkK8tp7JsPNo="
+  },
+  {
+   "label": "PRO ІДЕЇ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnmbFRv8jTGSbs-NGgRFIxKfE2HhQtkdVL5cpIFX01XWKSrzO8Bj_5_6DCu7PNMNdLSbmwcvO5fEb4_6IuKK7UHJuztyiNwL2Smx5vEdkMqFNGK-hcxsYJoeCgWPkDazmC1IrE8mmnbRTOZlgC23VDryjg"
+  },
+  {
+   "label": "Маркетинг на vc.ru",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDzDERJ0JMIAeDriF5TVuenORoCt8rQmUke74aJ0_Gg1ci_wbrv1D4dkQkekhJIxNQQCpNv9AbkjSzWtyqKzLTY3lA2tUgEKQffA_nXVbBlkpYQvwvIeuPSdvEOOaiZ6e2NQ3Ejjo6mLz9WSb06LSREONzDwN_VH1WJjkuISym-DWf2lPYCwx8lWIs-m9kRE1udsplUZuo4jl1w=="
+  },
+  {
+   "label": "BriefGlance.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiUkVBNBOCdJ-c6slYaw3w22IsM1k4AKtQg_6XC6yOlRRQX9cPuh2B5SjkgYtNV4QZxoW3FfKpEjt0Z_jt74BwRIlLbCJqAFbKHEQGw_1d6ujW9LQEW92klxkWubwl018vgexJl_HdBjNoQQHzg87oCyUvGFAy38XoGEJO9nZV2ttY836p1JJUHwk42dku_mLMO3EfpoedJfE="
+  },
+  {
+   "label": "Epidemic Sound",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxhq2wlImgtkOu6Mu4Mas8gae5nzIk-_I3zcrhsUwXwtmZIWTIfPDX4XzxKz-KfiVAAzZpFWY4ro4OCy2bU7LQTEC2elRxaaxSs5ZdcxlIirJzcO8o_DfMuib-XpYy8bEDFB_RB7phfvQ4G37TsStUa4VC"
+  }
+ ]
+}
