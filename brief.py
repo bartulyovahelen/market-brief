@@ -9,12 +9,14 @@
 
 Env: GEMINI_API_KEY (безкоштовний ключ з Google AI Studio, GitHub Secret).
 """
-import os, re, json, glob, html, datetime as dt
+import os, re, json, glob, html, time, datetime as dt
 
 from google import genai
 from google.genai import types
 
-MODEL = "gemini-2.5-flash"     # безкоштовний рівень. "gemini-3.5-flash" — новіший, якщо доступний.
+MODEL = "gemini-2.5-flash"          # безкоштовний рівень. "gemini-3.5-flash" — новіший, якщо доступний.
+FALLBACK_MODEL = "gemini-2.5-flash-lite"  # запасна, легша модель — рідше перевантажена
+MAX_TRIES = 4                       # скільки разів пробувати, якщо Gemini відповів "зайнято"
 HISTORY_DAYS = 5               # скільки попередніх днів читати для трендів
 ROOT = os.getcwd()
 DIGEST_DIR = os.path.join(ROOT, "digests")
@@ -79,15 +81,30 @@ def ask_gemini(watchlist, today, hist):
 Неперевірене познач [VERIFY]."""
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-    resp = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            tools=[types.Tool(google_search=types.GoogleSearch())],
-            temperature=0.3,
-        ),
+    cfg = types.GenerateContentConfig(
+        tools=[types.Tool(google_search=types.GoogleSearch())],
+        temperature=0.3,
     )
-    return resp.text or ""
+    last_err = None
+    for attempt in range(MAX_TRIES):
+        # на останній спробі переходимо на запасну, легшу модель
+        model = MODEL if attempt < MAX_TRIES - 1 else FALLBACK_MODEL
+        try:
+            resp = client.models.generate_content(model=model, contents=prompt, config=cfg)
+            return resp.text or ""
+        except Exception as e:
+            last_err = e
+            msg = str(e)
+            transient = any(s in msg for s in (
+                "503", "UNAVAILABLE", "overloaded", "high demand",
+                "429", "RESOURCE_EXHAUSTED", "500", "INTERNAL"))
+            if attempt < MAX_TRIES - 1 and transient:
+                wait = 8 * (attempt + 1)   # 8с, 16с, 24с
+                print(f"Gemini зайнятий ({msg[:80]}...) — спроба {attempt+2}/{MAX_TRIES} через {wait}с")
+                time.sleep(wait)
+                continue
+            raise
+    raise last_err
 
 def parse_json(text):
     t = re.sub(r"^```(?:json)?", "", text.strip()).strip()
