@@ -1,0 +1,335 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах YouTube та TikTok, що фокусуються на задоволеності користувачів та залученні, а також розширенням можливостей монетизації для творців на цих платформах та Snapchat. Ключові гравці, такі як TheSoul Group, розширюють дистрибуцію, тоді як Amazon MGM Studios змінила контент-стратегію. TikTok зіткнувся з регуляторними викликами, включаючи значний штраф за GDPR та триваючий процес заборони в США, а Snapchat стикнувся з позовом щодо безпеки неповнолітніх. Загалом, креативна економіка продовжує зростати, інтегруючи ШІ та фокусуючись на оригінальному контенті та диверсифікації доходів.",
+ "key_figure": {
+  "value": "USD 310.37 млрд",
+  "context": "Оціночний обсяг світової креативної економіки у 2026 році, що демонструє значне зростання."
+ },
+ "figures": [
+  {
+   "value": "USD 310.37 млрд",
+   "label": "Обсяг креативної економіки (2026)"
+  },
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "~60%",
+   "label": "Частка доходу творців Snapchat від підписок"
+  },
+  {
+   "value": "$0.50-$1.00",
+   "label": "Виплати TikTok Creator Rewards Program за 1000 переглядів (відео >1 хв)"
+  }
+ ],
+ "top_signal_deep": "Протягом останніх 7 днів YouTube та TikTok здійснили значні оновлення своїх алгоритмів. YouTube тепер надає пріоритет 'Satisfied Watch Time', що включає задоволеність користувачів, показник клікабельності (CTR) та результати опитувань, а не лише сирий час перегляду. Це означає, що якість та релевантність контенту для нішевих спільнот стають вирішальними. TikTok повністю замінив Creator Fund на Creator Rewards Program, що пропонує потенційно до 20 разів вищі виплати за оригінальний контент, особливо для відео довше однієї хвилини. Ці зміни підкреслюють загальний тренд платформ до заохочення високоякісного, оригінального та залучаючого контенту, а також до більш прозорих та вигідних моделей монетизації для творців.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 3
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  },
+  {
+   "label": "Продукт",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube змінює алгоритм, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Це фундаментальна зміна, що впливає на стратегії контенту, надаючи пріоритет якості та релевантності над сирими переглядами.",
+   "url": "https://creators.youtube.com/newsroom/algorithm-update-2026"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами",
+   "why": "Значна зміна в монетизації, що стимулює створення оригінального, довгоформатного контенту з потенційно вищими доходами для творців.",
+   "url": "https://newsroom.tiktok.com/creator-rewards-program"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Ірландський Вищий суд підтвердив порушення TikTok вимог GDPR та наклав штраф у €530 млн",
+   "why": "Впливає на операційну стабільність TikTok та практики обробки даних, встановлюючи прецедент для регуляторного тиску.",
+   "url": "https://www.arthurcox.com/knowledge/verify-guarantee-demonstrate-the-tiktok-decision-and-what-it-means-for-international-data-transfers/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat зіткнувся з позовом щодо зґвалтування неповнолітньої, яка познайомилася з нападником через платформу",
+   "why": "Підкреслює критичні проблеми безпеки та потенційний вплив на дизайн платформи та політику захисту користувачів.",
+   "url": "https://www.thehindu.com/news/international/snap-sued-over-rape-of-minor-who-connected-to-adult-attacker-on-snapchat/article68335029.ece"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам",
+   "why": "Вказує на успішну стратегію монетизації в азіатському регіоні, особливо через інтеграцію ШІ та реклами."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює можливості монетизації Shorts та автоматично маркує контент, створений ШІ",
+   "why": "Знижує поріг входу для творців у партнерську програму та підвищує прозорість контенту, створеного ШІ.",
+   "url": "https://www.youtube.com/creators/shorts-monetization-update"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює програму підписок для творців та оновлює вимоги до Spotlight",
+   "why": "Надає творцям нові джерела доходу та уточнює критерії для монетизації контенту.",
+   "url": "https://newsroom.snap.com/creator-subscriptions-global-expansion"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Instagram",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом",
+   "why": "Впливає на стратегії контент-агрегаторів та заохочує створення унікального контенту."
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає нові рекламні інструменти на базі ШІ та Live AR Spectacle",
+   "why": "Покращує можливості для рекламодавців та розширює інтеграцію доповненої реальності.",
+   "url": "https://newsroom.snap.com/ai-ads-innovations"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube бореться з 'AI slop', впливаючи на 'безликих' творців",
+   "why": "Підкреслює важливість оригінальності та автентичності контенту в епоху ШІ."
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group уклала партнерство з Sling TV для дистрибуції довгоформатного контенту",
+   "why": "Розширює охоплення та дистрибуційні можливості для великого гравця на ринку.",
+   "url": "https://thesoul.group/blog/thesoul-continues-content-expansion-launching-six-channels-on-sling-freestream"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Amazon MGM Studios відмовилася від фільму про Сема Альтмана після інвестицій в OpenAI",
+   "why": "Вказує на потенційні конфлікти інтересів та зміни в контент-стратегії великих медіакомпаній.",
+   "url": "https://gizmodo.com/amazon-mgm-studios-backs-out-of-sam-altman-biopic-months-1853507981"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Процес заборони TikTok у США триває, платформа залишається в роботі",
+   "why": "Невизначеність щодо майбутнього TikTok на ключовому ринку продовжує впливати на стратегії творців та рекламодавців.",
+   "url": "https://conbersa.ai/blog/tiktok-ban-status-2026-what-brands-need-to-know-and-how-to-prepare"
+  }
+ ],
+ "trends": [
+  "Посилення фокусу платформ на задоволеності користувачів та глибинній взаємодії через оновлення алгоритмів.",
+  "Розширення та диверсифікація можливостей монетизації для творців, включаючи підписки та покращені програми винагород.",
+  "Зростаюча інтеграція ШІ в процеси створення контенту, монетизації та рекламні інструменти, а також посилення вимог до маркування контенту, створеного ШІ.",
+  "Боротьба з неоригінальним контентом та 'AI slop' для підтримки якості та автентичності на платформах.",
+  "Зростання креативної економіки, де творці перетворюються на диверсифіковані медіа-бізнеси, а середні творці стають 'золотою серединою' для брендів.",
+  "Зростаючий регуляторний тиск на великі платформи щодо безпеки даних, прозорості та захисту неповнолітніх."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значні зміни в алгоритмах YouTube та TikTok, розширення монетизації Snapchat, регуляторні виклики для TikTok (США, ЄС), позов проти Snapchat, зміни в контент-стратегії Amazon MGM Studios, загальне зростання креативної економіки та інтеграція ШІ."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що були б висвітлені у наданих джерелах за останні 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та адаптація контент-стратегій для відповідності новим алгоритмам YouTube та TikTok, що надають пріоритет задоволеності користувачів та оригінальності.",
+  "Інвестиції в інструменти та процеси для створення високоякісного, довгоформатного контенту, що відповідає вимогам TikTok Creator Rewards Program та YouTube Shorts.",
+  "Дослідження можливостей партнерства з платформами та дистриб'юторами FAST-каналів, такими як Sling TV, для розширення охоплення контенту.",
+  "Розробка рішень для монетизації, що диверсифікують доходи творців, включаючи моделі підписок та прямі продажі, зменшуючи залежність від алгоритмічних виплат.",
+  "Інтеграція ШІ в робочі процеси створення та оптимізації контенту, з урахуванням вимог до маркування та політики платформ щодо 'AI slop'."
+ ],
+ "watch_next": [
+  "Подальші оновлення алгоритмів YouTube та TikTok та їхній вплив на охоплення контенту.",
+  "Розвиток регуляторних справ щодо TikTok (заборона в США, GDPR) та їхні наслідки для глобальної діяльності платформи.",
+  "Реакція Snapchat на позов щодо безпеки неповнолітніх та можливі зміни в політиці або функціоналі.",
+  "Нові партнерства та M&A у сфері відеодистрибуції, особливо серед гравців Stream A.",
+  "Еволюція використання ШІ в креативній економіці та нові інструменти для творців."
+ ],
+ "sources": [
+  {
+   "label": "Snap Newsroom",
+   "url": "https://newsroom.snap.com"
+  },
+  {
+   "label": "TikTok Creator Fund",
+   "url": "https://newsroom.tiktok.com/creator-rewards-program"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://www.aboutamazon.com/news/entertainment/whats-new-on-prime-video-in-june-2026"
+  },
+  {
+   "label": "ThoughtLeaders Blog",
+   "url": "https://blog.thoughtleaders.io/creator-economy-trends-2026"
+  },
+  {
+   "label": "Dia Creative",
+   "url": "https://diacreative.com/tiktok-ban-postponed-until-june-18"
+  },
+  {
+   "label": "Grokipedia",
+   "url": "https://grokipedia.com/snapchat-creator-monetization-program"
+  },
+  {
+   "label": "Conbersa",
+   "url": "https://conbersa.ai/blog/tiktok-ban-status-2026-what-brands-need-to-know-and-how-to-prepare"
+  },
+  {
+   "label": "GeekWire",
+   "url": "https://www.geekwire.com/2026/amazon-mgm-studios-drops-film-about-sam-altman-months-after-tech-giants-50b-openai-deal/"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul.group/blog/thesoul-continues-content-expansion-launching-six-channels-on-sling-freestream"
+  },
+  {
+   "label": "Stan Store",
+   "url": "https://www.stan.store/blog/creator-economy-trends-2026"
+  },
+  {
+   "label": "CreatorGrowAi Blog",
+   "url": "https://creatorgrowai.com/blog/youtube-algorithm-changes-2026"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/381155/snapchat-to-test-creator-led-subscriptions-in-the.html"
+  },
+  {
+   "label": "Gizmodo",
+   "url": "https://gizmodo.com/amazon-mgm-studios-backs-out-of-sam-altman-biopic-months-1853507981"
+  },
+  {
+   "label": "Screen Daily",
+   "url": "https://www.screendaily.com/news/amazon-mgm-studios-offloading-luca-guadagninos-artificial-about-openai-head-sam-altman/5212502.article"
+  },
+  {
+   "label": "Snap Inc. Investor Newsletter",
+   "url": "https://investor.snap.com/news/news-details/2026/Snap-Inc.-June-2026-Investor-Newsletter/default.aspx"
+  },
+  {
+   "label": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/creator-economy-market-to-reach-usd-1-345-54-billion-by-2033-driven-by-ai-powered-content-creation-direct-monetization-models-and-expanding-digital-entrepreneurship-302178229.html"
+  },
+  {
+   "label": "Snapchat Creator Monetization Policy",
+   "url": "https://www.snap.com/en-US/creator-monetization-policy"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/tiktok-creator-fund-payment-timeline-complete-2026-guide/"
+  },
+  {
+   "label": "Arthur Cox",
+   "url": "https://www.arthurcox.com/knowledge/verify-guarantee-demonstrate-the-tiktok-decision-and-what-it-means-for-international-data-transfers/"
+  },
+  {
+   "label": "NAB Show",
+   "url": "https://nabshow.com/2026/trends-topics/creator-economy/"
+  },
+  {
+   "label": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/snap-sued-over-rape-of-minor-who-connected-to-adult-attacker-on-snapchat/article68335029.ece"
+  },
+  {
+   "label": "YouTube Algorithm Change 2026: The Verified Timeline",
+   "url": "https://www.outlierkit.com/blog/youtube-algorithm-change-2026-verified-timeline"
+  },
+  {
+   "label": "vidIQ",
+   "url": "https://vidiq.com/blog/youtube-algorithm-2026-updates-tips/"
+  },
+  {
+   "label": "Outlier Kit",
+   "url": "https://www.outlierkit.com/blog/youtube-algorithm-updates-2026"
+  },
+  {
+   "label": "TikTok Creator Monetization 2026",
+   "url": "https://www.stackinfluence.com/blog/tiktok-creator-monetization-2026"
+  },
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Efforts_to_ban_TikTok_in_the_United_States"
+  },
+  {
+   "label": "Darkroom Agency",
+   "url": "https://darkroom.agency/blog/tiktok-2026-policy-update-brand-creator-guide"
+  },
+  {
+   "label": "KESQ",
+   "url": "https://kesq.com/news/cnn-business/2026/06/25/snapchat-sued-in-case-alleging-the-platform-is-responsible-for-12-year-olds-rape/"
+  },
+  {
+   "label": "Snapchat Monetization",
+   "url": "https://www.snap.com/en-US/creator-opportunities"
+  },
+  {
+   "label": "Digiday",
+   "url": "https://digiday.com/media/heres-what-the-creator-economy-is-starting-to-look-like-in-2026/"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://kompozy.com/snapchat-monetization-2026/"
+  },
+  {
+   "label": "Mashable",
+   "url": "https://mashable.com/article/amazon-mgm-studios-sam-altman-openai-movie-dropped"
+  }
+ ]
+}
