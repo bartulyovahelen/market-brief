@@ -14,9 +14,8 @@ import os, re, json, glob, html, time, datetime as dt
 from google import genai
 from google.genai import types
 
-MODEL = "gemini-2.5-flash"          # безкоштовний рівень. "gemini-3.5-flash" — новіший, якщо доступний.
-FALLBACK_MODEL = "gemini-2.5-flash-lite"  # запасна, легша модель — рідше перевантажена
-MAX_TRIES = 4                       # скільки разів пробувати, якщо Gemini відповів "зайнято"
+MODELS = ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash"]  # пробуємо по черзі
+RETRIES_PER_MODEL = 3               # скільки разів пробувати кожну, якщо "зайнято"
 HISTORY_DAYS = 5               # скільки попередніх днів читати для трендів
 ROOT = os.getcwd()
 DIGEST_DIR = os.path.join(ROOT, "digests")
@@ -60,6 +59,9 @@ def ask_gemini(watchlist, today, hist):
 Поверни ЛИШЕ валідний JSON (без markdown-огорожі) такої форми:
 {{
   "tldr": "2-3 речення: найважливіше за сьогодні",
+  "key_figure": {{"value": "напр. $22M / 85M / +40%", "context": "що це за число і кого стосується, 1 речення"}},
+  "figures": [{{"value": "число", "label": "що це, коротко"}}, {{"value": "...", "label": "..."}}],
+  "top_signal_deep": "2-3 речення глибшого розбору НАЙважливішої події дня: що сталось, чому це важливо, що далі",
   "bars": [{{"label": "Монетизація", "n": 0}}, {{"label": "Алгоритми", "n": 0}}, {{"label": "Контент", "n": 0}}, {{"label": "M&A / фандинг", "n": 0}}],
   "signals": [
     {{"importance": "high|medium|low",
@@ -85,26 +87,28 @@ def ask_gemini(watchlist, today, hist):
         tools=[types.Tool(google_search=types.GoogleSearch())],
         temperature=0.3,
     )
+    transient_markers = ("503", "UNAVAILABLE", "overloaded", "high demand", "429",
+                         "RESOURCE_EXHAUSTED", "500", "INTERNAL", "deadline", "timeout")
     last_err = None
-    for attempt in range(MAX_TRIES):
-        # на останній спробі переходимо на запасну, легшу модель
-        model = MODEL if attempt < MAX_TRIES - 1 else FALLBACK_MODEL
-        try:
-            resp = client.models.generate_content(model=model, contents=prompt, config=cfg)
-            return resp.text or ""
-        except Exception as e:
-            last_err = e
-            msg = str(e)
-            transient = any(s in msg for s in (
-                "503", "UNAVAILABLE", "overloaded", "high demand",
-                "429", "RESOURCE_EXHAUSTED", "500", "INTERNAL"))
-            if attempt < MAX_TRIES - 1 and transient:
-                wait = 8 * (attempt + 1)   # 8с, 16с, 24с
-                print(f"Gemini зайнятий ({msg[:80]}...) — спроба {attempt+2}/{MAX_TRIES} через {wait}с")
-                time.sleep(wait)
-                continue
-            raise
-    raise last_err
+    for model in MODELS:
+        for attempt in range(RETRIES_PER_MODEL):
+            try:
+                resp = client.models.generate_content(model=model, contents=prompt, config=cfg)
+                if resp.text:
+                    return resp.text
+                raise RuntimeError("порожня відповідь")
+            except Exception as e:
+                last_err = e
+                msg = str(e)
+                transient = any(s in msg for s in transient_markers)
+                if transient and attempt < RETRIES_PER_MODEL - 1:
+                    wait = 10 * (attempt + 1)   # 10с, потім 20с
+                    print(f"{model} зайнятий — спроба {attempt + 2}/{RETRIES_PER_MODEL} через {wait}с")
+                    time.sleep(wait)
+                    continue
+                print(f"{model} не вдалось ({msg[:60]}) — переходжу до наступної моделі")
+                break   # ця модель не дала результату — пробуємо наступну в списку
+    raise last_err     # усі моделі зайняті/недоступні
 
 def parse_json(text):
     t = re.sub(r"^```(?:json)?", "", text.strip()).strip()
@@ -172,13 +176,100 @@ def render_regions(regions):
         for r in regions
     )
 
+def render_key_figure(kf):
+    if not kf or not kf.get("value"):
+        return '<div class="v">—</div>'
+    return (f'<div class="v">{esc(kf.get("value",""))}</div>'
+            f'<div class="c">{esc(kf.get("context",""))}</div>')
+
+def render_figures(figs):
+    if not figs:
+        return ""
+    return "".join(
+        f'<div class="fig"><div class="v">{esc(f.get("value",""))}</div>'
+        f'<div class="l">{esc(f.get("label",""))}</div></div>'
+        for f in figs[:3]
+    )
+
+def all_history():
+    """{date: data} з усіх збережених JSON-дайджестів."""
+    out = {}
+    for p in glob.glob(os.path.join(DIGEST_DIR, "*.json")):
+        m = re.search(r"(\d{4})-(\d{2})-(\d{2})\.json$", p)
+        if not m:
+            continue
+        try:
+            out[dt.date(int(m[1]), int(m[2]), int(m[3]))] = json.load(open(p, encoding="utf-8"))
+        except Exception:
+            pass
+    return out
+
+def compute_dynamics(today):
+    """Топ-гравці за 7 днів + кількість сигналів цей тиждень проти минулого."""
+    hist = all_history()
+
+    def signals_between(start, end):
+        return sum(len(hist[d].get("signals", [])) for d in hist if start <= d <= end)
+
+    this_week = signals_between(today - dt.timedelta(days=6), today)
+    prev_week = signals_between(today - dt.timedelta(days=13), today - dt.timedelta(days=7))
+
+    counts = {}
+    for d in hist:
+        if today - dt.timedelta(days=6) <= d <= today:
+            for s in hist[d].get("signals", []):
+                src = (s.get("source") or "").strip()
+                if src:
+                    counts[src] = counts.get(src, 0) + 1
+    players = sorted(counts.items(), key=lambda x: -x[1])[:5]
+    return this_week, prev_week, players
+
+def render_wow(this_week, prev_week):
+    if prev_week == 0:
+        return f"Цього тижня <b>{this_week}</b> сигналів. (Минулий тиждень: даних ще нема — динаміка зʼявиться згодом.)"
+    diff = this_week - prev_week
+    pct = round(100 * diff / prev_week)
+    if diff > 0:
+        arrow = f'<span class="up">↑ +{pct}%</span>'
+    elif diff < 0:
+        arrow = f'<span class="down">↓ {pct}%</span>'
+    else:
+        arrow = "без змін"
+    return f"Цього тижня <b>{this_week}</b> сигналів проти <b>{prev_week}</b> минулого ({arrow})."
+
+def render_players(players):
+    if not players:
+        return "<div class='pl'><span class='rank'>—</span><span>Замало історії для рейтингу</span><span></span></div>"
+    out = []
+    for i, (name, n) in enumerate(players, 1):
+        out.append(f'<div class="pl"><span class="rank">{i}</span>'
+                   f'<span>{esc(name)}</span><span class="cnt">{n}×</span></div>')
+    return "".join(out)
+
 def main():
     today = dt.date.today().isoformat()
     today_human = dt.date.today().strftime("%d.%m.%Y")
+    today_html = os.path.join(DIGEST_DIR, f"{today}.html")
+
+    # Запланований повтор протягом дня: якщо бриф за сьогодні вже є — не чіпаємо.
+    # Ручний запуск (workflow_dispatch) завжди перегенеровує.
+    event = os.environ.get("GITHUB_EVENT_NAME", "")
+    if event == "schedule" and os.path.exists(today_html):
+        print("Сьогоднішній бриф уже готовий — пропускаю запланований повтор.")
+        return
+
     watchlist = read(SOURCES)
     hist = history()
 
-    raw = ask_gemini(watchlist, today, hist)
+    try:
+        raw = ask_gemini(watchlist, today, hist)
+    except Exception as e:
+        # Усі моделі зайняті. Не «падаємо» з помилкою — тихо виходимо;
+        # наступний запланований запуск за кілька годин спробує ще раз.
+        print(f"Gemini недоступний після всіх спроб ({str(e)[:80]}). "
+              "Бриф не згенеровано; повтор буде за розкладом пізніше сьогодні.")
+        return
+
     try:
         data = parse_json(raw)
     except Exception as e:
@@ -188,17 +279,25 @@ def main():
                 "source": "raw", "title": raw[:300], "why": "", "url": ""}],
                 "trends": [], "changed": "", "bizdev": [], "watch_next": [], "sources": []}
 
-    # сирий JSON — для трендів наступних днів
+    # сирий JSON — для трендів і динаміки наступних днів (зберігаємо ПЕРЕД розрахунком)
     os.makedirs(DIGEST_DIR, exist_ok=True)
     with open(os.path.join(DIGEST_DIR, f"{today}.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
+
+    # динаміка з історії (включно з сьогоднішнім, який щойно зберегли)
+    this_week, prev_week, players = compute_dynamics(dt.date.today())
 
     page = read(TEMPLATE)
     repl = {
         "{{DATE_ISO}}": today,
         "{{DATE_HUMAN}}": today_human,
         "{{TLDR}}": esc(data.get("tldr", "")),
+        "{{KEY_FIGURE}}": render_key_figure(data.get("key_figure", {})),
+        "{{FIGURES}}": render_figures(data.get("figures", [])),
+        "{{TOP_DEEP}}": esc(data.get("top_signal_deep", "")) or "—",
         "{{BARS}}": render_bars(data.get("bars", [])),
+        "{{WOW}}": render_wow(this_week, prev_week),
+        "{{PLAYERS}}": render_players(players),
         "{{SIGNALS}}": render_signals(data.get("signals", [])),
         "{{TRENDS}}": render_list(data.get("trends", [])),
         "{{REGIONS}}": render_regions(data.get("regions", [])),
