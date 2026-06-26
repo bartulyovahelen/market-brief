@@ -1,0 +1,298 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в алгоритмах YouTube та TikTok, що фокусуються на задоволеності користувачів та залученні, а також розширенням можливостей монетизації для творців на цих платформах та Snapchat. TikTok зіткнувся з серйозними регуляторними викликами, включаючи штраф у €530 млн за GDPR, тоді як Bilibili демонструє зростання прибутку завдяки ШІ та рекламним доходам.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok Ірландською Комісією із захисту даних (DPC) за порушення вимог GDPR щодо передачі даних та прозорості."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "+60%",
+   "label": "Зростання скоригованого чистого прибутку Bilibili за Q1 2026"
+  },
+  {
+   "value": "+30%",
+   "label": "Зростання рекламного доходу Bilibili за Q1 2026"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією дня є значний регуляторний тиск на TikTok, що вилився у штраф у €530 млн від Ірландської DPC за порушення GDPR щодо передачі даних європейських користувачів до Китаю та недостатню прозорість. Це підкреслює зростаючу увагу до захисту даних користувачів та може змусити платформу переглянути свої політики, що потенційно вплине на її операційну діяльність та довіру аудиторії. Одночасно, TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами, що є спробою покращити відносини з творцями та стимулювати якісний контент, незважаючи на регуляторні проблеми.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 3
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 0
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Ірландський Вищий суд підтвердив порушення TikTok вимог GDPR та наклав штраф у €530 млн",
+   "why": "Значний регуляторний тиск, що може вплинути на операції, довіру користувачів та вимагати перегляду політик конфіденційності.",
+   "url": "https://www.google.com/search?q=TikTok+GDPR+fine+Ireland+2026"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами",
+   "why": "Прямо впливає на доходи творців та їхню мотивацію, потенційно залучаючи більше якісного контенту.",
+   "url": "https://www.google.com/search?q=TikTok+Creator+Rewards+Program+launch+2026"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube змінює алгоритм, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Впливає на охоплення та рекомендації контенту для творців, стимулюючи створення якісного та нішевого контенту.",
+   "url": "https://www.google.com/search?q=YouTube+algorithm+changes+user+satisfaction+niche+communities+2026"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм: пріоритетність залучення підписників та глибинної взаємодії",
+   "why": "Змінює стратегії створення контенту для максимізації органічного охоплення та утримання аудиторії.",
+   "url": "https://www.google.com/search?q=TikTok+algorithm+shifts+June+2026"
+  },
+  {
+   "importance": "high",
+   "theme": "контент, алгоритми",
+   "stream": "платформа",
+   "source": "Instagram / Meta",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом",
+   "why": "Стимулює створення оригінального контенту, обмежуючи рекомендації для агрегаторів, що впливає на стратегії дистрибуції.",
+   "url": "https://www.google.com/search?q=Instagram+unoriginal+content+policy+June+2026"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація, продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює можливості монетизації Shorts та автоматично маркує контент, створений ШІ",
+   "why": "Розширює джерела доходу для творців коротких відео та встановлює стандарти для ШІ-контенту, впливаючи на прозорість.",
+   "url": "https://www.google.com/search?q=YouTube+Shorts+monetization+expansion+AI+content+labeling+2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat глобально розширює програму підписок для творців",
+   "why": "Надає творцям нові інструменти для прямої монетизації аудиторії, збільшуючи їхні можливості заробітку.",
+   "url": "https://www.google.com/search?q=Snapchat+creator+subscription+program+global+expansion+2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає нові рекламні інструменти на базі ШІ",
+   "why": "Покращує можливості рекламодавців для оптимізації кампаній та потенційно збільшує доходи платформи.",
+   "url": "https://www.google.com/search?q=Snapchat+AI+ad+tools+launch+2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам",
+   "why": "Вказує на успішну стратегію монетизації та інтеграції ШІ на азійському ринку, демонструючи потенціал зростання.",
+   "url": "https://www.google.com/search?q=Bilibili+profit+growth+AI+advertising+2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Amazon MGM Studios змінила контент-стратегію",
+   "why": "Впливає на виробництво та дистрибуцію преміального контенту, формуючи пропозицію на ринку.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat зіткнувся з позовом щодо зґвалтування неповнолітньої",
+   "why": "Викликає питання безпеки платформи та може призвести до посилення регулювання захисту неповнолітніх.",
+   "url": "https://www.google.com/search?q=Snapchat+lawsuit+minor+safety+2026"
+  },
+  {
+   "importance": "low",
+   "theme": "партнерства",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює дистрибуцію довгоформатного контенту",
+   "why": "Демонструє стратегію розширення присутності на різних платформах та диверсифікації контенту.",
+   "url": "https://www.google.com/search?q=TheSoul+Group+long-form+content+distribution+partnership+2026"
+  }
+ ],
+ "trends": [
+  "Платформи активно переорієнтовують свої алгоритми на задоволеність користувачів, глибинну взаємодію та оригінальність контенту.",
+  "Спостерігається значне розширення можливостей монетизації для творців на різних платформах, включаючи короткі відео та підписки.",
+  "Інтеграція штучного інтелекту стає ключовим фактором як для оптимізації рекламних інструментів, так і для маркування контенту.",
+  "Регуляторний тиск на великі платформи посилюється, особливо у сферах захисту даних та безпеки неповнолітніх.",
+  "Зростає боротьба з неоригінальним та низькоякісним контентом, що стимулює творців до створення унікального контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значні зміни в алгоритмах YouTube, TikTok та Instagram, розширення монетизації на Snapchat, а також регуляторні виклики для TikTok (GDPR) та Snapchat (безпека неповнолітніх)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання прибутку завдяки ШІ та рекламним доходам, що підкреслює успішну стратегію на азійському ринку."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, але зміни глобальних платформ (YouTube, TikTok) безпосередньо впливають на регіональних творців та дистриб'юторів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій контенту, орієнтованих на глибинну взаємодію та нішеві спільноти, з урахуванням оновлень алгоритмів YouTube та TikTok.",
+  "Використання нових можливостей монетизації на YouTube Shorts та Snapchat для диверсифікації доходів.",
+  "Фокус на створенні оригінального та високоякісного контенту для уникнення обмежень рекомендацій на Instagram та YouTube.",
+  "Дослідження можливостей інтеграції ШІ для оптимізації рекламних кампаній та виробництва контенту."
+ ],
+ "watch_next": [
+  "Подальші регуляторні рішення щодо TikTok у США та ЄС.",
+  "Вплив нових алгоритмів YouTube та TikTok на показники охоплення та залучення творців.",
+  "Розвиток програм монетизації для коротких відео на інших платформах.",
+  "Реакція ринку на посилення боротьби з неоригінальним контентом."
+ ],
+ "sources": [
+  {
+   "label": "StreamTV Insider",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv4Q8pwxyWmYa31aBJcunvDDqplDBIRz_-tkoanmr3Bxlb1n3Q3hNoANx8yDigNW-ggEOlfycVbX1ok7uiLRKI6Qa1i_GCNr4fyyf68_b_zE8lLw8od7-DcvN1NZuLcSYD4aj81lIGiKlR6gEQuhsHhqgHBPbQNoEpMavNQGA0-byJwl-m2UjTaLigCXN10Y7BLduRAI4knRncoA=="
+  },
+  {
+   "label": "Kroll's Transaction Advisory Services",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaOYpk0BSq37SZr5B4vdPXIcKEahKyA_YIJLokRWAmPMeXGM8rDamec6ty-qzhZfbSCHv28YAvI3WZGDCBwoUBp_gizl6ebFbs9r3aAxtcy16AyyZpJK8Jp8khiz99ue7bMgy-DWpj-VTF1vFZ7vP0rQLeVaKuJEO3gLRq-5k9LA=="
+  },
+  {
+   "label": "Media Play News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNSpEyvonON1ZfrwVqmX3HgYT594Upt4ZgORtt_BIDCIZcj7_2dv0BO5b-GqqL2nbMU91yGDYGXzZiq-v0s-6S-FvtcT4zk_kc-CcdxkFajn5SaYh6QGGHDHEPprOKaNytT6XYpU2ZRRfOPgZzYYPC-IvND39y_IYA99yPbD3NxY5yGaFfKLYCMipgTs9bdm8_UykH4thAi-3jg1K32w=="
+  },
+  {
+   "label": "Agencies.co",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAmMz9hFKX5E7iMIqFeuxFPoXo_4z6zgX48JaL9xtrMBpfvNcVq-2g3FRZC38_3b6VTHhMatP1gISBZOw6lhha_WL5SPvPh_kNCl3UEamD23nB_JamNCdxJv-N1w2P8PJNhX6tOu3ek9_11TMTMyJKVassxyrw28Rnih2SYWNzAhc-K6w=="
+  },
+  {
+   "label": "Social Samosa",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE2Ix39arlMZysmiwqSStVUQom42C4rDJXDCt6ZTQ9O21JEUK2OU4p4lcuV3e-t-T7uLAuWYGstVHm0ESxPZyjIgcIwsnAsXxewJAHQuCGEWY3-D6L6xecKiSbbbVGRgO-mXchJyTg8T-GWlKw0cxnxb0qzrlV2ebNkEkFRYxGnGlZHYNtQn-G"
+  },
+  {
+   "label": "Disrupt Marketing",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAluq1MzMJi7BG5M3jGZV8mrL39GLlRa7gjYClXpIbULBKIzUfUXc8tCjHaO_ECd1_ViUXCsBN78109kWswC11LHMpC7ZTA0ekXaImevxUR7T3GdSao_ZceZTpFfNBNVNVfqMr91PowPNEpWFIjT_HtRZCb5_RDl8ENMKHBA=="
+  },
+  {
+   "label": "Consumer Notice",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6DXFqafpK646ulCa0UzKYLUZ--1vAINldx9qC20KhruSisJ_5LsN_XaqesL6xXSdpNhimaalJUfFUxUWSzcYO5I30w8_Xn7Lk1fWnETT1acq_GSaKBVb7p8Ivsyh7c3V-IFFxbiDuDTlPKGyf3GNl"
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH0FOZhYsw5ETVOOP04qPQBUCZpabRbVfuoPV5npOhwSafIyCd5yVYgtzj-w6SuYIxP6G1tqmDpTbipke-_YLYILY3XC79CMaPz9rAd4dpsayZdkVtqv4aFno1p0sjCmAu2vZS1XbticyI0drW6G9qNXVAZJFJlts18-TsvMMewqboP1B7uhocNKg9Tl3sXofW0ZUPAGCei7I="
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtBD3b3Vwrc_QS88HtIdJsSSdxJcOKEFLPVuqZSeV5dx619JvcDToJcXkLTMZy16hOq9sWryoqqYbnfpp1oPbXYefMwnZC-vO46ggRqA5Y45Npb6UA6_fRuURbF-DMENAu1Ov2NpEPpebNOkW7CgMJMiMGQkYAFwc618VLVmm0vgbaYQKWn6nYZQLB7dQrRB8qRzvGnFFN6JXLSz7uf2fSADcd6z54"
+  },
+  {
+   "label": "ComplianceHub.Wiki",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJfpqhG9iWYOgY9cdvaNMJ8GciNffpfhR_9_93TPc-CTS7DMkjXXwzcAVCcPoArNEBJMGmGVun6Ig78ZTL2ikUDCPiaNBEa-TKeR-3UMDl4bmmWtZIMdK6sJTZLh9Td1y31SdnA22ZO4wiu4YjGraHJRZOfCrpxdrfGKme7ssfE0Pazs8Z-58as1nvj58hdQ=="
+  },
+  {
+   "label": "PetaPixel",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0ytk_7jeB1FbMA2GgSsQdmW7e3bSO9wtoafh9lEmWZrG3feo7ry247ku8y8u1TGakARI-TlhCGFzSwAYmUvYBXGekz3NrMdSWB-5zdCM88j8iqKEZ6SygO645Khe8I3ghZWxbPyUzPIXBOlpEd1GpboZXW2RM0S6eZAsog1_7RlAZ60jWsOA3AXY="
+  },
+  {
+   "label": "CBS News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDJ6f6PQRcOMUjv4PJ6_eeKFsCGeERi9mJrTlKbEU71THubCNc9vv5vRy3ORrGWbeEwV91LeMzf6KrppTHFY9MkKZaNwXyP7LHvKY7felfmfeySern460Voi_tpAwHE5voLvLvAmxp6X0GHzsYheInREKNbq1COVFpvVMTC8H03WJPZTY="
+  },
+  {
+   "label": "ContentGrip",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEepEMrldtZ3Xf-53NURYBTc1Vs66ZTGACbw5dPUK_U48CbN0h2siMIF1ErTZ2OhudUVkNyqopMquXbYxIUGgotHx_f8AcfcfqbQymL-9ZlnNPmPDZUj_8NnQC7Cu0lwC44kJBPBbgLkaNWni4="
+  },
+  {
+   "label": "Freevacy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFySwXEOnNH3LfDBMADocmU4oQ_2hwx69OLLN3MRcOsabmh8-PxJpfZrbstDPnS-m6PgPxl07eMEk9xezhKndwmyuCtphvNf0y7Xugc7XfPJX_qKvDHd5N-DwYdKakyxfLzE6vLlmfzT8JM3Pfr96uUtPrhmOTfPz_gy19Y0CDytDrj9oqGf0quyu9dFaf_viUXzJkF2I-T1t5nyjnh_8K3dCtjqssz4UaQxTduRvimXBvk5qrQyzSzWiiDkz84dwTb"
+  },
+  {
+   "label": "AliDropship",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHams9n8XMAAy9xIQwl_3YeWPgC5KvkN9bb85bWDSwiZ23ege9rLvH0tn8PXw8pr2MeiReKWYRMCWEnpZRAZjfTZTnBOqB0AvzQIKcpLSLzxWb4azjX-LeUrIFG2jVahxS8fnDF6kvvaqqF3KSeXnVPdXmxHBojEQ=="
+  },
+  {
+   "label": "CreatorGrowAi Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtohReVjXT1kMmkIA2knsJMTH4nz5KePjjjbuJwym2dOvXvsYGdzGErPvyqijJ9aKL7DE5g-YNU7OTiK308YfSNzjBYDPcaK4T1-eB02Plom2ctbZf4-fMeBtkIaVRhZz6GlALWdG3VFmz7guFVlWbnBMRGDlj2tCYdOejOXQ7TpRyw=="
+  },
+  {
+   "label": "Elev8or",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE8OG3ISSTSmYXQjGmDN6P3_w3fvV3bg8NYKlaFNuEv4goTRfQFBh3J65Y8JyDn_xlz_nBxWvR-RE8vQauyrOr0ZZkBIlXmchrh2PqvKWvVwOMMDY1fhVg7JbmNn3aVkU8YYSiYkdUOzBB8rF4VRPbkhiWVD_jFDL0deHITtw=="
+  },
+  {
+   "label": "Bishojit Sarkar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGciVw7piT4RP1O9ZNkr6JfXsPpQr_g1SISahiSiSQrtT0bzu-uU0kwp7kpHjuBGSEMjISbTZ4_spJM6wRraVNjsgYIKRpevGF7nrdR2eDP6Rpk9kfgC6AxqR0tPeY28RNU2r8zW0fxPURoJMo="
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl34G21n7PKJE8vwnadSlkWau1uGVGAeBjhvePomCm6je7624bhuAJ6C37ixa-eS1HV4RisgoSIvO1BF1HrQ8w2hnalx5Zf9TbqABiDldOt1vrsKxg93dcumCjNXYhDVlxaf4IgvqKOFX420keNLyYz-u5lotlNTQqWc8="
+  },
+  {
+   "label": "Crescitaly Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMfCNxV_6_f4box-yREVN4TPKJPe5Hup0iBWUZkCaiS0LSK5CVifMLHOrbD_vqmh3ct3FpQlJgEtThinnQbtRdeC-kVz3wQ45cMjOvztxQmTMWIgXpCTywQjoXaGK9hkP8IVrmuxvDcmIuOr0J9Lad1yyZnnlNm8XGeRAFCgpZWHoVai2II03enYwKnFlLwomwAJjA7RAzclT2Nn5I46clZnBqsoTd"
+  },
+  {
+   "label": "Arthur Cox",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfn1Hc3Fp0yvdDn8Q46_13a0W6L9C6zt9bcGges3vQ2TJYwVRfaL7WBw7_mhimotycmbiy8PWN5vEVf4G3t3GamYVYg9BxFy7IQkAyNHzoBhhp2Uzy-pCDK0al77hRh-XAgWUHe331hxiuksWmBht3DfNRIg94nCKq_rS6HPdIjI2T2vkTbm1YtVOEgvD3uoJypUha7-qxMxeX477NA8sjdA=="
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt2hLo78Y7fhcdUDSYnqsZyiHyoV7NzrGrYSXLkk_Q68e4nKXxltxE-iRqOXI3TyGHlkHRkTXomi7NZVdnh0hXHOFzFqo1Ukup--CfYCFZnZS9YNyCpTD0iR_ZeUPT6hBW3gCyTAjtn667I5E2PXwTIaJEwxVucED2UaivVpqnHSCU2XXrgirCvlIc3U9fXYlmn88qaAfdXx-IFxTsAU967Na46w=="
+  },
+  {
+   "label": "Snapchat for Business",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwlEEOuoQDwjbTJSX_Lg3RN42rP8njL4P3OXDzuhl7gnZW1NxePlrYUJjCbkJ-fQ5__oMfi_oHZQxE8ERbka35Cuujca-AglmrlyUijHt1ePI64BOm9Bvy-svqa4SesbxDHEhPutJu_Yco5W1sSs0YSTwYS_jYzqp3-gtpyECVCt_pdVHsrPWuycN1p7Bvc2IH0CQ=="
+  },
+  {
+   "label": "The Irish Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzYX_qdhMgAr6u4zJtNbLTrCnSmjxpQfG2u8XKGsXoRPv7d36j_o4LQlA-RJo_4dDMJ-AcWA3hExRABdMkll5qY28S3YY929EKo346ycqleDCtzwznagFTMNMuqtNead_MHWJw5kVjTKfR3-U6_B842R39knwVQj6BG--Uzfuz8yFzw9oMeQuEGVDYN73ELIxxVvxdONNA4t9DTNhkJfBhRIFiDPCSZS5nRPIudfHGp13_F2AEdQ4TsYBkbg=="
+  },
+  {
+   "label": "Caixin Global",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlUcmhOYMiJOZilMHF06BNEJb1QYHeubs8Mw8vGOX_AXxLPqMAx7i80kzJ1vizBHC69ifiVDezsdFiBHl22zao4VNcAgEgFDHOhNzMFFvKhOxg_mbpN9DLrjjiWmAOT26ALtxk5alf5F6mc9W9OBLW_u-4PDydsnJBX2FaRAgPNZsvDEmuSUg6dj1grDBGVmHI8Qzt2FPVqJ5n27OmL4wt"
+  },
+  {
+   "label": "Outlier kit",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2eqT_pyFtpwfqBZx0kl_UdT5QPjE1OkISdRH7zj6zIwgioZJJJ0jCtT2Wp8YLvt_HP3TmnNSnMEW_XhYgtVX0RjxmlnDBuCY4OH9wTxKEBAxtW86_4rbbQ0Hjo9bULpf7apepbJsl380NxUgciKbkJJCvWsY="
+  },
+  {
+   "label": "MilX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEil7URLU8I-nFJY5jNgbEsz_V2Wf0_QkZc5g8sjjNkmbY5TJR-4e58-MxxV_S89gvRhOq4mg7ea5ABsMAtHzbE9w2c8PYiaVhK4owF_VK3Mg8V9Sg97y4pKy6CSK6-mdyvgJp-UqDFBwnT9LtpZJ3O3cmFKijWxSteuURSdLxpyuprUt0_qAk="
+  },
+  {
+   "label": "Write A Catalyst | Medium",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4rlgsN1hshijUD-xtrc74F_gW5k0JgXKiNx3OU-ymXdwoP31KvNNEs8LTsdBpB88QwWQJTjxqPRXyl3Hoes4O0A-JcXrNQWCH5BStwDuL1J-FXdW1Em2uh7CUJroDRz1uAwIy_DCq7poOX25b-lbapbHcnlfYiVvLPoOnRsFs5MoL55X9ZydCIM84JZWXMwr5yu-cnZEMJ_FiVPdrfekZYqS7xnObGxFy-xjLxRxGoLJ4qA=="
+  }
+ ]
+}
