@@ -1,0 +1,348 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі платформи, зокрема TikTok оштрафовано на €530 млн за GDPR, а Amazon врегулював позов на $2.5 млрд. Платформи активно змінюють алгоритми для покращення залучення користувачів та розширюють можливості монетизації для творців, інтегруючи ШІ та посилюючи боротьбу з неоригінальним контентом.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok Ірландським Вищим судом за порушення GDPR щодо передачі даних користувачів до Китаю."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon Prime"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  },
+  {
+   "value": "$31.3 млн",
+   "label": "Викуплені акції Bilibili (станом на 30.06.2026)"
+  },
+  {
+   "value": "$2.25 млн",
+   "label": "Врегулювання позову Amazon щодо крадіжки особистих даних"
+  }
+ ],
+ "top_signal_deep": "Ірландський Вищий суд 25 червня 2026 року підтвердив рішення Комісії із захисту даних (DPC) щодо TikTok, наклавши штраф у розмірі €530 млн за незаконну передачу даних користувачів з Європейської економічної зони до Китаю та недостатню прозорість щодо цих передач. Це один з найбільших штрафів, накладених згідно з GDPR, що підкреслює зростаючий регуляторний тиск на великі технологічні компанії та важливість дотримання правил конфіденційності даних. Хоча TikTok оскаржує суму штрафу, саме рішення суду підтверджує відповідальність компанії.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Irish High Court",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний регуляторний виклик та фінансовий штраф для великої платформи, що підкреслює посилення контролю за конфіденційністю даних.",
+   "url": "https://acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "MySA",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики підписки на Prime",
+   "why": "Велике врегулювання позову, що впливає на репутацію та фінансові показники компанії, а також на прозорість підписних послуг.",
+   "url": "https://www.mysanantonio.com/news/article/amazon-prime-users-have-one-month-to-claim-2-5b-19543166.php"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Elev8or",
+   "title": "TikTok оновив програму винагород для творців",
+   "why": "Прямий вплив на монетизацію творців та стратегію платформи, що стимулює створення якісного контенту.",
+   "url": "https://elev8or.com/tiktok-creator-rewards-program-explained-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритм рекомендацій",
+   "why": "Фундаментальна зміна, що впливає на виявлення контенту та стратегії творців, сприяючи глибшій взаємодії.",
+   "url": "https://support.google.com/youtube/answer/13677353?hl=en"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Stack Influence",
+   "title": "TikTok оновлює алгоритм для глибшої взаємодії",
+   "why": "Зміна пріоритетів алгоритму, що впливає на охоплення та залучення контенту, заохочуючи релевантність та якість.",
+   "url": "https://stackinfluence.com/blog/tiktok-algorithm-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube Blog",
+   "title": "YouTube розширює монетизацію Shorts та маркує ШІ-контент",
+   "why": "Розширення монетизації для ключового формату та впровадження політики щодо ШІ-контенту, що підвищує прозорість.",
+   "url": "https://blog.youtube/news-and-events/improving-ai-labels-for-viewers-and-creators/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Stock Titan",
+   "title": "Bilibili оголосив про викуп акцій на $300 млн та надав оновлення",
+   "why": "Фінансова стратегія, що свідчить про впевненість компанії та впливає на ринкову вартість, з оновленням про вже викуплені акції.",
+   "url": "https://stocktitan.com/news/BILI/bilibili-nasdaq-bili-sets-us300m-24-month-share-buyback-program-100m-repurchased-in-h1-2026-d300m-repurchased-in-h1-2026-d300m.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "PetaPixel",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом",
+   "why": "Зміна контент-політики, що впливає на стратегії творців та якість контенту, надаючи пріоритет оригінальності.",
+   "url": "https://petapixel.com/2026/04/30/new-instagram-policies-target-reposted-content/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Business Wire",
+   "title": "Snapchat зіткнувся з новим позовом від Генпрокурора Арканзасу щодо безпеки неповнолітніх",
+   "why": "Юридичний виклик, що піднімає питання безпеки користувачів та репутації платформи, посилюючи тиск на модерацію контенту.",
+   "url": "https://www.businesswire.com/news/home/20260629571060/en/The-Lanier-Law-Firm-Represents-Arkansas-Attorney-General-Against-Snapchat-Over-Deliberately-Engineered-Predator-Friendly-Features"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Intellectia.AI",
+   "title": "Amazon врегулював позов на $2.25 млн щодо крадіжки особистих даних",
+   "why": "Додатковий регуляторний виклик, що вказує на посилений контроль за дотриманням компанією правил захисту даних.",
+   "url": "https://intellectia.ai/news/amazon-agrees-to-pay-2-25m-to-settle-identity-theft-claims"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat глобально розширює програму підписок для творців",
+   "why": "Розширення можливостей монетизації для творців на платформі, що може залучити більше контент-мейкерів.",
+   "url": "https://www.snapchat.com/creators"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає нові ШІ-інструменти для реклами",
+   "why": "Інновації в рекламних технологіях, що можуть покращити ефективність та доходи для рекламодавців та платформи.",
+   "url": "https://www.snapchat.com/business/ads"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє зростання прибутку завдяки ШІ та рекламним доходам",
+   "why": "Позитивна фінансова динаміка, що підкреслює ефективність інтеграції ШІ та рекламних стратегій.",
+   "url": "https://ir.bilibili.com/news-releases"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску та юридичних викликів для великих платформ, особливо у сферах конфіденційності даних та безпеки неповнолітніх.",
+  "Активні зміни в алгоритмах платформ (YouTube, TikTok), спрямовані на покращення залучення користувачів, задоволеність та пріоритетність якісного контенту.",
+  "Розширення та оптимізація можливостей монетизації для творців на різних платформах, включаючи короткі відеоформати та нові програми винагород.",
+  "Зростаюча інтеграція ШІ в контент-стратегії (маркування ШІ-контенту на YouTube) та рекламні інструменти (Snapchat).",
+  "Посилення боротьби з неоригінальним контентом на платформах (Instagram) для підтримки оригінальних творців.",
+  "Фінансова активність та стратегії компаній (Bilibili) для підтримки акціонерної вартості та зростання."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна регуляторна активність (штрафи TikTok та Amazon, позови проти Snapchat), зміни в алгоритмах та монетизації (YouTube, Instagram, Snapchat)."
+  },
+  {
+   "region": "Азія",
+   "note": "Фінансова активність (програма викупу акцій Bilibili, зростання прибутку)."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів"
+  }
+ ],
+ "changed": "Порівняно з попереднім днем, сьогоднішній аналіз включає оновлення щодо програми викупу акцій Bilibili (викуплено $31.3 млн акцій станом на 30 червня 2026 року), новий позов проти Snapchat від Генпрокурора Арканзасу (поданий 29 червня 2026 року), а також врегулювання Amazon позову на $2.25 млн щодо крадіжки особистих даних (30 червня 2026 року). Також більш детально висвітлено розширення монетизації YouTube Shorts та автоматичне маркування ШІ-контенту, посилення боротьби Instagram з неоригінальним контентом та зростання прибутку Bilibili, які були згадані в попередніх днях, але не були центральними у зведенні за 29 червня.",
+ "bizdev": [
+  "Розробка рішень для творців, що допомагають адаптуватися до змін алгоритмів та монетизаційних програм на YouTube та TikTok.",
+  "Консультування компаній щодо дотримання нових регуляторних вимог (GDPR, безпека неповнолітніх) для уникнення значних штрафів та позовів.",
+  "Створення інструментів для виявлення та управління ШІ-генерованим контентом, а також для боротьби з неоригінальним контентом.",
+  "Допомога компаніям у розробці стратегій диверсифікації доходів на тлі змін у монетизації платформ."
+ ],
+ "watch_next": [
+  "Подальший розвиток судових процесів проти TikTok та Snapchat.",
+  "Вплив змін алгоритмів YouTube та TikTok на охоплення та доходи творців.",
+  "Нові ініціативи платформ щодо інтеграції ШІ та їх вплив на контент-стратегії.",
+  "Фінансові результати Bilibili після програми викупу акцій."
+ ],
+ "sources": [
+  {
+   "label": "Stock Titan",
+   "url": "https://stocktitan.com/news/BILI/bilibili-nasdaq-bili-sets-us300m-24-month-share-buyback-program-100m-repurchased-in-h1-2026-d300m-repurchased-in-h1-2026-d300m.html"
+  },
+  {
+   "label": "Acompli",
+   "url": "https://acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "label": "MySA",
+   "url": "https://www.mysanantonio.com/news/article/amazon-prime-users-have-one-month-to-claim-2-5b-19543166.php"
+  },
+  {
+   "label": "YouTube Blog",
+   "url": "https://blog.youtube/news-and-events/improving-ai-labels-for-viewers-and-creators/"
+  },
+  {
+   "label": "MarketScreener",
+   "url": "https://www.marketscreener.com/quote/stock/BILIBILI-INC-60472494/news/Bilibili-Inc-announces-an-Equity-Buyback-for-300-million-worth-of-its-shares-44093951/"
+  },
+  {
+   "label": "Levy Konigsberg",
+   "url": "https://www.levykonigsberg.com/snapchat-sexual-abuse-lawsuits/"
+  },
+  {
+   "label": "NeuralWired",
+   "url": "https://neuralwired.com/gdpr-ai-fines-tiktok-e530m-and-eu-ai-act-august/"
+  },
+  {
+   "label": "Consumer Notice",
+   "url": "https://www.consumernotice.org/legal/snapchat-lawsuits/"
+  },
+  {
+   "label": "Simply Wall St News",
+   "url": "https://simplywall.st/news/nasdaq-bili-is-bilibilis-us300-million-buyback-under-new-governance-altering-the-investment-case-for-bilibili"
+  },
+  {
+   "label": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/2361667/bilibili-bili-launches-300m-share-repurchase-program"
+  },
+  {
+   "label": "Winder Law Firm",
+   "url": "https://winderlawfirm.com/snapchat-mental-health-lawsuit/"
+  },
+  {
+   "label": "PetaPixel",
+   "url": "https://petapixel.com/2026/04/30/new-instagram-policies-target-reposted-content/"
+  },
+  {
+   "label": "Mashable SEA",
+   "url": "https://sea.mashable.com/tech/29672/instagram-will-stop-recommending-accounts-that-dont-post-original-content"
+  },
+  {
+   "label": "ComplianceHub.Wiki",
+   "url": "https://compliancehub.wiki/tiktok-vs-the-dpc-what-the-irish-supreme-court-ruling-means-for-gdpr-cross-border-enforcement/"
+  },
+  {
+   "label": "Class Action Lawsuits",
+   "url": "https://classactionlawsuits.io/amazon-prime-membership-ftc-settlement/"
+  },
+  {
+   "label": "Reddit",
+   "url": "https://www.reddit.com/r/youtube/comments/1d34z2f/summary_of_youtubes_new_ai_disclosure_and/"
+  },
+  {
+   "label": "Disrupt Marketing",
+   "url": "https://disruptmarketing.com/instagram-original-content-update-2026/"
+  },
+  {
+   "label": "Helping Survivors",
+   "url": "https://www.helpingsurvivors.org/snapchat-sexual-abuse-lawsuit/"
+  },
+  {
+   "label": "Elev8or",
+   "url": "https://elev8or.com/tiktok-creator-rewards-program-explained-2026/"
+  },
+  {
+   "label": "Conbersa",
+   "url": "https://conbersa.com/youtube-shorts-monetization/"
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://stackinfluence.com/blog/tiktok-algorithm-2026/"
+  },
+  {
+   "label": "FinTech.am",
+   "url": "https://fintech.am/youtube-eyes-monetization-plans-for-youtube-shorts-report/"
+  },
+  {
+   "label": "Hootsuite Blog",
+   "url": "https://blog.hootsuite.com/tiktok-algorithm/"
+  },
+  {
+   "label": "Clapper",
+   "url": "https://clapper.com/blog/youtube-shorts-monetization-in-2026-what-it-pays-what-it-requires-and-what-creators-are-choosing-instead/"
+  },
+  {
+   "label": "GeekWire",
+   "url": "https://www.geekwire.com/2026/amazon-mgm-studios-drops-film-about-sam-altman-months-after-tech-giants-50b-openai-deal/"
+  },
+  {
+   "label": "Ampfluence",
+   "url": "https://ampfluence.com/tiktok-algorithm/"
+  },
+  {
+   "label": "Business Wire",
+   "url": "https://www.businesswire.com/news/home/20260629571060/en/The-Lanier-Law-Firm-Represents-Arkansas-Attorney-General-Against-Snapchat-Over-Deliberately-Engineered-Predator-Friendly-Features"
+  },
+  {
+   "label": "Intellectia.AI",
+   "url": "https://intellectia.ai/news/amazon-agrees-to-pay-2-25m-to-settle-identity-theft-claims"
+  },
+  {
+   "label": "The Irish Times",
+   "url": "https://www.irishtimes.com/ireland/2026/04/30/supreme-court-finds-for-tiktok-in-dispute-with-data-protection-commission/"
+  },
+  {
+   "label": "Legit.eu",
+   "url": "https://legit.eu/tiktok-fined-e530-million-by-irish-dpc-for-failing-to-protect-eu-data-transferred-to-china/"
+  },
+  {
+   "label": "Amazon Studios",
+   "url": "https://press.amazonstudios.com/us/en/press-releases/prime-video-makes-splash-at-inaugural-2026-annecy-panel-with-exciting-announcements-and-upcoming-series-news"
+  },
+  {
+   "label": "TikTok Support",
+   "url": "https://support.tiktok.com/en/business-and-creator/creator-rewards-program/creator-rewards-program"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://support.google.com/youtube/answer/13677353?hl=en"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://www.snapchat.com/creators"
+  },
+  {
+   "label": "Snapchat Business",
+   "url": "https://www.snapchat.com/business/ads"
+  },
+  {
+   "label": "Bilibili Investor Relations",
+   "url": "https://ir.bilibili.com/news-releases"
+  }
+ ]
+}
