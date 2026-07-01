@@ -1,0 +1,298 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі платформи, зокрема TikTok оштрафовано на €530 млн за GDPR, а Amazon врегулював позов на $2.5 млрд та зіткнувся з новим позовом в Австралії щодо реклами на Prime Video. Платформи активно змінюють алгоритми для покращення залучення користувачів, фокусуючись на глибинній взаємодії та оригінальному контенті, а також розширюють можливості монетизації для творців, інтегруючи ШІ та пропонуючи нові програми винагород.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok за порушення GDPR."
+ },
+ "figures": [
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  },
+  {
+   "value": "$3 млрд",
+   "label": "Виплати творцям на Facebook у 2025 році"
+  },
+  {
+   "value": "850,000+",
+   "label": "Підписників Amazon Prime Video в Австралії, яких торкнувся позов"
+  },
+  {
+   "value": "$1,000 - $3,000",
+   "label": "Щомісячні виплати Meta для творців на Facebook Reels"
+  },
+  {
+   "value": "5 млрд",
+   "label": "Підписників TheSoul Group"
+  },
+  {
+   "value": "10 млрд",
+   "label": "Щомісячних переглядів TheSoul Group"
+  }
+ ],
+ "top_signal_deep": "TikTok продовжує впроваджувати значні зміни у свій алгоритм, тепер надаючи пріоритет тестуванню відео серед підписників перед ширшою дистрибуцією. Це означає, що якість контенту та його здатність викликати глибоку взаємодію (перегляди, коментарі, збереження) стають критично важливими для охоплення. Одночасно платформа активно заохочує бренди до створення епізодичного контенту за допомогою ШІ-функцій, відкриваючи нові шляхи монетизації та інтегруючи рекламні рішення безпосередньо в контент. Ці кроки підкреслюють стратегію TikTok щодо підвищення якості контенту, посилення лояльності аудиторії та розширення рекламних можливостей, що вимагатиме від творців та брендів адаптації своїх контент-стратегій.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 3
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Вказує на посилення регуляторного тиску на великі платформи, що може вплинути на їхні операційні моделі та конфіденційність даних користувачів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики підписки на Prime",
+   "why": "Демонструє зростаючий контроль за споживчими практиками великих технологічних компаній та потенційні фінансові наслідки за порушення.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon зіткнувся з позовом в Австралії через рекламу на Prime Video та додаткову плату за перегляд без реклами",
+   "why": "Підкреслює глобальне посилення регуляторного нагляду за змінами в умовах підписки та монетизації стрімінгових сервісів, що може вплинути на доходи та стратегії інших гравців ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuuN25kiX_0lhm02EvJMG-tu4uV9-AAohVusiW-gX5fu4QNlcaNzoabFOKOPJvKCrDwqzOkQCpSQqYJoIfAhp8FUHCu2jaGLSgBpqnZ5njmGrPya55bGL3svlognfLJEwA7fGnnyGIgpddZ5nOCUNakvrY_tyRnvI357riSJcJ5KsPg4omz58iuXPgh8J7wkoEkxej-zTHM_En_-puqnO0Km5YJzI1509owjOz-KU4p0qMudfqtZDV-vzUMGk"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм: пріоритетність підписників, глибинна взаємодія, оригінальний контент, ШІ",
+   "why": "Значно змінює стратегії створення та дистрибуції контенту для творців та брендів, фокусуючись на якості та залученні аудиторії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnK6QS-uzVhwwNxzhDcHoBn-9kUYGBNMHuMiA7KJaDZGvxGX20pNYyKKn4iKtjU0oMArLa46pvMnq6anfkL19A1z69I83FpPoaGlcGK6pDgYRcuZcyS8ogabIsZYDlY248iICNi0xM0UL1wCr7"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами",
+   "why": "Стимулює творців до створення більш якісного та залучаючого контенту, потенційно збільшуючи доходи та лояльність до платформи.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok заохочує бренди створювати епізодичний контент (\"Mini Dramas\") за допомогою ШІ-функцій для реклами",
+   "why": "Відкриває нові можливості для монетизації контенту для брендів та творців, інтегруючи ШІ для масштабування рекламних кампаній.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeF3ojJ85yDR7SNdStVWK43_OX1UCSVkU5uBJuM0H3UORUcszh1jafplqyIxomAa6oV8Kf2mCMSvMH8QUe9ddsj9bxU4Iui27rCnr0EILuB9KbAYeJATMe0NfFS18up15xQDpsS8vDyyyvom4Bp2rs8jepVwITnu4EsxXatKaSadHfoMndJvRxOQ_YQrSa2qHvHyNuESwWv5FHad7TxVA0e3wgNhq-dA=="
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритм рекомендацій, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Впливає на видимість контенту та стратегії зростання для творців, підкреслюючи важливість утримання аудиторії.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює монетизацію Shorts та автоматично маркує ШІ-контент",
+   "why": "Розширює можливості заробітку для творців коротких відео та встановлює стандарти прозорості для контенту, створеного ШІ.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оголосив про програму викупу акцій на $300 млн",
+   "why": "Сигналізує про впевненість компанії у своїх фінансових перспективах та може вплинути на вартість акцій.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Instagram",
+   "title": "Instagram посилює боротьбу з неоригінальним контентом",
+   "why": "Спрямовано на покращення якості контенту на платформі та підтримку оригінальних творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Meta пропонує до $3,000 на місяць для залучення творців на Facebook Reels",
+   "why": "Посилює конкуренцію за творців коротких відео між платформами та надає фінансові стимули для переходу на Facebook.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjKdOPighl1iw9i3A6X2phRIowCdTm3LV_6ybs45wdTG6N8QYyJf1F4RnNoPh1CkXEwJKh8ukEjfhot5aMluJhYd-BNm4bNPH0MTo5d2uQaUyhVUwo3Uf6PWYoPDcVeT4hzvqsIdsvamicCpnomj6yn6WQvlIkEYmDUvwtzLMkW6HzXZ7CNnhAhSTKTzBayQHQREAi6GDihRn-Xaz22GJt-p5jur2_WMusP9ebuZTgoBJyJOnG"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює з OTT Studio для дистрибуції контенту на YouTube та соціальних платформах",
+   "why": "Розширює охоплення контенту TheSoul Group та демонструє стратегію диверсифікації дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbyYgwleLfpSf4Y9ukWfqhaM4IMZmsvqPxXLofO3C4jUAypEyibf0DXx77a3Hc0dsuRQR_MYKy8-0XYpcH9M3msZliNaaPd8Dlp9cvY0AsFfVewgm4d9SAVzDTRPp-95R7N4fSBLA0gGrgJi9E--nPIOV9"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "5-Minute Crafts від TheSoul Group доступний на Prime Video в США",
+   "why": "Підкреслює важливість диверсифікації каналів дистрибуції для великих контент-мейкерів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbyYgwleLfpSf4Y9ukWfqhaM4IMZmsvqPxXLofO3C4jUAypEyibf0DXx77a3Hc0dsuRQR_MYKy8-0XYpcH9M3msZliNaaPd8Dlp9cvY0AsFfVewgm4d9SAVzDTRPp-95R7N4fSBLA0gGrgJi9E--nPIOV9"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Dove співпрацює з Prime Video для інтеграції продукту в серіал \"Elle\"",
+   "why": "Демонструє нові підходи до інтеграції брендів у відеоконтент та використання стрімінгових платформ для маркетингу.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2GnSzS2qvKst2Zl7D4apWp9tjYmimJEvF4PjkJ7o3DIVlsgWzcbqLOaqB5S9OHl4WvxC7v6isF5-rkrG5qEJU4LQiBcIM8UL0hSdvjZuDp5jnX-TdpnCywZWq0ip_pjpMCsX9vjswUZFSDOkFtPOUAiQLZlgQRy_ZRIStOHK99sDeS_xVn7Ot_nPCiDtsbXATBKmLZJ7a055r1hKZQnY_kKhQdwYuc89dfxbkIyDxP6cPJ9XT3MJE6dCBF6gWUVIn4sT_o8w-0a92yku1s9dk_C0YmzNav3M1rDCrXGellY7-nA=="
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "MakersTV",
+   "title": "Albert Butler з'явиться на Legacy Makers TV",
+   "why": "Демонструє розширення контентної пропозиції MakersTV та залучення експертів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDDohVzfqYRum_-nplGTmQI6ggaJzexl5w37CEKwEXWnW9_9QBrJnFZn3vB1VjLE3ETcK7YtGpHpfa2juDbo32-__PeXZpWr1jELegj6f9oeOB8yKIG6n_XkPQcJeXe0SXJoDjc_MEkflSc7ZlyX-TTd2MXpdwCo_q5nZ4J1eFmCjFjs8AGpr393Is8M5ByJG24Q6"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії щодо конфіденційності даних, споживчих практик та умов підписки.",
+  "Активні зміни в алгоритмах платформ, що фокусуються на залученні користувачів, якості контенту, оригінальності та нішевих спільнотах.",
+  "Розширення можливостей монетизації для творців через нові програми винагород, партнерства та інструменти.",
+  "Зростаюча інтеграція ШІ для покращення рекомендацій, модерації контенту, рекламних рішень та автоматичного маркування контенту.",
+  "Посилення боротьби з неоригінальним контентом для підтримки оригінальних творців.",
+  "Диверсифікація каналів дистрибуції контенту великими гравцями ринку.",
+  "Посилення конкуренції за творців між платформами за допомогою фінансових стимулів та покращених умов."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на TikTok (ЄС) та Amazon (США, Австралія). Активні зміни в монетизації та алгоритмах на YouTube, Meta, TikTok."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє зростання та оголошує про викуп акцій. TikTok активно розвиває монетизацію епізодичного контенту."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Сьогоднішній бриф додає нові деталі щодо алгоритмічних змін TikTok, зокрема пріоритетність підписників для тестування відео та посилення фокусу на глибинній взаємодії та оригінальності контенту. Також з'явилася нова інформація про позов проти Amazon в Австралії щодо реклами на Prime Video, що розширює картину регуляторного тиску на компанію. Новина про заохочення брендів TikTok до створення епізодичного контенту за допомогою ШІ є новим сигналом щодо розвитку продукту та монетизації.",
+ "bizdev": [
+  "Розробка стратегій контенту, орієнтованих на \"глибинну взаємодію\" та \"оригінальність\" для TikTok.",
+  "Дослідження можливостей інтеграції ШІ для створення та дистрибуції контенту, а також для рекламних рішень.",
+  "Аналіз програм винагород для творців на різних платформах (TikTok Creator Rewards, Meta Creator Fast Track, YouTube Shorts monetization) для оптимізації стратегій монетизації.",
+  "Розгляд створення епізодичного контенту для брендів на TikTok.",
+  "Моніторинг регуляторних змін та їхнього впливу на умови підписки та рекламні моделі.",
+  "Диверсифікація каналів дистрибуції контенту, включаючи стрімінгові сервіси."
+ ],
+ "watch_next": [
+  "Подальші регуляторні рішення щодо TikTok та Amazon.",
+  "Вплив нових алгоритмів TikTok та YouTube на показники залучення та монетизації творців.",
+  "Розвиток програм винагород для творців на Meta та TikTok.",
+  "Нові партнерства та M&A у сфері відеодистрибуції.",
+  "Інновації у використанні ШІ для створення та дистрибуції відеоконтенту."
+ ],
+ "sources": [
+  {
+   "label": "Micky Weis",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnK6QS-uzVhwwNxzhDcHoBn-9kUYGBNMHuMiA7KJaDZGvxGX20pNYyKKn4iKtjU0oMArLa46pvMnq6anfkL19A1z69I83FpPoaGlcGK6pDgYRcuZcyS8ogabIsZYDlY248iICNi0xM0UL1wCr7"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeF3ojJ85yDR7SNdStVWK43_OX1UCSVkU5uBJuM0H3UORUcszh1jafplqyIxomAa6oV8Kf2mCMSvMH8QUe9ddsj9bxU4Iui27rCnr0EILuB9KbAYeJATMe0NfFS18up15xQDpsS8vDyyyvom4Bp2rs8jepVwITnu4EsxXatKaSadHfoMndJvRxOQ_YQrSa2qHvHyNuESwWv5FHad7TxVA0e3wgNhq-dA=="
+  },
+  {
+   "label": "Darkroom Agency",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8-g9ebjRuiADVTVHxuQqHHTajilwao3pL6WDgcbeWGcvz_F4Z5y7Pv0WxiYMKNL5Kyi5TLbb1QmZtmJRVk3HJnWSyWgDZuPlQuBHkT83tyxfS1JHZi0806ftyHzVz4F9vQgD6Djx2wFJ5rAiN3QQUi02gmd5pVnlLy-F_E66Eg_tdrochd9N1hY3_g3Y7Ts750jnzpWfPsbf9ffF12ngVhmpOxjKTKa-c6ah5HvC3"
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiKMbnUVkhGD2XRUF5z9n6XozMgux7t0daX2eTZ7yVcukBUaPwER29ZYnbZcglEf8PNVtKngn7B6ujLM2a5c4eJ-pCDcTt2CU34eyOlupESqTOVeFV0FQSILbIJhdYAtQqLFALdj7Gxh1SXoB-c5xOWWnTlP8Cgqb7pWpmrYOP_m_AAIQqKLw=="
+  },
+  {
+   "label": "Ampfluence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFstJSNuU80iVhLo722N17iBsrvBRbz26dMLrWLKKhPpPQuCy_LVFXIvzYEsV0x0yK06kNQZyM4sIQHHoTWFsCB5BXH5PvOlRWR02OiaVrmbMrS6hfHgzf8hMpSLC19_66ZABMCg3OYPPLkWakIxs2T7T8wROm5J1PvUVL8BJmW-_jFjdm_y1fNXHWsCvgVs07GZnCtyBM4SD-WP8-dcw=="
+  },
+  {
+   "label": "EIN Presswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDDohVzfqYRum_-nplGTmQI6ggaJzexl5w37CEKwEXWnW9_9QBrJnFZn3vB1VjLE3ETcK7YtGpHpfa2juDbo32-__PeXZpWr1jELegj6f9oeOB8yKIG6n_XkPQcJeXe0SXJoDjc_MEkflSc7ZlyX-TTd2MXpdwCo_q5nZ4J1eFmCjFjs8AGpr393Is8M5ByJG24Q6"
+  },
+  {
+   "label": "digital terminal",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuuN25kiX_0lhm02EvJMG-tu4uV9-AAohVusiW-gX5fu4QNlcaNzoabFOKOPJvKCrDwqzOkQCpSQqYJoIfAhp8FUHCu2jaGLSgBpqnZ5njmGrPya55bGL3svlognfLJEwA7fGnnyGIgpddZ5nOCUNakvrY_tyRnvI357riSJcJ5KsPg4omz58iuXPgh8J7wkoEkxej-zTHM_En_-puqnO0Km5YJzI1509owjOz-KU4p0qMudfqtZDV-vzUMGk"
+  },
+  {
+   "label": "WhistleOut",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhNm96gEepMWdVbjfnjqv3nAYNnyJfsN9VmiHRyhd13S-KP-VGMgvqch2n0nx6jPLHXNxqTBAlzQNlWs7PiXP7fnntGQA3eg_J8q4kwbRMHKNk1yF8Rfh86j_fCtfAUoJGke6uIeIC8oY_9H5-vovH66va5BkaBbHVPsC7hc="
+  },
+  {
+   "label": "VideoAge International",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIWnt2o48Q0KNUdXa0AfjvpYYDta99CgHqmteuoOX9GQLTbzimR2dW-HgLGjnnyC6nMb4HjI0Co3Ze1zRSNTu2SEfeRrRVLhcTBDiuW8-mRWI9bI9Vvo52ZYM1_4qdhGgzIbQZLxG7eWdFf_gF47FDZ5y5K5dwgG2gC5eRz84l2fKqKHrqwWyBp8f9EVDgMavnajGioIDopjAKgA=="
+  },
+  {
+   "label": "Morningstar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2GnSzS2qvKst2Zl7D4apWp9tjYmimJEvF4PjkJ7o3DIVlsgWzcbqLOaqB5S9OHl4WvxC7v6isF5-rkrG5qEJU4LQiBcIM8UL0hSdvjZuDp5jnX-TdpnCywZWq0ip_pjpMCsX9vjswUZFSDOkFtPOUAiQLZlgQRy_ZRIStOHK99sDeS_xVn7Ot_nPCiDtsbXATBKmLZJ7a055r1hKZQnY_kKhQdwYuc89dfxbkIyDxP6cPJ9XT3MJE6dCBF6gWUVIn4sT_o8w-0a92yku1s9dk_C0YmzNav3M1rDCrXGellY7-nA=="
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRZhiZnMAHn3IZ9AgPf5ca1u-UZ3r-5gUSz5PWZrBt2gkln5A48vk7HvDwhFDfFZLvhbHhTRRQMikqzcRm0s8q5NxWqIR1iBzcq9GUIW3_wm8etEIR3sAdp2yuf_6-s_KhAg5_RT9GO2VD-vysW2VWfwQkl2-e079VCf25xAN4scD5MBwC_sJAjP4M6Gzv7M19KVfa8xCJHFK2HFdRAFka5F7nXg8XHs92aQZpgIlp3kWjE4sJSbWZOdpDj-RL06WLviDwCn0XOa2WGUwZr5Ff9cvChEzWCgLtTZFtrV4="
+  },
+  {
+   "label": "PetaPixel",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9DXsEPpsWVkfLmc5TeZi0R1TQlskhsHhb1GAc25uNTV6s6LfgStHmp-YAG-flBYaCE0aOBhWrryjYw0ISXxGtwqbvLUGJycQSq693QIx0WZLy_FVlEv5ltfclnEWDstwCj108mI4GxzNPqmMRoh2dCU9jltfUDR-tZpzJPNC5UAQPTh6YZWmg42c8DOMdklAH_A=="
+  },
+  {
+   "label": "SQ Magazine",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE8ODzqCtzn5MYuSmCcaTHO3Ey1OHF-HOgQ1D0EYt_D_CT-ZorDVyrZqEEzPbLwUBTmTKai_8e0mIT5miV4CRNTre5lblp3sBlI-xxs2BLcnbbahLaNG3Gh9s9bOGb_9liPakM6YTbu32p30_y0X4gGpLKqn7SwE0cppIghWM1HGk="
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbyYgwleLfpSf4Y9ukWfqhaM4IMZmsvqPxXLofO3C4jUAypEyibf0DXx77a3Hc0dsuRQR_MYKy8-0XYpcH9M3msZliNaaPd8Dlp9cvY0AsFfVewgm4d9SAVzDTRPp-95R7N4fSBLA0gGrgJi9E--nPIOV9"
+  }
+ ]
+}
