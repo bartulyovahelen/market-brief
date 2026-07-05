@@ -1,0 +1,224 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі платформи, зокрема значними штрафами для TikTok та врегулюваннями позовів для Amazon, а також новим тиском на Meta через контент. Платформи активно оновлюють алгоритми для покращення залучення користувачів та розширюють можливості монетизації для творців, інтегруючи ШІ, що також викликає обговорення регулювання ШІ-генерованого контенту.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok за порушення GDPR."
+ },
+ "figures": [
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon за оманливі практики Prime"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  }
+ ],
+ "top_signal_deep": "Останні дні відзначилися значним посиленням регуляторного тиску на ключових гравців ринку відеодистрибуції. TikTok був оштрафований на €530 млн за порушення GDPR, що підкреслює зростаючу увагу до захисту даних користувачів. Паралельно, уряд посилює тиск на Meta через рекламу дитячої сексуальної експлуатації в Instagram, вимагаючи негайного видалення контенту та пояснень. Ці події свідчать про глобальну тенденцію до посилення відповідальності платформ за контент та прозорість їхніх операцій, що може призвести до значних змін у політиках модерації та рекламних практиках.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 4
+  },
+  {
+   "label": "Контент",
+   "n": 7
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний регуляторний тиск на великі платформи, прецедент для інших.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики Prime",
+   "why": "Вказує на посилення контролю за практиками підписки та маркетингу.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Creator Rewards Program з вищими виплатами",
+   "why": "Змінює умови монетизації для творців, потенційно збільшуючи їхні доходи та залученість.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритми рекомендацій, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Впливає на охоплення контенту, може змінити динаміку переглядів для нішевих творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми, контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм для глибшої взаємодії та оригінального контенту",
+   "why": "Впливає на видимість контенту, заохочує оригінальність та глибинну взаємодію.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми, продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok скорочує сотні модераторів контенту, посилюючи використання ШІ для модерації",
+   "why": "Вказує на стратегію TikTok щодо посилення ролі ШІ у модерації контенту, що може вплинути на якість та безпеку платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPqM3niresUEzKOfxocXWgzIcBSxKT0ewz31xgzHS_bGtwIe59X2h28IgjEO5PC8Mx__wQxs0T7vSaGhG_jPc4qkkbD1Cfv27oAc_59_qI3PxUr1vf8Dk3Q2O_KAok6YkUNitOf8rWi26AoExyqMA_HDddpReVfU1LfniDX1vpW76wKc62ODJGVmrggFajCG5l7_71"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції, контент",
+   "stream": "загальний ринок",
+   "source": "Законодавство",
+   "title": "Представлено законопроєкт про маркування ШІ-генерованого контенту",
+   "why": "Створює нові вимоги до творців та платформ щодо прозорості ШІ-контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції, алгоритми, контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube попереджає британських творців про нові правила контролю контенту уряду",
+   "why": "Потенційно може змінити алгоритми рекомендацій та охоплення контенту, надаючи перевагу мейнстрімним ЗМІ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRTw46PLaqHaBmIcN0no7L_kzodctU2YYoYzqilyndQ7eTbmbNeU90jZOt6uBlpJwEA17FrUomtk5cTQh3HZ7q7CpPPinEoq1UU71i4tmzLkEhOsG3HpGu2jHlm0sNv3Ws-y8subY9kVC3mwVc6RpGDGjLxaWt1LBri7Z9ZdcyKg4C1CwenmyJezZSf7vsPZHumAJBnx1D2GQz_Sqyv6FthCgoc3yip6A="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції, контент",
+   "stream": "платформа",
+   "source": "Meta / Instagram",
+   "title": "Уряд посилює тиск на Meta через рекламу дитячої сексуальної експлуатації в Instagram",
+   "why": "Вказує на посилення регуляторного контролю за безпекою контенту та відповідальністю платформ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEld0PN7leukVr24wov_g1fVMCLNUhYqTOrOY-OgQpPAwNxdGJPoqkVrPH_9CmPuY1h-XAlgilNJjuZ1YCYEnnzreWoJhqp1UkbCTk7-cBpqvRso_h-dgLsq-ZfTP6fh61UVghItPrOgSs82evX_N1yIg5VgItTjG9GksFj7QYAoGZY1Rk7Ao3IwOuGnqDKAOCRWhvyS5tg0ytJySkV_hbbX6jyeeZyKMssu8oYvW8wC3bj2VdjicOPnXoaMYeD-P3ZpTtWzk-PbQ6uD6KHHPW5haZp8SW_mwo="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює можливості монетизації Shorts",
+   "why": "Збільшує можливості заробітку для творців коротких відео.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції, продукт",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon зіткнувся з позовом в Австралії через рекламу на Prime Video",
+   "why": "Продовження регуляторного тиску, вплив на модель монетизації Prime Video.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент, продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok заохочує бренди створювати епізодичний контент за допомогою ШІ",
+   "why": "Нові можливості для брендів та рекламодавців, інтеграція ШІ у створення контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент, регуляції",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube видалив близько 600 відео з рекламою російського заводу «Алабуга»",
+   "why": "Демонструє посилення контролю за контентом, пов'язаним з чутливими темами та геополітикою.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт, монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Agentic Hub для ШІ-оптимізації реклами",
+   "why": "Спрощує створення реклами для брендів, інтегрує ШІ в рекламні інструменти.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оголосив про програму викупу акцій на $300 млн",
+   "why": "Впливає на вартість акцій компанії, може свідчити про впевненість у майбутньому.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQW1UB8iugbCqGNtM4Qt2_nd2sPGV4gfWTlZCztytR30phNIXPb84LmPHbkK4vryb1lxBVms2Hz2v8O72E3In2OMMxAkFZ7Zwahf-2j1FEOZReDT2XpGrSkcD8ZUmNgOXztQndyOHAKE0FjQIJj_EPgsAK8edhy2pq2mmvSxFrefHEARcaMhEgHDSxp_3R5uBTO2Xu6wP9DnhB0tBA5AQBdGF0XpD1PlOaveuMeewjrZp8yr79ENgZ9tyt"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, що призводить до значних штрафів та врегулювань позовів.",
+  "Активна інтеграція ШІ у створення, модерацію та оптимізацію контенту, а також обговорення регулювання ШІ-генерованого контенту.",
+  "Зміни в алгоритмах платформ, спрямовані на покращення залучення користувачів, пріоритезацію оригінального контенту та нішевих спільнот.",
+  "Розширення можливостей монетизації для творців на різних платформах."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску (ЄС, США, Австралія, Велика Британія) на TikTok, Amazon, Meta/Instagram. Обговорення законопроєктів щодо ШІ-контенту."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili оголосив про програму викупу акцій. Регуляторний тиск на Meta/Instagram в Індії."
+  },
+  {
+   "region": "CIS",
+   "note": "YouTube видалив відео з рекламою російського заводу «Алабуга»."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження ШІ-інструментів для створення, оптимізації та модерації відеоконтенту.",
+  "Консультування компаній щодо відповідності регуляторним вимогам (GDPR, маркування ШІ-контенту та безпека платформ).",
+  "Розробка стратегій крос-промоції контенту між різними платформами для максимізації охоплення та монетизації.",
+  "Створення нових моделей монетизації та програм винагород для творців контенту."
+ ],
+ "watch_next": [
+  "Подальші регуляторні рішення та штрафи щодо TikTok, Amazon та Meta.",
+  "Розвиток та прийняття законопроєктів про регулювання ШІ-генерованого контенту.",
+  "Нові оновлення алгоритмів рекомендацій та політик контенту від YouTube, TikTok та Meta.",
+  "Запуск нових програм монетизації та інструментів для творців на провідних платформах."
+ ],
+ "sources": [
+  {
+   "label": "The Independent",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPqM3niresUEzKOfxocXWgzIcBSxKT0ewz31xgzHS_bGtwIe59X2h28IgjEO5PC8Mx__wQxs0T7vSaGhG_jPc4qkkbD1Cfv27oAc_59_qI3PxUr1vf8Dk3Q2O_KAok6YkUNitOf8rWi26AoExyqMA_HDddpReVfU1LfniDX1vpW76wKc62ODJGVmrggFajCG5l7_71"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQW1UB8iugbCqGNtM4Qt2_nd2sPGV4gfWTlZCztytR30phNIXPb84LmPHbkK4vryb1lxBVms2Hz2v8O72E3In2OMMxAkFZ7Zwahf-2j1FEOZReDT2XpGrSkcD8ZUmNgOXztQndyOHAKE0FjQIJj_EPgsAK8edhy2pq2mmvSxFrefHEARcaMhEgHDSxp_3R5uBTO2Xu6wP9DnhB0tBA5AQBdGF0XpD1PlOaveuMeewjrZp8yr79ENgZ9tyt"
+  },
+  {
+   "label": "Washington Examiner",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRTw46PLaqHaBmIcN0no7L_kzodctU2YYoYzqilyndQ7eTbmbNeU90jZOt6uBlpJwEA17FrUomtk5cTQh3HZ7q7CpPPinEoq1UU71i4tmzLkEhOsG3HpGu2jHlm0sNv3Ws-y8subY9kVC3mwVc6RpGDGjLxaWt1LBri7Z9ZdcyKg4C1CwenmyJezZSf7vsPZHumAJBnx1D2GQz_Sqyv6FthCgoc3yip6A="
+  },
+  {
+   "label": "Business Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEld0PN7leukVr24wov_g1fVMCLNUhYqTOrOY-OgQpPAwNxdGJPoqkVrPH_9CmPuY1h-XAlgilNJjuZ1YCYEnnzreWoJhqp1UkbCTk7-cBpqvRso_h-dgLsq-ZfTP6fh61UVghItPrOgSs82evX_N1yIg5VgItTjG9GksFj7QYAoGZY1Rk7Ao3IwOuGnqDKAOCRWhvyS5tg0ytJySkV_hbbX6jyeeZyKMssu8oYvW8wC3bj2VdjicOPnXoaMYeD-P3ZpTtWzk-PbQ6uD6KHHPW5haZp8SW_mwo="
+  }
+ ]
+}
