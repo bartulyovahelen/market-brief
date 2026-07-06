@@ -1,0 +1,327 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі платформи, зокрема значними штрафами для TikTok та врегулюваннями позовів для Amazon. Платформи активно оновлюють алгоритми для покращення залучення користувачів та розширюють можливості монетизації для творців, інтегруючи ШІ, що також викликає обговорення регулювання ШІ-генерованого контенту. TikTok запустив Agentic Hub для ШІ-реклами, а Bilibili оголосив про програму викупу акцій.",
+ "key_figure": {
+  "value": "$2.5 млрд",
+  "context": "Сума врегулювання позову Amazon з Федеральною торговою комісією США щодо оманливих практик підписки на Prime."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за порушення GDPR"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  },
+  {
+   "value": "600",
+   "label": "Відео, видалених YouTube з рекламою заводу «Алабуга»"
+  }
+ ],
+ "top_signal_deep": "Протягом останнього тижня Amazon врегулював позов на $2.5 млрд з Федеральною торговою комісією США щодо оманливих практик підписки на Prime, що підкреслює зростаючу увагу регуляторів до прозорості та чесності у відносинах з користувачами. Це врегулювання, термін подачі претензій за яким спливає 27 липня 2026 року, є значним прецедентом для інших платформ, які використовують моделі підписки, і може призвести до перегляду їхніх практик. Паралельно, Amazon зіткнувся з новим позовом в Австралії через введення реклами на Prime Video та додаткову плату за перегляд без реклами, що свідчить про глобальний тренд на посилення регуляторного контролю за змінами в умовах сервісів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики Prime",
+   "why": "Врегулювання великого позову вказує на юридичні ризики, пов'язані з практиками підписки та маркетингу, та підкреслює посилення регуляторного тиску.",
+   "url": "https://www.mysanantonio.com/news/article/amazon-prime-users-have-one-month-to-claim-2-5b-19532657.php"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний штраф підкреслює посилення регуляторного тиску на великі платформи щодо конфіденційності даних."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Creator Rewards Program з вищими виплатами",
+   "why": "Зміцнює конкурентоспроможність TikTok у залученні та утриманні творців контенту.",
+   "url": "https://www.tubefilter.com/2024/03/19/tiktok-creator-rewards-program-launched/"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритми рекомендацій, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Впливає на видимість контенту та стратегії творців, підкреслюючи важливість якості та залучення."
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм для глибшої взаємодії та оригінального контенту, пріоритезуючи підписників",
+   "why": "Змінює стратегії створення контенту та просування для творців на платформі."
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Agentic Hub для створення та оптимізації реклами за допомогою ШІ",
+   "why": "Розширює можливості для рекламодавців на платформі, інтегруючи ШІ для підвищення ефективності кампаній та автоматизації.",
+   "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/685936/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "Законодавство США",
+   "title": "Представлено законопроєкт про маркування ШІ-генерованого контенту (AI Labeling Act of 2026)",
+   "why": "Вказує на зростаючу увагу до регулювання ШІ-контенту, що може вплинути на його створення та дистрибуцію.",
+   "url": "https://www.nextgov.com/cybersecurity/2026/06/tech-bills-week-labeling-ai-generated-content-ai-standards-private-sector-companies-and-more/387802/"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube видалив близько 600 відео з рекламою російського заводу «Алабуга»",
+   "why": "Демонструє посилення політики платформ щодо контенту, пов'язаного з чутливими геополітичними темами.",
+   "url": "https://www.pravda.com.ua/eng/news/2026/07/3/7463704/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon зіткнувся з позовом в Австралії щодо реклами на Prime Video",
+   "why": "Вказує на зростаючу чутливість споживачів та регуляторів до змін у моделях підписки та наявності реклами.",
+   "url": "https://mumbrella.com.au/2026/07/01/amazon-sued-in-australia-over-prime-video-ads-extra-fee-for-ad-free-streaming/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оголосив про програму викупу акцій на $300 млн",
+   "why": "Сигнал про фінансову стабільність та стратегію управління капіталом компанії на азіатському ринку.",
+   "url": "https://stocktitan.com/news/BILI/bilibili-nasdaq-bili-details-us-100-1m-in-buybacks-under-2026-plan-tq17b2p76722.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює можливості монетизації Shorts",
+   "why": "Збільшує привабливість Shorts для творців, посилюючи конкуренцію на ринку коротких відео.",
+   "url": "https://digiday.com/media/the-shorts-play-youtube-steps-up-creator-monetization/"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok скорочує сотні модераторів контенту, посилюючи використання ШІ для модерації",
+   "why": "Відображає тренд на автоматизацію та інтеграцію ШІ у ключові операції платформ, впливаючи на якість модерації."
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok заохочує бренди створювати епізодичний контент (\"Mini Dramas\") за допомогою ШІ-функцій для реклами",
+   "why": "Нова стратегія контенту для брендів, що використовує ШІ для залучення аудиторії.",
+   "url": "https://www.mediapost.com/publications/article/394017/tiktok-incentivizes-brands-to-create-promotional.html"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, особливо щодо конфіденційності даних та практик підписки.",
+  "Активна інтеграція ШІ в інструменти для створення контенту, модерації та оптимізації рекламних кампаній.",
+  "Оновлення алгоритмів платформ з фокусом на глибшу взаємодію користувачів та пріоритезацію оригінального контенту.",
+  "Розширення можливостей монетизації для творців, зокрема у сегменті коротких відеоформатів.",
+  "Зростаюча увага до регулювання ШІ-генерованого контенту та необхідності його маркування."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значні регуляторні дії проти Amazon (США, Австралія) та обговорення законопроєкту про маркування ШІ-контенту в США."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili оголосив про програму викупу акцій. TikTok активно розвиває ШІ-інструменти для реклами та контенту, зокрема 'Mini Dramas'."
+  },
+  {
+   "region": "CIS",
+   "note": "YouTube видалив близько 600 відео з рекламою російського заводу «Алабуга» на запит України."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та інтеграція ШІ-рішень для автоматизації створення, дистрибуції та монетизації відеоконтенту.",
+  "Адаптація контент-стратегій для відповідності новим алгоритмам платформ, що пріоритезують оригінальний та залучаючий контент.",
+  "Моніторинг та дотримання регуляторних змін, особливо щодо конфіденційності даних та маркування ШІ-генерованого контенту.",
+  "Вивчення можливостей співпраці з платформами для розширення монетизації коротких відеоформатів."
+ ],
+ "watch_next": [
+  "Подальший розвиток регуляторного ландшафту щодо ШІ-контенту та його вплив на індустрію.",
+  "Реакція інших великих платформ на позови та штрафи, накладені на Amazon та TikTok.",
+  "Еволюція програм монетизації для творців на YouTube, TikTok та Meta.",
+  "M&A активність серед конкурентів та дистриб'юторів відеоконтенту."
+ ],
+ "sources": [
+  {
+   "label": "Tubefilter",
+   "url": "https://www.tubefilter.com/2024/03/19/tiktok-creator-rewards-program-launched/"
+  },
+  {
+   "label": "MySA",
+   "url": "https://www.mysanantonio.com/news/article/amazon-prime-users-have-one-month-to-claim-2-5b-19532657.php"
+  },
+  {
+   "label": "Dapeer Law",
+   "url": "https://www.dapeerlaw.com/amazon-prime-ftc-settlement-2-5b-up-to-51/"
+  },
+  {
+   "label": "FTC",
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-secures-historic-25-billion-settlement-against-amazon"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/tiktok-launches-agentic-hub/685936/"
+  },
+  {
+   "label": "Common Thread Collective",
+   "url": "https://commonthreadco.com/blogs/agentic-hub-tiktok-ai-advertising/"
+  },
+  {
+   "label": "Global Dating Insights",
+   "url": "https://www.globaldatinginsights.com/news/tiktok-launches-agentic-hub-for-bring-third-party-ai-tools/"
+  },
+  {
+   "label": "TikTok for Business",
+   "url": "https://www.tiktok.com/business/en/blog/introducing-tiktok-agentic-hub-ai-skills-to-streamline-your-ad-workflows"
+  },
+  {
+   "label": "Nextgov/FCW",
+   "url": "https://www.nextgov.com/cybersecurity/2026/06/tech-bills-week-labeling-ai-generated-content-ai-standards-private-sector-companies-and-more/387802/"
+  },
+  {
+   "label": "GovInfo",
+   "url": "https://www.govinfo.gov/app/details/BILLS-119s4915is"
+  },
+  {
+   "label": "Senator Brian Schatz",
+   "url": "https://www.schatz.senate.gov/news/press-releases/schatz-curtis-warner-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content"
+  },
+  {
+   "label": "Maui Now",
+   "url": "https://www.mauinow.com/2026/07/01/schatz-introduces-ai-generated-content-transparency-bill/"
+  },
+  {
+   "label": "Українська Правда",
+   "url": "https://www.pravda.com.ua/eng/news/2026/07/3/7463704/"
+  },
+  {
+   "label": "UNITED24 Media",
+   "url": "https://united24media.com/news/youtube-shuts-down-hundreds-of-russian-alabuga-drone-factory-promo-videos-4786"
+  },
+  {
+   "label": "YouTube (Video)",
+   "url": "https://www.youtube.com/watch?v=0w51rXw7tLw"
+  },
+  {
+   "label": "The Insider",
+   "url": "https://theins.ru/en/news/272373"
+  },
+  {
+   "label": "Kyiv Post",
+   "url": "https://kyivpost.com/ukraine-politics/35165"
+  },
+  {
+   "label": "Mumbrella",
+   "url": "https://mumbrella.com.au/2026/07/01/amazon-sued-in-australia-over-prime-video-ads-extra-fee-for-ad-free-streaming/"
+  },
+  {
+   "label": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-07-01/australia-sues-amazon-over-prime-video-ads-alleges-unfair-contract-terms"
+  },
+  {
+   "label": "TNW",
+   "url": "https://www.tnw.com/news/australia-sues-amazon-over-prime-video-ads-citing-unfair-contract-terms"
+  },
+  {
+   "label": "Class Action Lawsuits",
+   "url": "https://www.classaction.org/news/amazon-sued-for-introducing-ads-in-prime-video-for-charging-extra-for-ad-free-streaming"
+  },
+  {
+   "label": "The Hollywood Reporter",
+   "url": "https://www.hollywoodreporter.com/business/business-news/amazon-sued-australia-prime-video-ads-1235936715/"
+  },
+  {
+   "label": "Stock Titan",
+   "url": "https://stocktitan.com/news/BILI/bilibili-nasdaq-bili-details-us-100-1m-in-buybacks-under-2026-plan-tq17b2p76722.html"
+  },
+  {
+   "label": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/2479633/bilibili-bili-launches-300m-share-repurchase-program"
+  },
+  {
+   "label": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/bilibili-stock-rises-25-on-new-300m-buyback-program-3939632"
+  },
+  {
+   "label": "Digiday",
+   "url": "https://digiday.com/media/the-shorts-play-youtube-steps-up-creator-monetization/"
+  },
+  {
+   "label": "Wikipedia (YouTube Shorts)",
+   "url": "https://en.wikipedia.org/wiki/YouTube_Shorts"
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://www.unkoamarketing.com/youtube-shorts-monetization-requirements/"
+  },
+  {
+   "label": "Startupwise",
+   "url": "https://startupwise.com/youtube-shorts-monetization-update/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/394017/tiktok-incentivizes-brands-to-create-promotional.html"
+  },
+  {
+   "label": "Social Media Today (Mini Dramas)",
+   "url": "https://www.socialmediatoday.com/news/tiktok-launches-mini-dramas-mini-games-and-ai-advertising-tools/684257/"
+  },
+  {
+   "label": "Social Media Today (AI Ad Agents, Episodic Drama Ads)",
+   "url": "https://www.socialmediatoday.com/news/tiktok-unveiling-ai-ad-agents-episodic-drama-ads-and-crackdown-on-fake-reviews/686001/"
+  }
+ ]
+}
