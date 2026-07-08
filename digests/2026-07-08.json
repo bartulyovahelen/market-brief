@@ -1,0 +1,463 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні дні відзначився посиленням регуляторного тиску на ШІ-генерований контент та конфіденційність даних, зокрема фінальним затвердженням правил ЄС та новими законопроєктами у США. Платформи, такі як Meta та TikTok, активно розширюють можливості монетизації для творців та інтегрують ШІ у рекламні інструменти та алгоритми, тоді як Amazon Prime Video демонструє змішану контентну стратегію з новими релізами та скасуваннями.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok за порушення GDPR, що підкреслює зростаючий регуляторний тиск на великі платформи."
+ },
+ "figures": [
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon Prime"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  },
+  {
+   "value": "$31.3 млн",
+   "label": "Витрачено Bilibili на викуп 1.9 млн акцій до 30.06.2026"
+  },
+  {
+   "value": "$100.1 млн",
+   "label": "Витрачено Bilibili на викуп 4.8 млн акцій за перші 6 місяців 2026"
+  },
+  {
+   "value": "$4.99",
+   "label": "Додаткова щомісячна плата за Prime Video без реклами"
+  },
+  {
+   "value": "1.7 млн",
+   "label": "Збільшення акцій Bilibili Class Z у червні 2026"
+  },
+  {
+   "value": "109",
+   "label": "Законів про ШІ, прийнятих штатами США до 01.07.2026"
+  },
+  {
+   "value": "28",
+   "label": "Законів про центри обробки даних, прийнятих штатами США до 01.07.2026"
+  }
+ ],
+ "top_signal_deep": "Європейський Союз фінально затвердив нові правила щодо штучного інтелекту, які набудуть чинності з 2 серпня 2026 року. Ці правила включають обов'язкове маркування ШІ-генерованого контенту та заборону на створення неконсенсуального сексуального та інтимного контенту за допомогою ШІ. Це є значним кроком у регулюванні ШІ, що вплине на всіх творців та дистриб'юторів контенту, вимагаючи прозорості та відповідальності, а також встановлюючи нові стандарти для етичного використання технологій ШІ.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 3
+  },
+  {
+   "label": "Контент",
+   "n": 5
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 8
+  },
+  {
+   "label": "Продукт",
+   "n": 4
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний штраф підкреслює посилення регуляторного тиску на великі платформи щодо конфіденційності даних.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики Prime",
+   "why": "Врегулювання позову вказує на зростаючу відповідальність платформ за споживчі практики та потенційні фінансові ризики.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Creator Rewards Program з вищими виплатами",
+   "why": "Це стимулює творців до створення оригінального контенту та посилює конкуренцію за таланти на ринку.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритми рекомендацій, фокусуючись на задоволеності користувачів та нішевих спільнотах",
+   "why": "Зміни алгоритмів впливають на видимість контенту, стратегії дистрибуції та залучення аудиторії.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм для глибшої взаємодії та оригінального контенту, пріоритезуючи підписників",
+   "why": "Пріоритет оригінального контенту та підписників змінює стратегії просування для творців та дистриб'юторів.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Agentic Hub для створення та оптимізації реклами за допомогою ШІ",
+   "why": "Інтеграція ШІ в рекламні інструменти підвищує ефективність кампаній та відкриває нові можливості для монетизації.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила Live Video Ads та інструменти Live Shopping, розширюючи можливості монетизації для творців та продавців.",
+   "why": "Розвиток інструментів для живої комерції та реклами посилює можливості монетизації для творців та брендів на платформах Meta.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmk49xtWd7Rdi4dT_VCqRwME5P_bYm7K86JMsUtMoT5rcfq0BVziH0pD4JDtWt57ldo8p1VHn8Eb4qYJa68pCupuznUmQ9TiPjE2DBJDneDJzv4gRem9aDOa67fZqy0zTp00fbxsGBSy266EqFo0KtjP086KSqPXirDR7f8G9V7xbbUhXqmX6wXK5-N3dLgTIB2_k7IokQ_orFaQ=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "загальний",
+   "source": "Європейський Союз",
+   "title": "ЄС затвердив нові правила щодо ШІ, включаючи обов'язкове маркування ШІ-генерованого контенту з 2 серпня 2026 року та заборону на створення неконсенсуального інтимного контенту.",
+   "why": "Ці правила встановлюють нові стандарти прозорості та етики для ШІ-контенту, впливаючи на всіх учасників ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KHFOFQvsz4CM6_G_vhyQNbQ-y-iCAOn5hf7V_jyycSraTCghKJKRaW28wWAuauBehdKWtWRHAwTaVU7Yiy7pZ9q7lFgIWQ6htNNu42AN853mPcT-7Y2DmTKEJzfrMbiwtl4dQbB7YQ4oFiMl-F5aKdZzVg1Ys23jpmhcmGzuzmC_1J-sG8v-QjRbL3yczuThlAM1auY=="
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta автоматично конвертуватиме відео Facebook у Reels, уніфікуючи процес публікації та знімаючи обмеження на довжину/формат.",
+   "why": "Ця зміна спрощує створення та поширення відеоконтенту, посилюючи фокус Meta на коротких відеоформатах.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrpeGNmWtxXtUvHniwScJx-F0s-jt0A_w8h2GuHajeY2ebI1rjQDg8uA5UX2_XO8KJU8JjITJxmSqcONLuC5Ex_ZWaFFhH6x7GKxYhTWeln4kJeK89cysGXUlWQvD8e5qATttwbyW8HKb_a2mq7-pymYRacbvJ0j-e131Ykrf3tLHd65lUC6C3z489yvHDj2gZDjTckNzV_HImYVixqA3B39iM28LTyBaFJmMMcv3TdY=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili оголосив про програму викупу акцій на $300 млн та вже викупив 1.9 млн акцій на $31.3 млн до 30 червня 2026 року.",
+   "why": "Програма викупу акцій свідчить про впевненість компанії у своїх фінансових показниках та прагнення підвищити вартість для акціонерів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPct1JYW4CyCPOeuWeY6e5t1j3TflsqHnWs2tAaaJncJPRPcvtqlcpqyCSPwHKR_wOID9JgMsVPQ_YA-XRgx7sZkPFS8ErPSWNQbiHCzaQx0aaaxTADJhXBr3J7ZfEhQPv7jE3-9WreTbuHQgEOLjPNrb6rqn97W7yhHsTpumKwHhjO-LAxAAB0MsxEcLyTTWyG19V80C4G_ryG68ettQUCwUMekbuRafk09xDYSdnbqwRQmwknKM="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube видалив близько 600 відео з рекламою російського заводу «Алабуга»",
+   "why": "Демонструє посилення політики платформ щодо модерації контенту, пов'язаного з чутливими темами або порушеннями правил.",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "загальний",
+   "source": "США",
+   "title": "Представлено законопроєкт США про маркування ШІ-генерованого контенту (AI Labeling Act of 2026) та обговорюється федеральне регулювання ШІ.",
+   "why": "Законодавчі ініціативи щодо ШІ-контенту формуватимуть майбутні правила для творців та дистриб'юторів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp0ywymdy5uGvUmEVI3XvVa6HW6Yxu3fITsNDSWAz-_OoJKboUZXJ6t8YF6BrZ_CXhyyjkf8HQiP40DDgprn6D2ECiugfg-AhV0BtaPl3c2xZqm8LcuzMDhmIgo4qN-ExE3OCPJmsVjULYK6OFKfjrKP39GQAiCSzuyUjQZP3spuCXypsG2h6s_qG3z2aiRKFLpada7qAgPDQyUMC2nxZXJc2Qmwyro2I5g6mUPpKdc4ZeL2R7"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok скорочує сотні модераторів контенту, посилюючи використання ШІ для модерації",
+   "why": "Перехід на ШІ-модерацію може вплинути на швидкість та якість перевірки контенту, а також на витрати платформ.",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює можливості монетизації Shorts",
+   "why": "Розширення монетизації Shorts стимулює створення короткого відеоконтенту та посилює конкуренцію з TikTok.",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Новий тиск на Meta через контент",
+   "why": "Постійний регуляторний тиск на Meta може призвести до змін у політиці контенту та модерації.",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "загальний",
+   "source": "США",
+   "title": "Губернатор Іллінойсу підписав закон про регулювання ШІ, що вимагає щорічних сторонніх аудитів та звітів про катастрофічні ризики, створюючи де-факто національний стандарт.",
+   "why": "Штатні ініціативи щодо регулювання ШІ формують прецеденти та впливають на загальнонаціональні стандарти.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTNVU0uXmBSuSW6PTsTHW2VOv7KJClCca5jI16ygPF5izkbFR1W70AEqqMIcLjzgwcRob1bcHwe2pAdEJcsvw702Nmud8AS-G96JRAy1ZK4v49Shq1r5Dd8XlXUvmM1jhybIq0P5R5Wp_s1BeG60NGDT4SuZLgKDtZuoZxhCZFuTZZyt072PJq32iyeci8NS3SQGXTYx4S6vd-_euVAte3TrIyq-EPhQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "загальний",
+   "source": "FTC (США)",
+   "title": "Федеральна торгова комісія США (FTC) запрошує коментарі щодо політики, спрямованої на запобігання маніпуляціям ШІ-системами, що суперечать очікуванням споживачів щодо об'єктивності.",
+   "why": "Ініціатива FTC спрямована на захист споживачів від потенційно оманливих практик ШІ, що може вплинути на розробку та використання ШІ в контенті.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERplWYxn17Ss4izNsI7meTo8VLmL7KiWVxxG0HZDqKh4Ukn4sodVXJ04oUFRwZ4qLMtTecWh0PLkviRCFeYrt0O2gcSBtx1OdXT3wrakGzW-wPeDM1BB5f2w1EIvDQNVoZHrISblQnx5ZPUTsFy2w379Y9alW_0n3sp-rdzq0opC8AJDl9Xd4DhVdDWItxM4bmL69e27_a85vCLnov9nyR4P8UFhH3iASp3n3jL0s0EXe7Gz7RRJU="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "загальний",
+   "source": "UKJT (Велика Британія)",
+   "title": "UKJT опублікувала правову заяву щодо відповідальності за шкоду від ШІ, стверджуючи, що існуюче англійське право може вирішити більшість спорів, а фахівці можуть нести відповідальність за недбале використання або невикористання ШІ.",
+   "why": "Роз'яснення правової відповідальності за ШІ-системи є важливим для розробників та користувачів ШІ-інструментів у відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxI6koPYqmMX0MJN_H60JW0ZTNwqNyQgzevPI8YdO3nVhWBpUWo3dzpZBltZSWuu9AsQaqWaShEJ49STYV8uAEa_VYsCBUby98a8fPtDuU6-FNrUisNmSp2mBKk9XcUes_3kghVxM03kDD9ciwpnAC5-aIJ35-9zJNP4LmuVbWIDJzzEfPirYBcbP42K7BELe9SlpWeevSbZak1AcZIGTwWA=="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon Prime Video скасував серіал \"It's Not Like That\" попри високий рейтинг критиків, що підкреслює ризики контентної стратегії.",
+   "why": "Скасування серіалу, незважаючи на позитивні відгуки, свідчить про складність оцінки успіху контенту та вплив внутрішніх метрик платформ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF2pLd04MjdA5_IgqnSbRVaTJ7JloKX4_FI1w-Vwag6mz-QYspkKQ7RcP2HDRKRBlIZwcoa95XeHd_JlgITrX5TSK5Y-ev-fCCZfDUguzObU3_QC_qlhxl5SFFP45Oocb8rWIjMpOyAewIKPXPeUua5_2pUYjRg2jS4177uWA=="
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta представила Muse Image, свою першу модель генерації зображень від Meta Superintelligence Labs, доступну в Meta AI.",
+   "why": "Розширення можливостей ШІ для генерації зображень може вплинути на створення візуального контенту та рекламних матеріалів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7yJnFjAugM_0ebRi7hWyg32ZXbv9mvKmAX0E7neIL-iERl26TzAK9BRx8q0f7r4WoI9h_PxtmCn8lvQXqEVnllGjXsCtrlzAJKLPM4TA-LfpUlsT"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta розширює свою афілійовану програму для творців у 22 країнах, дозволяючи їм позначати продукти та отримувати комісії в Instagram Reels та Feed.",
+   "why": "Розширення афілійованих програм стимулює творців до інтеграції комерційного контенту та відкриває нові канали монетизації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmk49xtWd7Rdi4dT_VCqRwME5P_bYm7K86JMsUtMoT5rcfq0BVziH0pD4JDtWt57ldo8p1VHn8Eb4qYJa68pCupuznUmQ9TiPjE2DBJDneDJzv4gRem9aDOa67fZqy0zTp00fbxsGBSy266EqFo0KtjP086KSqPXirDR7f8G9V7xbbUhXqmX6wXK5-N3dLgTIB2_k7IokQ_orFaQ=="
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon Prime Video додав новий контент у липні 2026 року, включаючи серіали \"Elle\", \"The Ghost in the Shell\" та \"Ride or Die\".",
+   "why": "Постійне оновлення бібліотеки контенту є ключовим для утримання аудиторії та конкурентоспроможності стримінгових платформ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7iUDpZ4X0mjfiSbj_prn1kovLkHUxrMfjkXzC6CAYSXbe1bSxtIp7iVlPCnbJoDd8yS4-6VaJCEqPpYlkz4VkUfpJQ6SK5K6l4pp1U048gnj7DNP0GjUV2anzcnHETMoQey9fehbCjM92UqPuZBh-GeEZQNFDLuQqDAfooFVQP0n4T1UBd-kxfqS9aYfUrKBUAChxLW_7pU="
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "MakersTV",
+   "title": "MakersTV продовжує розміщувати контент від різних особистостей на своїх каналах Legacy Makers TV, Mompreneurs TV та Next Level CEO TV.",
+   "why": "Це свідчить про активну діяльність платформи у залученні творців та розширенні контентної пропозиції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN60OSUHNcEA4AoKNXilNVtj6Vr3-lecRFy9I9w1eLb3PUuui3jXGc9dlMP2Qp2G7Aw2IxYAeDxM6vk4VTwuZD1ZkXdHizPlCBnmn_rugAk9tx6OL2JRKgdydGsgtjTpHK0dDgrprSrmfqqY-ES0jHR4fkMfqTfqzDUR-vOdatuJ7Ceagc1hI5a3xXC0_4bi_pcCms3T9cNV1ggUO3"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "VideoElephant",
+   "title": "VideoElephant продовжує надавати контент для новинних видань, що свідчить про стабільну дистрибуційну діяльність.",
+   "why": "Стабільна дистрибуція контенту підкреслює роль компанії як агрегатора та постачальника відеоматеріалів для медіа.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuAvXK8jDGV5xo58Nzc8r70znFDEdM9NAkmAI6edcEUpuUB4Pn1SzgJnpUy-aY2_yy1O8Yq3D80722cshqaRa9N7v_cIzI2Ah1cV58_OeUf6np0w4xs4UJapZAL-epSGnwvnZwZICoQxv4hADv_3lMFmY-Fw56ZupT"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Fixated/Studio71",
+   "title": "Fixated завершила придбання Studio71 US у квітні 2026 року, розширивши свою мережу творців до понад 1000.",
+   "why": "Ця угода посилює позиції Fixated на ринку дистрибуції контенту та розширює її вплив у екосистемі творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5UsNjMYpF372SHQB1SBgRpiMNbevN4Sxt3UBltXEnxd_cpTAkMEYwhf6DiTR4ALyzigDVufM5yXmzeD_X4JpgRdnPqMRRs9XNlVkbTltyWYpZCu8YGPKpmpxgLNpYnwNm-vnOz-uzqQvLW23cTG6arJea8bkPhXIw6eyNgb--rcQVpRxf2LiJHMSx7X1HCKYqsBqYqhrToibAPpWoplKgNi9G8BrWfJsFfyMqULYtkQ4FzASV"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, особливо щодо конфіденційності даних та контенту, з акцентом на ШІ-генерований контент.",
+  "Активна інтеграція ШІ платформами для модерації контенту, оптимізації реклами та створення нових інструментів.",
+  "Зростання конкуренції за творців контенту через розширення програм монетизації та оновлення алгоритмів, що пріоритезують оригінальний контент та взаємодію.",
+  "Розвиток функцій соціальної комерції та live shopping на відеоплатформах.",
+  "Продовження консолідації на ринку дистрибуції контенту та розширення мереж творців."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляцій щодо ШІ (ЄС AI Act, законопроєкти США), штрафи для великих гравців (TikTok, Amazon), розвиток ШІ-інструментів та монетизації на платформах (Meta, Amazon Prime Video)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно керує капіталом через програму викупу акцій, що свідчить про фінансову стабільність та стратегію."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, крім видалення YouTube відео з рекламою російського заводу «Алабуга», що є частиною глобальної політики модерації."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, спостерігається подальша конкретизація регуляторних ініціатив щодо ШІ, зокрема фінальне затвердження правил ЄС та нові законопроєкти у США. Meta активно розширює свої можливості монетизації для творців та інтегрує ШІ у рекламні інструменти та автоматичну конвертацію відео у Reels. Amazon Prime Video демонструє як розширення контенту, так і його скасування.",
+ "bizdev": [
+  "Розробка та інтеграція ШІ-рішень для автоматизації модерації, створення контенту та оптимізації рекламних кампаній.",
+  "Створення та просування оригінального, нішевого контенту, що відповідає оновленим алгоритмам платформ.",
+  "Інвестиції у розвиток інструментів для live shopping та соціальної комерції.",
+  "Моніторинг та адаптація до нових регуляторних вимог щодо ШІ-генерованого контенту та конфіденційності даних."
+ ],
+ "watch_next": [
+  "Подальший розвиток та імплементація регуляторних актів щодо ШІ в ЄС та США.",
+  "Реакція платформ на нові правила модерації контенту та конфіденційності.",
+  "Зміни в програмах монетизації для творців на YouTube, Meta та TikTok.",
+  "Стратегії Amazon Prime Video щодо оригінального контенту після скасування серіалів."
+ ],
+ "sources": [
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7iUDpZ4X0mjfiSbj_prn1kovLkHUxrMfjkXzC6CAYSXbe1bSxtIp7iVlPCnbJoDd8yS4-6VaJCEqPpYlkz4VkUfpJQ6SK5K6l4pp1U048gnj7DNP0GjUV2anzcnHETMoQey9fehbCjM92UqPuZBh-GeEZQNFDLuQqDAfooFVQP0n4T1UBd-kxfqS9aYfUrKBUAChxLW_7pU="
+  },
+  {
+   "label": "Simply Wall St",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPct1JYW4CyCPOeuWeY6e5t1j3TflsqHnWs2tAaaJncJPRPcvtqlcpqyCSPwHKR_wOID9JgMsVPQ_YA-XRgx7sZkPFS8ErPSWNQbiHCzaQx0aaaxTADJhXBr3J7ZfEhQPv7jE3-9WreTbuHQgEOLjPNrb6rqn97W7yhHsTpumKwHhjO-LAxAAB0MsxEcLyTTWyG19V80C4G_ryG68ettQUCwUMekbuRafk09xDYSdnbqwRQmwknKM="
+  },
+  {
+   "label": "TipRanks.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7marFcAxi-oNcp2Eu4gkNISVp1FimEAMzVs3SP5DGmwf2HHJ9C3pUL49yTrkbi0He9Vk4X-vpKK6AaX_mwHBRi_K9aNA1Ek-RDNjFxyjYDXOA96cna4xaCsWuSOHbpCztGSSv8YHSKlh6ZgoTFuNeuF4b7ybWoUojzTZu_WeeoHfWEabWgne7fBSirTZRPNko_r39lBnFnnsWdKWwCNSX5kzSAbyMUOsywQCP1nuB11ui"
+  },
+  {
+   "label": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKqEy5vVtTBReVEgYeaiKiLcl3jQ69uVJlKkRkcJBjD4V_gqXaGKElfpR3rMOCFmmL4p9FRly_ZdstTTANcZ7CuX82Mu8EVEYzRlCP2tTsMSu6437ZGQf7I-1-aM8q81alOqkIw2yg81PTJM2w2NoPMNUmoB2N8CbfvO3I0-6-XC2UeuTocoBaddrQapysp-V1nAfVsjjXzd-SlovQMhk5DDVU4CwLfg=="
+  },
+  {
+   "label": "Amazon Prime Video Cancels New Show Despite Perfect Rotten Tomatoes Score",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF2pLd04MjdA5_IgqnSbRVaTJ7JloKX4_FI1w-Vwag6mz-QYspkKQ7RcP2HDRKRBlIZwcoa95XeHd_JlgITrX5TSK5Y-ev-fCCZfDUguzObU3_QC_qlhxl5SFFP45Oocb8rWIjMpOyAewIKPXPeUua5_2pUYjRg2jS4177uWA=="
+  },
+  {
+   "label": "MovieWeb",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOyeqFynJI-SIizzgwXe3jNF2S2PqMIfQLELNscxS-EyVQvxTkbFmnk2gc9EPGQZBJ3BXnmGotH7iex2JZtkVXt_Ljr_6EkQAa1lLsuSGgcEodBsCQWMxgo745etliDDhCDHA_A2u66kq1CjVlzOOfbN1v"
+  },
+  {
+   "label": "New on Prime Video in July 2026 — The Complete List of Movies and TV Shows",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjBYLhBa_TKxJuxEeU5_XDZR3zQtFwsFuDpVeNqWw2riqPGRDoXfQVTpolBiIkZKcvfhbKaN1ObTB4EtOiZULq4_beQtrIIW41wmskkR_gAy8nlig4dkL1rwWs3T9c0L5U4XBZ1KYL4gZcG2DtL4AxZGfqN2h1o-sCQHXfqgw8vtE6FNysS1o2iXjX5xXCaIvyTT3TPeAFIyZXI5GcAkyCM40="
+  },
+  {
+   "label": "Electronic Frontier Foundation",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf6PzUY8QlatsejcKTu4s5t8KbVmgy8QKYJTub2Nv0BWvR6FEKuTOTh3KsUUTI0p-OzTHlGfFa9RNPRNTBHK8uiNzIiUw1a00Gu-RWplyyM0HfwQqFwNPfv0Lgh0bafuoM0H11xmJv3J_Klju6O3NPz8nZpV_BOAc41QdWk4I8x2Y3I_9DuQ=="
+  },
+  {
+   "label": "Octavia Spencer and Hannah Waddingham team up for the Prime Video series 'Ride or Die'",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3OguAZ012Nm4T-6k32410W32ol-fANnus8qw36cR39EHW_TW9gyHD_D3wcwP4t-4zPkIV4zf_o4L4-IrUbp0p7hfFDCHBHtqyHEiyeO1CnOpiVXokESJ3owfq2R9JO5P4xCgCgp0Kwf2JDPRpXbqn6QECtAS0jgnDCmzjNkHUC-5I5-bzia12jniOu2O57-wzTqTX90v1S2zzdni_OZq6cU4dliVSC0YEbM1ubeN1UZMZbEc="
+  },
+  {
+   "label": "IGN",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOdGcDNkH0zQ-4lBBzPbmelYlPXKm-QI66sU1bAwVg1eGrgSdjc7HbhnKhqiZp9jqrZZIPjInqH6H6yznHrFYq3NsL7BEJ_qn3-vOxjSC66ktTeCWdNB0JdOwOECslXIwHk9vveIlcM9V-CISVRPUzA294XwSUomB1sQPOnLEmkY0="
+  },
+  {
+   "label": "What's coming to Prime Video in July 2026: movies, series, documentaries, and specials",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxuZA8bcNcaVt1hder8X836qd7qEC2IWxuXkFmHKGQCKwWOrAorXItYf25TX9wgLOP09sQkWIwmVG4s5JeZ7PeGwLRLOddJnEmLjCF3C8xRz7Czn9-BcDhZAELEojHe3Q9XO597nN9glbVQmr8moSzpzjJ2CB-fjTDBloErpGnEW0id7t0Zj1ORjwcNP-L088Z8ZRtde5PyLzrzRBbim-47VR8tToVbxidihC65dcVMGeZGtyo_ZiVWLA="
+  },
+  {
+   "label": "AI View - July 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8KHFOFQvsz4CM6_G_vhyQNbQ-y-iCAOn5hf7V_jyycSraTCghKJKRaW28wWAuauBehdKWtWRHAwTaVU7Yiy7pZ9q7lFgIWQ6htNNu42AN853mPcT-7Y2DmTKEJzfrMbiwtl4dQbB7YQ4oFiMl-F5aKdZzVg1Ys23jpmhcmGzuzmC_1J-sG8v-QjRbL3yczuThlAM1auY="
+  },
+  {
+   "label": "Eversheds Sutherland",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT-sWomrzrEGPApHEhHbaRasHmVFbAMqgDidwQwjEGFeoTsULBJOdiFFoq17IVa1rTQw4xupROnVrwFBQtZR8apZVaKISjulX3AJoe6_DwYeCg5VkqtZ2txZYDOo0C5QLebb857l4oBeB0Mn73F-klLYIzxUdisG_e7nqp0Ep-D5LchnurpmIKqGAJAVb7wOYigfAGIpSDSQPLLQ=="
+  },
+  {
+   "label": "PYMNTS.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp0ywymdy5uGvUmEVI3XvVa6HW6Yxu3fITsNDSWAz-_OoJKboUZXJ6t8YF6BrZ_CXhyyjkf8HQiP40DDgprn6D2ECiugfg-AhV0BtaPl3c2xZqm8LcuzMDhmIgo4qN-ExE3OCPJmsVjULYK6OFKfjrKP39GQAiCSzuyUjQZP3spuCXypsG2h6s_qG3z2aiRKFLpada7qAgPDQyUMC2nxZXJc2Qmwyro2I5g6mUPpKdc4ZeL2R7"
+  },
+  {
+   "label": "Here's what Meta brought to Cannes Lions on the shopping front",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmk49xtWd7Rdi4dT_VCqRwME5P_bYm7K86JMsUtMoT5rcfq0BVziH0pD4JDtWt57ldo8p1VHn8Eb4qYJa68pCupuznUmQ9TiPjE2DBJDneDJzv4gRem9aDOa67fZqy0zTp00fbxsGBSy266EqFo0KtjP086KSqPXirDR7f8G9V7xbbUhXqmX6wXK5-N3dLgTIB2_k7IokQ_orFaQ=="
+  },
+  {
+   "label": "Amazon Canada",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhlBXgbfXHThi37PD6-5JF6imuhfkwFkQhuFRFBIJXVNApY8JUXr6r-75aLgdm5zrJLbMU-JDnpyno_Hpb_UO0806vD6Xp_f27VM5q61Ot2q5zer-Cwgqmj3nd_rUKdakKVj1tQ6OlE7aEWgN8EQQN-ukJaZ5BErTBMDrfExlULgLGULodSGkGDD0J2hPtm8WGu4KUtb0xqXdeo7K-0imYDqrGXfOTrQIdEgw9arz1aBfFFfNnmlUFtH0r_ayx8YoZu7iTvfXUNoeunY6232HYxQIY7hAeue1n7ouP2o8hgOYB4msWi84gx0a3NWwYGdI="
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5UsNjMYpF372SHQB1SBgRpiMNbevN4Sxt3UBltXEnxd_cpTAkMEYwhf6DiTR4ALyzigDVufM5yXmzeD_X4JpgRdnPqMRRs9XNlVkbTltyWYpZCu8YGPKpmpxgLNpYnwNm-vnOz-uzqQvLW23cTG6arJea8bkPhXIw6eyNgb--rcQVpRxf2LiJHMSx7X1HCKYqsBqYqhrToibAPpWoplKgNi9G8BrWfJsFfyMqULYtkQ4FzASV"
+  },
+  {
+   "label": "TLT's AI Brief: July 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYO0WlQorZvKfUCxu0Rwj88Jtk30qAnDA2HlpySY1eT8LS-t_JaHlr5t3Q5X__zuWmW4L-WZHiNGVQiIhuZJimSj89_sQwBSNS6z_Yoz0mKgbRMq_z50F8qXM7PyrYqFXoNjipJTDHPMG3dfB4JTBaufJor3lAFzvW8Vi7ryrR8Vlo"
+  },
+  {
+   "label": "Titan OS partners with Radial Entertainment on new FAST channels in Europe",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyiNa8OP_R3mdfFvoDaDjDTB4l9IzjLOaK-gu1ZkBHCuyRi2tsaYnN0h_K175pj6AbTqaTkTsXvaNChpatQeqAi_n1b5RtVkKyf1I5YDmZYTh4y4TSz9Z1UY7S9bs-DPsrjM3oo3aQkcA7TaOx9bYuJXYXiOza8xfKH7sHSTwXGkAW_Q=="
+  },
+  {
+   "label": "The Eastleigh Voice",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENrpeGNmWtxXtUvHniwScJx-F0s-jt0A_w8h2GuHajeY2ebI1rjQDg8uA5UX2_XO8KJU8JjITJxmSqcONLuC5Ex_ZWaFFhH6x7GKxYhTWeln4kJeK89cysGXUlWQvD8e5qATttwbyW8HKb_a2mq7-pymYRacbvJ0j-e131Ykrf3tLHd65lUC6C3z489yvHDj2gZDjTckNzV_HImYVixqA3B39iM28LTyBaFJmMMcv3TdY=="
+  },
+  {
+   "label": "The EU AI Act Will Force AI Content Labeling in 2026 - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd1cSWbMhc_z-543Fi4AkcZm32QmfidZNeaZJBrbd7OSeNSTiJjHJyfaKfKadEaxsMiKHG-VhaUKB8F22OhtV7b1YpAcU6YOOB1LHGxxXs0e81I9QAjw9tz9GTUTQ84TLGvY5rrw=="
+  },
+  {
+   "label": "EIN Presswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN60OSUHNcEA4AoKNXilNVtj6Vr3-lecRFy9I9w1eLb3PUuui3jXGc9dlMP2Qp2G7Aw2IxYAeDxM6vk4VTwuZD1ZkXdHizPlCBnmn_rugAk9tx6OL2JRKgdydGsgtjTpHK0dDgrprSrmfqqY-ES0jHR4fkMfqTfqzDUR-vOdatuJ7Ceagc1hI5a3xXC0_4bi_pcCms3T9cNV1ggUO3"
+  },
+  {
+   "label": "Meta Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl7yJnFjAugM_0ebRi7hWyg32ZXbv9mvKmAX0E7neIL-iERl26TzAK9BRx8q0f7r4WoI9h_PxtmCn8lvQXqEVnllGjXsCtrlzAJKLPM4TA-LfpUlsT"
+  },
+  {
+   "label": "FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERplWYxn17Ss4izNsI7meTo8VLmL7KiWVxxG0HZDqKh4Ukn4sodVXJ04oUFRwZ4qLMtTecWh0PLkviRCFeYrt0O2gcSBtx1OdXT3wrakGzW-wPeDM1BB5f2w1EIvDQNVoZHrISblQnx5ZPUTsFy2w379Y9alW_0n3sp-rdzq0opC8AJDl9Xd4DhVdDWItxM4bmL69e27_a85vCLnov9nyR4P8UFhH3iASp3n3jL0s0EXe7Gz7RRJU="
+  },
+  {
+   "label": "AI Weekly",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9OYd4zSmubRBVc7b4bZfen_vgkpnPWwx1bE0G0fyRVu0kcEkhzm3Fst9YsFT64oo0qsNRv2At8EHyzihsab8FTugUvPEWYV2QSl4FAPPZT0csdQfkGXP-J__gcDNQYEVcdXsvziyzJuo8X9KgZO35eebv6WaflhDbMOg6BZUylgUXCdmwHRsbE-axIFNM5w=="
+  },
+  {
+   "label": "Capitol News Illinois",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTNVU0uXmBSuSW6PTsTHW2VOv7KJClCca5jI16ygPF5izkbFR1W70AEqqMIcLjzgwcRob1bcHwe2pAdEJcsvw702Nmud8AS-G96JRAy1ZK4v49Shq1r5Dd8XlXUvmM1jhybBq0P5R5Wp_s1BeG60NGDT4SuZLgKDtZuoZxhCZFuTZZyt072PJq32iyeci8NS3SQGXTYx4S6vd-_euVAte3TrIyq-EPhQ=="
+  },
+  {
+   "label": "Tranche Update on Bilibili Inc.'s Equity Buyback Plan announced on June 24, 2026.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpnd3fYqClGGeFoN_aLlqSOWjPOwgayjuz2p3Sz3ts5lK3--vfuNCYGqI_rISSGmqMkNxVgqZtSopBzMvppQbDSZBwIrYzjyOAgBC0NczIdTzILqtMxwXF3AGWloh_JilN4Mb9lmgeEf3i14U5ITdDgauKw6pI3BeavbvZdbJICasREKUCUcGobsXa1RmbwUS_yP7UoJsv3gWR6kP28FnL_ZRp4cGEww9AkzfCmP4gBlcTDnevwwLIEe0099WdtY="
+  },
+  {
+   "label": "Kroll's Transaction Advisory Services Team Advised Fixated LLC on Its Acquisition of Studio71 US from ProSiebenSat.1 Media SE",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd1c-PIfnNmRQAUNkawgdJhWl7_To6J-jcHb3GoX9v871CGfgl_ZBsn_shB1oC5-p56eLodybaoVtDUkjjyBRGm8EWp3L9KPu55sHUjCt4KsPYogvyrtJlOTXhllf3_y4svx4-MxajqNP3ViwROSl-J9zv_e_meMUw_xwXPT3guPo="
+  },
+  {
+   "label": "AI liability clarified? UKJT says existing English Law provides the answer - Legal IT Insider",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxI6koPYqmMX0MJN_H60JW0ZTNwqNyQgzevPI8YdO3nVhWBpUWo3dzpZBltZSWuu9AsQaqWaShEJ49STYV8uAEa_VYsCBUby98a8fPtDuU6-FNrUisNmSp2mBKk9XcUes_3kghVxM03kDD9ciwpnAC5-aIJ35-9zJNP4LmuVbWIDJzzEfPirYBcbP42K7BELe9SlpWeevSbZak1AcZIGTwWA=="
+  },
+  {
+   "label": "Insider Monkey",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRFvv78omQtHVfuHpqC8jP_2h81Exw_GAHhEt60g_OkiU2iNdrfGuADLDtpWVzXDXcEVwzIoBFNz1X-df3EC9U2PYoiemuz-eCq0y5j-2CDieVh-4-COlQf-F7z7RvlHo7v0TgSJVFh8fwFfIzEfWeRZXYOWNrf8m8j_2bPGX2Wl4lYdXAeEmUgzOC6CsyfIxTyV84ThXheWzVNWF67Gbib4ZXbY64KEawytogEw=="
+  },
+  {
+   "label": "Creator firm Fixated continues acquisition streak by scooping up the Studio71 network",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPo-KxVV6zgX3cbRuxKMQT_-1_trGwCFScvlkalMi59Dn1Me-XmgQuIHUKLUVkCJOZtFVsW-lrEwAb8JGcNqIOSByxX2P2BktEtcsVWiDNcYBRBmNX5JLcVhjndGjyIR_-FzwXpWZ_BIcUmcA-0iULdSOA3RTX9ANN1q6ZINXa2MpVTLSZsvo-DMXOCimyY0wCrA__NYSTap3J"
+  },
+  {
+   "label": "Fixated Acquires Studio71, Expanding Digital Creator Network - Agencies.co",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzignLg4nxe95qVdygCak5mht2yrvbKt2tclv0cFlZEJ3HFzlkHULUw_OGr4fOFUWkJzpuwU5UvcIoz80N2OHXW6FhphSgLaVaF714W3Isnzh7jMhapeNln1wJkWBC5ipUTuWjN0XuNjgvQ0ivwxwIzzyFaCcLibiu9hcB6w56IiyBU2Zb-VPEwY0q_TX-3g=="
+  },
+  {
+   "label": "Bilibili Inc. Announces New $300 Million Share Repurchase Program | Taiwan News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF9tbLjUnX-WTD1Y0ze6YuOp9ER7ZoxS3bmzTPwW2dKZEZZbpXRnntxafLuD93-QrM4frc-SEDmK6EMsUsYX_7uFBrnrV6k9tvWb_KzBXyXPKppH658pbQsCdcCrFbpF_N94HmhA=="
+  }
+ ]
+}
