@@ -1,0 +1,303 @@
+{
+ "tldr": "Останні 7 днів на ринку відеодистрибуції відзначилися посиленням регуляторного тиску на великі платформи, зокрема значним штрафом для TikTok та набранням чинності вимог ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube та TikTok, активно оновлюють програми монетизації для творців та інтегрують ШІ в рекламні інструменти та алгоритми, що змінює підходи до дистрибуції контенту.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений Ірландською комісією із захисту даних (DPC) на TikTok за порушення GDPR, пов'язані з передачею даних користувачів ЄС до Китаю та недостатньою прозорістю."
+ },
+ "figures": [
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon з FTC щодо оманливих практик Prime"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма викупу акцій Bilibili"
+  },
+  {
+   "value": "$0.40-$1.00",
+   "label": "Приблизний RPM TikTok Creator Rewards Program за 1000 кваліфікованих переглядів"
+  },
+  {
+   "value": "$0.01-$0.07",
+   "label": "Приблизний RPM YouTube Shorts за 1000 переглядів"
+  }
+ ],
+ "top_signal_deep": "Ірландська комісія із захисту даних (DPC) підтвердила штраф у розмірі €530 мільйонів для TikTok за порушення GDPR. Штраф накладено через незаконну передачу персональних даних європейських користувачів до Китаю без належних гарантій та через недостатню прозорість щодо цих передач. Це підкреслює зростаючий регуляторний тиск на глобальні платформи щодо конфіденційності даних та транскордонних потоків інформації, що вимагатиме від компаній посилення відповідності та прозорості у своїй діяльності.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Це підкреслює посилення регуляторного тиску на глобальні платформи щодо конфіденційності даних та транскордонних потоків інформації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlgd6ucH0v01c93PzpzkCtifdPnL9QKvfo7vt8c8UkKYmpLUHsl_eoDRYYJbFWpVAUM194R9MExoTLaCMWXYh6k5dsSrROVmNU1XGWCBpKvDuz10jPtdTGT4Z3eGTmyb6mcgRoImGjEoMwvUSoLBFT43fG8817QPNHMsTfMNlwO5gViSZrLH-B9RH-vU8_uGyQD2qd4YoBjq-pWbRpNNAbwzt9R2nafwkg02J3GLn_mx6fegSfaw=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "Європейська Комісія",
+   "title": "Набувають чинності вимоги ЄС щодо маркування ШІ-генерованого контенту",
+   "why": "Це створює нові обов'язки для розробників та розповсюджувачів контенту, вимагаючи прозорості та запобігання дезінформації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqj7Xw4zn7IiGlubQn2CYjaVTYlxl5RiglxvggttTSbfxswGFlwvycjB0ABVrm32Du9Qp_BKH7RMNPqPSYSlRXiO11G8umA7y2j4qgNZBo877mMXJYKa19ydcdfBDsHowk_xUpjNFPj48rr-0dtkBMKWZ6V4="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив програму монетизації Shorts та пороги YPP",
+   "why": "Зміни спрямовані на розширення можливостей заробітку для творців коротких відео, але підкреслюють скромніші доходи від реклами порівняно з довгим форматом.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPLrxfYNCQf5EG1BsrVUHUbzTkqdiuPh6XYV_poNN6yhyvrHYOJ56BqmH10DIh7l1TFSiBt85nZC4ozfvfU0vGAYbDUV_S1j9FsqCd156GG5Hy6vdP7xYs9eZenFlzIPFALt5Y_ps7eq7-DOfuJ-j2UWq8gEvSD9i7v9tr5FuvFoXQciydLk41iPB69_uP2qLLFxwK"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program пропонує вищі виплати за якісний контент",
+   "why": "Програма стимулює створення оригінального, довгоформатного контенту, що може змінити контентну стратегію творців на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC_ATtcm7Ci15FOOKtNw97fDj1gshsqHTXgtNlyFR7FKckh0WvXQJNJfYNDQ1kkwIBo_FxwPjP_Il8rFMrodHm4AQEMsnnHa4DNs8DrvuoldmootG52GFsZOEQCO3IgZqwN9MaeGBiWL4ufv-65Uj4qXl37LSVsEzUlBvU8T1M"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "США",
+   "title": "У США пропонується закон про маркування ШІ-контенту (AI Labeling Act)",
+   "why": "Це свідчить про глобальну тенденцію до регулювання ШІ-генерованого контенту, що вплине на всі платформи та творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMq1Gzao-V2XEDWurNoktvbi_r6aQpXS_5Qig9qf6zevSxIeO6M761raXvaccUL0K24fvI_zUEFw7yHjCLrTlgJqPX5NhKhG75ZYSAM83oiZlFmf7-6yk_XWzmmlN9FazxbkCScbwQr8CNoPumKA9kaNZgMt6xz5bRJACL461xf20jsu15qHO49y-e9iXYD4GEjeNLnwPwtVKDYp7IKPYPIo46QLqa"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики Prime",
+   "why": "Це підкреслює ризики для великих компаній, пов'язані з практиками підписки та прозорістю для споживачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKIzzwocx7FH4F-bOmV2ayDX1xeGapV5pPt6L1AUWZ2oH2E_1u1q6gNWPI817p6co8ZcBIBPno_6H8ldLnWdmvpG2i9PE-EJ9c0NXYt-oi9Cgq4rcSnwpBFkNSkbb2_mDw02tYFZgULcCMHjHilRTK-SvR78QYQLg3S84EjMDtfztiLhYyYhjJiCwwBsa0S5hGjR-ECpNpgv71x4Oc4pP8HWOWXPAq7WZ-PbuvBzBag=="
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив Agentic Hub для ШІ-реклами",
+   "why": "Інтеграція ШІ в рекламні інструменти спрощує створення та оптимізацію кампаній, змінюючи ландшафт цифрової реклами.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdmLeRFSHS9y7C8JN-c92LFF2qGE4TezX1BkUpQ5PTbFgHxM9x5eiejZ2Ni-MH5la3KKgoBFIqP8sUpwBXe7SVwCgh-E7gd-qJVcqujLIOwkd7bmWgnnZgme7ao4tm3csxKZYJVxwsrBWrqhtMTLltwxsoFuLE19BvFHpmRbahOxJ37uKAnIeXYMdDtKM="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритми рекомендацій, фокусуючись на задоволеності користувачів",
+   "why": "Зміни алгоритмів впливають на видимість контенту та вимагають від творців адаптації стратегій для утримання аудиторії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2TK293EBgg2FCj1T1vK_HdJC3FIVdXyG02DFASPyvD5y_59UyzFZbNMiz7aob_UJhiSVMMb_C7hgrT3F010R5n1uh3IHeU2GggJlxAYBjzJmVteWIer5ef1z8y8OVyXuB4QTmOLTqIi4A8VI6NXiMTYcFKzzXSTGEksQhNliiWXQlrthWIVDgiXqQqGEENbRPWX8="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновлює алгоритм для глибшої взаємодії та оригінального контенту",
+   "why": "Пріоритезація підписників та оригінального контенту вимагає від творців зосередитися на якості та побудові лояльної аудиторії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHso9erDfG21zBAcNhGk2fJo68RbDCVn6JTyLZUwcxmfj4GHhrqhPokxF6UVo6Fqs0v8KNsOPaA1Iyhv7N5oYLFs_BJxVtdnKVlcqaDTPhP9vdU0ryEujRLYb6_05moY1LPdPw5E4ffiZDfaOooyQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оголосив про програму викупу акцій на $300 млн",
+   "why": "Програма викупу акцій може свідчити про впевненість компанії у своїй вартості та прагнення підвищити прибутковість для акціонерів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtu8wtEhLXaS1MHFwzJ9Q6bywik-UX1urp0KtIm0VerJvKf-u1EeIyEBGAYttOa9VkaNVWggosrptffWykFRxllvUWDBJlrhGeKLDUkcWcXOFPRszPLmpHzkK4mAeEBTA00wQru2klUv4Y8hdCKKvNqpeK32TDldfPiAjOFxs3TWFzxqp5Bqa0JpXjKrVNOL5ZEJVHoH_eevtjBDHpbpqrGPqhVfiCr08sRIphbTL6vmdKdTtli0-EQ9cklPCiyNmYHgDlI51XaQM="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії, особливо щодо конфіденційності даних та ШІ-генерованого контенту.",
+  "Активна інтеграція штучного інтелекту в рекламні інструменти та алгоритми платформ для оптимізації кампаній та персоналізації контенту.",
+  "Еволюція програм монетизації для творців на платформах, з акцентом на якість контенту та залучення аудиторії.",
+  "Зміни в алгоритмах рекомендацій платформ, що пріоритезують задоволеність користувачів, глибшу взаємодію та оригінальність контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск (штраф TikTok, врегулювання Amazon), набрання чинності вимог ЄС щодо маркування ШІ-контенту, пропозиції законів про ШІ у США. Платформи (YouTube, Snapchat) оновлюють монетизацію та алгоритми."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє активність у фінансовій сфері (програма викупу акцій), TikTok (глобальна платформа з коренями в Азії) стикається зі значними регуляторними викликами в ЄС та оновлює алгоритми."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що були б висвітлені в доступних джерелах за останні 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та інтеграція ШІ-інструментів для автоматизації створення та оптимізації відеоконтенту та рекламних кампаній.",
+  "Консультування та рішення для компаній щодо відповідності новим регуляторним вимогам ЄС та США щодо маркування ШІ-контенту та конфіденційності даних.",
+  "Створення стратегій для творців контенту, що враховують оновлені алгоритми платформ та програми монетизації для максимізації охоплення та доходів.",
+  "Партнерства з платформами для розширення можливостей монетизації та дистрибуції контенту, особливо в нішевих сегментах."
+ ],
+ "watch_next": [
+  "Подальші регуляторні рішення щодо ШІ-контенту та конфіденційності даних у ЄС та США.",
+  "Реакція TikTok на штраф GDPR та подальші кроки щодо відповідності.",
+  "Вплив оновлених алгоритмів YouTube та TikTok на динаміку переглядів та монетизації для творців.",
+  "Розвиток програм монетизації на інших платформах (Meta, Snapchat) та їхня конкурентоспроможність."
+ ],
+ "sources": [
+  {
+   "label": "Digital Applied",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdmLeRFSHS9y7C8JN-c92LFF2qGE7TezX1BkUpQ5PTbFgHxM9x5eiejZ2Ni-MH5la3KKgoBFIqP8sUpwBXe7SVwCgh-E7gd-qJVcqujLIOwkd7bmWgnnZgme7ao4tm3csxKZYJVxwsrBWrqhtMTLltwxsoFuLE19BvFHpmRbahOxJ37uKAnIeXYMdDtKM="
+  },
+  {
+   "label": "Common Thread Collective",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnAHR6pDdwvvIZCIO1F-Bji5WVv7Uz2aXk4DYi8YDBSOx9XiA8iZ5mq5NCVV4bCHqkIpJHMDS64_VGBcFXCdUc5kjObdPvV8jGjO-QLLLwby3AdRJXFXs74awzoisIKdL8Lab9PcwBFhcZuhm2BkccJKEDPyf4DTMm4HJSHiSJT6qQDHXDmk1PxQui56_dCHEPslPuBqZCQHp6b9V"
+  },
+  {
+   "label": "Global Dating Insights",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUlcaCt2iH6B6mPmAnCk7iEauv_j88XV2SXpk1552muTrWlPXWEkQ3q75_l28L0tW_TSK8TjV3R-ec7heD0kunFAIFE80CaXBHMgZ6P5xSMNdvyuuCB5cB2xx9WezxKUnGgpFtuwW--4wJJjjJhWJuqXcKmcLTdPGBexYNNJ1V4ErxiffKLuOfOw1NiN3VUbJCuJIimfaKt4du7_JLQHpsANRiiQ=="
+  },
+  {
+   "label": "Quasa",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2TK293EBgg2FCj1T1vK_HdJC3FIVdXyG02DFASPyvD5y_59UyzFZbNMiz7aob_UJhiSVMMb_C7hgrT3F010R5n1uh3IHeU2GggJlxAYBjzJmVteWIer5ef1z8y8OVyXuB4QTmOLTqIi4A8VI6NXiMTYcFKzzXSTGEksQhNliiWXQlrthWIVDgiXqQqGEENbRPWX8="
+  },
+  {
+   "label": "Mesper",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVqj7Xw4zn7IiGlubQn2CYjaVTYlxl5RiglxvggttTSbfxswGFlwvycjB0ABVrm32Du9Qp_BKH7RMNPqPSYSlRXiO11G8umA7y2j4qgNZBo877mMXJYKa19ydcdfBDsHowk_xUpjNFPj48rr-0dtkBMKWZ6V4="
+  },
+  {
+   "label": "Quiver Quantitative",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMq1Gzao-V2XEDWurNoktvbi_r6aQpXS_5Qig9qf6zevSxIeO6M761raXvaccUL0K24fvI_zUEFw7yHjCLrTlgJqPX5NhKhG75ZYSAM83oiZlFmf7-6yk_XWzmmlN9FazxbkCScbwQr8CNoPumKA9kaNZgMt6xz5bRJACL461xf20jsu15qHO49y-e9iXYD4GEjeNLnwPwtVKDYp7IKPYPIo46QLqa"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyIktMWyFNiZ_hl9NQSj4OEVx8WjzJRjriaeN_TnfewSgKhRp5Yew8ZMFzHGPnRY42we0zUN2Jqylk9jMPqU9J91vYusAUrk1Vq7zahqt3E7fAScG1VPG7etw5YyZcAYMVccuSiXTryN2pQJB7PGtZPZcJHf-PY8MBIKx4klFl_2Y0oAP9ZFrc5HlJKVQ5ZcX-sdKlEl-l3w8H0b8l2j_jsciQJ2ANGq4="
+  },
+  {
+   "label": "Sahm Stock Trading",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtu8wtEhLXaS1MHFwzJ9Q6bywik-UX1urp0KtIm0VerJvKf-u1EeIyEBGAYttOa9VkaNVWggosrptffWykFRxllvUWDBJlrhGeKLDUkcWcXOFPRszPLmpHzkK4mAeEBTA00wQru2klUv4Y8hdCKKvNqpeK32TDldfPiAjOFxs3TWFzxqp5Bqa0JpXjKrVNOL5ZEJVHoH_eevtjBDHpbpqrGPqhVfiCr08sRIphbTL6vmdTdTtli0-EQ9cklPCiyNmYHgDlI51XaQM="
+  },
+  {
+   "label": "Micky Weis",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHso9erDfG21zBAcNhGk2fJo68RbDCVn6JTyLZUwcxmfj4GHhrqhPokxF6UVo6Fqs0v8KNsOPaA1Iyhv7N5oYLFs_BJxVtdnKVlcqaDTPhP9vdU0ryEujRLYb6_05moY1LPdPw5E4ffiZDfaOooyQ=="
+  },
+  {
+   "label": "Socialync",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Rucw3UTIeQEWSRK5Mpmuceo4tDYHnqnA4tQRKjk2kf5h94jWKBmpGKy7bS4ax2csGj6-7FdTNw7jTPVbVpjIRoPbOxJ1xnzsMOhPRKIOc8oRIC-Hy9qMhhJhwlIFOSHe0sa76mX5cVqLuYggM1Wj8HmQpam5tMWAmERZQ=="
+  },
+  {
+   "label": "Legit.eu",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlgd6ucH0v01c93PzpzkCtifdPnL9QKvfo7vt8c8UkKYmpLUHsl_eoDRYYJbFWpVAUM194R9MExoTLaCMWXYh6k5dsSrROVmNU1XGWCBpKvDuz10jPtdTGT4Z3eGTmyb6mcgRoImGjEoMwvUSoLBFT43fG8817QPNHMsTfMNlwO5gViSZrLH-B9RH-vU8_uGyQD2qd4YoBjq-pWbRpNNAbwzt9R2nafwkg02J3GLn_mx6fegSfaw=="
+  },
+  {
+   "label": "Constant Contact",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzom61887ZGnO1LXKZwFEgiODb8YY9ZGwRU3gfDuM4Pg6bQX3ZQMEQ5bIhV7FWMjfgCX0vl3yz0i-Cv6DfmUU91BQW7xZ4iOS3UpA1RFZEdMkqpZoJdiI6SV-2QuWTBV4q8ReZWhhK6qfQ-K3-gaTifgOuc1k97lgEROZhA=="
+  },
+  {
+   "label": "Simply Wall St",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHysuCK0lDt4YWZdKfxfRGTv0IHtLMkeueEslZtrHVpHo72DGeCN4PYGJpwr9BoWYwfHcsTGl0g-217ULjic3Dmq_vGfQFv8iddx6C0oZ4I4KwoyNhIsv95WbJNcX-6Kp9lU4OF3pbrSVdCyiLpUAfYbjD9MUUTbf7xjPCoyt-rnesMsAnHhRbptAJeA-fI2Cu4gcWaZeJ6p7BezvpuJKU-cBIffazPuvZQsEJwPciciSt7ZnETNHg=="
+  },
+  {
+   "label": "Deepak Gupta",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuCskUbTaI6FxY0dcI8gJvscVYAzZtoBiXsLdCBDWrDv9b-30EHK3G42XczEh-IAI2PHXqZnYQhR62FO18ez8pMhKMjXrUdzRwEdZRB3aAAmkrIt3jwIwD8HHr_MoN0gIoHMs-Woy6kImsy-7g3l4umuzqkLhA5FClYfKUAz5UCtl8LgJgg_Ft3DY="
+  },
+  {
+   "label": "Class Action Lawsuits",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKIzzwocx7FH4F-bOmV2ayDX1xeGapV5pPt6L1AUWZ2oH2E_1u1q6gNWPI817p6co8ZcBIBPno_6H8ldLnWdmvpG2i9PE-EJ9c0NXYt-oi9Cgq4rcSnwpBFkNSkbb2_mDw02tYFZgULcCMHjHilRTK-SvR78QYQLg3S84EjMDtfztiLhYyYhjJiCwwBsa0S5hGjR-ECpNpgv71x4Oc4pP8HWOWXPAq7WZ-PbuvBzBag=="
+  },
+  {
+   "label": "EDPB",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRuqve7q_Lv1KvOk0ufkA68Sj8In3BTj_PJXcavkhfzRka7seLti5pJfA1lBTMCEFB45g7k9LC40S9PnVxh5vNmoA4qHsfjiCZhAEngj2XE_IVj-5tmY5AtBOiLshSelnTUvas5Zt82xOWpAZm5W1QhgEuLRVlFumnflZ_nI_-XzhH93wHIGoGEmpiNbswvU4iq2ueJjd2ugbvRdvYy3B832a-UNlgOGAReN6UtwwMHacOpQ=="
+  },
+  {
+   "label": "AI Ethics Assessor",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw7HnfgJc-Dn-Bt7uNwT_exOIA8zySVgt6nq5QxeUhwsPW5V7mf-BF4Se8W21yJsxR-qamOqygjzOriYBXsR5iBTHe5xnF8IDs_Te-Os_yNj2LFJjotEYtuwAELhTOn3rt-duKPIN2qKHur_YA9R8LEcvOpR36ZAoyXBuBqP1cGrswsGYU8fqC"
+  },
+  {
+   "label": "MySA",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg8dS13QlSLtIZc6U6Wwtf8BJ5qqYUw7sRpzXF9bMIyUWXLXU7d2RV9p11T-ZAyMc5GZYcyN_pDKsV5FPArrMLVrXiW09pOt7ky8J78J9nLVQlF8pE7seFgzWAzz2GDc9c9zWbWOJ0zKJnAmeD_xbnaU92Ej1DAqVP4qdFt7kFb6hYj7M6kEOL4TNVy5I6Rw=="
+  },
+  {
+   "label": "Jones Day",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyJ4QMR1GzzesaTGdmT_O1nj7p8LDlqN5mxVPIsUDLIX4wz8MTHs_a1PJAQA-4Ra6nZDCJtGHOz4-DtObSG_jijfoByxZzmjj2igEBgOTkGSsSC5Qpb67hw8Ie_JnlUE24aBdA0PnsDlNctTCySPfhsfaYJPptiWDfZ-z9QZSfVdqv3PfWyDrhbwpSTXTMcFXY-85bnuQk3hK6g=="
+  },
+  {
+   "label": "Quasa Media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPLrxfYNCQf5EG1BsrVUHUbzTkqdiuPh6XYV_poNN6yhyvrHYOJ56BqmH10DIh7l1TFSiBt85nZC4ozfvfU0vGAYbDUV_S1j9FsqCd156GG5Hy6vdP7xYs9eZenFlzIPFALt5Y_ps7eq7-DOfuJ-j2UWq8gEvSD9i7v9tr5FuvFoXQciydLk41iPB69_uP2qLLFxwK"
+  },
+  {
+   "label": "CBS News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErZUZ7wUbIGP3UMj4j5tMWe3siuLXF0vixwvaAFmgVPAPow5bk0BuXxBinvlOLCJEwMKR5VJRBw5QPkGDqOLGAulSb7LxMid5_mtyj7xnOhlQmJ4ILP_Z8eDmBGymivCc9Lbx3REqR0l4TYaIgPvZo0oJUNcCGgH7u0b6rk5dTxKhJHvGpBQWvqC-51uc="
+  },
+  {
+   "label": "Dark Reading",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU_BpY1XhgDxDd1sd0e59teV7Y4gF0gvYc4_q7S0ni8tI03XLOq2RVea3uYAP7iLl-qKHxgO_Pi_X06Gr3ESIJprR1jvHNLaAkyK5lD-nDxSPQVzpxh50B2XBYWntlRFHPfK6hlrZ5UAZj2vF3V6HO6fCPFvG2waq880D4Wx2p7pqmw9yvuZRu3ACV3odrJ4bJMmgKqQYIFRK7ZFXdg=="
+  },
+  {
+   "label": "European Commission",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbdHSoVD_gdt-ymzKqfK6BQIbTVy5A1x7Z2Uqz27o8Az-P1TiyWUEMnICMzpgQWFS5OH5DjH50tvjTLz8_V4-p3B51WMNght9vOW4Pq3m5aUMw2xOS7fN5KC7GWOKLp3pKnKXV4H0z0DwUinZjZDMEepA6boe0B0prYZs2W45xUwSDySJ0ixY-Vx5EwdKFaEdxP3uvMTXApQ6OejCo2Qlw12-rQOPiRvDa9-nrLPPs5Rw3sj9yTw=="
+  },
+  {
+   "label": "hyperight.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQQlXax0ktt5_ER8m7n0TB3txGZlc1laRFLUe3Xm4q1GWxqb7v0g8BmjzX_M5ozV3iUbMVbb5e-WVtwueTDRHsnyVTGWyX_4iG2hSvGHh7Miv-hyTfqyLyjQ8BO2k1612_YC6478fkFll0GZz_KPLrvYUHPG6zIiLxJLnYGtzlVZCAkgPrxIvsQREJThboLPIaJuMPA02AaQ=="
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE24kUy5qP9u4JHkIwKh36Gw6X0l2STALPtEE3IcZQYWzB08wFLjbP9V9nzZE8NYIwmRqtoDq6NqsPRIdNaIbDUAbGfQsSKi7IT96K4gN5eoa1z9SN3PEeQQbPog8mvyUwHFXRtTebZ8wzUTreodGwjUJKNMPYd"
+  },
+  {
+   "label": "Intellectia.AI",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ndyZ0Y594WxbwVomP4TDQGqkr1cUYKVt6fnF9LsGqPeZs1_-MGXO5CpgQHRFO8USsMtQjARQzbMgGEt_SVl92lILgRf-AUFAGYL91GjWFgV5CoXZPjhx7ZROk6H9z0Xkq_36WHNBOWqzCjTZcxUoA1ieEG6uqOH5_1bOIOwtIQehDDSqa0FZ4_Jdc2lHwqzbV28="
+  },
+  {
+   "label": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyyw2W5MWjw4PDk0iYWlU5Cw6J_abmsn7Myn4Ds4UK2wjTuuiM-1WnXzTHbs1KoODzHAn0ANMHMDvEqyRXiYZsgt5ras-GpB1A7lHQRYGLlM61I4YghEmDhs7tFNjjaNzYJCcqM7DRqnkls_36yqtAy_SbnZl2vdZmYEy63gaGo3jY7AH94Mz1036VnmKherUI4Jy46dqUofqZAg-VwSJFrTZAEplESg=="
+  },
+  {
+   "label": "Elev8or",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC_ATtcm7Ci15FOOKtNw97fDj1gshsqHTXgtNlyFR7FKckh0WvXQJNJfYNDQ1kkwIBo_FxwPjP_Il8rFMrodHm4AQEMsnnHa4DNs8DrvuoldmootG52GFsZOEQCO3IgZqwN9MaeGBiWL4ufv-65Uj4qXl37LSVsEzUlBvU8T1M"
+  },
+  {
+   "label": "TikTok Support",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0PD8XWbjJcRq34PpfpKOoPOEiVit1o1jW3WnFO3jnTpw4k0bGXhxoZ6IWFpvRx_6HGSQSBNUYDea-SuB8-WI7YW_VsDyfAW6xGthZ-IOxk1A7foTfSuvEpOaJ4qfpkg1tWUKqgoI3f0wf1_mF57WzT2jO7bI89n-S9W-CKLwQH242S7C4Y7rV3e3FNHWSlpHEAWS2iEI_qkFJoaf2"
+  },
+  {
+   "label": "Miracamp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCXFXdwPplZcbTBIdezWZAAIMGXB3ddy4FakQOWpvdftGMkieikSuQN36eVskO5vYmzZ8JD7xMdKuAtoIvsR2LxWcOgSoMa-Lnm1Fcm0cdXePwSd6vnwHJHJ-TKf_mkT3TbHwZWk7mnhAk3oX6vkxpj6vHRIiVci9fvuehXtWmEA=="
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF36ER0rpqCHOavBwSmngwATNEFRY-CEjBqsehuuUjWttwpIGBmlTvb7JXA-GRot-475x2lkM8MVB2FLE48bu0GStrAY8EirfuCp4bfwMQWtCflIA5CZBgAYGmXykiJenhm7B4f3rcIURm1WsU9Xb22N9bziuQk3hK6g=="
+  }
+ ]
+}
