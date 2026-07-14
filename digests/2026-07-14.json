@@ -1,0 +1,332 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску, зокрема позовом про блокування злиття Paramount-Warner Bros. та набранням чинності вимог ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube та TikTok, активно оновлюють програми монетизації для творців та алгоритми, що змінює підходи до дистрибуції контенту та конкуренції за таланти.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф для TikTok за порушення GDPR, що підкреслює зростаючий регуляторний тиск на великі платформи."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "$110 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. (предмет позову)"
+  },
+  {
+   "value": "$2.5 млрд",
+   "label": "Врегулювання позову Amazon Prime"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією дня є позов коаліції 12 штатів США про блокування злиття Paramount та Warner Bros. на суму $110 млрд. Цей крок, незважаючи на попереднє схвалення Міністерством юстиції, підкреслює зростаючу стурбованість регуляторів щодо консолідації медіаринку. У разі успіху, позов може запобігти зменшенню конкуренції, що, на думку позивачів, призвело б до підвищення цін, зниження якості та зменшення обсягу контенту для споживачів. Це також може створити прецедент для майбутніх великих угод у медіаіндустрії.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 6
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 5
+  },
+  {
+   "label": "Продукт",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MediaPost",
+   "title": "Штати подали позов про блокування злиття Paramount-Warner Bros.",
+   "why": "Позов на $110 млрд може суттєво вплинути на ландшафт медіадистрибуції, зменшуючи конкуренцію та впливаючи на ціни та якість контенту.",
+   "url": "https://www.mediapost.com/publications/article/412753/states-sue-to-block-paramount-warner-bros-merger.html"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний штраф за порушення конфіденційності даних встановлює прецедент для регуляторного тиску на великі платформи.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС",
+   "title": "Набувають чинності вимоги ЄС щодо маркування ШІ-генерованого контенту (з 2 серпня 2026)",
+   "why": "Встановлює нові стандарти прозорості та відповідальності для контенту, створеного ШІ, впливаючи на стратегії платформ та творців.",
+   "url": "https://weventure.de/en/blog/mandatory-labeling-for-ai-generated-content-what-changes-in-2026"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив програму монетизації Shorts та пороги YPP",
+   "why": "Змінює умови монетизації для коротких відео, стимулюючи творців та впливаючи на конкуренцію з TikTok та Reels.",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Оновлення алгоритму TikTok (липень 2026): 3 ключові сигнали для охоплення",
+   "why": "Деталізує зміни в алгоритмі TikTok, що впливають на видимість контенту, пріоритезуючи час перегляду, співвідношення поширень до збережень та рівень завершення відео.",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program пропонує вищі виплати за якісний контент",
+   "why": "Посилює конкуренцію за таланти та стимулює створення високоякісного контенту на платформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels",
+   "why": "Спрямована на прискорене залучення та підтримку творців коротких відео, посилюючи позиції Meta у конкуренції за контент.",
+   "url": "https://www.androidheadlines.com/2026/03/meta-will-pay-big-creators-to-post-on-facebook.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Quasa Media",
+   "title": "Comcast NBCUniversal виділяє бізнеси, сигналізуючи про активізацію M&A у 2026 році",
+   "why": "Розділення великого медіаконгломерату може створити нові можливості для M&A та змінити структуру ринку дистрибуції контенту.",
+   "url": "https://quasa.io/blog/comcast-nbcuniversal-spin-off-signals-booming-2026-ma-landscape"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "США",
+   "title": "У США пропонується закон про маркування ШІ-контенту (AI Labeling Act)",
+   "why": "Вказує на глобальний тренд регулювання ШІ-контенту, що може вплинути на міжнародні операції платформ.",
+   "url": "https://www.politico.com/news/2026/07/01/lawmakers-push-for-ai-content-labeling-00104000"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat обмежує публічний доступ до відео Spotlight для підлітків",
+   "why": "Зміни в політиці безпеки для підлітків можуть вплинути на стратегії створення та дистрибуції контенту на платформі, а також на її конкурентоспроможність.",
+   "url": "https://www.engadget.com/snap-will-no-longer-allow-younger-teens-spotlight-videos-to-be-publicly-viewable-110000494.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon",
+   "title": "Amazon врегулював позов на $2.5 млрд за оманливі практики Prime",
+   "why": "Хоча безпосередньо не стосується відеодистрибуції, це показує регуляторний тиск на великі технологічні компанії, що може вплинути на їхні відеосервіси.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює з OTT Studio для дистрибуції контенту",
+   "why": "Розширює можливості дистрибуції довгоформатного контенту через YouTube та соціальні платформи, що є важливою тенденцією на ринку.",
+   "url": "https://thesoul-publishing.com/news/thesoul-group-partners-with-ott-studio-to-distribute-entertainment-content-across-youtube-social-platforms/"
+  },
+  {
+   "importance": "low",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює алгоритми рекомендацій та розширює автодублювання",
+   "why": "Зміни в алгоритмах безпосередньо впливають на видимість контенту та стратегії дистрибуції для творців, а автодублювання розширює міжнародне охоплення.",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026/"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok посилює прозорість ШІ-контенту та реклами",
+   "why": "Інтеграція ШІ в рекламні інструменти змінює підходи до монетизації та таргетингу реклами на платформі.",
+   "url": "https://www.mediapost.com/publications/article/412743/google-adds-transparency-to-ai-generated-ads.html"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Zefr",
+   "title": "Zefr розширює партнерську мережу в Туреччині, країнах Перської затоки та Єгипті",
+   "why": "Розширення впливу Zefr на YouTube у нових регіонах підкреслює зростаючу важливість рішень для безпеки бренду та відповідності контенту.",
+   "url": "https://www.zawya.com/en/press-release/companies-news/zefr-expands-strategic-partner-network-across-turkiye-gcc-and-egypt-with-black-c-media-and-redc-media-j2881g9h"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "інше",
+   "source": "NewscastStudio",
+   "title": "Безкоштовні стрімінгові сервіси лідирують у рейтингах споживчої цінності",
+   "why": "Вказує на зміну споживчих переваг у бік безкоштовного контенту, що може вплинути на моделі монетизації у відеодистрибуції.",
+   "url": "https://www.newscaststudio.com/2026/07/13/free-streaming-services-lead-consumer-value-ratings-in-new-data/"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє зростання рекламних доходів та активність у контентних заходах",
+   "why": "Вказує на зростання та активність ключового гравця на азіатському ринку відеодистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширив Creator Subscriptions на весь світ",
+   "why": "Розширює можливості монетизації для творців на Snapchat, посилюючи конкуренцію за таланти.",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, особливо щодо конфіденційності даних (GDPR) та прозорості ШІ-генерованого контенту.",
+  "Активна інтеграція ШІ в алгоритми та рекламні інструменти платформ для покращення взаємодії та моненетизації.",
+  "Розширення та оновлення програм монетизації для творців на коротких відеоформатах (Shorts, Reels, Spotlight) з метою залучення та утримання талантів.",
+  "Зростання важливості безкоштовних стрімінгових сервісів та контенту як фактора споживчої цінності.",
+  "Значні рухи на ринку M&A, що свідчать про консолідацію та перерозподіл активів у медіаіндустрії."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск (штраф TikTok, закони про ШІ-контент), активні M&A (позов Paramount-Warner Bros., виділення Comcast), оновлення програм монетизації на YouTube, Meta, Snapchat."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє зростання рекламних доходів та активність у контентних заходах. Zefr розширює партнерську мережу в Туреччині, країнах Перської затоки та Єгипті."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів за останні 7 днів."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, сьогоднішній бриф включає нову значну подію – позов штатів США про блокування злиття Paramount-Warner Bros., що додає новий вимір до тренду M&A та регуляторного тиску. Також деталізовано оновлення алгоритму TikTok за липень 2026 року.",
+ "bizdev": [
+  "Розробка та впровадження рішень для маркування ШІ-генерованого контенту відповідно до нових регуляторних вимог ЄС та США.",
+  "Створення контентних стратегій, орієнтованих на нові алгоритми платформ (TikTok, YouTube), що пріоритезують глибшу взаємодію та час перегляду.",
+  "Дослідження можливостей партнерства з великими медіакомпаніями, що проходять реструктуризацію або є об'єктами M&A, для розширення дистрибуції.",
+  "Інвестиції в розробку та дистрибуцію короткоформатного контенту, враховуючи оновлені програми монетизації на провідних платформах."
+ ],
+ "watch_next": [
+  "Розвиток позову щодо злиття Paramount-Warner Bros. та його потенційний вплив на медіаіндустрію.",
+  "Подальші регуляторні ініціативи щодо ШІ-контенту та конфіденційності даних у різних регіонах.",
+  "Реакція творців та рекламодавців на оновлення алгоритмів та програм монетизації на YouTube, TikTok та Meta.",
+  "Потенційні M&A угоди, що можуть виникнути внаслідок реструктуризації великих медіаконгломератів."
+ ],
+ "sources": [
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/412753/states-sue-to-block-paramount-warner-bros-merger.html"
+  },
+  {
+   "label": "weventure",
+   "url": "https://weventure.de/en/blog/mandatory-labeling-for-ai-generated-content-what-changes-in-2026"
+  },
+  {
+   "label": "White & Case LLP",
+   "url": "https://www.whitecase.com/insight-our-thinking/made-ai-new-labelling-obligation-ai-content-august-2026"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/do-you-have-to-label-ai-generated-content-2026-disclosure-rules-for-brands-on-social/719875/"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-2026/"
+  },
+  {
+   "label": "Mashable",
+   "url": "https://mashable.com/article/youtube-shorts-monetization-creator-fund"
+  },
+  {
+   "label": "Quasa",
+   "url": "https://quasa.io/blog/youtube-monetization-2026-new-thresholds-and-shorts-revenue-shifts"
+  },
+  {
+   "label": "StudioPrep",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026/"
+  },
+  {
+   "label": "Mapscaping.com",
+   "url": "https://mapscaping.com/blogs/news/new-2026-updated-100-free-tiktok-followers-2026-latest"
+  },
+  {
+   "label": "Socialync",
+   "url": "https://socialync.io/tiktok-algorithm-update-2026/"
+  },
+  {
+   "label": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/03/meta-will-pay-big-creators-to-post-on-facebook.html"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://profit.ndtv.com/news/meta-to-pay-american-influencers-up-to-3000-a-month-to-post-reels-on-facebook-as-part-of-creator-fast-track-program-4001925"
+  },
+  {
+   "label": "YouTube (Meta's Massive Reward!)",
+   "url": "https://www.youtube.com/watch?v=s_9i-x8-11I"
+  },
+  {
+   "label": "Quasa Media",
+   "url": "https://quasa.io/blog/comcast-nbcuniversal-spin-off-signals-booming-2026-ma-landscape"
+  },
+  {
+   "label": "POLITICO Pro",
+   "url": "https://www.politico.com/news/2026/07/01/lawmakers-push-for-ai-content-labeling-00104000"
+  },
+  {
+   "label": "Engadget",
+   "url": "https://www.engadget.com/snap-will-no-longer-allow-younger-teens-spotlight-videos-to-be-publicly-viewable-110000494.html"
+  },
+  {
+   "label": "YouTube (GAD Insider)",
+   "url": "https://www.youtube.com/watch?v=Q_t07f7w-2U"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul-publishing.com/news/thesoul-group-partners-with-ott-studio-to-distribute-entertainment-content-across-youtube-social-platforms/"
+  },
+  {
+   "label": "StreamTV Insider",
+   "url": "https://www.streamtvinsider.com/articles/2026/06/18/thesoul-group-to-distribute-long-form-ott-studio-content-to-youtube"
+  },
+  {
+   "label": "ZAWYA",
+   "url": "https://www.zawya.com/en/press-release/companies-news/zefr-expands-strategic-partner-network-across-turkiye-gcc-and-egypt-with-black-c-media-and-redc-media-j2881g9h"
+  },
+  {
+   "label": "NewscastStudio",
+   "url": "https://www.newscaststudio.com/2026/07/13/free-streaming-services-lead-consumer-value-ratings-in-new-data/"
+  }
+ ]
+}
