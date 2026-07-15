@@ -1,0 +1,304 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску, зокрема позовом США про блокування злиття Paramount-Warner Bros. та набранням чинності вимог ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube, TikTok та Meta, активно оновлюють програми монетизації для творців та алгоритми, що змінює підходи до дистрибуції контенту та конкуренції за таланти.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, накладений на TikTok за порушення GDPR, підтверджений судом."
+ },
+ "figures": [
+  {
+   "value": "$110-111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros."
+  },
+  {
+   "value": "30%",
+   "label": "Зростання рекламних доходів Bilibili у Q1 2026"
+  },
+  {
+   "value": "$2.5 млрд",
+   "label": "Сума врегулювання позову Amazon Prime"
+  }
+ ],
+ "top_signal_deep": "Коаліція з 12 генеральних прокурорів штатів США, очолювана Каліфорнією, подала позов про блокування злиття Paramount Skydance Corporation та Warner Bros. Discovery на суму $110-111 млрд. Позов стверджує, що злиття порушує розділ 7 Закону Клейтона, що може суттєво зменшити конкуренцію на ринках дистрибуції театральних фільмів та базового кабельного телебачення. Об'єднана компанія контролюватиме близько третини кінопрокату та кабельного програмування в США. Paramount заявляє, що позов є необґрунтованим, а злиття необхідне для конкуренції зі стрімінговими гігантами, такими як Netflix. Ця подія створює значний прецедент у регулюванні великих медіа-угод, потенційно впливаючи на консолідацію галузі та доступність контенту для споживачів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A / регуляції",
+   "stream": "конкурент",
+   "source": "US Government / California Department of Justice",
+   "title": "Штати подали позов про блокування злиття Paramount-Warner Bros.",
+   "why": "Створює прецедент та впливає на консолідацію великих медіаактивів, що може змінити ландшафт дистрибуції контенту, потенційно зменшуючи конкуренцію та впливаючи на ціни для споживачів.",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-block-110-billion-warner-bros-paramount"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції / контент",
+   "stream": "платформа",
+   "source": "EU Commission / Wilson Sonsini",
+   "title": "ЄС вводить вимоги щодо маркування ШІ-контенту з 2 серпня 2026",
+   "why": "Встановлює нові стандарти для творців та платформ, вимагаючи прозорості щодо ШІ-контенту, що вплине на виробництво та дистрибуцію в Європі та може стати глобальним прецедентом.",
+   "url": "https://www.wilsonsonsini.com/news/eu-commission-publishes-ai-transparency-code-of-practice/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "YouTube / VidTube Studio",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP",
+   "why": "Змінює умови для творців коротких відео, впливаючи на їхній дохід та стимули для створення контенту на платформі, переходячи до моделі розподілу доходу від реклами.",
+   "url": "https://vidtubestudio.com/youtube-shorts-monetization-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok / StudioPrep",
+   "title": "TikTok оновив алгоритм: 3 ключові сигнали для охоплення",
+   "why": "Впливає на стратегії контент-мейкерів та дистриб'юторів для досягнення аудиторії на TikTok, заохочуючи довший та більш якісний контент.",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok / OneStream Live",
+   "title": "TikTok Creator Rewards Program пропонує вищі виплати за якісний контент",
+   "why": "Стимулює створення високоякісного контенту на TikTok, змінюючи конкуренцію за таланти та підходи до монетизації для творців.",
+   "url": "https://onestream.live/blog/tiktok-creator-rewards-program/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "Meta / TMC Insight",
+   "title": "Meta запустила Creator Fast Track для залучення творців Reels",
+   "why": "Посилює конкуренцію за творців коротких відео між Meta та іншими платформами, такими як TikTok та YouTube Shorts, пропонуючи гарантовані виплати.",
+   "url": "https://www.tmcnet.com/news/2026/07/07/4529369.htm"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Irish Data Protection Commission / Acompli",
+   "title": "TikTok оштрафовано на €530 млн за порушення GDPR",
+   "why": "Значний штраф підкреслює посилення регуляторного тиску на платформи щодо конфіденційності даних, що впливає на їх операційні моделі та міжнародні передачі даних.",
+   "url": "https://www.acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація / продукт / контент",
+   "stream": "конкурент",
+   "source": "Bilibili / Simply Wall St",
+   "title": "Bilibili демонструє зростання рекламних доходів на 30% та інтегрує ШІ",
+   "why": "Вказує на посилення позицій Bilibili на азіатському ринку, що важливо для глобальної дистрибуції, завдяки зростанню рекламних доходів та інтеграції ШІ для ефективності.",
+   "url": "https://simplywall.st/news/nasdaqgs-bili-could-be-40-undervalued-following-ad-growth-and-buybacks"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширив Creator Subscriptions на весь світ",
+   "why": "Надає творцям нові можливості для монетизації та залучення аудиторії на Snapchat, посилюючи конкуренцію за контент. [VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції / контент",
+   "stream": "платформа",
+   "source": "US Senate / Mintz",
+   "title": "У США пропонується закон про маркування ШІ-контенту (AI Labeling Act)",
+   "why": "Відображає глобальну тенденцію до регулювання ШІ-контенту, що може вплинути на майбутні правила дистрибуції та вимагати прозорості.",
+   "url": "https://www.mintz.com/insights-center/ai-washington-report-july-2026-edition"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "FTC / Open Class Actions",
+   "title": "Amazon врегулював позов на $2.5 млрд щодо Prime",
+   "why": "Демонструє регуляторний тиск на великих гравців ринку щодо споживчих практик, що може вплинути на їхні бізнес-моделі та довіру споживачів.",
+   "url": "https://openclassactions.com/settlements/amazon-prime-settlement-2026/"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт / контент",
+   "stream": "платформа",
+   "source": "Meta / WeRSM",
+   "title": "Meta розширила ШІ-переклад для Reels на нові мови",
+   "why": "Покращує доступність контенту та глобальне охоплення для Reels, потенційно збільшуючи залученість аудиторії та можливості монетизації для творців.",
+   "url": "https://www.wersm.com/meta-makes-reels-easier-to-watch-across-languages/"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні та медіа-компанії, особливо щодо ШІ-контенту та конфіденційності даних.",
+  "Інтенсифікація конкуренції за творців контенту та короткі відеоформати між основними платформами (YouTube, TikTok, Meta) через оновлення програм монетизації та алгоритмів.",
+  "Зростання ролі ШІ у створенні, дистрибуції та монетизації відеоконтенту, що вимагає нових підходів до прозорості та регулювання.",
+  "Зміщення акцентів алгоритмів платформ на якість, тривалість перегляду та оригінальність контенту, а не лише на кількість переглядів."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на медіа-злиття (США) та ШІ-контент (ЄС), активні оновлення монетизації та алгоритмів на ключових платформах (YouTube, Meta, Snapchat)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання рекламних доходів, інтегруючи ШІ для підвищення ефективності, що підкреслює динаміку азіатського ринку."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що виділяються на загальному глобальному тлі."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій адаптації контенту та монетизації під оновлені алгоритми та програми винагород YouTube Shorts, TikTok та Meta Reels.",
+  "Інвестиції у технології маркування ШІ-контенту та забезпечення відповідності європейським та потенційним американським регуляторним вимогам.",
+  "Пошук та залучення талановитих творців, які можуть виробляти якісний, оригінальний контент, що відповідає новим вимогам платформ щодо тривалості та залученості.",
+  "Моніторинг M&A активності у традиційних медіа для виявлення нових можливостей або загроз у дистрибуції контенту."
+ ],
+ "watch_next": [
+  "Розвиток судового процесу щодо злиття Paramount-Warner Bros. та його вплив на медіа-ландшафт.",
+  "Деталі та практична реалізація вимог ЄС щодо маркування ШІ-контенту після 2 серпня 2026 року.",
+  "Подальші оновлення алгоритмів та програм монетизації від YouTube, TikTok та Meta.",
+  "Регуляторні ініціативи щодо ШІ-контенту в США та інших регіонах."
+ ],
+ "sources": [
+  {
+   "label": "California Department of Justice",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-block-110-billion-warner-bros-paramount"
+  },
+  {
+   "label": "Wilson Sonsini",
+   "url": "https://www.wilsonsonsini.com/news/eu-commission-publishes-ai-transparency-code-of-practice/"
+  },
+  {
+   "label": "New York Attorney General",
+   "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-sues-block-paramounts-merger-warner-bros"
+  },
+  {
+   "label": "New Jersey Office of Attorney General",
+   "url": "https://www.njoag.gov/ag-davenport-and-multistate-coalition-challenge-paramount-warner-bros-merger/"
+  },
+  {
+   "label": "Open Class Actions",
+   "url": "https://openclassactions.com/settlements/amazon-prime-settlement-2026/"
+  },
+  {
+   "label": "The Leveraged Years",
+   "url": "https://theleveragedyears.com/eu-ai-act-article-50-label-ai-content-by-aug-2/"
+  },
+  {
+   "label": "weventure",
+   "url": "https://weventure.de/en/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "label": "Mintz",
+   "url": "https://www.mintz.com/insights-center/ai-washington-report-july-2026-edition"
+  },
+  {
+   "label": "PostLink",
+   "url": "https://postlink.com/blog/tiktok-creator-rewards-requirements-2026/"
+  },
+  {
+   "label": "YouTube Shorts Monetization Changes July 2026",
+   "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-07-15/states-case-to-block-paramount-warner-bros-merger"
+  },
+  {
+   "label": "OPB",
+   "url": "https://www.opb.org/article/2026/07/13/oregon-paramount-warner-bros-merger-lawsuit/"
+  },
+  {
+   "label": "StudioPrep",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026/"
+  },
+  {
+   "label": "TMC Insight",
+   "url": "https://www.tmcnet.com/news/2026/07/07/4529369.htm"
+  },
+  {
+   "label": "New Update!! Monetize Your YouTube Channel With Shorts! 2026 Update",
+   "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+   "label": "MySA",
+   "url": "https://www.mysanantonio.com/news/article/amazon-prime-settlement-19543166.php"
+  },
+  {
+   "label": "Chimo AI",
+   "url": "https://chimo.ai/amazon-prime-class-action-settlement-2026/"
+  },
+  {
+   "label": "Socialync",
+   "url": "https://socialync.io/tiktok-algorithm-update-2026/"
+  },
+  {
+   "label": "Bilibili (BILI) Could Be 40% Undervalued Following Ad Growth And Buybacks",
+   "url": "https://simplywall.st/news/nasdaqgs-bili-could-be-40-undervalued-following-ad-growth-and-buybacks"
+  },
+  {
+   "label": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/2301131/bilibili-inc-bili-sees-positive-growth-prospects"
+  },
+  {
+   "label": "YouTube (ATP)",
+   "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+   "label": "Elevate with Angela",
+   "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  {
+   "label": "European Data Protection Board",
+   "url": "https://edpb.europa.eu/news-events/news/irish-supervisory-authority-fines-tiktok-eu530-million-and-orders-corrective_en"
+  },
+  {
+   "label": "Acompli",
+   "url": "https://www.acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "label": "Piwwop Blog",
+   "url": "https://piwwop.com/blog/ai-act-ai-labeling-compliance-roadmap-2026/"
+  },
+  {
+   "label": "WeRSM",
+   "url": "https://www.wersm.com/meta-makes-reels-easier-to-watch-across-languages/"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/facebook-looks-to-lure-high-profile-creators-with-new-program/710987/"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://www.ndtvprofit.com/technology/meta-to-pay-american-influencers-up-to-3-000-a-month-to-post-reels-on-facebook-as-part-of-creator-fast-track-program"
+  },
+  {
+   "label": "OneStream Live",
+   "url": "https://onestream.live/blog/tiktok-creator-rewards-program/"
+  },
+  {
+   "label": "VidTube Studio",
+   "url": "https://vidtubestudio.com/youtube-shorts-monetization-2026/"
+  }
+ ]
+}
