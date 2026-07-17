@@ -1,0 +1,313 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску, зокрема позовом 12 штатів США та Гільдії сценаристів про блокування злиття Paramount-Warner Bros. Discovery та набранням чинності вимог ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube, TikTok, Meta та Snapchat, активно оновлюють програми монетизації для творців та алгоритми, що змінює підходи до дистрибуції контенту та конкуренції за таланти. Ринок об'ємного відео демонструє значне зростання, підкреслюючи роль ШІ у майбутньому контенту.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, підтверджений судом, для TikTok за порушення GDPR."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "$111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$3.21 млрд",
+   "label": "Обсяг ринку об'ємного відео у 2026 році"
+  },
+  {
+   "value": "13.27%",
+   "label": "CAGR ринку об'ємного відео до 2032 року"
+  },
+  {
+   "value": "45%",
+   "label": "Частка доходу творців YouTube Shorts від реклами"
+  },
+  {
+   "value": "25 млн+",
+   "label": "Підписники Snapchat+"
+  },
+  {
+   "value": "30%",
+   "label": "Зростання рекламного доходу Bilibili у Q1 2026"
+  },
+  {
+   "value": "22%",
+   "label": "Зростання середнього доходу творців Bilibili у 2025 році"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією дня є посилення юридичного тиску на злиття Paramount-Warner Bros. Discovery. Paramount Skydance представила свій юридичний захист проти позову 12 штатів США, називаючи його одним із найслабших антимонопольних викликів у сучасній історії. Слухання щодо тимчасової заборони заплановано на п'ятницю (17 липня), і існує побоювання, що суддя може тимчасово заблокувати угоду вартістю $111 млрд, що призведе до значних щоденних штрафів у разі затримки після 30 вересня. Це підкреслює зростаючу регуляторну пильність щодо консолідації медіа та потенційно може змінити ландшафт великих гравців на ринку відеодистрибуції.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery зіткнулося з посиленим юридичним тиском",
+   "why": "Потенційне блокування або затримка угоди на $111 млрд може суттєво змінити конкурентний ландшафт медіаринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6uoU1f670EiDEUqQ3qHnRJMaFlhp1GRtHTmfcE-1tOfnX6KqkSIzRmhwYnEpisvjafT1P59V2AL_KqOcEfdn-GQLvXmynAsYrFKx6RuC8P9zPhxhzIhgteHcQ7uCqQNDcAj0NqSiTX6dXacUznvSX0u6r19MYdRyAYJ_N4XpPSSCC5SDk-fzfZORSaN5XvyRoAs4lWvw6enkIi5tbnt6sCEjZM6yPLE-EaEdVy_Riy2duAz2kBZfE3DO9z3EyqywG7Al"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Вимоги ЄС щодо маркування ШІ-контенту набувають чинності 2 серпня 2026 року",
+   "why": "Компанії повинні будуть чітко позначати ШІ-генерований контент, що вплине на стратегії створення та дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-TZFq6FM_5k3BYZt-0GeXDdcKyv_CmcOur5qzz9eWMacn4Xm7nvaPjR8asAZDLGZcyM6KhOkIY32VnWsULMI7wMYL1lkl3BrWkh_A5B4F_m4us06R2dK29Iop62xS_SKJEsdMMsi2pHSetJ37HPHzLnGu3nhmJW44Fh9TT-wy6i--GcfEE1kRd6ocAnvq33Xv3b2IGE7BgB2uru1yCciwg8"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP",
+   "why": "Перехід до моделі розподілу доходу від реклами та нові рівні монетизації змінюють підходи творців до коротких відео.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhIK9RIkLdEz9vmdMYJGI8NSacHfLPP_KJ5F4t60JQaTI23aebfnqqvvL6SGRhmzhRsTCFCFhKhYtrEFVWvGPX2MZSf9KwrI2cZPwdPelMjih6-3ABcbBC1VwORqr6uTkAX-g1UZFurgGtL6NiS7KyxviTdi3I"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Оновлення алгоритму TikTok фокусується на утриманні, поширеннях/збереженнях та завершенні перегляду",
+   "why": "Творцям необхідно адаптувати контент-стратегії для максимізації охоплення, зосереджуючись на якості та залученні.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjZEW8B7fQIovYF5mBo5mOLJ3KMIC82rnGTHjcn8jEK-cfpPuDjcMngGGE33c9YolJ7XEYMpHqS5GdpqXNr1DUQY-kJ9is1zZQqQIGsbSOfK3aGbLO-7wXZOYfTPpJIjkiZAL1d9bhfFe9Q-09lhBs7xLqJxINEI_xyII83g=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels",
+   "why": "Meta активно конкурує за таланти, пропонуючи гарантовані виплати та розширене охоплення для переманювання успішних творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx8urdRNXWJHABKWX8XC46t3puTuD550VxnA4nzJVyF-qew3nBMSKFB0pKgXj1bTkn7YrPXkaQqM6g0BpP7L1EI2Iflom8wgPi_1hQOx745jqmzj-eKs-JqRNiPsiwr_qhwe6PHIUJt-p0GE08mwZaAd8hekrm9rKJBBJLku_ve9_muDf8VrMf_S9VhEzFdH5Nmb3NmAxWGXJy31owKzVmWqPT7Vx5dJk4lxR8c97jJV2sC7wF5g=="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Суд підтвердив штраф TikTok у €530 млн за порушення GDPR",
+   "why": "Підкреслює посилення регуляторного тиску на великі платформи щодо захисту даних користувачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiGDbx1DzZOLAeqhySoq1U87cEKFx0dMR9qom1arIt9kDVhh6_IWQ6yO4O4m1pQ7q8UlivZ0hNIPQpxzCzs-GtLxQBiYidZASpD7TY_m4j1wOL0vPv-iu8lSVjEeb2bVv2qJBjTRDk5CH0LqJZGJb1ZYnS5JHurfkBUmAp-IlwZjWDQIx2TO2uHpG-4b7DkSETbXml"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat обмежує публічний доступ до відео Spotlight для підлітків 13-15 років",
+   "why": "Зміни спрямовані на підвищення безпеки та конфіденційності молодих користувачів, що може вплинути на стратегії контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXjStkBlBKYe3OhkGDg6CB_9demUrGMEVDFZ4qF2uGjoOUR1iXf9GIRO0sqYXWPzXW9pxr64cVEnPlHJnho1d4nduBqvCiZS9W-rZsp7xPxRj7ez081Ev4F-DeUwJHro1ayuYNLiSqPYQ3C9099F01RahpFfSOztnbfjnZRgjlqZ_DY5-dvEBrUpeq4_gnDKpgxgfrH5kRltnc_-JYgGJfd4jdUjJzUDQwcqGsLQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili демонструє значне зростання рекламного доходу завдяки ШІ та збільшенню залучення творців",
+   "why": "Платформа успішно монетизує молоду аудиторію та інвестує в ШІ для покращення контенту та ефективності реклами.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1XGWMGVRyxFtWYAL6sTJB7vv9rtLc74g9ldmv267sr8c5b9mDF0Lhzoqv2tX0dPInW42WsGleA6fjs-xniWKXj0CtP43PNuRkXOB0jsg5CMVe05UmbLuMm031vKcplxuLVuGGVGrMPIUHSUuO_iKhwPv_ouBvsQyZUK5PLRXFMWr2iQurYo2-g0pVqpHvAKH2PVoH_UU"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube Shorts замінив лайки на серця",
+   "why": "Невелике оновлення інтерфейсу може психологічно вплинути на залученість користувачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM9DjjgGRu0K26zCbIvcESSWImkSymB8NXi8-UFUyRNChIm1spaxUgVHMqyquEb1dHtiLvcW_SKe2jVwJPENm_y4UTxXGIAZRnhvl0AgDhUqIguk1Osq_ZixCe1eOlSxib2y_75c6WXVFr8Y5usK_Csdt8ai4Ouf9pxa5w9xFEdVUl7OybmD0="
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok додав функції Grid та Cover Titles для творців",
+   "why": "Нові інструменти розширюють можливості для створення та представлення контенту на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM9DjjgGRu0K26zCbIvcESSWImkSymB8NXi8-UFUyRNChIm1spaxUgVHMqyquEb1dHtiLvcW_SKe2jVwJPENm_y4UTxXGIAZRnhvl0AgDhUqIguk1Osq_ZixCe1eOlSxib2y_75c6WXVFr8Y5usK_Csdt8ai4Ouf9pxa5w9xFEdVUl7OybmD0="
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "ринок",
+   "source": "ResearchAndMarkets.com",
+   "title": "Ринок об'ємного відео прогнозується до зростання до $7.01 млрд до 2032 року",
+   "why": "Зростання цього сегменту вказує на потенційні нові формати контенту та технології дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTklC-hzj21SEkeUJvbMIGQ1F23dW12YPKGNArKASXp2huIh1826BVn9x600RXtUEkBmBf5K7-ckK4laKBDkLMGSXOnVpDZnK1HHi9itGOCCHGNsnvC6drqJxB_KKslDhXxuYPCZRrdwbWmWWFpqVENJgM4eU1nUaCbHTmiCJoQ32KB8WWRyhllsv2CHNwG4wmVAznHE3dvFKayfZBhyed29povvWLcgcTRjbCy56I3xbNGmxze1i5fWQ8AwJz60oO3aJzYjh-70sRuyVlpoEYOrXEi3VFi47fY0OmTlPn0OVZ-sxibjMhJtr9iWOhmk-L12iz7BOc2Blk_w=="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-злиття та платформи, особливо щодо антимонопольних питань та маркування ШІ-контенту.",
+  "Активна конкуренція платформ за творців контенту через оновлення програм монетизації та алгоритмів.",
+  "Зростаюча інтеграція ШІ в процеси створення, дистрибуції та монетизації відеоконтенту.",
+  "Еволюція алгоритмів платформ у бік пріоритетності якісного, залучаючого контенту з високим утриманням аудиторії.",
+  "Зростання ринку нових форматів відео, таких як об'ємне відео, що вказує на майбутні технологічні зміни в дистрибуції."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску на великі медіа-злиття (Paramount-Warner Bros. Discovery) та запровадження вимог щодо маркування ШІ-контенту в ЄС. Активні оновлення монетизації та алгоритмів на YouTube, Meta та Snapchat."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє значне зростання рекламного доходу, підкріплене інвестиціями в ШІ та збільшенням залучення творців."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, 17 липня відзначилося подальшим розвитком судового розгляду щодо злиття Paramount-Warner Bros. Discovery, де Paramount Skydance представила свій юридичний захист. Інші ключові тенденції, такі як регуляції ШІ та оновлення платформ, продовжують розвиватися без кардинальних нових анонсів саме сьогодні, але їхній вплив на ринок залишається значним.",
+ "bizdev": [
+  "Розробка стратегій контенту, що відповідають новим вимогам алгоритмів TikTok (утримання, поширення/збереження, завершення перегляду) та YouTube Shorts (тривалий перегляд).",
+  "Інтеграція ШІ-інструментів у виробництво та дистрибуцію контенту для відповідності майбутнім регуляціям ЄС та підвищення ефективності.",
+  "Дослідження можливостей партнерства з платформами, що активно залучають творців, такими як Meta Creator Fast Track, для розширення охоплення та монетизації.",
+  "Моніторинг ринку об'ємного відео для виявлення нових можливостей у створенні та дистрибуції імерсивного контенту."
+ ],
+ "watch_next": [
+  "Результати слухань щодо блокування злиття Paramount-Warner Bros. Discovery.",
+  "Подальші оновлення алгоритмів та програм монетизації від YouTube, TikTok, Meta.",
+  "Реакція ринку на набуття чинності вимог ЄС щодо маркування ШІ-контенту з 2 серпня 2026 року.",
+  "Розвиток ринку об'ємного відео та його вплив на традиційну відеодистрибуцію."
+ ],
+ "sources": [
+  {
+   "label": "The Statesman",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6uoU1f670EiDEUqQ3qHnRJMaFlhp1GRtHTmfcE-1tOfnX6KqkSIzRmhwYnEpisvjafT1P59V2AL_KqOcEfdn-GQLvXmynAsYrFKx6RuC8P9zPhxhzIhgteHcQ7uCqQNDcAj0NqSiTX6dXacUznvSX0u6r19MYdRyAYJ_N4XpPSSCC5SDk-fzfZORSaN5XvyRoAs4lWvw6enkIi5tbnt6sCEjZM6yPLE-EaEdVy_Riy2duAz2kBZfE3DO9z3EyqywG7Al"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEns9OwUqFYfWReZVqRwopEVMPvQgZ2R0_q2dVWKShroVjCBkyppiV3Ac0_uskoHegTR48VO_eJPJ4PywwcTMiSrULH9IKDvGWH6kh5NrMZ0ZOk1rwhkWnkUtYl5LkIki6Ol04UYsoFfs8kQ7CVztsTwjkQC92J1D8SgLO3ydYq9NgcIJYkpUBWwh8_koYjlfbcqXmzd6coEE="
+  },
+  {
+   "label": "Newsweek",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqgNmWhUs5I9TF1Lw67eiSwkhY80obTYXAgNOh1_szcX6Nc-Z214tSr8WUxRFvGcZe5WkXStHLY3jtX3Vjj7wXlCZ6VeswoFa76sWZqbcgkHXCcD79qOInsu8SUeIDd_7OSYdXvA9vWVp09iT6_JOv8CgI_r0tesasLns3yjZ1AMsy6kcXitxfGwtsf64hpf5DPJVeDXMJ8C6or_6i2HkH1TY-vqtZA60cEl76BopPBRPMh0iHYE_1b3BL-0POoswvCXA="
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9Ltvl9OF6PGc3pcqE5UnYspyoq90PkjuqoA_T8qLtgHV9y09B-TOLGxuaj0V8r7L_jaQV8-FZzVIcEobAGhXcpmvRlnLcXd7svEKj04ubTbBy_T5m_YDz2Q703j0yurULGaf_Gxl6GzGcl8GQ6KttpjB17369-UWs3JLviqpS-VIjVDVkRUU1V5LNuyBIJ8iIzoVTSlGZPJUA-LlM2foix2H0sFLgvvzmGsM46-roJp1-8Nkg7OP"
+  },
+  {
+   "label": "New Jersey Center for Nonprofit Journalism",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGemxLY9lmUNM6OIGEcnK0ogWYIvh4YEV9G4mfC3bL1GPPrxEZf3EOfg2Y5jVymAD7aF-nqHb1YAjGLy0_s7TUGdYt9M1O2CiY_mU0r8oJ8E1OAf21Nw470x7KgyBn-0HgpATTJIWaXGzsP0u-6bReObvLUxwFPoOTshQW7HNoG0Mp3-ltXWH2smdJ6CUNk8GqeKhS0hfM5AJo1Lu5WKX0if68u9QUkUk4vL8hFzVE="
+  },
+  {
+   "label": "ChannelNews",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiGDbx1DzZOLAeqhySoq1U87cEKFx0dMR9qom1arIt9kDVhh6_IWQ6yO4O4m1pQ7q8UlivZ0hNIPQpxzCzs-GtLxQBiYidZASpD7TY_m4j1wOL0vPv-iu8lSVjEeb2bVv2qJBjTRDk5CH0LqJZGJb1ZYnS5JHurfkBUmAp-IlwZjWDQIx2TO2uHpG-4b7DkSETbXml"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTklC-hzj21SEkeUJvbMIGQ1F23dW12YPKGNArKASXp2huIh1826BVn9x600RXtUEkBmBf5K7-ckK4laKBDkLMGSXOnVpDZnK1HHi9itGOCCHGNsnvC6drqJxB_KKslDhXxuYPCZRrdwbWmWWFpqVENJgM4eU1nUaCbHTmiCJoQ32KB8WWRyhllsv2CHNwG4wmVAznHE3dvFKayfZBhyed29povvWLcgcTRjbCy56I3xbNGmxze1i5fWQ8AwJz60oO3aJzYjh-70sRuyVlpoEYOrXEi3VFi47fY0OmTlPn0OVZ-sxibjMhJtr9iWOhmk-L12iz7BOc2Blk_w=="
+  },
+  {
+   "label": "How Deep is Your Fake? A 3-Minute-Guide on Labelling Obligations under the EU AI Act",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-TZFq6FM_5k3BYZt-0GeXDdcKyv_CmcOur5qzz9eWMacn4Xm7nvaPjR8asAZDLGZcyM6KhOkIY32VnWsULMI7wMYL1lkl3BrWkh_A5B4F_m4us06R2dK29Iop62xS_SKJEsdMMsi2pHSetJ37HPHzLnGu3nhmJW44Fh9TT-wy6i--GcfEE1kRd6ocAnvq33Xv3b2IGE7BgB2uru1yCciwg8"
+  },
+  {
+   "label": "European Union",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9_fvm-NkKBAMi9cW5AfO4cem6RlATwGZGu7TkxAv5cVRL34mpM2IP1gyT0Wgi4SYUEaen5v9y258R-DomMSTQ3Dbp892uHW0n-IaGleCjbhBSKQzONTByNv0cb7PWzi2RdglAGwXiS8qSYFQw6mxjab8IcQ5ifF50YaVxI6Tf_tm2Cg="
+  },
+  {
+   "label": "hyperight.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRVTNDMW_XKS3FQM-U57PuXanWbsHIRwYwDjd41GE8irrRka5rLcZ83SmsLuRKxzGeCS2YdxXRBkahJSBjfUHMw3SaxKicIKPV4po1ZscmYatW4yujCuW2PCbijagr2rcIz00P4180UWTe74ql1pNm9uz9OQwJpyLVUw6hrMj2OJR7iQmF17BlH5axjE4lKvF97fd-weBsuQ=="
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhIK9RIkLdEz9vmdMYJGI8NSacHfLPP_KJ5F4t60JQaTI23aebfnqqvvL6SGRhmzhRsTCFCFhKhYtrEFVWvGPX2MZSf9KwrI2cZPwdPelMjih6-3ABcbBC1VwORqr6uTkAX-g1UZFurgGtL6NiS7KyxviTdi3I"
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC03q6obEtNM5uGISDyTurmxhzN92Miblf-yKPSX4Hks3ajD-WHlYtJ1fF9h-F7AVZaEuTunESVQI91gQl0Ipew0LDRyv36io_AvlruffRaeDqIzav"
+  },
+  {
+   "label": "Metricool",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhktrgnOzaFSqdXjNdGEMKjOCihQQd5mjfoxwcwSX4gKRzWohklJlTlzhLilIjJGkYMeg6XHxxED_52CN7YlnWQ3XxPsnS0tLj1MEj1CNUufqIP3zr4dMLUTI0Fovh6ZbkoA=="
+  },
+  {
+   "label": "StudioPrep",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM9DjjgGRu0K26zCbIvcESSWImkSymB8NXi8-UFUyRNChIm1spaxUgVHMqyquEb1dHtiLvcW_SKe2jVwJPENm_y4UTxXGIAZRnhvl0AgDhUqIguk1Osq_ZixCe1eOlSxib2y_75c6WXVFr8Y5usK_Csdt8ai4Ouf9pxa5w9xFEdVUl7OybmD0="
+  },
+  {
+   "label": "YouTube Shorts Monetization Changes July 2026: New Revenue Tiers for Dubai Creators",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm8lMevwOIBC9yLYPJoDbK9MHDRNlLApQXjZrLejMbrRjQcCGBQRaWmn7UdFM4fRc0radI8lbHIutOrU6FQtvygDKYFDnDgwuw08SwyhnE2H4yewxaFaKRNgvrTZ2pm82f5rr0ETJYNg8c2aht6qRFpMAq2c4oABijDyLkDOTvhLn49WSnMaawbQoexAXSpBg5tpy9y33CAiiSWZsGoc9kAbnWUqBBKA=="
+  },
+  {
+   "label": "Jones Day",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhWPdErTO9mMRrCLi9Ihk5Awcxi3poXxkP6ffj-gbYjjY0mqH528vRJIuOjkMBceyl4i42VAOiANzFycebOjOwVh07u9k3xNM8ZJ4fBF1Veu-nTMbpbqpv6qZHU94Hzl-6GtFJ77UOHrGQsy0i6XKDzfzRxOeDsNt1bJjW1cQZx_5QJCkdJWIJQ_hA7ChYT7BWv7AFCo6Zwcn75y1iTGWchWmEYvBejQKqUYn_Vke4imhg1xm8I7Be1TJSoRxcNlSf5WCbQ9vKX5Jq"
+  },
+  {
+   "label": "Opus Clip",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-sL1jQTcE74-SsRI1zAIVdWV_xy9rbkYfmZG2G4lAP3KpjGOhOdIvXaZZAbQhOSBCkFxQSptgM2iz6bxsSvwtRwJZD5P5XWXn0AZKRCPT0yVvtJHIpa5RxH86fK2eJQYZ-cnT7B4LecsCoMeTkKs="
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: Requirements, RPM, and How Much You Get Paid",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH92EBxQqEa77zq9rqD6YXl00sYmzKszvFg5qur0pNJ9wbl0em9PkxldFq9RnH-DhGBgJm13cGukb2X9VUbpo-yHHB88oSnVP51L3VAXebsPel5PxVtsvN9peupA08i_PtkFI0NwZZ3u68FKLB-xg9D1TrS"
+  },
+  {
+   "label": "YouTube Shorts Monetization: The 2026 Reality Check",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwE7Sp6fiRrxbBKtL13xOonPYEFCRLv5AF5gsxnFtU3YCcFyf_QiAEAM5DoaaPzr0zGzork_WgV5dbtR4OQaA8foOkGibe1pYpdZsBer1H53MRYbW8p9_oAXUoZI-Y6WsUuKb_98Q="
+  },
+  {
+   "label": "Engadget",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXjStkBlBKYe3OhkGDg6CB_9demUrGMEVDFZ4qF2uGjoOUR1iXf9GIRO0sqYXWPzXW9pxr64cVEnPlHJnho1d4nduBqvCiZS9W-rZsp7xPxRj7ez081Ev4F-DeUwJHro1ayuYNLiSqPYQ3C9099F01RahpFfSOztnbfjnZRgjlqZ_DY5-dvEBrUpeq4_gnDKpgxgfrH5kRltnc_-JYgGJfd4jdUjJzUDQwcqGsLQ=="
+  },
+  {
+   "label": "TikTok Algorithm 2026: What Creators Need to Know",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNZlRYprkrcF7v4zlgIpr_IzbPbxOy8-RzPBhKStpfqVNQEixmrUeXfF3ADXoiDwDBoVhz3uzLc7IK3EvUDUhhbwZTOf1ePSidpUsLdw_C9_x8Dd0bn1eKnCm-0tpoQfh1wI-t9U9ABlVuBa1hlfELkVmAWTCRX6ggWd6o2LkWaHWxrPk="
+  },
+  {
+   "label": "KrASIA",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1XGWMGVRyxFtWYAL6sTJB7vv9rtLc74g9ldmv267sr8c5b9mDF0Lhzoqv2tX0dPInW42WsGleA6fjs-xniWKXj0CtP43PNuRkXOB0jsg5CMVe05UmbLuMm031vKcplxuLVuGGVGrMPIUHSUuO_iKhwPv_ouBvsQyZUK5PLRXFMWr2iQurYo2-g0pVqpHvAKH2PVoH_UU"
+  },
+  {
+   "label": "Clapper",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT76l9wXYkeZj-g-YH72VoHvUEAX_lW1V5-TwiQOOHWc5ltk8s_PPKxEb5Tluji43wrSUh7ead1YGgpFTn-ZMf-Klbmodzc3s8GrCuMqEN9rOXytMfnyuSYdSHnaZ_EcXSW-2nFBVhp7Gu0o58IkzDIGZxVox761FZqgnN-aex0GAMH2Me_9DCG0tekDq7KseXJQqy7aOAPum5_NMc7TurgJ7T_k7u7PYYS8cqvNShUfyrkIhImyBCVsxP4qJR-vcd5T86_RCqe7OhNbY="
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx8urdRNXWJHABKWX8XC46t3puTuD550VxnA4nzJVyF-qew3nBMSKFB0pKgXj1bTkn7YrPXkaQqM6g0BpP7L1EI2Iflom8wgPi_1hQOx745jqmzj-eKs-JqRNiPsiwr_qhwe6PHIUJt-p0GE08mwZaAd8hekrm9rKJBBJLku_ve9_muDf8VrMf_S9VhEzFdH5Nmb3NmAxWGXJy31owKzVmWqPT7Vx5dJk4lxR8c97jJV2sC7wF5g=="
+  },
+  {
+   "label": "Quasa",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh0qapwbQCjidmO7-SjwegXw4-JWTgT_udfJfLbYBbkzLwePI6MjoT2qlpKl2k5O1H3KcSXtNqro0lhrjFog0KtkzjO5wrichPBLE-QJ_wLhpgCbdPPF8JU86Ycw6Bn9TdBj5QrOHCWgzrfHvzy311XWebZhPnqqCKT_pj-7xYqME86hfR49TYZ7NLMIIv"
+  },
+  {
+   "label": "Binance Square",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEga6y6BtB7Wr3Y0v7ueUqxuOubo5_rACjX-7E7C7MZp42jDLl88heT_YdZYnVeFwDPaxrBXjMHBPJOyXCYkgf96IEuDcVBUhyKBdykVzDx9DvEUTSeeao6fs_VgEks9imTR-u5nSI1ukk_QJAQGVuFjw=="
+  },
+  {
+   "label": "Market Chameleon",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHV4tG-32tu_MKEcGzU85Cat5mcYX6k-xCnC-ItFypbTuKtbk7ynXEtdUBNCHvvRUF7umumQ_7fjL4WOB_pxWNiggu6qphRjwobHmOa0fq4s1hzZj1Kb_X8nUxn18hitUv9XBp45lP679pnFQ0NAXlDjArdsKiMJ8U0C74KYYPuLln3Z9_rALZqOkEaatKEC3Dlw_pYNjtW7khyvLFP60AKs69cdk="
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyqAxX8Nj91ORg8KZmBvhToZLB5eNkdqdHgs1TkIRtPY3VrRBrAxgwWfidVHi7uXh5YfXhsL_MbxhVggNMouPVS3PeJC0AhRQ3slH-x0VY-Lut-oKZLMx_pSIcejr7MElP9Y8B3NmnypGi0oH-xxfw0HkN8JGg9HiJPLPQF00eyBIySGnMJ9mLwQ927iaSpoEI5bMfzWKtsgpxNQ=="
+  },
+  {
+   "label": "Agency Reporter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX8fl3yMc53JlDRo5OEjmmhFldMRo_QYVy4aFnplxyfVA_LEabCAos6FaOZrBGB7RylWKKKL5326tUQmFapfYu1Uq-Q1QlmiIH1d959gIE7M2uaYimvFgUwPVmDFmtWaysubiiVpbhAIAymQmbuFB0J-AF5IIOHryBYA4tRhaVtrqB3wpWX6wqq-A="
+  }
+ ]
+}
