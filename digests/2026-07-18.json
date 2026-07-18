@@ -1,0 +1,323 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску, зокрема позовами щодо блокування злиття Paramount-Warner Bros. Discovery та набранням чинності вимог ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube, TikTok та Meta, активно оновлюють програми монетизації для творців та алгоритми, що змінює підходи до дистрибуції контенту та конкуренції за таланти.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, підтверджений судом для TikTok за порушення GDPR щодо трансферів даних до Китаю."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за GDPR"
+  },
+  {
+   "value": "$110-111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$18 млрд",
+   "label": "Пропозиція про викуп MGM Resorts International"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією є посилення регуляторного тиску, що проявляється у кількох ключових аспектах. По-перше, позови 12 штатів США та Гільдії сценаристів про блокування злиття Paramount-Warner Bros. Discovery на суму понад $110 млрд створюють значний прецедент для великих медіа-угод, підкреслюючи антимонопольні занепокоєння. По-друге, підтвердження судом штрафу TikTok у €530 млн за порушення GDPR щодо трансферів даних до Китаю є чітким сигналом про посилення контролю за конфіденційністю даних. Ці події свідчать про те, що регулятори активно втручаються у діяльність великих гравців, що може суттєво вплинути на стратегії M&A та операційні моделі компаній у сфері відеодистрибуції.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "12 штатів США та Гільдія сценаристів",
+   "title": "Позови про блокування злиття Paramount-Warner Bros. Discovery",
+   "why": "Створює прецедент для великих медіа-злиттів, впливає на конкуренцію та структуру ринку відеодистрибуції.",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-07-17/paramount-offers-to-briefly-delay-warner-bros-merger-as-court-battle-heats-up"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Набувають чинності вимоги ЄС щодо маркування ШІ-контенту",
+   "why": "Встановлює нові стандарти прозорості та відповідальності для творців та платформ, що використовують ШІ, з потенційними значними штрафами.",
+   "url": "https://weventure.de/en/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Ірландський суд / DPC",
+   "title": "Суд підтвердив штраф TikTok у €530 млн за порушення GDPR",
+   "why": "Підкреслює посилення регуляторного тиску на великі платформи щодо захисту даних та міжнародних трансферів.",
+   "url": "https://www.acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Facebook / Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels",
+   "why": "Посилює конкуренцію за таланти та контент у сегменті коротких відео, пропонуючи гарантовані виплати.",
+   "url": "https://www.tmcnet.com/news/2026/07/07/9404323.htm"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok / StudioPrep",
+   "title": "Оновлення алгоритму TikTok фокусується на утриманні, поширеннях/збереженнях та завершенні перегляду",
+   "why": "Визначає, який контент отримує охоплення, впливаючи на стратегії дистрибуції та виробництва контенту для творців.",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026-3-signals-that-control-your-reach/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP",
+   "why": "Змінює стимули для творців короткого відеоконтенту та впливає на їхні доходи, хоча конкретні деталі оновлення YPP не були знайдені в пошуку за останні 7 днів, UI зміни (серця) та авто-дубляж були згадані.",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026-3-signals-that-control-your-reach/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "Сенатор Браян Шац (США)",
+   "title": "У США пропонується закон про маркування ШІ-контенту (AI Labeling Act)",
+   "why": "Відображає глобальну тенденцію до регулювання ШІ-генерованого контенту та може вплинути на дистрибуцію в США.",
+   "url": "https://www.schatz.senate.gov/news/press-releases/schatz-curtis-warner-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video анонсує лінійку контенту на липень 2026 року",
+   "why": "Демонструє стратегію платформи щодо залучення аудиторії через оригінальний та ліцензійний контент.",
+   "url": "https://press.amazon.com/2026/06/new-on-prime-video-in-july-2026-top-picks-and-all-the-new-movies-and-shows-to-watch"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MGM Resorts International",
+   "title": "MGM Resorts International розглядає пропозицію про викуп на $18 млрд",
+   "why": "Хоча це стосується готельного та казино бізнесу, це значна M&A подія для компанії з брендом 'MGM', що має опосередкований зв'язок з медіаландшафтом.",
+   "url": "https://www.travelpulse.com/news/hotels-and-resorts/mgm-resorts-international-forms-committee-to-consider-18-billion-buyout-offer"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-компанії та платформи, особливо щодо злиттів та ШІ-контенту.",
+  "Активне оновлення програм монетизації та алгоритмів платформами для залучення та утримання творців контенту.",
+  "Зростання уваги до ШІ-генерованого контенту та необхідності його маркування.",
+  "Конкуренція за таланти у сегменті коротких відео.",
+  "Зростання ринку об'ємного відео та підкреслення ролі ШІ у майбутньому контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Домінування регуляторних новин (позови щодо злиття, штрафи GDPR, закони про ШІ-маркування) та оновлення платформ (YouTube, Meta, TikTok) у США та ЄС."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів у контексті watchlist, окрім впливу штрафу TikTok, що стосується трансферів даних до Китаю."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, ринок відеодистрибуції продовжує демонструвати посилення регуляторного тиску, зокрема, судові позови щодо злиття Paramount-Warner Bros. Discovery та набрання чинності вимог ЄС щодо маркування ШІ-контенту. Новим акцентом є зростання ринку об'ємного відео та його зв'язок з ШІ, що було додано до трендів.",
+ "bizdev": [
+  "Розробка рішень для маркування ШІ-генерованого контенту та забезпечення відповідності регуляторним вимогам ЄС та США.",
+  "Створення стратегій для творців контенту, що враховують оновлення алгоритмів TikTok та YouTube, а також нові програми монетизації Meta.",
+  "Консультування медіа-компаній щодо антимонопольного законодавства та ризиків M&A.",
+  "Інвестиції у технології об'ємного відео та ШІ для створення нового покоління контенту."
+ ],
+ "watch_next": [
+  "Результати судових позовів щодо злиття Paramount-Warner Bros. Discovery.",
+  "Подальші кроки платформ щодо впровадження вимог ЄС щодо маркування ШІ-контенту та реакція ринку.",
+  "Нові програми монетизації або зміни алгоритмів від інших великих платформ (Snapchat, Bilibili).",
+  "Розвиток законодавства щодо ШІ-контенту в США."
+ ],
+ "sources": [
+  {
+   "label": "LA Times",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-07-17/paramount-offers-to-briefly-delay-warner-bros-merger-as-court-battle-heats-up"
+  },
+  {
+   "label": "Attorney General James",
+   "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-sues-block-paramounts-merger-warner-bros"
+  },
+  {
+   "label": "weventure",
+   "url": "https://weventure.de/en/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "label": "New Jersey Attorney General",
+   "url": "https://www.njoag.gov/new-jersey-joins-lawsuit-to-block-110-billion-paramount-warner-bros-merger/"
+  },
+  {
+   "label": "FOX Local",
+   "url": "https://www.fox11online.com/news/entertainment/paramounts-81b-warner-bros-discovery-merger-faces-lawsuit-from-12-states"
+  },
+  {
+   "label": "StudioPrep",
+   "url": "https://studioprep.com/tiktok-algorithm-july-2026-3-signals-that-control-your-reach/"
+  },
+  {
+   "label": "California Department of Justice",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-block-110-billion-warner-bros-paramount"
+  },
+  {
+   "label": "TravelPulse",
+   "url": "https://www.travelpulse.com/news/hotels-and-resorts/mgm-resorts-international-forms-committee-to-consider-18-billion-buyout-offer"
+  },
+  {
+   "label": "Northeast Times",
+   "url": "https://www.northeasttimes.com/mgm-forms-special-committee-to-weigh-dillers-18-billion-takeover-bid/"
+  },
+  {
+   "label": "Travel Weekly",
+   "url": "https://www.travelweekly.com/Hotel-News/MGM-Resorts-forms-committee-to-review-Barry-Dillers-acquisition-proposal"
+  },
+  {
+   "label": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/enfinity-global-surpasses-500-mw-of-operational-solar-capacity-in-italy-302198902.html"
+  },
+  {
+   "label": "European Commission",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content"
+  },
+  {
+   "label": "Moomoo",
+   "url": "https://www.moomoo.com/us/news/detail/20516801?content_id=20516801&futusy_share_type=2&data_ticket=1721200054089945"
+  },
+  {
+   "label": "YouTube (Asia Tech Podcast)",
+   "url": "https://www.youtube.com/watch?v=s_0X3Y1Z5Y8"
+  },
+  {
+   "label": "Piwwop Blog",
+   "url": "https://piwwop.com/blog/ai-act-ai-labeling-compliance-roadmap-2026/"
+  },
+  {
+   "label": "The Industrial",
+   "url": "https://theindustrial.news/news/enfinity-global-surpasses-500-mw-of-operational-solar-capacity-in-italy"
+  },
+  {
+   "label": "Power Technology",
+   "url": "https://www.power-technology.com/news/enfinity-strioga-partnership-bess-italy/"
+  },
+  {
+   "label": "Renewables Now",
+   "url": "https://renewablesnow.com/news/enfinity-sells-stake-in-600-mwh-italian-battery-to-e-energy-invest-927649/"
+  },
+  {
+   "label": "Enfinity Global",
+   "url": "https://enfinity-global.com/enfinity-global-reaches-535-mw-of-operational-solar-capacity-in-italy/"
+  },
+  {
+   "label": "Kavout",
+   "url": "https://kavout.com/news/mgms-take-private-bid-barry-dillers-undervalued-play-offers-slim-pickings-for-current-holders-1721060000"
+  },
+  {
+   "label": "Vital Thrills",
+   "url": "https://www.vitalthrills.com/mgm-plus-july-2026-schedule-announced/"
+  },
+  {
+   "label": "How Deep is Your Fake?",
+   "url": "https://www.howdeepisyourfake.com/post/a-3-minute-guide-on-labelling-obligations-under-the-eu-ai-act"
+  },
+  {
+   "label": "TMC Insight",
+   "url": "https://www.tmcnet.com/news/2026/07/07/9404323.htm"
+  },
+  {
+   "label": "Global Policy Watch",
+   "url": "https://globalpolicywatch.com/us-tech-legislative-regulatory-update-second-quarter-2026/"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://press.amazon.com/2026/06/new-on-prime-video-in-july-2026-top-picks-and-all-the-new-movies-and-shows-to-watch"
+  },
+  {
+   "label": "EDPB News",
+   "url": "https://edpb.europa.eu/news/news/2026/edpb-sheds-light-anonymisation-and-web-scraping-generative-ai-and-adopts-final_en"
+  },
+  {
+   "label": "The ONME Network",
+   "url": "https://www.onmenews.com/news/black-headline-news-launches-several-day-black-in-campaign-during-the-july-4th-holiday-weekend-starting-with-a-detailed-history-of-the-black-press"
+  },
+  {
+   "label": "Schatz.senate.gov",
+   "url": "https://www.schatz.senate.gov/news/press-releases/schatz-curtis-warner-introduce-bipartisan-legislation-to-provide-more-transparency-on-ai-generated-content"
+  },
+  {
+   "label": "Acompli",
+   "url": "https://www.acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "label": "Dark Reading",
+   "url": "https://www.darkreading.com/attacks-breaches/tiktok-fined-530-million-over-chinese-access-to-eu-data"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2025/may/02/tiktok-fined-530m-irish-regulator-failing-guarantee-china-not-access-user-data"
+  },
+  {
+   "label": "Amazon Studios",
+   "url": "https://www.amazonstudios.com/news/new-on-prime-video-in-july-2026"
+  },
+  {
+   "label": "Black Agenda Report",
+   "url": "https://www.blackagendareport.com/black-agenda-radio-july-17-2026"
+  },
+  {
+   "label": "YouTube (Black News)",
+   "url": "https://www.youtube.com/watch?v=3gepN7rFhf0"
+  },
+  {
+   "label": "Socialync",
+   "url": "https://socialync.io/tiktok-algorithm-update-2026/"
+  },
+  {
+   "label": "Newsweek",
+   "url": "https://www.newsweek.com/new-prime-video-july-2026-full-list-movies-shows-1918341"
+  },
+  {
+   "label": "Opus Clip",
+   "url": "https://www.opus.pro/blog/tiktok-algorithm-2026/"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/facebook-looks-to-lure-high-profile-creators-with-new-program/710920/"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://www.thewrap.com/new-on-prime-video-july-2026/"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/news/meta-creator-fast-track-program-facebook-reels-tiktok-youtube"
+  },
+  {
+   "label": "Creator Fast Track",
+   "url": "https://creatorfasttrack.com/grow-your-audience-and-earnings-faster/"
+  }
+ ]
+}
