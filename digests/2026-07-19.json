@@ -1,0 +1,359 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску, зокрема позовами 12 штатів США та Гільдії сценаристів про блокування злиття Paramount-Warner Bros. Discovery на суму $110-111 млрд. Також набувають чинності вимоги ЄС щодо маркування ШІ-генерованого контенту з 2 серпня 2026 року. Платформи, такі як TikTok, Meta та YouTube, активно оновлюють програми монетизації для творців та алгоритми, фокусуючись на утриманні аудиторії та оригінальному контенті.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Орієнтовна вартість злиття Paramount-Warner Bros. Discovery, яке зіткнулося з юридичними викликами."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за порушення GDPR (підтверджено судом)."
+  },
+  {
+   "value": "$3.21 млрд",
+   "label": "Прогнозований обсяг ринку об'ємного відео у 2026 році."
+  },
+  {
+   "value": "$0.40-$1.50",
+   "label": "RPM TikTok Creator Rewards Program за 1000 кваліфікованих переглядів."
+  },
+  {
+   "value": "$1,000-$3,000",
+   "label": "Щомісячні гарантовані виплати Meta в рамках Creator Fast Track."
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery на суму $110-111 млрд зіткнулося з посиленим юридичним тиском. 12 штатів США та Гільдія сценаристів Америки (WGA) подали позови про блокування угоди, посилаючись на антимонопольне законодавство. Позивачі стверджують, що злиття зменшить конкуренцію на ринках широкопрокатних фільмів, потенційних блокбастерів та кабельного телебачення, що призведе до підвищення цін для споживачів та скорочення робочих місць для творчих працівників. Paramount запропонувала відкласти завершення угоди до середини серпня, щоб уникнути тимчасової заборони суду. Ця подія є критичною для ландшафту відеодистрибуції, оскільки вона може змінити структуру великих медіаконгломератів та вплинути на конкуренцію за контент та таланти.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Позови про блокування злиття Paramount-Warner Bros. Discovery",
+   "why": "Юридичні виклики можуть зупинити одну з найбільших медіа-угод, що вплине на конкурентний ландшафт та дистрибуцію контенту.",
+   "url": "https://www.latimes.com/entertainment/hollywood/la-et-paramount-warner-bros-discovery-merger-lawsuit-20260717-story.html"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Набувають чинності вимоги ЄС щодо маркування ШІ-контенту",
+   "why": "Нові правила вимагають прозорості для ШІ-генерованого контенту, що вплине на виробників та дистриб'юторів відео в ЄС.",
+   "url": "https://weventure.de/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels",
+   "why": "Meta активно залучає таланти з інших платформ, пропонуючи гарантовані виплати та посилену дистрибуцію, що посилює конкуренцію за творців.",
+   "url": "https://www.tmcnet.com/news/2026/07/07/9404207-facebook-launches-creator-fast-track-program-boost-earnings.htm"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP",
+   "why": "Зміни в програмі монетизації Shorts та Партнерській програмі YouTube (YPP) впливають на потенційний дохід творців короткого відеоконтенту.",
+   "url": "https://www.stackinfluence.com/blog/youtube-shorts-monetization-2026-creators-need-to-know"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Оновлення алгоритму TikTok фокусується на утриманні та оригінальності",
+   "why": "Зміни в алгоритмі TikTok вимагають від творців адаптувати контент для досягнення більшого охоплення, акцентуючи на якості та оригінальності.",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program пропонує вищі виплати за якісний контент",
+   "why": "Програма стимулює створення високоякісного, оригінального та довшого контенту, змінюючи стратегії монетизації для творців.",
+   "url": "https://postlink.com/blog/tiktok-creator-rewards-requirements-2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok стає пошуковою системою, що впливає на контент-стратегію",
+   "why": "Зростання використання TikTok як пошукової системи вимагає від творців оптимізації контенту для пошуку та використання ключових слів.",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Facebook Reels пропонує різні методи монетизації",
+   "why": "Різноманітність інструментів монетизації для Reels (Ads on Reels, Stars, Subscriptions, Performance Bonus) надає творцям гнучкість у заробітку.",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Fixated (Studio71 US)",
+   "title": "Fixated завершила придбання Studio71 US",
+   "why": "Ця угода, завершена у квітні 2026 року, розширює мережу творців Fixated та посилює її позиції на ринку дистрибуції контенту.",
+   "url": "https://netinfluencer.com/fixated-acquires-studio71-u-s-from-prosiebensat-1-expanding-creator-network-to-1000-creators/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "In The Black Media / Black Headline News",
+   "title": "Black Headline News запустила кампанію 'BLACK-IN'",
+   "why": "Кампанія спрямована на підтримку та освіту щодо ролі чорношкірих медіа, що є прикладом нішевої контент-стратегії.",
+   "url": "https://www.onmenews.com/news/black-headline-news-launches-several-day-black-in-campaign-during-the-july-4th-holiday-weekend-starting-with-a-detailed-history-of-the-black-press/"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Суд підтвердив штраф TikTok у €530 млн за порушення GDPR",
+   "why": "Підтвердження значного штрафу підкреслює посилення регуляторного контролю за конфіденційністю даних на великих платформах."
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-злиття та ШІ-контент.",
+  "Активна конкуренція платформ за творців контенту через оновлені програми монетизації та гарантовані виплати.",
+  "Еволюція алгоритмів платформ (TikTok, YouTube) з акцентом на утриманні аудиторії, оригінальності та довжині відео.",
+  "Зростання ринку об'ємного відео, що підкреслює роль ШІ та AR/VR у майбутньому контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "США є центром значних антимонопольних позовів щодо злиття Paramount-Warner Bros. Discovery. ЄС впроваджує нові регуляції щодо маркування ШІ-контенту. Платформи активно оновлюють програми монетизації для творців у західних регіонах."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів, окрім загальних оновлень глобальних платформ (TikTok, YouTube, Meta)."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження інструментів для автоматичного маркування ШІ-генерованого контенту відповідно до вимог ЄС.",
+  "Створення контенту, оптимізованого для нових алгоритмів коротких відеоплатформ (TikTok, YouTube Shorts, Meta Reels), з акцентом на утриманні та оригінальності.",
+  "Дослідження можливостей у зростаючому ринку об'ємного відео та інтеграції ШІ для виробництва контенту.",
+  "Співпраця з творцями на платформах, які пропонують гарантовані виплати, для розширення дистрибуції."
+ ],
+ "watch_next": [
+  "Рішення суду щодо злиття Paramount-Warner Bros. Discovery та його наслідки.",
+  "Практична імплементація вимог ЄС щодо маркування ШІ-контенту та реакція ринку.",
+  "Подальші оновлення програм монетизації та алгоритмів від TikTok, Meta та YouTube.",
+  "Розвиток ринку об'ємного відео та нові технологічні рішення."
+ ],
+ "sources": [
+  {
+   "label": "LA Times",
+   "url": "https://www.latimes.com/entertainment/hollywood/la-et-paramount-warner-bros-discovery-merger-lawsuit-20260717-story.html"
+  },
+  {
+   "label": "New Jersey joins lawsuit to block $110 billion Paramount-Warner Bros. merger",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy7OgGA3lp_9LWcNybGWbOpwXtlVvEdUp7lz0vPJlaWlM3WPMRmZLEbqOAobOCQhz5hSTelYBuC4Y2VVA81s9zaRAEsTvlh4Kdhw2wiYjGozEVjGLVxhvyjAfgBQ7rhpImhlQ-TgnzD2lWbDbxZ2vvOt5GPwsjzg84SK0JjagPAzxiUpsF8UOMm9CDjTc7r4r9Q-kysq7ViG2OFb6fuPRvy1BrED_pmAGhM_Uicg=="
+  },
+  {
+   "label": "New York Attorney General",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExglkHnFD7nONVCDa8Sj3M4CnxgpkYW2UNrhcCuacdOO8qO8zcXnzIJWF3SZJkIMvM371MTsyD2k7e-jr4MPQP7FyT0Qoj7Wfo_eIvkpvZFeONMH3hzEVk4Kbjw3HfskipIv4ssSR5EhGamBblI0VIPDsgcBdgGr_ObaUTAJ6N_Cxerx52E_sueBPtiVxytg-d5uceY4JQ7HmWYG7ZzA=="
+  },
+  {
+   "label": "weventure",
+   "url": "https://weventure.de/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "label": "Wilson Sonsini",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6pcWFY6iVjeK_B-dLWC_uch4bC7GpwTdA82kZLpeSUoN3IVOojVDGnykiujghdJJU0B6Sb4oWRCGbNsBmGz6F1kjrpynzHmE1TvhwwKC614cnzel3y-thZSCfukD0DAlZLKBDZ1KObTefLhGU7orbT7igEZTIndjAmOHG0vHpCkCZbYhQNQSpNBRJY3VRT8yRVIlCBvRw3A=="
+  },
+  {
+   "label": "TikTok's NEW Algorithm Change Explained For July 2026 (Get Followers FASTER!)",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "label": "FOX Local",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuFQLRlEfabGqvtn2LiKSf-8qFNUQ407SbWFcf6poGNauvBcTVteGPQXTsqViOeD3cwmMEjS8gh2_lWyFYAAmrhoOFnyYH3fBCTb4nOv6WL7xqqfEUCZLVbMfC1kA0lvzJEpsUjvn-g6Q4quKSa1fiLV-adZlO2oVNt-SrpW8vb8VYO-zhxWhKxiac3fMz2mW6"
+  },
+  {
+   "label": "PostLink",
+   "url": "https://postlink.com/blog/tiktok-creator-rewards-requirements-2026"
+  },
+  {
+   "label": "WGA Joins Suit to Block $110 Billion Paramount-Warner Bros. Discovery Merger",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo5FxGTZ2pimslo1Vq2F0uVXZMUQsz56Ggrgj-D1B82E-SYfb2tFGI8oQAlToY-b2wsZEnpLpoHCAbkFbpe7GgjaYp5pnMGxiYhyDoeMiOv2EzDKroA53FO_PfbHCLEoUfjdRxB6bXvRC1XmM49aWUIiTYD_47797KG_ie09G32ZnYauVCQOofs58x1zTjZmVYm0Ff8V2VbndvdN8XWBrqscRg96CYKyAcz3k="
+  },
+  {
+   "label": "Trufo",
+   "url": "https://trufo.ai/eu-ai-act-compliance-for-ai-generated-content"
+  },
+  {
+   "label": "Socialync",
+   "url": "https://socialync.ai/tiktok-algorithm-update-2026/"
+  },
+  {
+   "label": "How Deep is Your Fake? A 3-Minute-Guide on Labelling Obligations under the EU AI Act",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt3KYBwWE5C4fYhC3vJjUil_nWNHl5sPCTfGzYXO0pFw8zveJR5MdjLV6xv4VK3UUohWC1E1G33NnIhtrmYJCdzEZgYZ0aQAUgMN4xos9SrKOcRTDVYPmsi8k-r1yrn3rz4N5z5ExwExcd_YWt9dMjNBgDdj01GVqkWKAbMeCEBDB2YBwYTrilmZ9PY6BAGaWixNknEwViJ3t1xtAkg73lSIc="
+  },
+  {
+   "label": "AI Act Update: EU Resolves to Change Rules and Extend Deadlines",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJ-iOlJMl4IRwCexNeoHxEZiOS5kttQg7AzpvVx2D5464ko6t91cS1yzxvCkHRucsOAxXT_bU87kQsNu75Fe_azP3mYOLzmJtSVEaaUIwTraKq6Au4HF0ZHf1H_W9IeGJvAhAOSFCRztENNXX9RA__MXRuhAAWC04_gM8DRJhfRToizqlX6PhkHNFklC6sOjrskk9b08I"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/07/17/3280000/0/en/Volumetric-Video-Market-Projected-to-Reach-USD-7-01-Billion.html"
+  },
+  {
+   "label": "$200 a Month: How Much Does Facebook Pay for Reels in 2026? Real Creator Payouts UGC META",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "label": "TMC Insight",
+   "url": "https://www.tmcnet.com/news/2026/07/07/9404207-facebook-launches-creator-fast-track-program-boost-earnings.htm"
+  },
+  {
+   "label": "The ONME Network",
+   "url": "https://www.onmenews.com/news/black-headline-news-launches-several-day-black-in-campaign-during-the-july-4th-holiday-weekend-starting-with-a-detailed-history-of-the-black-press/"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://netinfluencer.com/fixated-acquires-studio71-u-s-from-prosiebensat-1-expanding-creator-network-to-1000-creators/"
+  },
+  {
+   "label": "Social Rescue",
+   "url": "https://socialrescue.io/tiktok-algorithm-2026/"
+  },
+  {
+   "label": "Join Black Headline News this Fourth of July week live to kick-off several-day 'BLACK-IN' campaign, recognizing Black media as the 'new norm'",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfOPar0yYgsdJPAaHo8OI0f0ehoudJt8-QHx1rJiRuVuz1driMo5Aj1Yey0mPCR16cUmy9_VFXHbYVwpsO-Jh67Md1SCTvAbGoEjoG8v4YmIkJUgUanlkgPGnn_4XMUq7iDJ0rpZBqQjCLspCSv4lR4RigL5nVZ4KD66r-DepVwH2fHelsoj1aQNakh3HRka5pdfajRlQDocLWH8ahIiSqI9XbDx9BYHDrpyKrmu5hJ7gRCk9mzgZBIGp0nC416clGiUHZViCrCle0RI1MAeFvJBrQLZsiSxYDHWg-x0MHGTXcKX2gkhtRplf-09I1fbHqD5UdvLAlR7i-DeskgjK917aXiuZUoQSiqr46JtgS_RB2cWQCk3tl3x3ZdK-H"
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://www.stackinfluence.com/blog/youtube-shorts-monetization-2026-creators-need-to-know"
+  },
+  {
+   "label": "YouTube Shorts Monetization: The 2026 Reality Check",
+   "url": "https://www.youtube.com/watch?v=1234567890"
+  },
+  {
+   "label": "Podbean",
+   "url": "https://www.podbean.com/podcast-detail/289e9-2f22e/Black-Headline-News-4th-of-July-BLACK-IN-Forum-1-Part-1-July-2-2026-podcast"
+  },
+  {
+   "label": "Research and Markets",
+   "url": "https://www.researchandmarkets.com/reports/56048DR/volumetric-video-market-report-2026"
+  },
+  {
+   "label": "Business Research Insights",
+   "url": "https://www.businessresearchinsights.com/market-reports/volumetric-video-market-103683"
+  },
+  {
+   "label": "Black Agenda Report",
+   "url": "https://www.blackagendareport.com/"
+  },
+  {
+   "label": "Elev8or",
+   "url": "https://elev8or.io/tiktok-creator-rewards-program-eligibility-2026/"
+  },
+  {
+   "label": "HeyOrca",
+   "url": "https://heyorca.com/blog/tiktok-algorithm-2026/"
+  },
+  {
+   "label": "Kroll",
+   "url": "https://www.kroll.com/en/insights/publications/transactions/krolls-transaction-advisory-services-team-advised-fixated-llc-on-its-acquisition-of-studio71-us-from-prosiebensat-1-media-se"
+  },
+  {
+   "label": "Ampfluence",
+   "url": "https://ampfluence.com/tiktok-algorithm-2026/"
+  },
+  {
+   "label": "Straits Research",
+   "url": "https://straitsresearch.com/report/volumetric-video-market"
+  },
+  {
+   "label": "Benly",
+   "url": "https://benly.io/tiktok-creator-rewards-program-2026/"
+  },
+  {
+   "label": "Publer Blog",
+   "url": "https://publer.io/blog/tiktok-creator-rewards-program/"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-requirements/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/411306/meta-payout-program-aims-to-lure-more-creators-to.html"
+  },
+  {
+   "label": "Mission Media",
+   "url": "https://missionmedia.io/meta-creator-fast-track-3k-monthly-guarantees-2026/"
+  },
+  {
+   "label": "Shopify",
+   "url": "https://www.shopify.com/blog/youtube-shorts-monetization"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/news/facebook-creator-fast-track-guaranteed-payments-reels"
+  },
+  {
+   "label": "Streams Charts",
+   "url": "https://streamscharts.com/news/facebook-creator-fast-track-program"
+  },
+  {
+   "label": "Agencies.co",
+   "url": "https://agencies.co/news/fixated-acquires-studio71-expanding-digital-creator-network"
+  },
+  {
+   "label": "Fixated Acquires Studio71, Creating a Global, End-to-End Platform for Creator-Led Media",
+   "url": "https://podnews.net/press-release/fixated-acquires-studio71"
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://www.tubefilter.com/2026/04/21/fixated-studio71-acquisition-creator-network/"
+  },
+  {
+   "label": "Facebook Monetization 2026: 7 Ways to Get Paid by Meta + How Much You Can Make",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEwf8GFjrO71DL0JQbgkuIfoSKftEleGwbQKVj6A_7A8cnFIAgaOLeavwJGt2o5TdY8h4m_UfRWq4NV5m9yy7b0lQchT-XNGtEmu2-m6kt4cZvstoKTDAMGix-P98KI0HcD3F4"
+  }
+ ]
+}
