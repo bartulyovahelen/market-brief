@@ -1,0 +1,251 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі медіа-угоди, зокрема позовами щодо блокування злиття Paramount-Warner Bros. Discovery, та публікацією нових вказівок ЄС щодо маркування ШІ-контенту. Платформи, такі як YouTube, TikTok, Meta та Snapchat, активно оновлюють програми монетизації для творців та алгоритми, посилюючи конкуренцію за таланти та оригінальний контент. Bilibili запустила програму зворотного викупу акцій, а Amazon Prime Video розширює контент, включаючи партнерство з The Oprah Podcast.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Потенційна вартість злиття Paramount-Warner Bros. Discovery, яке зіткнулося з юридичними позовами про блокування."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за порушення GDPR"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні місячні виплати Meta для творців Reels"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма зворотного викупу акцій Bilibili"
+  },
+  {
+   "value": "$3 млрд",
+   "label": "Виплати творцям Meta у 2025 році (зростання на 35% з 2024)"
+  }
+ ],
+ "top_signal_deep": "Триваючі судові позови щодо запропонованого злиття Paramount і Warner Bros. Discovery на суму $110-111 млрд є найважливішою подією. Позови від 12 штатів США та Гільдії сценаристів підкреслюють зростаючі регуляторні та галузеві занепокоєння щодо консолідації ринку та потенційних антиконкурентних практик. Ця ситуація створює значну невизначеність для обох компаній та ширшого медіа-ландшафту, потенційно переформатовуючи майбутні стратегії M&A у відеодистрибуції.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A / регуляції",
+   "stream": "конкурент",
+   "source": "12 штатів США та Гільдія сценаристів",
+   "title": "Позови про блокування злиття Paramount-Warner Bros. Discovery на $110-111 млрд",
+   "why": "Посилює регуляторний тиск на великі медіа-угоди, створюючи невизначеність на ринку.",
+   "url": "https://www.cnbc.com/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС",
+   "title": "ЄС публікує нові вказівки щодо маркування ШІ-генерованого контенту, вимоги набувають чинності 2 серпня 2026 року",
+   "why": "Встановлює нові стандарти прозорості та впливає на виробництво та дистрибуцію контенту, особливо для платформ."
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Суд підтвердив штраф TikTok у €530 млн за порушення GDPR щодо передачі даних до Китаю",
+   "why": "Підкреслює зростаючий регуляторний контроль за конфіденційністю даних та міжнародними операціями платформ."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "Meta / Facebook & Instagram",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels з інших платформ, пропонуючи виплати до $3,000 на місяць",
+   "why": "Посилює конкуренцію за таланти та оригінальний контент, стимулюючи міграцію творців між платформами.",
+   "url": "https://www.mediapost.com/publications/article/409605/meta-payout-program-aims-to-lure-more-creators-to.html"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP з двома рівнями доступу",
+   "why": "Змінює умови для творців коротких відео, роблячи монетизацію більш доступною, але з різними умовами.",
+   "url": "https://unkoamarketing.com/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program пропонує вищі виплати за якісний контент та оновлює алгоритм, фокусуючись на утриманні та оригінальності",
+   "why": "Стимулює створення високоякісного контенту та впливає на стратегії дистрибуції для творців."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація / продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat Spotlight ввів нові вимоги для максимальних винагород творцям, включаючи 100 годин перегляду за 28 днів",
+   "why": "Змінює умови заробітку для творців на платформі, акцентуючи увагу на залученості та обсязі контенту.",
+   "url": "https://nbksocial.com/how-snapchat-spotlight-reshapes-creator-monetisation/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili авторизувала програму зворотного викупу акцій на суму до $300 млн протягом наступних 24 місяців",
+   "why": "Сигналізує про впевненість компанії у своїх фінансових показниках та може вплинути на ринкову капіталізацію.",
+   "url": "https://www.thestandard.com.hk/breaking-news/section/2/220261/Bilibili-launches-US$300m-share-repurchase-program"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент / партнерства",
+   "stream": "конкурент",
+   "source": "Amazon (Prime Video)",
+   "title": "Amazon Prime Video розширює бібліотеку контенту та запускає подкаст The Oprah Podcast двічі на тиждень з 21 липня 2026 року",
+   "why": "Посилює конкуренцію на ринку стримінгових сервісів та залучення аудиторії через ексклюзивний контент та відомих особистостей.",
+   "url": "https://www.aboutamazon.com/news/entertainment/new-on-prime-video-july-2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Ринок відеодистрибуції",
+   "title": "Ринок об'ємного відео демонструє значне зростання, підкреслюючи роль ШІ у майбутньому контенту",
+   "why": "Вказує на нові напрямки розвитку контенту та технологій у відеодистрибуції."
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-угоди та цифрові платформи.",
+  "Активне оновлення програм монетизації для творців та алгоритмів платформами для залучення та утримання талантів.",
+  "Зростання значення короткоформатного відео та контенту, створеного ШІ.",
+  "Консолідація на ринку дистрибуції контенту та боротьба за оригінальний контент."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску на M&A (Paramount-WBD), нові правила ЄС щодо ШІ-контенту, активні оновлення програм монетизації на платформах (Meta, YouTube, Snapchat)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє фінансову стабільність через програму зворотного викупу акцій та фокус на монетизації, TikTok стикається зі значним штрафом за порушення GDPR."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Продовжується посилення регуляторного тиску на великі медіа-угоди та цифрові платформи. Новим є запуск Bilibili програми зворотного викупу акцій на $300 млн та розширення контенту Amazon Prime Video, включаючи партнерство з The Oprah Podcast з 21 липня 2026 року. Також деталізовано оновлення вимог до монетизації на Snapchat Spotlight.",
+ "bizdev": [
+  "Розробка та впровадження рішень для маркування ШІ-генерованого контенту відповідно до нових регуляторних вимог ЄС.",
+  "Створення та дистрибуція високоякісного короткоформатного відеоконтенту для платформ, що активно оновлюють програми монетизації.",
+  "Стратегічні партнерства з творцями для залучення аудиторії та диверсифікації джерел доходу.",
+  "Моніторинг M&A активності та регуляторних змін для виявлення нових можливостей або загроз."
+ ],
+ "watch_next": [
+  "Рішення щодо позовів про блокування злиття Paramount-Warner Bros. Discovery.",
+  "Вплив нових вказівок ЄС щодо маркування ШІ-контенту після 2 серпня 2026 року.",
+  "Подальші оновлення програм монетизації та алгоритмів від YouTube, Meta, TikTok та Snapchat.",
+  "Фінансові результати та стратегії Bilibili після програми зворотного викупу акцій."
+ ],
+ "sources": [
+  {
+   "label": "NBK Social",
+   "url": "https://nbksocial.com/how-snapchat-spotlight-reshapes-creator-monetisation/"
+  },
+  {
+   "label": "Grokipedia",
+   "url": "https://grokipedia.com/snapchat-creator-monetization-program/"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://www.snapchat.com/creators/monetization"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/409605/meta-payout-program-aims-to-lure-more-creators-to.html"
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://unkoamarketing.com/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "label": "AuditSocials",
+   "url": "https://auditsocials.com/snapchat-spotlight-2026-creator-monetization-disclosure/"
+  },
+  {
+   "label": "KrASIA",
+   "url": "https://kr-asia.com/bilibili-rolls-out-ai-tools-to-push-next-phase-of-platform-monetization"
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://newsroom.snap.com/snapchat-introduces-new-unified-monetization-program-for-creators"
+  },
+  {
+   "label": "Amazon MGM Studios",
+   "url": "https://press.amazonmgmstudios.com/us/en/news/new-to-prime-video-in-july-2026"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://www.ndtvprofit.com/technology/meta-to-pay-american-influencers-up-to-3-000-a-month-to-post-reels-on-facebook-as-part-of-creator-fast-track-program"
+  },
+  {
+   "label": "Ateme",
+   "url": "https://www.ateme.com/blog/the-software-defined-world-cup-six-live-media-lessons/"
+  },
+  {
+   "label": "Mashable",
+   "url": "https://mashable.com/article/meta-instagram-reels-tiktok-bonuses"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-requirements/"
+  },
+  {
+   "label": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/03/meta-will-pay-big-creators-to-post-on-facebook.html"
+  },
+  {
+   "label": "Clapper",
+   "url": "https://clapperapp.com/blog/youtube-shorts-monetization-2026/"
+  },
+  {
+   "label": "Morningstar",
+   "url": "https://www.morningstar.com/stocks/xkhg/09626/quote/analysis"
+  },
+  {
+   "label": "The Standard (HK)",
+   "url": "https://www.thestandard.com.hk/breaking-news/section/2/220261/Bilibili-launches-US$300m-share-repurchase-program"
+  },
+  {
+   "label": "CBS News",
+   "url": "https://www.cbsnews.com/news/tiktok-us-entity-deal-ban-avoided/"
+  },
+  {
+   "label": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/07/20/market-midday-stocks-mixed-wbd-sky-deal-delayed-gas-tops-4-again-72026.html"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://www.aboutamazon.com/news/entertainment/new-on-prime-video-in-july-2026"
+  }
+ ]
+}
