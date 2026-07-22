@@ -1,0 +1,234 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі медіа-угоди, зокрема тимчасовою зупинкою злиття Paramount-Warner Bros. Discovery, та новими вимогами ЄС щодо маркування ШІ-контенту. Платформи, такі як Meta та YouTube, активно оновлюють програми монетизації для творців, посилюючи конкуренцію за таланти, тоді як TikTok стикається з подальшим регуляторним контролем у США та підтвердженням значного штрафу в ЄС. Amazon Prime Video розширює свою контентну пропозицію, а ринок об'ємного відео демонструє значне зростання, підкреслюючи роль ШІ.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Оціночна вартість злиття Paramount-Warner Bros. Discovery, яке було тимчасово зупинено судом."
+ },
+ "figures": [
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok за порушення GDPR"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма зворотного викупу акцій Bilibili"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні щомісячні виплати в програмі Meta Creator Fast Track"
+  }
+ ],
+ "top_signal_deep": "Федеральний суд тимчасово зупинив злиття Paramount-Warner Bros. Discovery на суму $110-111 млрд, задовольнивши позови 12 штатів США та Гільдії сценаристів. Це рішення підкреслює зростаючий регуляторний тиск на великі медіа-угоди, спрямований на збереження конкуренції та захист споживачів від потенційного підвищення цін та зменшення вибору контенту. Подальший розвиток цієї справи матиме значний вплив на консолідацію медіа-ринку та стратегії великих гравців у відеодистрибуції.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "U.S. District Court, 12 states, Writers Guild of America",
+   "title": "Суд тимчасово зупинив злиття Paramount-Warner Bros. Discovery на $110-111 млрд.",
+   "why": "Створює невизначеність для великих медіа-угод та впливає на консолідацію ринку відеодистрибуції, потенційно обмежуючи вибір для споживачів та конкуренцію в Голлівуді.",
+   "url": "https://capradio.org/articles/2026/07/20/judge-says-paramount-and-warner-must-halt-merger-for-at-least-two-weeks-granting-states-request/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС (European Commission)",
+   "title": "ЄС публікує нові вказівки щодо маркування ШІ-генерованого контенту, вимоги набувають чинності 2 серпня 2026 року.",
+   "why": "Встановлює нові стандарти прозорості та відповідальності для творців та платформ, що використовують ШІ, впливаючи на виробництво та дистрибуцію контенту.",
+   "url": "https://weventure.de/en/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels з інших платформ, пропонуючи виплати до $3,000 на місяць.",
+   "why": "Посилює конкуренцію за таланти та оригінальний контент у форматі коротких відео, стимулюючи міграцію творців.",
+   "url": "https://tmcnet.com/news/2026/07/07/4346859.htm"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP з двома рівнями доступу.",
+   "why": "Змінює умови для творців коротких відео та впливає на їхні доходи, стимулюючи створення якісного контенту та утримання аудиторії.",
+   "url": "https://www.stackinfluence.com/blog/youtube-shorts-monetization-2026-updates"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Reuters (via TNW)",
+   "title": "Керівник служби безпеки TikTok у США постане перед Комітетом Палати представників з питань Китаю 15 вересня.",
+   "why": "Посилює регуляторний тиск на TikTok щодо конфіденційності даних та впливу ByteDance, що може мати наслідки для операцій платформи в США.",
+   "url": "https://thenextweb.com/news/tiktok-us-security-chief-to-face-house-china-committee-on-september-15"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "High Court of Ireland, Irish Data Protection Commission (DPC)",
+   "title": "Суд підтвердив штраф TikTok у €530 млн за порушення GDPR щодо передачі даних до Китаю.",
+   "why": "Підкреслює посилення регуляторного тиску на глобальні платформи щодо конфіденційності даних та міжнародних трансферів.",
+   "url": "https://www.digitalpolicyalert.org/news/ireland-high-court-upheld-eur-530-million-gdpr-fine-against-tiktok-and-referred-fining-methodology-questions-to-court-of-justice-of-the-european-union"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon, Prime Video, Harpo Entertainment",
+   "title": "Amazon Prime Video розширює контент, включаючи партнерство з The Oprah Podcast (тепер двічі на тиждень) та дебют 'Masters of the Universe'.",
+   "why": "Посилює конкуренцію на ринку преміум-контенту та приваблює нову аудиторію, розширюючи пропозиції платформи.",
+   "url": "https://ppcland.com/oprah-podcast-moves-to-twice-weekly-episodes-on-prime-video-today/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оголосила про програму зворотного викупу акцій на $300 млн, що свідчить про впевненість у ринковій оцінці.",
+   "why": "Сигналізує про фінансову стабільність компанії та може вплинути на її ринкову оцінку, а також на стратегії монетизації.",
+   "url": "https://simplywall.st/stocks/cn/media/nasdaq-bili/bilibili/news/why-bilibili-bili-is-up-62-after-launching-a-300-million-buy"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "загальний ринок",
+   "source": "ResearchAndMarkets.com, GlobeNewswire",
+   "title": "Ринок об'ємного відео демонструє значне зростання (прогнозується до $7.01 млрд до 2032), підкреслюючи роль ШІ у майбутньому контенту.",
+   "why": "Вказує на перспективний напрямок розвитку контенту та технологій у відеодистрибуції, що вимагає уваги до інновацій.",
+   "url": "https://www.globenewswire.com/news-release/2026/07/17/3277025/0/en/Volumetric-Video-Market-Projected-to-Reach-USD-7-01-Billion-by-2032-as-AI-and-Spatial-Computing-Accelerate-Adoption.html"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-угоди та цифрові платформи, що створює невизначеність та впливає на консолідацію ринку.",
+  "Активне оновлення програм монетизації та алгоритмів платформами для залучення та утримання творців, особливо у сегменті коротких відео.",
+  "Зростання значення ШІ та нових технологій (як-от об'ємне відео) у створенні та дистрибуції контенту, що вимагає нових підходів до прозорості та виробництва.",
+  "Посилення конкуренції за оригінальний контент та таланти серед платформ, що призводить до нових партнерств та інвестицій у контент."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску на медіа-злиття та технологічні гіганти (США, ЄС), активні оновлення програм для творців (Meta, YouTube, Amazon)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє фінансову стабільність через викуп акцій, TikTok під регуляторним тиском щодо даних та операцій у США."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, 22 липня 2026 року відзначилося новиною про те, що керівник служби безпеки TikTok у США постане перед Комітетом Палати представників з питань Китаю, що свідчить про подальше посилення регуляторного контролю над платформою. Також з'явилися деталі щодо дебюту фільму 'Masters of the Universe' на Prime Video, що розширює контентну пропозицію Amazon.",
+ "bizdev": [
+  "Розробка та впровадження ШІ-інструментів для автоматичного маркування контенту відповідно до нових вимог ЄС.",
+  "Створення та адаптація стратегій залучення та утримання творців коротких відео, пропонуючи конкурентні умови монетизації та підтримки.",
+  "Консультування та розробка рішень для платформ щодо дотримання GDPR та інших міжнародних норм передачі даних.",
+  "Інвестиції в оригінальний контент та стратегічні партнерства для розширення бібліотек та залучення аудиторії."
+ ],
+ "watch_next": [
+  "Розвиток судових позовів щодо злиття Paramount-Warner Bros. Discovery та його потенційні наслідки для медіа-ринку.",
+  "Імплементація вимог ЄС щодо маркування ШІ-контенту, які набувають чинності 2 серпня 2026 року, та реакція платформ.",
+  "Результати слухань керівника служби безпеки TikTok у Конгресі США та можливі подальші регуляторні кроки.",
+  "Подальші оновлення програм монетизації від YouTube, Meta та інших платформ, а також їхній вплив на екосистему творців."
+ ],
+ "sources": [
+  {
+   "label": "PPC Land",
+   "url": "https://ppcland.com/oprah-podcast-moves-to-twice-weekly-episodes-on-prime-video-today/"
+  },
+  {
+   "label": "TMC Insight",
+   "url": "https://tmcnet.com/news/2026/07/07/4346859.htm"
+  },
+  {
+   "label": "capradio.org",
+   "url": "https://capradio.org/articles/2026/07/20/judge-says-paramount-and-warner-must-halt-merger-for-at-least-two-weeks-granting-states-request/"
+  },
+  {
+   "label": "Oregon Department of Justice : Media",
+   "url": "https://www.doj.state.or.us/media/2026/07/20/attorney-general-rayfield-secures-critical-win-in-lawsuit-to-block-warner-bros-paramount-merger/"
+  },
+  {
+   "label": "Simply Wall St",
+   "url": "https://simplywall.st/stocks/cn/media/nasdaq-bili/bilibili/news/why-bilibili-bili-is-up-62-after-launching-a-300-million-buy"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://www.thewrap.com/new-on-prime-video-july-2026-movies-shows/"
+  },
+  {
+   "label": "StartupHub.ai",
+   "url": "https://startuphub.ai/oprahs-podcast-streams-on-prime-video/"
+  },
+  {
+   "label": "Amazon MGM Studios",
+   "url": "https://press.amazonmgmstudios.com/us/en/news/amazon-and-oprah-winfreys-harpo-entertainment-close-comprehensive-deal"
+  },
+  {
+   "label": "Seeking Alpha",
+   "url": "https://seekingalpha.com/article/4620353-bilibili-q2-2026-preview-high-engagement-community-driving-ad-monetization-reiterate-buy"
+  },
+  {
+   "label": "State of California - Department of Justice - Office of the Attorney General",
+   "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-critical-early-win-lawsuit-block-warner-bros"
+  },
+  {
+   "label": "weventure",
+   "url": "https://weventure.de/en/ai-labeling-requirement-starting-in-2026-what-you-need-to-know/"
+  },
+  {
+   "label": "Shaping Europe's digital future",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-transparency-ai-generated-content"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/news/tiktok-us-security-chief-to-face-house-china-committee-on-september-15"
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://www.stackinfluence.com/blog/youtube-shorts-monetization-2026-updates"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/07/17/3277025/0/en/Volumetric-Video-Market-Projected-to-Reach-USD-7-01-Billion-by-2032-as-AI-and-Spatial-Computing-Accelerate-Adoption.html"
+  },
+  {
+   "label": "Digital Policy Alert",
+   "url": "https://www.digitalpolicyalert.org/news/ireland-high-court-upheld-eur-530-million-gdpr-fine-against-tiktok-and-referred-fining-methodology-questions-to-court-of-justice-of-the-european-union"
+  },
+  {
+   "label": "Acompli",
+   "url": "https://www.acompli.io/irish-high-court-upholds-tiktoks-e530-million-fine-over-transfers-to-china/"
+  },
+  {
+   "label": "Forbes",
+   "url": "https://www.forbes.com/sites/timlammers/2026/07/20/masters-of-the-universe-streaming-debut-this-week-set-for-prime-video/"
+  }
+ ]
+}
