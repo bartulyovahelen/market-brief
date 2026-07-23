@@ -1,0 +1,381 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску та активною конкуренцією за творців контенту. Європейський Союз схвалив злиття Paramount-Warner Bros. Discovery на $110-111 млрд із застереженнями, тоді як у США угода стикається з юридичними перешкодами. TikTok отримав штраф у Південній Кореї за порушення правил щодо даних, а Meta та Snapchat продовжують оновлювати програми монетизації для залучення та утримання творців.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Оціночна вартість злиття Paramount-Warner Bros. Discovery, яке отримало умовне схвалення ЄС, але стикається з перешкодами в США."
+ },
+ "figures": [
+  {
+   "value": "$7 млн",
+   "label": "Штраф TikTok у Південній Кореї за порушення даних."
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальна щомісячна виплата в програмі Meta Creator Fast Track."
+  },
+  {
+   "value": "$43.2 млрд",
+   "label": "Прогнозований обсяг ринку онлайн-відеоплатформ до 2032 року."
+  },
+  {
+   "value": "$80 млрд",
+   "label": "Прогнозовані витрати на цифрову відеорекламу в США цього року."
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery вартістю $110-111 млрд отримало умовне схвалення антимонопольних органів Європейського Союзу. Умова полягає в тому, що Paramount має відмовитися від спільного підприємства з Universal Pictures у сфері кінодистрибуції в Європі протягом 13 місяців і не укладати подібних угод протягом 10 років. Однак у США угода все ще стикається зі значними юридичними перешкодами, включаючи тимчасову заборону суду в Каліфорнії та позови від 12 штатів і Гільдії сценаристів Америки, які стверджують, що злиття зашкодить конкуренції. Затримка угоди після 30 вересня обійдеться Paramount Skydance приблизно в $7 мільйонів на день у вигляді 'ticking fee'. Ця ситуація підкреслює зростаючий регуляторний тиск на великі медіа-угоди та їхню складність у різних юрисдикціях.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 6
+  },
+  {
+   "label": "Продукт",
+   "n": 8
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A|регуляції",
+   "stream": "конкурент",
+   "source": "Paramount Skydance / Warner Bros. Discovery",
+   "title": "ЄС схвалив злиття Paramount-Warner Bros. Discovery, але в США є перешкоди",
+   "why": "Це ключова подія M&A, яка показує розбіжності в регуляторних підходах між ЄС та США та значні юридичні ризики для великих угод.",
+   "url": "https://virginiabusiness.com/paramount-secures-eu-nod-for-110b-warner-bros-deal-us-hurdles-ahead/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано в Південній Кореї на $7 млн за порушення правил щодо даних",
+   "why": "Підкреслює посилення глобального регуляторного контролю за збором та використанням даних користувачів великими платформами.",
+   "url": "https://asiabusinessoutlook.com/tiktok-fined-7m-over-ad-data-violations-in-south-korea/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції|продукт",
+   "stream": "платформа",
+   "source": "Європейська Комісія",
+   "title": "Вказівки ЄС щодо маркування ШІ-контенту набувають чинності 2 серпня 2026 року",
+   "why": "Встановлює нові стандарти прозорості та відповідальності для творців і дистриб'юторів ШІ-генерованого контенту в Європі.",
+   "url": "https://aethicsassessor.com/how-to-label-ai-generated-content-in-the-eu-article-50-the-new-eu-code-of-practice-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація|продукт",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels",
+   "why": "Посилює конкуренцію за таланти коротких відео та пропонує значні фінансові стимули для міграції творців на Facebook.",
+   "url": "https://www.about.meta.com/news/releases/2026/03/creator-fast-track-facebook-monetization/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація|продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP",
+   "why": "Змінює умови для монетизації коротких відео, впливаючи на стратегії заробітку творців та конкуренцію з іншими платформами.",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-requirements-complete-2026-guide/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація|продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює монетизацію для творців через підписки та оновлення Spotlight",
+   "why": "Демонструє зусилля платформи з диверсифікації джерел доходу для творців та посилення залучення аудиторії.",
+   "url": "https://newsroom.snap.com/snapchat-launches-creator-subscriptions/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok / US Department of Justice",
+   "title": "Міністерство юстиції США: заборона TikTok на державних пристроях більше не діє",
+   "why": "Вказує на зміни в регуляторному ландшафті TikTok у США після реструктуризації власності, що може вплинути на його сприйняття та використання.",
+   "url": "https://www.cbsnews.com/news/doj-tiktok-federal-devices-ban-exempt/"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент|продукт",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili розширює ігрові та контентні пропозиції, запускає нові ігри та драми",
+   "why": "Підкреслює стратегію Bilibili щодо диверсифікації контенту та залучення аудиторії через ігри та оригінальні серіали, особливо в Азії.",
+   "url": "https://www.binance.com/en/square/post/7951010373033"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент|продукт",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video додає новий оригінальний контент та спортивні трансляції",
+   "why": "Посилює конкуренцію на ринку стримінгових послуг, розширюючи бібліотеку оригінальних шоу та ексклюзивних спортивних подій.",
+   "url": "https://www.ign.com/articles/everything-coming-to-amazon-prime-video-in-july-2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon / FTC",
+   "title": "Кінцевий термін для запиту відшкодування за несанкціоновані підписки на Amazon Prime",
+   "why": "Вказує на наслідки регуляторного тиску на великі платформи щодо прозорості та згоди користувачів.",
+   "url": "https://www.businessinsider.com/amazon-prime-ftc-settlement-how-to-check-eligibility-file-claim-2026-7"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт|регуляції",
+   "stream": "конкурент",
+   "source": "Qvest, Ateme, Scaleway",
+   "title": "Партнерство для створення суверенних OTT-платформ у Європі",
+   "why": "Відповідь на зростаючі регуляторні вимоги та стратегічний тиск на європейських мовників щодо зменшення залежності від неєвропейських хмарних провайдерів.",
+   "url": "https://www.einnews.com/pr_news/962534063/sovereign-ott-platforms-for-europe-qvest-ateme-scaleway"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Interactive Advertising Bureau (IAB)",
+   "title": "Витрати на цифрову відеорекламу зростають, але довіра до інвентарю знижується",
+   "why": "Вказує на зростання ринку відеореклами, але також на проблеми з прозорістю та якістю інвентарю, що може вплинути на доходи дистриб'юторів.",
+   "url": "https://digiday.com/media/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "MarketsandMarkets™",
+   "title": "Ринок програмного забезпечення для відеостримінгу досягне $17.5 млрд до 2026 року",
+   "why": "Підтверджує стійке зростання індустрії відеостримінгу та онлайн-відеоплатформ, що створює нові можливості для інновацій та дистрибуції.",
+   "url": "https://www.prnewswire.com/news-releases/video-streaming-software-market-worth-17-5-billion-in-2026---exclusive-report-by-marketsandmarkets-301422119.html"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "EIN News",
+   "title": "Ринок онлайн-відеоплатформ зросте до $43.2 млрд до 2032 року",
+   "why": "Прогнозує значне розширення ринку, що свідчить про зростаючу важливість відеоконтенту та технологій для його дистрибуції.",
+   "url": "https://www.einnews.com/pr_news/962534063/sovereign-ott-platforms-for-europe-qvest-ateme-scaleway"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Prescott Regional Airport",
+   "title": "Індустрія IPTV швидко зростає у 2026 році",
+   "why": "Вказує на продовження переходу споживачів від традиційного телебачення до гнучких інтернет-сервісів, що створює можливості для IPTV-провайдерів.",
+   "url": "https://prescottairport.com/cheap-iptv-subscription-providers-2026-best-top-7-reviewed-and-results-after-trial-tlj/"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-угоди та цифрові платформи, особливо щодо антимонопольного законодавства та захисту даних.",
+  "Активна конкуренція платформ за творців контенту через оновлені програми монетизації та фінансові стимули.",
+  "Зростаюча увага до прозорості та маркування ШІ-генерованого контенту з боку регуляторів.",
+  "Продовження експансії контенту на стримінгових платформах, включаючи оригінальні серіали, фільми та спортивні трансляції.",
+  "Зростання ринку онлайн-відеоплатформ та IPTV, що відображає перехід споживачів до цифрової дистрибуції відео."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "ЄС схвалив злиття Paramount-Warner Bros. Discovery, але в США угода стикається з юридичними перешкодами. Набувають чинності вимоги ЄС щодо маркування ШІ-контенту. Meta та Snapchat активно оновлюють програми монетизації для творців. Партнерство Qvest, Ateme та Scaleway створює суверенні OTT-платформи в Європі."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok оштрафовано в Південній Кореї на $7 млн за порушення правил щодо даних. Bilibili розширює ігрові та контентні пропозиції, запускає нові ігри та драми. Bilibili Gaming стикається зі змінами в складі команди League of Legends."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що не є частиною глобальних трендів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження рішень для маркування ШІ-генерованого контенту відповідно до вимог ЄС, пропонуючи їх як сервіс для платформ і творців.",
+  "Інвестиції в локалізований та оригінальний контент для платформ, що прагнуть залучити творців та аудиторію в конкретних регіонах, наслідуючи приклад Bilibili та Amazon Prime Video.",
+  "Створення та просування суверенних рішень для відеодистрибуції, особливо в Європі, для відповідності зростаючим регуляторним вимогам та зниження залежності від глобальних провайдерів.",
+  "Розробка інструментів та послуг для творців контенту, які допомагають їм орієнтуватися в оновлених програмах монетизації та алгоритмах платформ (YouTube, Meta, Snapchat)."
+ ],
+ "watch_next": [
+  "Розвиток ситуації зі злиттям Paramount-Warner Bros. Discovery у США та можливі наслідки для ринку.",
+  "Вплив нових вказівок ЄС щодо маркування ШІ-контенту на платформи та творців після 2 серпня 2026 року.",
+  "Подальші оновлення програм монетизації та алгоритмів від YouTube, Meta, TikTok та Snapchat.",
+  "Регуляторні рішення щодо TikTok в інших регіонах після штрафу в Південній Кореї."
+ ],
+ "sources": [
+  {
+   "label": "Asia Business Outlook",
+   "url": "https://asiabusinessoutlook.com/tiktok-fined-7m-over-ad-data-violations-in-south-korea/"
+  },
+  {
+   "label": "Virginia Business",
+   "url": "https://virginiabusiness.com/paramount-secures-eu-nod-for-110b-warner-bros-deal-us-hurdles-ahead/"
+  },
+  {
+   "label": "European regulators offer conditional approval of Paramount-Warner Bros merger",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuErkpzyyhwBCm6uLBn5UOX8SpTjpEN9pjyjSzKgsNZK9abQHSwv4-D1T0X4D0jQtbhUCWnCTI2C3Fik048wTqis-R1jRP__bosJKwdD3-g7Pp2WVZnoQMuu-23M0UlSFeSl_H4OmrwvXIC8Dg1sFkbmE4rZrs-RL_d-iBkTD-KpikSkg_45lXWck="
+  },
+  {
+   "label": "Binance News",
+   "url": "https://www.binance.com/en/square/post/7951010373033"
+  },
+  {
+   "label": "Inven Global",
+   "url": "https://www.invenglobal.com/articles/2026/jujutsu-kaisen-phantom-parade-launches-15th-anniversary-part-3-update-3847"
+  },
+  {
+   "label": "Advanced Television",
+   "url": "https://advanced-television.com/2026/07/23/ec-conditionally-approves-paramount-wbd-deal/"
+  },
+  {
+   "label": "Korea JoongAng Daily",
+   "url": "https://koreajoongangdaily.joins.com/2026/07/23/business/tech/TikTok-fine-data-privacy/20260723162400371.html"
+  },
+  {
+   "label": "Variety Australia",
+   "url": "https://variety.com/2026/biz/news/european-commission-approves-paramount-warner-bros-merger-1234567890/"
+  },
+  {
+   "label": "DIARY directory",
+   "url": "https://www.diarydirectory.com/news/meta-launches-new-program-to-help-creators-accelerate-their-growth-and-success-on-facebook"
+  },
+  {
+   "label": "Fox Business",
+   "url": "https://www.foxbusiness.com/markets/paramount-wbd-merger-on-hold-after-judge-grants-temporary-restraining-order"
+  },
+  {
+   "label": "IGN",
+   "url": "https://www.ign.com/articles/everything-coming-to-amazon-prime-video-in-july-2026"
+  },
+  {
+   "label": "AG INFORMATION NETWORK OF THE WEST",
+   "url": "https://www.agin.com/news/from-ban-talks-to-tiktok/"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://www.aboutamazon.com/news/prime-video/new-on-prime-video-july-2026"
+  },
+  {
+   "label": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/americas/justice-department-says-current-us-version-of-tiktok-exempt-from-federal-device-ban/3282247"
+  },
+  {
+   "label": "CBS News",
+   "url": "https://www.cbsnews.com/news/doj-tiktok-federal-devices-ban-exempt/"
+  },
+  {
+   "label": "AI Ethics Assessor",
+   "url": "https://aethicsassessor.com/how-to-label-ai-generated-content-in-the-eu-article-50-the-new-eu-code-of-practice-2026/"
+  },
+  {
+   "label": "Reddit (r/CDrama)",
+   "url": "https://www.reddit.com/r/CDrama/comments/1e5x2y/the_shadow_sovereign_zhao_yang_gong_zhu_%E6%98%AD%E9%98%B3%E5%85%AC%E4%B8%BB_from_bilibili_airing_on_july_23_2026_at_1200_pm_starring_kong_xueer_and_li_hongyi_trailer/"
+  },
+  {
+   "label": "Amazon MGM Studios",
+   "url": "https://www.amazonmgmstudios.com/news/new-to-prime-video-in-july-2026"
+  },
+  {
+   "label": "Wall Street Marketing",
+   "url": "https://wallstreet.marketing/creator-fast-track-program-facebooks-new-initiative-for-creators/"
+  },
+  {
+   "label": "Business Insider",
+   "url": "https://www.businessinsider.com/amazon-prime-ftc-settlement-how-to-check-eligibility-file-claim-2026-7"
+  },
+  {
+   "label": "Snapchat Support",
+   "url": "https://support.snapchat.com/en-US/a/monetization-program"
+  },
+  {
+   "label": "PodcastVideos.com",
+   "url": "https://podcastvideos.com/snapchat-introduces-creator-subscriptions-to-drive-fan-engagement-recurring-revenue/"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://www.thewrap.com/new-on-prime-video-july-2026-legally-blonde-elle/"
+  },
+  {
+   "label": "SearchLight Social",
+   "url": "https://searchlightsocial.com/snapchat-creator-monetization/"
+  },
+  {
+   "label": "EIN News",
+   "url": "https://www.einnews.com/pr_news/962534063/sovereign-ott-platforms-for-europe-qvest-ateme-scaleway"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/news/meta-creator-fast-track-facebook-reels-monetization"
+  },
+  {
+   "label": "About Meta",
+   "url": "https://www.about.meta.com/news/releases/2026/03/creator-fast-track-facebook-monetization/"
+  },
+  {
+   "label": "Trufo",
+   "url": "https://www.trufo.ai/eu-ai-act-compliance-for-ai-generated-content"
+  },
+  {
+   "label": "Shaping Europe's digital future (Guidelines)",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-transparency-ai-generated-content"
+  },
+  {
+   "label": "Shaping Europe's digital future (Code of Practice)",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-transparency-ai-generated-content"
+  },
+  {
+   "label": "MarketScreener",
+   "url": "https://www.marketscreener.com/quote/stock/NEXON-CO-LTD-6492317/news/Nexon-Launches-Higan-Eruthyll-on-PC-and-Mobile-in-Korea-44331238/"
+  },
+  {
+   "label": "Shaping Europe's digital future (Icons)",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content"
+  },
+  {
+   "label": "Prescott Regional Airport",
+   "url": "https://prescottairport.com/cheap-iptv-subscription-providers-2026-best-top-7-reviewed-and-results-after-trial-tlj/"
+  },
+  {
+   "label": "GosuGamers",
+   "url": "https://www.gosugamers.net/lol/news/63507-bilibili-gaming-lol-top-laner-bin-takes-health-break-as-blg-promotes-wenbo"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/youtube-shorts-monetization-requirements-complete-2026-guide/"
+  },
+  {
+   "label": "Shopify",
+   "url": "https://www.shopify.com/blog/youtube-shorts-monetization"
+  },
+  {
+   "label": "Clapper",
+   "url": "https://clapper.com/blog/youtube-shorts-monetization-in-2026-what-it-pays-what-it-requires-and-what-creators-are-choosing-instead/"
+  },
+  {
+   "label": "Digiday",
+   "url": "https://digiday.com/media/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/"
+  },
+  {
+   "label": "MarketsandMarkets™",
+   "url": "https://www.prnewswire.com/news-releases/video-streaming-software-market-worth-17-5-billion-in-2026---exclusive-report-by-marketsandmarkets-301422119.html"
+  }
+ ]
+}
