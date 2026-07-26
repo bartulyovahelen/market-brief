@@ -1,0 +1,246 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі медіа-угоди та цифрові платформи, зокрема суперечливим злиттям Paramount-Warner Bros. Discovery та значними штрафами для TikTok. Платформи активно конкурують за творців контенту, оновлюючи програми монетизації та алгоритми, тоді як ШІ продовжує відігравати ключову роль у розвитку контенту та рекомендацій.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Оцінка вартості злиття Paramount-Warner Bros. Discovery, яке стикається з юридичними перешкодами в США, але отримало схвалення ЄС із застереженнями."
+ },
+ "figures": [
+  {
+   "value": "$7 млн",
+   "label": "Штраф TikTok у Південній Кореї за порушення правил щодо даних"
+  },
+  {
+   "value": "€530 млн",
+   "label": "Підтверджений штраф TikTok у ЄС за порушення GDPR"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні щомісячні виплати Meta в програмі Creator Fast Track для Reels"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Програма зворотного викупу акцій Bilibili"
+  },
+  {
+   "value": "3.2 квадрильйона",
+   "label": "Токенів на місяць обробляє Google для AI-інференції (травень 2026)"
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery на $110-111 млрд залишається в центрі уваги через його суперечливий статус. Хоча Європейський Союз схвалив угоду із застереженнями, у США вона стикається зі значними юридичними перешкодами, включаючи тимчасову зупинку судом та позови від 12 штатів та Гільдії сценаристів. Ця ситуація підкреслює посилення регуляторного контролю над великими медіа-угодами та може вплинути на консолідацію в індустрії відеодистрибуції, створюючи невизначеність для майбутніх стратегій зростання та конкурентного ландшафту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery зіткнулося з юридичними перешкодами в США, незважаючи на схвалення ЄС",
+   "why": "Невизначеність щодо великої медіа-угоди впливає на стратегії конкурентів та регуляторний ландшафт ринку.",
+   "url": "https://www.google.com/search?q=Paramount-Warner+Bros.+Discovery+merger+news+last+7+days"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на $7 млн у Південній Кореї та підтверджено штраф у €530 млн у ЄС",
+   "why": "Посилення регуляторного тиску та значні штрафи впливають на операційну діяльність та довіру до платформи.",
+   "url": "https://www.google.com/search?q=TikTok+South+Korea+fine+news+last+7+days"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Нові вказівки ЄС щодо маркування ШІ-генерованого контенту набувають чинності 2 серпня 2026 року",
+   "why": "Вимоги до прозорості ШІ-контенту вплинуть на стратегії створення та дистрибуції для всіх гравців ринку.",
+   "url": "https://www.google.com/search?q=EU+AI+content+labeling+guidelines+news+last+7+days"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels з виплатами до $3,000 на місяць",
+   "why": "Посилює конкуренцію за таланти та оригінальний контент між платформами, впливаючи на стратегії монетизації творців.",
+   "url": "https://www.google.com/search?q=Meta+Reels+payouts+news+last+7+days"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP з двома рівнями доступу",
+   "why": "Зміни в програмі монетизації впливають на доходи творців коротких відео та залучення нових учасників.",
+   "url": "https://www.google.com/search?q=YouTube+Shorts+monetization+news+last+7+days"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює зі Sports Studio для дистрибуції живого спортивного контенту на YouTube",
+   "why": "Розширення присутності живого спортивного контенту на YouTube підкреслює зростаючу роль платформи для преміум-контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE162SzHq5XeXFuGIOsKTvLQsdJUOjCEbJuLxD5Y4TKbbUUbhEqjTCodmtrIGB8po7aJeJ6K3RhoEyjgzaZ2jLmcGEJWkCZbXgxNjTUqdzBT3e1sfBOlkleAU2w9YyhjUfO6Ff484EnC8flb9KfXuYrx0nwrWc9EpYROvifg1EX_eICAA5XJOgytZhdNp_lPcM_7tRyzHyY3rztnOwU-azX_wcK"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Програма TikTok Creator Rewards пропонує вищі виплати за якісний контент та оновлює алгоритм",
+   "why": "Стимулює створення оригінального та якісного контенту, впливаючи на стратегії творців та конкуренцію платформ.",
+   "url": "https://www.google.com/search?q=TikTok+Creator+Rewards+Program+news+last+7+days"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює монетизацію для творців через підписки та оновлення Spotlight",
+   "why": "Залучення та утримання творців є ключовим для зростання платформи та диверсифікації доходів.",
+   "url": "https://www.google.com/search?q=Snapchat+Spotlight+creator+monetization+news+last+7+days"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili Q2 2026: висока залученість спільноти сприяє монетизації реклами",
+   "why": "Підкреслює успіх платформи у використанні спільноти та ШІ для зростання рекламних доходів та утримання користувачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQhtdKk4DBsKzmWulyrAfVo6w8oLGUkmeH85pt_XlTb8198H4h9TVgOpLCnLVRhMrNYW62qw3y3PolZCubyg1jZEojbKwuLUfyaN94587y6TsR_s8ck0P9Cgc7h8xyZm_oRrIwhGOLP-ZPURrflQtdQ-yasoK4A-j2fI9S_EBcl0_Tb17jhX9FTdEckMmCTIjb69ItjIpw3Lz0mKRb0nM-SMQ4agkSKt7ee09G6jrnKoTc8RWgAfHj"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Рада директорів Bilibili схвалила програму зворотного викупу акцій на суму до $300 млн",
+   "why": "Інвестиції в зворотний викуп акцій можуть підвищити довіру інвесторів та стабілізувати вартість акцій компанії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERPbULQ-9JMSyyEh-VYv_Q_gyJeHMB7GZ3KiqIPYObV8MW7dbrngqqPvny91B4SbZejbYp1XLgFB3cxSAaxgnsutJa6ohgyr_jHgEvRwN_L0laOS9s4bTkgOVQjA-Pe1tx"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video розширює контент, включаючи партнерство з The Oprah Podcast",
+   "why": "Розширення контентної пропозиції посилює конкуренцію на ринку стримінгових сервісів.",
+   "url": "https://www.google.com/search?q=Amazon+Prime+Video+content+expansion+news+last+7+days"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Andreessen Horowitz",
+   "title": "Попит на AI-інференцію стрімко зростає, Google обробляє 3.2 квадрильйона токенів на місяць",
+   "why": "Підкреслює зростаючу важливість ШІ для масштабування та ефективності платформ відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy0sxjgXM4wV5Rl232rbZubsfKQOg0BH_qQcLmXCagqMrYUC-tHic7i0f5Is14MWKI-_3bkg2OkZT7oqt9rnEzVso2kHoz5OMQGp_5q7ZP1hnZ6EJfS561OdIoYE3cFttjoSBBeTIjHT3BpBMQFZY="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-угоди та цифрові платформи, особливо щодо даних та ШІ-контенту.",
+  "Активна конкуренція за творців контенту через оновлення програм монетизації, алгоритмів та розширення можливостей для заробітку.",
+  "Зростаюча роль штучного інтелекту у створенні, рекомендації, монетизації відеоконтенту та оптимізації платформ.",
+  "Розширення дистрибуції контенту, включаючи перехід традиційного довгоформатного та живого спортивного контенту на цифрові платформи (наприклад, YouTube)."
+ ],
+ "regions": [
+  {
+   "region": "Захід (ЄС, США)",
+   "note": "Посилений регуляторний тиск на M&A (Paramount-WBD) та цифрові платформи (TikTok). ЄС впроваджує нові правила щодо ШІ-контенту. Активна боротьба за творців контенту з боку Meta, YouTube та Snapchat."
+  },
+  {
+   "region": "Азія (Південна Корея, Китай)",
+   "note": "TikTok стикається зі значними штрафами за порушення даних. Bilibili демонструє зростання завдяки інвестиціям у ШІ та успішній монетизації реклами, підкреслюючи потенціал регіону."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються ринку відеодистрибуції."
+  }
+ ],
+ "changed": "Проти попередніх днів, ЄС схвалив злиття Paramount-Warner Bros. Discovery (хоча в США є перешкоди), TikTok отримав новий штраф у Південній Кореї, а TheSoul Group уклала нове партнерство для дистрибуції живого спортивного контенту. Також з'явилися нові дані щодо зростання ринку AI-інференції та позитивні прогнози для Bilibili.",
+ "bizdev": [
+  "Розробка та інтеграція інструментів ШІ для автоматичного маркування контенту відповідно до нових регуляторних вимог ЄС.",
+  "Створення та ліцензування преміум-контенту (особливо довгоформатного та живого спорту) для дистрибуції на великих платформах (YouTube, Prime Video).",
+  "Інвестиції в програми залучення та монетизації творців для підтримки конкурентоспроможності на ринку.",
+  "Моніторинг регуляторних змін у ключових регіонах (ЄС, США, Азія) для адаптації стратегій дистрибуції та контенту."
+ ],
+ "watch_next": [
+  "Розвиток ситуації навколо злиття Paramount-Warner Bros. Discovery та можливі наслідки для ринку.",
+  "Подальші регуляторні дії щодо TikTok та інших великих платформ у різних юрисдикціях.",
+  "Вплив нових вказівок ЄС щодо маркування ШІ-контенту на стратегії виробників та дистриб'юторів.",
+  "Оновлення програм монетизації та алгоритмів від YouTube, Meta, TikTok та Snapchat.",
+  "Звіти про прибутки Bilibili та їхні інвестиції в ШІ та розширення контенту."
+ ],
+ "sources": [
+  {
+   "label": "Google Search",
+   "url": "https://www.google.com/search"
+  },
+  {
+   "label": "StreamTV Insider",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZI2xEnTAReHPSL1Kls-cmMN5a8TzPVRj5jxGTUzDFXcsKFGALaJO1HvdSTYBCLdl6qy-qYAD7rFPfJdKfaSN57jcv0XfCY_5ZYl93uZ3L60Kxn4Ek27Zj9m3IAZnXbiQiGcA2lryd-otTFN4sT8aLC3hpq6P5CqiavSUn10mqDTg7-DwIXilZb2KuCTD-OvEZ5sNictJvoZ35nR1MfzI="
+  },
+  {
+   "label": "Media Play News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5fzWEBM2M6dslPaIcG-czFEkw5dsptRDP0hWhbZzlO8syIl3MybxZZLq6t74qpcsz_HTOxLMvZhay6Rj3y8wiyC5HN64WzebyFIyqzrRZ4dUvPCbvNmkSDTlNv24jFzd3tbvKjx5q_bSNaNA1DlIF8VvlayIFWuEySOWqHSgfiBm-Eqe8pcKuVu9FoGAE6nEjAD_ajqanfJbhBu57SA=="
+  },
+  {
+   "label": "TheSoul Group Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmu0OzQoeBqoa34w_oabTzuW9_8URtGEWwcYs2CVk7rXjblLb8NXIKAO5y1lFaj0fIzv4EZaERtF-Mf5Su9CC2owOVeRlt2it5nXc-p9AK7TGHMco="
+  },
+  {
+   "label": "Broadcast",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE162SzHq5XeXFuGIOsKTvLQsdJUOjCEbJuLxD5Y4TKbbUUbhEqjTCodmtrIGB8po7aJeJ6K3RhoEyjgzaZ2jLmcGEJWkCZbXgxNjTUqdzBT3e1sfBOlkleAU2w9YyhjUfO6Ff484EnC8flb9KfXuYrx0nwrWc9EpYROvifg1EX_eICAA5XJOgytZhdNp_lPcM_7tRyzHyY3rztnOwU-azX_wcK"
+  },
+  {
+   "label": "YouTube (Talk Tickers)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJWfi3E4LaQLrQp9M3A7_l7Dyy_onIVd_Y3JmRR55I4qOOuppcByfkhASpvpSo0gsQvNoAgA3YPRWsxXwv74em1aFEPx_So6K7RsMpG9diGCa7M18lMYDAHz5A3rGWQdPubtlFjw=="
+  },
+  {
+   "label": "Caixin Global",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWFeFtZX71VWGp3y8e3foj_a3EvGS6IMQ2UWDphyTTE8cJta8b7yn7GAJ-zkjEcAlnrhjVMJqUgx1HyK72sXX-OtFT-Y0hN_r4SBib5sZDfk0WArsRJxGnyNjQrMQIDwXO28spxw6PDN4cuao5YGocPj2rMryF2Qot0NtnvHQVsFzqId3AZ80AlLIS0zkwftI6mDRMoT9X_-jSiI99z6M0"
+  },
+  {
+   "label": "TradingView",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo1venn0iXsCckiTcGKejNpWXIwkso3GEY1qP5YNRgaDgM4VlCpvvjyUoy9lL59-MWw71QaaxjdV5ay1TwWz7vEIrMDQEolYNf_xGerOFHORfRhR7w7EsX6bRmswY_eNetJ5-wUmcrHjAylSCgmnzx5_aA6JquImTWCB4Eb7LT_U-BU-GoaaYVnTe4aFtZQsHNoJ4Z67GQHnfG"
+  },
+  {
+   "label": "Seeking Alpha",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQhtdKk4DBsKzmWulyrAfVo6w8oLGUkmeH85pt_XlTb8198H4h9TVgOpLCnLVRhMrNYW62qw3y3PolZCubyg1jZEojbKwuLUfyaN945876TsR_s8ck0P9Cgc7h8xyZm_oRrIwhGOLP-ZPURrflQtdQ-yasoK4A-j2fI9S_EBcl0_Tb17jhX9FTdEckMmCTIjb69ItjIpw3Lz0mKRb0nM-SMQ4agkSKt7ee09G6jrnKoTc8RWgAfHj"
+  },
+  {
+   "label": "Stocktwits (Nasdaq News)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERPbULQ-9JMSyyEh-VYv_Q_gyJeHMB7GZ3KiqIPYObV8MW7dbrngqqPvny91B4SbZejbYp1XLgFB3cxSAaxgnsutJa6ohgyr_jHgEvRwN_L0laOS9s4bTkgOVQjA-Pe1tx"
+  },
+  {
+   "label": "Andreessen Horowitz",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy0sxjgXM4wV5Rl232rbZubsfKQOg0BH_qQcLmXCagqMrYUC-tHic7i0f5Is14MWKI-_3bkg2OkZT7oqt9rnEzVso2kHoz5OMQGp_5q7ZP1hnZ6EJfS561OdIoYE3cFttjoSBBeTIjHT3BpBMQFZY="
+  }
+ ]
+}
