@@ -1,0 +1,261 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на великі медіа-угоди та цифрові платформи, зокрема суперечливим злиттям Paramount-Warner Bros. Discovery та значними штрафами для TikTok. Платформи активно конкурують за творців контенту, оновлюючи програми монетизації та алгоритми, тоді як ШІ продовжує відігравати ключову роль у розвитку контенту та рекомендацій.",
+ "key_figure": {
+  "value": "€530 млн",
+  "context": "Штраф, підтверджений для TikTok у ЄС за порушення GDPR щодо передачі даних до Китаю."
+ },
+ "figures": [
+  {
+   "value": "$7 млн",
+   "label": "Штраф TikTok у Південній Кореї"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні щомісячні виплати Meta Creator Fast Track"
+  },
+  {
+   "value": "68",
+   "label": "Номінацій на Еммі для Amazon MGM Studios"
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery на $110-111 млрд продовжує бути в центрі уваги, зіткнувшись з юридичними перешкодами в США, незважаючи на схвалення ЄС. Це підкреслює зростаючий регуляторний контроль над великими медіа-угодами, що може вплинути на консолідацію та стратегії дистрибуції контенту в галузі. Подальші судові рішення визначатимуть майбутнє цієї значної угоди.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з юридичними перешкодами в США",
+   "why": "Впливає на структуру ринку медіа та дистрибуції контенту, демонструючи посилення регуляторного контролю.",
+   "url": "https://www.latimes.com/business/hollywood/story/2026-07-26/paramount-warner-bros-discovery-merger-less-certain"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано на $7 млн у Південній Кореї та підтверджено штраф у €530 млн у ЄС",
+   "why": "Підкреслює посилення регуляторного тиску на глобальні платформи щодо даних та приватності.",
+   "url": "https://www.latimes.com/business/hollywood/story/2026-07-26/paramount-warner-bros-discovery-merger-less-certain"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels з виплатами до $3,000 на місяць",
+   "why": "Посилює конкуренцію за творців коротких відео та впливає на їхні доходи, змінюючи модель виплат на основі продуктивності."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP з двома рівнями доступу",
+   "why": "Змінює умови монетизації для творців коротких відео на YouTube, пропонуючи різні пороги для фан-фінансування та розподілу рекламного доходу."
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив алгоритм, фокусуючись на утриманні та оригінальності контенту",
+   "why": "Стимулює створення якісного оригінального контенту та впливає на його поширення, вимагаючи вищих показників завершення та переглядів."
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Нові вказівки ЄС щодо маркування ШІ-генерованого контенту набувають чинності 2 серпня 2026 року",
+   "why": "Встановлює нові стандарти прозорості для ШІ-контенту, впливаючи на творців та платформи."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює монетизацію для творців через підписки та оновлення Spotlight",
+   "why": "Надає творцям нові можливості для заробітку на платформі, посилюючи вимоги до часу перегляду Spotlight."
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює зі Sports Studio для дистрибуції живого спортивного контенту на YouTube",
+   "why": "Розширює пропозицію живого спортивного контенту на YouTube, демонструючи стратегічні партнерства."
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Amazon MGM Studios замовляє восьмисерійний серіал RoboCop для Prime Video",
+   "why": "Зміцнює контентну бібліотеку Prime Video, розширюючи пропозицію оригінального контенту."
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Amazon MGM Studios отримала 68 номінацій на премію Еммі",
+   "why": "Підкреслює якість та визнання контенту, виробленого Amazon MGM Studios."
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Виконавчий директор Amazon MGM Studios підозрюється у вимаганні відкатів за контракти на постпродакшн",
+   "why": "Вказує на потенційні проблеми з корпоративним управлінням та регуляторні ризики у великих медіакомпаніях."
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili запустила програму зворотного викупу акцій",
+   "why": "Вказує на фінансову стратегію компанії, що може вплинути на її інвестиційні можливості."
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili інтегрує AI Dubbing для творців",
+   "why": "Покращує доступність контенту для глобальної аудиторії та спрощує локалізацію для творців."
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-угоди та цифрові платформи, особливо щодо даних та ШІ-контенту.",
+  "Активна конкуренція платформ за творців контенту через оновлення програм монетизації та алгоритмів, особливо для коротких відео.",
+  "Зростаюча роль ШІ у створенні, дистрибуції та рекомендаціях контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на M&A (Paramount-WBD) та платформи (TikTok, ЄС щодо ШІ). Активні оновлення монетизації на Meta, YouTube та Snapchat."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok стикається зі значними штрафами (Південна Корея). Bilibili продовжує розвивати програми для творців та інтегрує ШІ-технології (AI Dubbing)."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що відрізняються від глобальних трендів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій адаптації контенту та монетизації до нових алгоритмів коротких відео на YouTube, TikTok та Meta.",
+  "Інвестування в ШІ-інструменти для створення та локалізації контенту, враховуючи нові регуляторні вимоги ЄС.",
+  "Моніторинг регуляторних змін та M&A активності для виявлення нових можливостей або ризиків на ринку."
+ ],
+ "watch_next": [
+  "Подальший розвиток злиття Paramount-Warner Bros. Discovery та судові рішення у США.",
+  "Вплив нових вказівок ЄС щодо маркування ШІ-контенту після 2 серпня 2026 року.",
+  "Реакція творців та ефективність нових програм монетизації на Meta, YouTube та Snapchat.",
+  "Подальші оновлення алгоритмів TikTok та їх вплив на дистрибуцію контенту."
+ ],
+ "sources": [
+  {
+   "label": "SearchLight Social",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOnb0XDJElVr7FtgedgoQ7Nr-oBN1DWi926_TuNZexaFRngPb3QoBnkHZUd0aiD9NVfCVYkUwjtctudJNZgvMgcfY5Y-embfdeztU4ikZW17oOChB1wahcwxHjqcUedZuT484HltqZSSK_oamO3z16O7nVxyjM6A=="
+  },
+  {
+   "label": "Meta Expands Reels Monetization to More Creators, Updates Payout Process",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2iRIo8CqStohxppPGqfuY_ywouGnqc-o7zLwViy_gOw8m6w4bz6ZA45SORFp3Zk0JvAApw_5Ttgz7rSCSPHrS_i-ZJhJ26pbYy8mLHSE3WuB-cWMovWn3nnuzVniN_vc9UJAA_MjGTbWUQPG-F1GjbnvAZhkqRSQQpdyslFai-mR1_0MeegLQgj0gbjfa9Rf1rsA7bDqJAK8MRK05UqA2_gJhJf-_U0LXgtth8TVOTg=="
+  },
+  {
+   "label": "YouTube Shorts Monetization 2026: Creators Need to Know - Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_lAOMRvRGXCuCHxptzL0NLQFsiV-wIhSAvK0P_Pfone0LzsIo3rGEP82vaZO3QpQcFogj-p7hIthIITkH2kItwNSsry83rLD93yDYcwU96oq4Kv-j7CyG4nHvVFFzMHIuAjaOYgwQg5FAb-WgnYt2dB2ArCki"
+  },
+  {
+   "label": "TikTok's NEW Algorithm Change Explained For July 2026 (Get Followers FASTER!)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ttT2bhWNK5Os7uDFgC_0DPZLSl6fXRrL9g9DPOMBrb7D2Qvci0mkHsRr9rEo_EoyNfxJtZbK3iMsGbS2DoDnnjx-83GhJgVrdfR140_OfX1NHpcyydgZUZ1Rozb0MHquSF_tY5I="
+  },
+  {
+   "label": "YouTube Shorts view count update: impact and strategy for creators in 2026 | Gyre",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIbcfRwxH_2GirQ5dLWmc-bfQhYDkaLO6or7OzltAxTmQYtHHbeoBsdJofTVqmvzxDhk8hj0ipzJAyR2L1Xd_v48c7IhHXXXDfk53BVAYOOGB0aWULcmIcFcIRtCYUjhXAUWJn_1CpSk4pbZ1R8OEJDFR7DONLFnckJAN_nceRcyeFvSFvjhKJJ0ayaxUScoPZ"
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: Requirements, RPM, and How Much You Get Paid",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9fy9dF3HJKoT5nTHfIA9tV-VxnIJ2vRDVA9nJzxEiGkJX3H0q6VGHb8DK0YcA7GrU7b10UG1B34pMHOkL8SkwzWKzfYu9IZYVr5z5zYGKyMqR9LKmtPQUiRjelpMwqpJTkRFmEFMjQgoY6fO6mdrDM2Qs"
+  },
+  {
+   "label": "New Update!! Monetize Your YouTube Channel With Shorts! 2026 Update",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYFNaW0NtPF0zvTuCgEJXX9ORUnpcnfYVhkOHFi0rnVZwPq9XcfPhmswKKcLpVN28wfZwGW6e6Jqpho4a_UZGqCZeT8k08fVLIphOq10_v8AJepCJjaClxdDfgjJcBQ9jb-e--Vq8="
+  },
+  {
+   "label": "Youtube Shorts Monetization Guide | Maximize Shorts Revenue - Riverside",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9vewvER_BsVyyH2QU6sT9NarwEZ-bEIe5Sy0m0-5pPT-CEncbgINVLHoMGZLnMyt8ts4ObMzq4XUhYNpl8webclZq5KiF3q_GZakdAoXyy-Nm2uhSYIgw79qmyBGEIeQR3tt2SjkM3kEzau0HCgX8SQ=="
+  },
+  {
+   "label": "RoboCop Is Getting a Live-Action Series on Prime Video From Amazon MGM Studios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvE2MAGRGOtVOmEYkPZZFzDbkm0_CdMOSEASYu7wYvq9duWX-Xz1dIF0xjXG2q7dJ4TwvMTGD4Alpn5-_YzJpzTqHU3uR753cff4sd1ZiMdCC4guTNn9ZiCztoBKrjNy97VdC16Dbiln0l1-1XYjVv5PqT6AQRrVyDLMvIv1UeAhwDsyM="
+  },
+  {
+   "label": "MGM - Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzeBDV1bavyNWYBAFj3855hCnrFrC3X2iIiED_DgqZoRsT2htE5h7vvs85wArb0fgriR14tfOkB-_67r5UkLSy6H4WoGdd5R3HZJquqHKMjQLiKrSfCSQpRXTD3EWeXiVmTJk="
+  },
+  {
+   "label": "TikTok Algorithm in 2026: The 7 Signals That Decide If You Go Viral | Socialync",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVrRcp9_PdImd3e-o_8SMdAqJxytXc6zWCU9DJ3LUulX_cPiP591ysD-1MR2XOnFHaMu-HdiBan-iV452s16vBs3qGZgk5izBbFKF1vImkl7HKhOw8S7J4wKpNBNCc_UYWqHa_eGX5DYZl5mgKMFSGhnqsYxrFWTBjYOyNzg=="
+  },
+  {
+   "label": "About Snapchat's Monetization Program",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2dsqH-7iVwevnISH61NvCuR0jkRt1LfWmQJ6QpwjIBBmX2iv_j2A0gs3Ct0DdEsvaCFDQ1_cc4XGH9stBVsy1NUiclpMRIb8hVuPljTP3ulBpIrY5UsnlJ6pXKuZMDKuWfNbYRcr_lKR8qzCV2L4jwLYthgCm8COtiHx4me-h4vulhdUr8hfkuBSdEocucoM9LQYdcg1hwC-yjQ=="
+  },
+  {
+   "label": "Amazon MGM Studios executive solicited kickbacks for postproduction contracts, lawsuit alleges - LA Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Ohsrmh53ZfN5PRZ6etCda5nDdfgAutrN1nE6koDE7frI7on3eAUJUXwEIlY5IlYY2YuuBw8yy9XXUzm2dg7WZsN2rPvrHWIbr7zvUjTWZhmI5mO-15U8rHx-ttm9ZuVaRUyQUB3pJU0wGolKDfDQLvgJEh8YYv1omlm7ry8g3Zvfpyk3HOKVe6Mn9cNQi3aiEVocbICAXUAMkj1a-CYOxwNjuHWHP5YGs__bGW-9PjhBGyWJJx6gnH_FRBq6B-Q7"
+  },
+  {
+   "label": "Watch the teaser trailer for 'Blade Runner 2099,' a new sci-fi series coming to Prime Video November 25 - Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJBZRxe_7tCpRDDwm3UNHlXZ6zbrRfG3eYkYQkCFYrXAmBJviMCXfBooOI8iMQxgaQOBVWagyMO34aWuygA3kNJUP7DE_UKZ8gpcKQhFSug_jAbMEyht_YUpXXrKLwcbQYRsgxna1oEGhQLakRys5kuSXERUvLkHjTnMwbaijZVsaNHji0tw="
+  },
+  {
+   "label": "bilibili Studio, global creator services center",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMeCBIW-iweR7l-Rjrse3eWExCH2bP7GPS5EjUrFJTth9nK0lDTQnKGlwE8zYGiePD3-e9A2A0-VAs9b4Fsz4xn1db-m7uQXqvGuEzNR5C7b_I-LrsqCqf1D4tAH_bZg=="
+  },
+  {
+   "label": "bilibili - All Your Fav Videos 9.4.0 APK Download by bilibili - APKMirror",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH5WuIKJFAPHd-NACgv9BDJ_ayNoHDyE2WEbqXNMHikOFLzxlA2K4SleFakU6jwqfV_UXCzzRRM3yXxpvxQ4fw-U76VrPAD045TxBU6fMg5pB-FfRRZK_u8ppZ3o-jzRcrWFYOMO7yn0hZh8_vlIPNMJvWi-L_YGLZvdyhPQJBV3toNXjy641XdRYdxo2ZcIp0eLxWE4K-7tW5LkKH1OU9O-cS9REVM9TezbPnij8HC07dIfMJE5myvEeOOA=="
+  },
+  {
+   "label": "Creator Fast Track: A New Way to Quickly Grow Your Audience and Earn Money on Facebook - About Meta",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5B7YYtXjxxqPlk8H-k5q_FSphuB9mH3n-lEelRoSvsc5ZBtrdYZ3ETOBvTNNQOAcOsBdqKfgs0HdLgNInizkDbxK8H13Py4rIY9mRRIM1edySsL7FxkTS5-XN5-dD6j1ybCtkwT0IExmFcqIIrXiW65BenNNBn3QW9tRQmQFD7WKy1JNXd0RKrbcagzgkS3onPwULmzAW_PW_"
+  },
+  {
+   "label": "How do I track my 100 Hours of Spotlight View Time (Last 28 days)? - Snapchat Support",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6T0v9ROrI-SjIv-PcCYONRNNF2NLD2s3UXU62Aso69Anc4Go2eFUZmDU0tv2JdXdiruOSnlpOXjqOAitQxoGBHfYMyGM7x-eaIYNpv4_4CbVem86_BPliTi6oedLj0xYwW0l5v7scZMqKuxaNAK8nUc_FnAEIgCf4V9qORF1DgGBOGNt6TmnwBN-DPPEMkVboV2FXUEinu5aT_D0EqL-fVggbYaTK04zRGkKs_qTUhK3mxivM"
+  }
+ ]
+}
