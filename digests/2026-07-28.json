@@ -1,0 +1,277 @@
+{
+ "tldr": "Регуляторний тиск посилюється на великі медіа-злиття (Paramount-Warner Bros. Discovery призупинено) та цифрові платформи (TikTok оштрафовано в Південній Кореї та ЄС, стикається з новим розслідуванням ЄС щодо захисту неповнолітніх). Платформи, такі як Meta, YouTube та Snapchat, активно вдосконалюють монетизацію для творців, тоді як TikTok оновлює свій алгоритм, фокусуючись на утриманні та оригінальності контенту.",
+ "key_figure": {
+  "value": "$111 млрд",
+  "context": "Орієнтовна вартість злиття Paramount-Warner Bros. Discovery, яке зіткнулося з юридичними перешкодами в США та було призупинено."
+ },
+ "figures": [
+  {
+   "value": "$7 млн",
+   "label": "Штраф TikTok у Південній Кореї за порушення правил щодо даних"
+  },
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok у ЄС за порушення GDPR"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні щомісячні виплати творцям Reels у програмі Meta Creator Fast Track"
+  },
+  {
+   "value": "2 серпня 2026",
+   "label": "Дата набуття чинності нових вказівок ЄС щодо маркування ШІ-контенту"
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery вартістю $110-111 млрд було тимчасово призупинено через антимонопольні позови від 12 штатів США та Гільдії письменників Америки. Компанії погодилися відкласти завершення угоди до рішення суду або до червня 2027 року, що може призвести до значних витрат, включаючи щоденні «тікаючі» платежі в розмірі $7 млн та потенційний штраф у $7 млрд за розірвання угоди. Це підкреслює посилення регуляторного контролю над великими медіа-угодами та їхній вплив на конкуренцію у сфері дистрибуції контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 6
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Broadband TV News",
+   "title": "Злиття Paramount-Warner Bros. Discovery призупинено через юридичні виклики в США",
+   "why": "Впливає на консолідацію великих медіа-активів та конкурентне середовище дистрибуції контенту, створюючи значні фінансові ризики для Paramount.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjM2H5hA130RsH5KBq3NwfIGa2F1dlqf8DuEKXUG6MyXyjm4YL-qcRaSw9gqE93m399aHDIWaeB5hWt8k_vrawkXIezLUj_bPhS92-xyQfZt6-mfyV-uMN0rNxQ8-pzIa_uha5R1Qhvhf74J1eXihvsjQtZM0dNO75IpBhHI8VZ_UHT7_uglWLnDnZ-2LfwfiRUEiZnv8PlXD6n7jWqpF3y9Co"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Music Business Worldwide",
+   "title": "TikTok оштрафовано на $7 млн у Південній Кореї за незаконний збір та передачу даних",
+   "why": "Підкреслює посилення глобального регуляторного тиску на платформи щодо конфіденційності даних та транскордонної передачі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_LPBNxYPa1PgJujZe2IdVOKCWYdLMJdYLiqHhie7XXmALxbAnE8n4Zz1P9Lj3okLjl6nHY8_wqil6siU7MDXqo-1sN-fjEKSPI2nFHNT7EkKlNkglVipIyVqWeyvCJLl8WIyh3zT_9hdyBTZuxKOtpHJrNFJ13526I-G7Hb4YjMVAF3wEHKeuJs9-XaRqVP983GUCWyzilxrJWawfGc9OZs5Pj1ptXp0wEZk0oIiqCgvrfIBoBrHQU_xlGYWSCxmFtA=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Dark Reading",
+   "title": "Суд підтвердив штраф TikTok у €530 млн у ЄС за порушення GDPR щодо передачі даних до Китаю",
+   "why": "Значний штраф, що встановлює прецедент для платформ щодо дотримання GDPR та транскордонної передачі даних.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiXmXWqsF_2N_T2nclPM47zhBWZhyhTzvK704PWaygfWQSrO0l2DkT6yC5__kPHCVrre5gmvS4qaJ5uKcUWKVG3Prni1BfIeckTaKj58Rlrt8VB59vdpHD3K6PnXCfBLhLUmg_uFhTLMKMp4H1-MEtP_oAFc1f4apINd4exSqy9y2_pBwRBaXJlFLsdVP8b6j6tBfhdbIqJKysoPHg=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "The Philadelphia Inquirer",
+   "title": "Європейська Комісія виявила попередні порушення TikTok щодо захисту неповнолітніх за DSA",
+   "why": "Потенційно може призвести до значного штрафу (до 6% річного доходу) та посилення вимог до безпеки дітей на платформах.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUOxJMmReiV6-RE_fzdVW8Tm5Obk6Yd3HsVmPM8KiprHJENnfFOS4jB6pF6PWrR5ZvtcvgpHNHVXe_6d_3n2VJ8bgyafDOOpylAghCUW8K3DRpMKnYt0nJuj6g9rm07HLN-HKsxE70_Vgn-LCWqQj5yF1p6yqbTAXWsKTpSTZkSsS4_2MJ3Pg_RpeuUeOs7674lUsjuXFj1znt0Q=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запустила програму Creator Fast Track для залучення творців Reels з виплатами до $3,000 на місяць",
+   "why": "Посилює конкуренцію за творців коротких відео, стимулюючи міграцію талантів на Reels.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив монетизацію Shorts та пороги YPP з двома рівнями доступу",
+   "why": "Змінює умови монетизації для творців коротких відео та розширює можливості заробітку на платформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Ampfluence",
+   "title": "TikTok оновив алгоритм, фокусуючись на утриманні, оригінальності та часі перегляду",
+   "why": "Впливає на охоплення та рекомендації контенту, стимулюючи творців до створення унікального та привабливого контенту з високим показником утримання.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7wEUKeNB5PW8JYUajnniaSYoLvjUj3kyvkb6INxDOh1iOEellPHBLDc9XDMOoDQrtNFO0HZnwEClBzDCvTB-3OGLTo4fpCvgfwcuLORlHzEx1eZ4PUxLNrplPms58x9XhnibeWIQjtDFmpW8ooInrX7RfoRXKIbZZeYcudY9PZB2wq9FlcQ7VbgGl1ewo4ACMbwMgPOM7BYhwtXxYLE="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat розширює монетизацію для творців через підписки та оновлення Spotlight",
+   "why": "Збільшує можливості заробітку для творців на платформі, посилюючи її привабливість.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "The Straits Times",
+   "title": "Нові вказівки ЄС щодо маркування ШІ-генерованого контенту набувають чинності 2 серпня 2026 року",
+   "why": "Встановлює нові правила для платформ та творців щодо прозорості використання ШІ у контенті, з потенційними штрафами за недотримання.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiKMWgOM9nJi7p935ZdNXdOHiBGyFv2rnyXYjQx8Tda1EZDv9cYd3H0oOyJ5n1id2pXrT5OC9ehymsjwK0hTWpzCk3FijPMNJ2wr-wKnMAvbuXSASPHcBOWzx7m1jD50EzdVT4OIVs_lLzklZu03jTu4mEIWnmC3Ru2q4huMyymdZA8JhhTP1xK4vFVpa-u8taCvVkGBnzUUhbseJ47Ojy"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group співпрацює зі Sports Studio для дистрибуції живого спортивного контенту на YouTube",
+   "why": "Розширює контентну пропозицію TheSoul Group та посилює їхню присутність у ніші живого спорту на YouTube.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Broadband TV News",
+   "title": "Amazon припиняє роботу лінійного телеканалу Prime у Німеччині та Австрії",
+   "why": "Свідчить про експерименти Amazon з форматами дистрибуції та можливий фокус на VOD замість лінійного ТБ на певних ринках.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHmqX9kXY83VAp-UI_k2MaU_eTSLjsOj3KjaWHavo6_Lu-8YgV5d4mcvW8mduodTHnDp4zmoegFiLe5o2AoJA6chuNZbPlctVegoIbEiYgDMFaJT2V5xOzkIWJxoRXJReeMjXSnZb8v3OhT8npY8Pagss8YqHuB0Mm41eF1DK1X7Inytgr5faxCQVbFJPx9Cxl8g=="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon News",
+   "title": "Amazon Prime Video анонсував тизери нових сезонів 'The Lord of the Rings: The Rings of Power' та 'Blade Runner 2099'",
+   "why": "Посилює контентну пропозицію Prime Video та конкуренцію на ринку SVOD, залучаючи аудиторію до високобюджетних франшиз.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8t4O0VKv28dL6Gkav8raZa_TzSqOclC7LkAG6fZQEqdgCQEKZOiOq4BxFkYAaGZBRuo_yPDsN4UNABtfp5M8YEREulQmtC09zzdqdu9V8R3ISfFE1Vk642ADZm-rXcdPBpcUnQOHCBzv1PTORxS8tyitODwe7Ux0m7D3WGrL1JmOBinN10YRtl3KFtDvk"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "The ONME Network",
+   "title": "Black Headline News запустив кампанію 'BLACK-IN' для підтримки Black медіа, включаючи дистрибуцію на CTV",
+   "why": "Підкреслює зростання нішевого контенту та його дистрибуцію через CTV-платформи, а також важливість підтримки незалежних медіа.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzuXuni7gKTuVmwRLJA5Oa1YJ3ANbzgfNGuJnFFecwePQuOvlX7JNx2tAdcvay3zAPhqDj9lhECGXfd_WWKQptWW25zTLXHe6hb3Shx5RYIl2KXpV45BgtcpIyhw_0aIXpS2XrwABhtRw1FPjf8-dYULx7eLNRLjz6DPW6w-3Lx6WcG6gTzvo3zwIimlAHviNZmRiHb58Y79r34pQWmyOLmc6J7NWPwbM6rBMXIE2Sb0KTxdtrjimoxfzOdM2gtQmA"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TNW",
+   "title": "Керівник служби безпеки TikTok у США постане перед Комітетом Палати представників з питань Китаю 15 вересня",
+   "why": "Продовження регуляторного контролю над TikTok у США, пов'язаного з питаннями національної безпеки та впливу ByteDance.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8fqbL4HpVFpk-rC6sR4Wk6ckn_jCAAefsJ1iVsHsl8wdlntimqP_8jkzmSBL_Qnt3RDRiewwExjpJpzmy1Y4T83ZHAIojC2tom27AMld6ssrhYHCFRNJU10r6HfK7JfeUTUrJwvT4p0uJcOAJUPVGL9AV_ZoTo7oedMJ0D_N0g2LpKnkrpAkpv1sKpYUfZw=="
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "The Industrial",
+   "title": "Enfinity Global перевищила 535 МВт операційної сонячної потужності в Італії",
+   "why": "Хоча це не стосується безпосередньо відеодистрибуції, це показує зростання компанії на ринку відновлюваної енергетики, що може вплинути на її загальну стратегію та інвестиції в майбутньому.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTId7XTEhotPbJ-lS0qFc6PhzYJc3oS-FeXb_NA-4YZY_yNhgOR82E1oKTpCDG5hj2x5e0uH9ty1e1EtnoxB3WMx65vkUUcLU_Yk_sNHa5aljIX8bjnZMDBGb-uYFQeA94nW3c-Dqi4RqCooYxbrVOyUcYfDVPzGNEt9DzUL3zRH6urJm3ztMI18SyD603TVRpM5WTRpE5V04CjYDvWG1YPeKU29kK8bwYP9PKyo1T"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії та медіа-злиття, особливо щодо конфіденційності даних та антимонопольних питань.",
+  "Активна конкуренція платформ за творців контенту через оновлення програм монетизації та алгоритмів.",
+  "Зростаюча роль ШІ у створенні контенту та рекомендаціях, що супроводжується новими вимогами до прозорості та маркування.",
+  "Перехід до більш якісного та оригінального контенту на коротких відеоплатформах, що відображається в оновленнях алгоритмів."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на медіа-злиття (США) та платформи (ЄС, США). Активні оновлення монетизації для творців."
+  },
+  {
+   "region": "Азія",
+   "note": "Посилення регуляторного контролю над TikTok у Південній Кореї через порушення правил щодо даних."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, злиття Paramount-Warner Bros. Discovery офіційно призупинено до рішення суду з чіткими фінансовими наслідками. Також з'явилися нові регуляторні виклики для TikTok у ЄС щодо захисту неповнолітніх за Законом про цифрові послуги. Amazon припиняє роботу лінійного телеканалу Prime у Німеччині та Австрії, а також анонсував новий контент для Prime Video. Black Headline News активно розширює дистрибуцію через CTV-платформи.",
+ "bizdev": [
+  "Розробка та інтеграція інструментів для маркування ШІ-генерованого контенту відповідно до нових регуляторних вимог ЄС.",
+  "Створення та дистрибуція високоякісного, оригінального короткого відеоконтенту, оптимізованого під оновлені алгоритми платформ.",
+  "Стратегічні партнерства з медіа-групами для розширення контентної пропозиції та виходу на нові ніші (наприклад, живий спортивний контент).",
+  "Інвестиції в технології, що забезпечують прозорість та безпеку даних для відповідності глобальним регуляторним стандартам."
+ ],
+ "watch_next": [
+  "Рішення суду щодо злиття Paramount-Warner Bros. Discovery.",
+  "Подальші дії Європейської Комісії щодо TikTok у контексті DSA та захисту неповнолітніх.",
+  "Виступ керівника служби безпеки TikTok у США перед Комітетом Палати представників.",
+  "Звіт Amazon про прибутки за Q2 2026 та оновлення щодо капітальних витрат на ШІ.",
+  "Вплив нових правил ЄС щодо маркування ШІ-контенту на платформи та творців після 2 серпня 2026 року."
+ ],
+ "sources": [
+  {
+   "label": "Broadband TV News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjM2H5hA130RsH5KBq3NwfIGa2F1dlqf8DuEKXUG6MyXyjm4YL-qcRaSw9gqE93m399aHDIWaeB5hWt8k_vrawkXIezLUj_bPhS92-xyQfZt6-mfyV-uMN0rNxQ8-pzIa_uha5R1Qhvhf74J1eXihvsjQtZM0dNO75IpBhHI8VZ_UHT7_uglWLnDnZ-2LfwfiRUEiZnv8PlXD6n7jWqpF3y9Co"
+  },
+  {
+   "label": "Music Business Worldwide",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_LPBNxYPa1PgJujZe2IdVOKCWYdLMJdYLiqHhie7XXmALxbAnE8n4Zz1P9Lj3okLjl6nHY8_wqil6siU7MDXqo-1sN-fjEKSPI2nFHNT7EkKlNkglVipIyVqWeyvCJLl8WIyh3zT_9hdyBTZuxKOtpHJrNFJ13526I-G7Hb4YjMVAF3wEHKeuJs9-XaRqVP983GUCWyzilxrJWawfGc9OZs5Pj1ptXp0wEZk0oIiqCgvrfIBoBrHQU_xlGYWSCxmFtA=="
+  },
+  {
+   "label": "Dark Reading",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiXmXWqsF_2N_T2nclPM47zhBWZhyhTzvK704PWaygfWQSrO0l2DkT6yC5__kPHCVrre5gmvS4qaJ5uKcUWKVG3Prni1BfIeckTaKj58Rlrt8VB59vdpHD3K6PnXCfBLhLUmg_uFhTLMKMp4H1-MEtP_oAFc1f4apINd4exSqy9y2_pBwRBaXJlFLsdVP8b6j6tBfhdbIqJKysoPHg=="
+  },
+  {
+   "label": "The Philadelphia Inquirer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUOxJMmReiV6-RE_fzdVW8Tm5Obk6Yd3HsVmPM8KiprHJENnfFOS4jB6pF6PWrR5ZvtcvgpHNHVXe_6d_3n2VJ8bgyafDOOpylAghCUW8K3DRpMKnYt0nJuj6g9rm07HLN-HKsxE70_Vgn-LCWqQj5yF1p6yqbTAXWsKTpSTZkSsS4_2MJ3Pg_RpeuUeOs7674lUsjuXFj1znt0Q=="
+  },
+  {
+   "label": "Meta",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "YouTube",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Ampfluence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7wEUKeNB5PW8JYUajnniaSYoLvjUj3kyvkb6INxDOh1iOEellPHBLDc9XDMOoDQrtNFO0HZnwEClBzDCvTB-3OGLTo4fpCvgfwcuLORlHzEx1eZ4PUxLNrplPms58x9XhnibeWIQjtDFmpW8ooInrX7RfoRXKIbZZeYcudY9PZB2wq9FlcQ7VbgGl1ewo4ACMbwMgPOM7BYhwtXxYLE="
+  },
+  {
+   "label": "Snapchat",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "The Straits Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiKMWgOM9nJi7p935ZdNXdOHiBGyFv2rnyXYjQx8Tda1EZDv9cYd3H0oOyJ5n1id2pXrT5OC9ehymsjwK0hTWpzCk3FijPMNJ2wr-wKnMAvbuXSASPHcBOWzx7m1jD50EzdVT4OIVs_lLzklZu03jTu4mEIWnmC3Ru2q4huMyymdZA8JhhTP1xK4vFVpa-u8taCvVkGBnzUUhbseJ47Ojy"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8t4O0VKv28dL6Gkav8raZa_TzSqOclC7LkAG6fZQEqdgCQEKZOiOq4BxFkYAaGZBRuo_yPDsN4UNABtfp5M8YEREulQmtC09zzdqdu9V8R3ISfFE1Vk642ADZm-rXcdPBpcUnQOHCBzv1PTORxS8tyitODwe7Ux0m7D3WGrL1JmOBinN10YRtl3KFtDvk"
+  },
+  {
+   "label": "The ONME Network",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzuXuni7gKTuVmwRLJA5Oa1YJ3ANbzgfNGuJnFFecwePQuOvlX7JNx2tAdcvay3zAPhqDj9lhECGXfd_WWKQptWW25zTLXHe6hb3Shx5RYIl2KXpV45BgtcpIyhw_0aIXpS2XrwABhtRw1FPjf8-dYULx7eLNRLjz6DPW6w-3Lx6WcG6gTzvo3zwIimlAHviNZmRiHb58Y79r34pQWmyOLmc6J7NWPwbM6rBMXIE2Sb0KTxdtrjimoxfzOdM2gtQmA"
+  },
+  {
+   "label": "TNW",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8fqbL4HpVFpk-rC6sR4Wk6ckn_jCAAefsJ1iVsHsl8wdlntimqP_8jkzmSBL_Qnt3RDRiewwExjpJpzmy1Y4T83ZHAIojC2tom27AMld6ssrhYHCFRNJU10r6HfK7JfeUTUrJwvT4p0uJcOAJUPVGL9AV_ZoTo7oedMJ0D_N0g2LpKnkrpAkpv1sKpYUfZw=="
+  },
+  {
+   "label": "The Industrial",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTId7XTEhotPbJ-lS0qFc6PhzYJc3oS-FeXb_NA-4YZY_yNhgOR82E1oKTpCDG5hj2x5e0uH9ty1e1EtnoxB3WMx65vkUUcLU_Yk_sNHa5aljIX8bjnZMDBGb-uYFQeA94nW3c-Dqi4RqCooYxbrVOyUcYfDVPzGNEt9DzUL3zRH6urJm3ztMI18SyD603TVRpM5WTRpE5V04CjYDvWG1YPeKU29kK8bwYP9PKyo1T"
+  }
+ ]
+}
