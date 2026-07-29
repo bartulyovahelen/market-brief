@@ -1,0 +1,274 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску та значними змінами в монетизації для творців. Злиття Paramount-Warner Bros. Discovery відкладено до червня 2027 року через антимонопольні позови, тоді як ЄС запроваджує обов'язкове маркування ШІ-генерованого контенту. Платформи, такі як Meta, YouTube та Snapchat, активно переглядають свої програми винагород, а Bilibili демонструє зростання завдяки інвестиціям у ШІ та рекламу.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Оціночна вартість злиття Paramount-Warner Bros. Discovery, яке було відкладено через юридичні виклики в США."
+ },
+ "figures": [
+  {
+   "value": "$7 млн",
+   "label": "Штраф TikTok у Південній Кореї"
+  },
+  {
+   "value": "€530 млн",
+   "label": "Штраф TikTok у ЄС"
+  },
+  {
+   "value": "45%",
+   "label": "Частка доходу творців YouTube Shorts"
+  },
+  {
+   "value": "+30%",
+   "label": "Зростання рекламного доходу Bilibili (Q1 2026)"
+  }
+ ],
+ "top_signal_deep": "Злиття медіагігантів Paramount та Warner Bros. Discovery, оцінене в $110-111 млрд, було відкладено до червня 2027 року через позови від коаліції штатів США та Гільдії сценаристів Америки, які стверджують, що угода порушить антимонопольне законодавство. Це створює значну невизначеність на ринку медіа-консолідації, потенційно впливаючи на конкуренцію в дистрибуції фільмів та кабельного телебачення. Затримка також обійдеться Paramount у значні юридичні витрати та щоденні комісії, а також ризик виплати великої суми за розірвання угоди, якщо вона не відбудеться.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MediaPost, The Guardian, Democracy Now!, WGLT, Los Angeles Times",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено до 2027 року",
+   "why": "Створює невизначеність на ринку медіа-консолідації та впливає на майбутній ландшафт дистрибуції контенту.",
+   "url": "https://www.mediapost.com/publications/article/414445/paramount-to-delay-warner-bros-discovery-merger.html"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "EU, The Japan Times, Easyfind.ee, Trufo",
+   "title": "Нові правила ЄС вимагають маркування ШІ-контенту",
+   "why": "Встановлює нові стандарти прозорості та боротьби з дезінформацією, впливаючи на всіх творців та платформи, що використовують ШІ.",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/eu-icons-labelling-ai-generated-content"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "M3 Studios News, MediaPost, Verlynk",
+   "title": "Meta припиняє бонуси для Reels",
+   "why": "Значно змінює стратегію монетизації для творців коротких відео на платформах Meta, зменшуючи передбачуваність доходу.",
+   "url": "https://m3studios.news/meta-is-ending-reels-bonuses-for-us-creators-the-money-was-never-the-point-anyway/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Stack Influence, Unkoa Marketing, Clapper",
+   "title": "YouTube оновлює монетизацію Shorts та YPP",
+   "why": "Забезпечує більш структуровану модель доходу для творців коротких відео, але зі значними вимогами до переглядів.",
+   "url": "https://stackinfluence.com/blog/youtube-shorts-monetization-2026/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "TikTok оштрафовано в Південній Кореї та ЄС",
+   "why": "Посилення регуляторного тиску на великі цифрові платформи щодо захисту даних та конфіденційності користувачів.",
+   "url": "N/A"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "LongStories.ai, (з контексту)",
+   "title": "TikTok оновлює алгоритм та програму винагород",
+   "why": "Стимулює створення довшого та більш якісного контенту, змінюючи стратегії творців для максимізації доходу.",
+   "url": "https://longstories.ai/blog/snapchat-spotlight-vs-tiktok-creator-fund/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Storika, SearchLight Social, MediaPost, LongStories.ai",
+   "title": "Snapchat розширює підписки та посилює вимоги Spotlight",
+   "why": "Надає творцям нові інструменти для прямої монетизації, одночасно підвищуючи планку для отримання максимальних винагород.",
+   "url": "https://storika.io/guides/snapchat-creator-monetization-2026"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Seeking Alpha, Market Chameleon, KR Asia",
+   "title": "Bilibili зростає завдяки ШІ та рекламі",
+   "why": "Підкреслює успішну стратегію монетизації через ШІ та залучення аудиторії на азіатському ринку.",
+   "url": "https://seekingalpha.com/article/4619468-bilibili-q2-2026-preview-high-engagement-community-driving-ad-monetization-reiterate-buy"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TechCentral, MediaPost",
+   "title": "Amazon Prime Video інвестує в ШІ та локалізовану рекламу",
+   "why": "Вказує на стратегічний напрямок розвитку стрімінгових сервісів через персоналізацію та таргетинг на основі ШІ.",
+   "url": "https://techcentral.co.za/massive-changes-coming-to-amazon-prime-video/258273/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "(з контексту)",
+   "title": "TheSoul Group співпрацює зі Sports Studio",
+   "why": "Розширює портфоліо контенту та канали дистрибуції TheSoul Group у ніші спортивного відео.",
+   "url": "N/A"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-злиття та цифрові платформи, особливо щодо антимонопольних питань та захисту даних.",
+  "Активна конкуренція платформ за творців контенту через оновлення програм монетизації та зміну вимог до участі.",
+  "Зростаюча роль штучного інтелекту в створенні, дистрибуції та монетизації контенту, а також у регуляторних вимогах до його маркування.",
+  "Перехід від фіксованих бонусів до моделей розподілу доходу та підписок для монетизації коротких відеоформатів."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на медіа-злиття (Paramount-WBD) та цифрові платформи (ЄС AI Act, Meta Reels). Платформи активно змінюють підходи до монетизації творців."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili демонструє сильне зростання завдяки інвестиціям у ШІ та рекламному доходу. TikTok стикається зі значними штрафами в Південній Кореї."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів за останні 7 днів, але TheSoul Group (яка інтегрувала Mediacube, що обслуговує творців у 132 країнах) продовжує розширювати дистрибуцію."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження рішень для маркування ШІ-генерованого контенту відповідно до нових вимог ЄС.",
+  "Співпраця з творцями коротких відео для адаптації до нових моделей монетизації на YouTube, Meta та Snapchat.",
+  "Дослідження можливостей партнерства з платформами, що інвестують у ШІ для покращення дистрибуції та таргетингу контенту (наприклад, Amazon Prime Video, Bilibili)."
+ ],
+ "watch_next": [
+  "Розвиток судових процесів щодо злиття Paramount-Warner Bros. Discovery.",
+  "Вплив нових правил ЄС щодо маркування ШІ-контенту на платформи та творців після 2 серпня 2026 року.",
+  "Подальші зміни в програмах монетизації творців на Meta та TikTok.",
+  "Звіти про прибутки Amazon за Q2 2026 (очікуються 30 липня)."
+ ],
+ "sources": [
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/414445/paramount-to-delay-warner-bros-discovery-merger.html"
+  },
+  {
+   "label": "EU",
+   "url": "https://digital-strategy.ec.europa.eu/en/news/eu-icons-labelling-ai-generated-content"
+  },
+  {
+   "label": "M3 Studios News",
+   "url": "https://m3studios.news/meta-is-ending-reels-bonuses-for-us-creators-the-money-was-never-the-point-anyway/"
+  },
+  {
+   "label": "Stack Influence",
+   "url": "https://stackinfluence.com/blog/youtube-shorts-monetization-2026/"
+  },
+  {
+   "label": "LongStories.ai",
+   "url": "https://longstories.ai/blog/snapchat-spotlight-vs-tiktok-creator-fund/"
+  },
+  {
+   "label": "Storika",
+   "url": "https://storika.io/guides/snapchat-creator-monetization-2026"
+  },
+  {
+   "label": "Seeking Alpha",
+   "url": "https://seekingalpha.com/article/4619468-bilibili-q2-2026-preview-high-engagement-community-driving-ad-monetization-reiterate-buy"
+  },
+  {
+   "label": "TechCentral",
+   "url": "https://techcentral.co.za/massive-changes-coming-to-amazon-prime-video/258273/"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/jul/24/paramount-warner-bros-discovery-merger-delay-antitrust-lawsuit"
+  },
+  {
+   "label": "Democracy Now!",
+   "url": "https://www.democracynow.org/2026/7/27/headlines/paramount_skydance_postpones_merger_with_warner_bros_discovery"
+  },
+  {
+   "label": "WGLT",
+   "url": "https://www.wglt.org/2026-07-28/paramount-skydance-agrees-to-delay-merger-with-warner-bros-discovery"
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://www.latimes.com/business/story/2026-07-26/paramount-warner-bros-deal-delayed-antitrust-challenge"
+  },
+  {
+   "label": "The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/07/28/business/eu-ai-content-rules/"
+  },
+  {
+   "label": "Easyfind.ee",
+   "url": "https://easyfind.ee/en/will-ai-content-need-to-be-labeled-from-august-2-2026/"
+  },
+  {
+   "label": "Trufo",
+   "url": "https://trufo.ai/eu-ai-act-compliance-for-ai-generated-content"
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://unkoa.com/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "label": "Clapper",
+   "url": "https://clapper.com/blog/youtube-shorts-monetization-2026-what-it-pays-what-it-requires-and-what-creators-are-choosing-instead/"
+  },
+  {
+   "label": "SearchLight Social",
+   "url": "https://searchlightsocial.com/snapchat-creator-monetization-2026/"
+  },
+  {
+   "label": "MediaPost (Snapchat)",
+   "url": "https://www.mediapost.com/publications/article/410427/all-eligible-snap-creators-can-now-offer-subscript.html"
+  },
+  {
+   "label": "KR Asia",
+   "url": "https://kr-asia.com/bilibili-rolls-out-ai-tools-to-push-next-phase-of-platform-monetization"
+  },
+  {
+   "label": "Market Chameleon",
+   "url": "https://marketchameleon.com/PressReleases/Bilibili-Delivers-Strong-Q1-2026-Profitability-Returns-as-User-Engagement-and-Ad-Revenue-Surge"
+  },
+  {
+   "label": "MediaPost (Amazon Ads)",
+   "url": "https://www.mediapost.com/publications/article/414418/amazon-expands-location-based-interactive-video-ad.html"
+  },
+  {
+   "label": "MediaPost (Meta Payouts)",
+   "url": "https://www.mediapost.com/publications/article/407981/meta-payout-program-aims-to-lure-more-creators-to.html"
+  },
+  {
+   "label": "Verlynk",
+   "url": "https://verlynk.com/blog/facebook-reels-monetization-what-actually-pays-in-2026"
+  }
+ ]
+}
