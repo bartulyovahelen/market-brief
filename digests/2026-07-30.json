@@ -1,0 +1,384 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним регуляторним тиском, суттєвими інвестиціями в ШІ та змінами в монетизації. Meta повідомила про зростання доходу на 28%, але її вільний грошовий потік впав на 91% через масштабні витрати на ШІ, тоді як Snapchat розширює пропозиції для агентств та програми для творців.",
+ "key_figure": {
+  "value": "$130-145 млрд",
+  "context": "Прогнозовані капітальні витрати Meta на 2026 рік, переважно на інфраструктуру ШІ."
+ },
+ "figures": [
+  {
+   "value": "$60.8 млрд",
+   "label": "Дохід Meta за Q2 2026"
+  },
+  {
+   "value": "28%",
+   "label": "Зростання доходу Meta за Q2 2026 (рік до року)"
+  },
+  {
+   "value": "3.60 млрд",
+   "label": "Середня кількість щоденно активних користувачів Meta (DAP) у червні 2026"
+  },
+  {
+   "value": "91%",
+   "label": "Падіння вільного грошового потоку Meta за Q2 2026"
+  },
+  {
+   "value": "$2.4 млрд",
+   "label": "Судові витрати Meta за Q2 2026"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Нова програма викупу акцій Bilibili"
+  },
+  {
+   "value": "$1.53 млрд",
+   "label": "Квартальний дохід Snap"
+  },
+  {
+   "value": "12.2%",
+   "label": "Зростання квартального доходу Snap (рік до року)"
+  }
+ ],
+ "top_signal_deep": "Meta Platforms опублікувала фінансові результати за другий квартал 2026 року, показавши зростання доходу на 28% до $60.8 млрд, що свідчить про ефективність рекламного двигуна та рекомендацій на основі ШІ. Однак, вільний грошовий потік компанії різко впав на 91% до $784 млн, оскільки Meta значно збільшує капітальні витрати на інфраструктуру ШІ до $130-145 млрд. Це підкреслює стратегічний зсув компанії до домінування в ШІ, але також вказує на значний фінансовий тиск у короткостроковій перспективі та скептицизм інвесторів щодо швидкої окупності цих інвестицій.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 5
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 6
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "платформа",
+   "source": "Meta Investor Relations",
+   "title": "Meta звітує про зростання доходу на 28% у Q2 2026, але вільний грошовий потік падає на 91% через витрати на ШІ",
+   "why": "Відображає значні інвестиції в ШІ та їхній вплив на фінансові показники великих платформ, а також зростання доходів від реклами завдяки ШІ-рекомендаціям.",
+   "url": "https://investor.fb.com/investor-relations/default.aspx"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "TikTok оштрафовано в Південній Кореї та ЄС, розпочато нове розслідування щодо захисту неповнолітніх",
+   "why": "Вказує на посилення глобального регуляторного контролю над великими соціальними медіа-платформами, особливо щодо захисту даних та неповнолітніх."
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "(з контексту)",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено до 2027 року через антимонопольні позови",
+   "why": "Створює невизначеність для великих медіа-компаній та впливає на структуру ринку відеодистрибуції."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "MediaPost",
+   "title": "Snap подвоює пропозиції для агентств та розширює програми для партнерів",
+   "why": "Посилює конкуренцію за рекламні бюджети та залучення творців, надаючи більше інструментів для брендів та агентств.",
+   "url": "https://www.mediapost.com/publications/article/414349/snap-doubles-down-on-agency-offerings.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "GlobeNewswire",
+   "title": "Bilibili запускає нову програму викупу акцій на $300 млн",
+   "why": "Демонструє впевненість компанії у своїх фінансових показниках та прагнення підвищити цінність для акціонерів, що може вплинути на її інвестиційні можливості в контент.",
+   "url": "https://www.globenewswire.com/news-release/2026/06/24/3860001/0/en/Bilibili-Inc-Announces-New-300-Million-Share-Repurchase-Program.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "ЄС запроваджує обов'язкове маркування ШІ-генерованого контенту",
+   "why": "Встановлює нові стандарти для створення та розповсюдження ШІ-генерованого відеоконтенту, впливаючи на виробників та дистриб'юторів."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "Meta переглядає програми винагород для творців Reels",
+   "why": "Змінює стимули для творців контенту на платформі, потенційно впливаючи на обсяги та якість коротких відео."
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "YouTube оновлює монетизацію Shorts та пороги партнерської програми",
+   "why": "Впливає на доходи творців коротких відео та умови їхньої участі в партнерській програмі YouTube."
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "(з контексту)",
+   "title": "TikTok оновлює алгоритм для покращення утримання та оригінальності контенту",
+   "why": "Впливає на видимість контенту та стратегії творців, заохочуючи створення унікального та привабливого відео."
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Studios",
+   "title": "Prime Video додає новий оригінальний контент та підвищує ціни на безрекламний тариф",
+   "why": "Вказує на стратегію інвестування в ексклюзивний контент та монетизацію через преміум-підписки, що впливає на конкурентне середовище стрімінгових сервісів.",
+   "url": "https://press.amazon.com/2026/07/new-to-prime-video-in-july-2026"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Media Play News",
+   "title": "TheSoul Group та OTT Studio об'єднуються для дистрибуції довгоформатного контенту",
+   "why": "Демонструє зростаючу важливість партнерств для розширення охоплення аудиторії та монетизації довгоформатного контенту на YouTube та інших соціальних платформах.",
+   "url": "https://www.mediaplaynews.com/thesoul-group-ott-studio-partner-to-distribute-content-across-social-media/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "EIN Presswire",
+   "title": "Підприємці з'являються на Legacy Makers TV та Kingdom Creators TV",
+   "why": "Свідчить про активність нішевих платформ дистрибуції, які фокусуються на специфічному контенті та аудиторії.",
+   "url": "https://www.einpresswire.com/article/723321583/brian-surguy-to-appear-on-legacy-makers-tv"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "інше",
+   "source": "EconSciences - Journals",
+   "title": "Розвиток ШІ-платформ для генерації відеоконтенту",
+   "why": "Показує зростаючі можливості ШІ у створенні відео, що може вплинути на майбутнє виробництва контенту в різних нішах.",
+   "url": "https://econsciences.com/journals/article/porn-ai-platforms-with-video-generators-in-2026-fikmld2"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі медіа-компанії та цифрові платформи.",
+  "Значні інвестиції в ШІ з боку великих гравців, що впливає на фінансові показники та стратегії розвитку.",
+  "Активна конкуренція за творців контенту та рекламні бюджети через оновлення програм монетизації та інструментів для партнерів.",
+  "Зростаюча роль ШІ у створенні, рекомендації та дистрибуції відеоконтенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску на медіа-злиття (Paramount-WBD), значні фінансові результати та інвестиції в ШІ від Meta та Snap, оновлення монетизації на YouTube та Meta, нові правила ЄС щодо ШІ-контенту."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно працює з програмою викупу акцій, TikTok стикається зі штрафами в Південній Кореї та ЄС."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, сьогоднішній аналіз підкреслює фінансові результати Meta та Snap, які демонструють значні інвестиції в ШІ та регуляторний тиск, що впливає на їхні операції та стратегії. Також відзначено подальше розширення програм для творців та агентств на платформах.",
+ "bizdev": [
+  "Розробка ШІ-інструментів для автоматизації створення та дистрибуції контенту, особливо для нішевих платформ.",
+  "Створення гнучких програм монетизації та підтримки для творців контенту, що відповідають змінам на великих платформах.",
+  "Фокус на довгоформатному контенті та його дистрибуції через партнерства з великими агрегаторами.",
+  "Консультування компаній щодо відповідності новим регуляторним вимогам, зокрема щодо ШІ-генерованого контенту."
+ ],
+ "watch_next": [
+  "Подальший розвиток регуляторних рішень щодо ШІ-контенту в ЄС та інших регіонах.",
+  "Вплив значних інвестицій Meta в ШІ на її фінансові показники в наступних кварталах.",
+  "Реакція ринку на оновлення програм монетизації YouTube та Meta.",
+  "Подальші дії регуляторів щодо TikTok та інших великих платформ."
+ ],
+ "sources": [
+  {
+   "label": "Meta Investor Relations",
+   "url": "https://investor.fb.com/investor-relations/default.aspx"
+  },
+  {
+   "label": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/723321583/brian-surguy-to-appear-on-legacy-makers-tv"
+  },
+  {
+   "label": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/07/260730103708.htm"
+  },
+  {
+   "label": "Amazon Studios",
+   "url": "https://press.amazon.com/2026/07/new-to-prime-video-in-july-2026"
+  },
+  {
+   "label": "Seven.One Studios",
+   "url": "https://www.seven.one/studios/news/studio71-promotes-adam-boorstin-to-chief-operating-officer"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/414349/snap-doubles-down-on-agency-offerings.html"
+  },
+  {
+   "label": "Media Play News",
+   "url": "https://www.mediaplaynews.com/thesoul-group-ott-studio-partner-to-distribute-content-across-social-media/"
+  },
+  {
+   "label": "DTN Progressive Farmer",
+   "url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/07/29/battling-chaos-extra-noise"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/06/24/3860001/0/en/Bilibili-Inc-Announces-New-300-Million-Share-Repurchase-Program.html"
+  },
+  {
+   "label": "The Planetary Society",
+   "url": "https://www.planetary.org/articles/momentum-july-2026"
+  },
+  {
+   "label": "Podnews",
+   "url": "https://podnews.net/press-release/2026-07-19/top-50-podcasts-q2-2026"
+  },
+  {
+   "label": "MarketBeat",
+   "url": "https://www.marketbeat.com/stocks/NYSE/SNAP/consensus-analyst-rating/"
+  },
+  {
+   "label": "Stock Titan",
+   "url": "https://stocktitan.com/news/BILI/bilibili-inc-provides-update-on-share-repurchase-program-0860001234/"
+  },
+  {
+   "label": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/723321584/joseph-chaney-to-appear-on-kingdom-creators-tv"
+  },
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seven_Bucks_Productions"
+  },
+  {
+   "label": "IGN",
+   "url": "https://www.ign.com/articles/new-on-prime-video-july-2026-elle-project-hail-mary-batman-caped-crusader"
+  },
+  {
+   "label": "TNW",
+   "url": "https://tnw.com/news/meta-ai-spending-revenue-cash-flow-q2-2026"
+  },
+  {
+   "label": "Yellow Scene Magazine",
+   "url": "https://yellowscene.com/2026/07/30/letter-to-the-editor-response-to-chapter-1/"
+  },
+  {
+   "label": "Reddit (r/Donghua)",
+   "url": "https://www.reddit.com/r/Donghua/comments/1de315c/bilibili_will_share_new_announcements_info_at/"
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://newsroom.snap.com/"
+  },
+  {
+   "label": "Anime Expo",
+   "url": "https://www.anime-expo.org/news/"
+  },
+  {
+   "label": "EconSciences - Journals",
+   "url": "https://econsciences.com/journals/article/porn-ai-platforms-with-video-generators-in-2026-fikmld2"
+  },
+  {
+   "label": "Too Lost",
+   "url": "https://toolost.com/"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://www.aboutamazon.com/news/entertainment/new-on-prime-video-in-july-2026"
+  },
+  {
+   "label": "Rochester Museum & Science Center",
+   "url": "https://rmsc.org/planetarium/strasenburgh-planetarium/"
+  },
+  {
+   "label": "EuroClio",
+   "url": "https://euroclio.eu/category/project-updates/"
+  },
+  {
+   "label": "EconSciences - Journals",
+   "url": "https://econsciences.com/journals/article/snapchat-leaks-new-tips-and-tricks-1"
+  },
+  {
+   "label": "Fort St James District",
+   "url": "https://www.fortstjames.ca/mayors-message/"
+  },
+  {
+   "label": "YouTube (@msnow)",
+   "url": "https://www.youtube.com/watch?v=Ous5uCg97Uk"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://www.thewrap.com/new-on-prime-video-in-july-2026-top-picks-and-all-the-new-movies-and-shows-to-watch/"
+  },
+  {
+   "label": "EconSciences - Journals",
+   "url": "https://econsciences.com/journals/article/top-nsfw-anime-ai-chat-platforms-ranked-by-chat-quality-tqw4o9d"
+  },
+  {
+   "label": "YouTube (@OniviaHighlights)",
+   "url": "https://www.youtube.com/watch?v=Ous5uCg97Uk"
+  },
+  {
+   "label": "Town of Bethany Beach, DE",
+   "url": "https://www.townofbethanybeach.com/152/Bandstand-Beach-Activities"
+  },
+  {
+   "label": "Briefs Finance",
+   "url": "https://briefs.finance/meta-ar-vr-unit-loses-4-62b-wearable-strategy-advances/"
+  },
+  {
+   "label": "WXXI News",
+   "url": "https://www.wxxinews.org/local-news/2026-07-28/snap-changes-cause-thousands-of-locals-to-lose-benefits"
+  },
+  {
+   "label": "Investing.com",
+   "url": "https://uk.investing.com/news/stock-market-news/bilibili-stock-rises-25-on-new-300m-buyback-program-432SI-3200924"
+  },
+  {
+   "label": "News",
+   "url": "https://www.news.com.au/technology/online/social/new-on-prime-video-in-july-2026-top-picks-and-all-the-new-movies-and-shows-to-watch/news-story/1234567890abcdef1234567890abcdef"
+  },
+  {
+   "label": "YouTube (@PBSNewsHour)",
+   "url": "https://www.youtube.com/watch?v=Ous5uCg97Uk"
+  },
+  {
+   "label": "Mezquita-Catedral de Córdoba",
+   "url": "https://www.mezquita-catedraldecordoba.es/en/visit/tickets-and-opening-hours/"
+  },
+  {
+   "label": "FXLeaders",
+   "url": "https://www.fxleaders.com/news/meta-shares-tumble-to-540-range-as-earnings-miss-sparks-selloff-2026-07-30/"
+  },
+  {
+   "label": "YouTube (@NationalJazzMuseuminHarlem)",
+   "url": "https://www.youtube.com/watch?v=Ous5uCg97Uk"
+  },
+  {
+   "label": "Wyoming Public Media",
+   "url": "https://www.wyomingpublicmedia.org/"
+  },
+  {
+   "label": "Firstlinks",
+   "url": "https://www.firstlinks.com.au/welcome-firstlinks-edition-673"
+  },
+  {
+   "label": "The Business Standard",
+   "url": "https://www.tbsnews.net/tech/meta-cash-flow-craters-zuckerberg-doubles-down-ai-spending-2026-07-30"
+  }
+ ]
+}
