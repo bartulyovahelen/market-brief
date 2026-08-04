@@ -1,0 +1,336 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на ШІ-контент, зокрема набуттям чинності правил ЄС щодо його маркування та пріоритетом людського контенту у Snapchat Spotlight. Ключові платформи, такі як Meta, YouTube та TikTok, активно оновлюють програми монетизації для творців та стикаються з юридичними викликами, тоді як Snap демонструє значне фінансове зростання.",
+ "key_figure": {
+  "value": "+19%",
+  "context": "Зростання доходу Snap у Q2 2026, що свідчить про покращення фінансових показників платформи."
+ },
+ "figures": [
+  {
+   "value": "$2.3B",
+   "label": "Дохід Snap у Q2 2026"
+  },
+  {
+   "value": "+407%",
+   "label": "Зростання вільного грошового потоку Snap у Q2 2026"
+  },
+  {
+   "value": "493M",
+   "label": "Щоденні активні користувачі Snapchat"
+  },
+  {
+   "value": "+28%",
+   "label": "Зростання доходу Meta у Q2 2026"
+  },
+  {
+   "value": "-91%",
+   "label": "Падіння вільного грошового потоку Meta у Q2 2026 через інвестиції в ШІ"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальні щомісячні виплати Meta за програмою Creator Fast Track"
+  },
+  {
+   "value": "€15M",
+   "label": "Максимальний штраф ЄС за порушення правил маркування ШІ-контенту"
+  },
+  {
+   "value": "$16.86",
+   "label": "Середній дохід на особу (ARPP) Meta"
+  },
+  {
+   "value": "$300M",
+   "label": "Програма викупу акцій Bilibili"
+  }
+ ],
+ "top_signal_deep": "Набуття чинності правил ЄС щодо обов'язкового маркування ШІ-генерованого контенту з 2 серпня 2026 року є знаковою подією, що встановлює нові стандарти прозорості та відповідальності для платформ відеодистрибуції. Це вимагає від розробників та розповсюджувачів ШІ-систем чітко інформувати користувачів про взаємодію з ШІ та маркувати контент, створений або змінений штучним інтелектом. Недотримання цих вимог може призвести до значних штрафів до €15 мільйонів або 3% від світового річного обороту, що змусить компанії переглянути свої стратегії модерації та дистрибуції контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 4
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 7
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "Регуляції",
+   "stream": "Платформа",
+   "source": "EU",
+   "title": "Набули чинності правила ЄС щодо маркування ШІ-контенту",
+   "why": "Створює нові юридичні та операційні вимоги для всіх платформ, що працюють в ЄС, впливаючи на дистрибуцію ШІ-контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY-Qiqzf_9-iyIyy3lcX7WDJs6AjRIQE2_G-4fu94pWdGc1dXIoj3mj259keXaf_bZnDrSHmpp7nh9xreu32rpCPi1ho84tOkdTwZsQTUk9SCfaFPadqspjqIeZNmLh0w9af5oyGmlG79_xpdEInyrkujO4fGgYL161W8OdCEkgKzCPKaIUA==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPOH4YoM_nVtr51gso-1Cak4kdu_E2n808LGRdrG2Fxk8FGg8-vieCAfx-J8fIpvzknpA9neXrw_OiyT-jvRTrPKZ0zYfq8ruCKbTB7PwDdbh477DPCD9uzZSa3XLmJ4GYnWrX9WcfDVphIVyLzFPdITatWKBm3AYh-K3mtxo7_QuaDAOV9HI1aZBu7J_2s6dgOr1AZK4-uYry5EiExpkHPwbhVdo6VqACfzy6FAXmsVPn, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHb_BuO1hjOuH-VFLuwuXQoKCX8EZxQbFP7Kce_8jkt7vN-S7cYQm_VkumOVFJKBEq-RrpJka3UVc722aj-656pK23YuunH7ryUoAMMjbPdWVmRDWiTtSwTIuY0IpKUbN9TauX1uCxpr871JlRgkrnWe8zx-dMBEC_3qvOXIUE1cP98Acvv9sE_TTD9gsjxXSBpG1Cn5_-CwWzKuzPJalXKM0Dgsm_Fgl2MAg=="
+  },
+  {
+   "importance": "high",
+   "theme": "Алгоритми / Контент",
+   "stream": "Платформа",
+   "source": "Snapchat",
+   "title": "Snapchat надає перевагу контенту, створеному людьми, над ШІ у Spotlight",
+   "why": "Відображає реакцію платформ на \"низькоякісний, повторюваний\" ШІ-контент та зміну стратегії рекомендацій.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9otKPwCD4V1SJ76EUANeiYGrNeqKFgko6i_jmOWH6whTtXoAy-vjI0r_J8EKZ_edpz4kZoEqRjmt9qFCJAKYevNUSASocWdTyytzH6yWkJymtWX1zDTeDcX2YzEvgEAvgnrof7YehugHSytL3-ZJAaV_yICALovkgAm06xz4Eo8qXYiAYgu-rvOXLp7rlNAEoi-d6e7y_At3IwqrEJ0WQgUrR0-IvonY=="
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "Платформа",
+   "source": "Snap",
+   "title": "Snap звітує про зростання доходу на 19% у Q2 2026 та рекордний вільний грошовий потік",
+   "why": "Демонструє покращення фінансових показників Snap, що може вплинути на інвестиції в продукти та моненетизацію.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoBJK58TM9d5zgZXfRE_-hgPSpzVv-tmtMzHw0qZpbvi1PVrJfyqYznVt_tCPgmMcFyZLs6PaOrgXvQpxNuoJODveOOosiTtDXVMNp3hmyflvnPOcIYjroAM9Ymv1um68hnpn2Tpa3MNN4pviFjn9rfYUPbAuh8wHtDLHaG5u1vSoQ4RlQwE0fbP9nhJlqZd81Ya50Z_au, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKQbqFeCCMkbgSJVoDC8ZzsgdyOBPgU1G9qhbM4lYvBO15G53GHmCX8tBjojMw5XZrDzIsY3Ko9TPa8YOSFqs-bUSEzBkkkPaKjWvFxXmNzNWagcGJl8pwEtHMbc7u0IlzfJ-ciaF771es-YHEBY-zBNstb70YiNLIQSGk9eoomN6CyvAwCOGCxwX0-_R8o-vrODM=="
+  },
+  {
+   "importance": "high",
+   "theme": "Регуляції",
+   "stream": "Платформа",
+   "source": "TikTok",
+   "title": "TikTok врегульовує три позови щодо залежності та шкоди для неповнолітніх",
+   "why": "Вказує на зростаючий регуляторний та юридичний тиск на платформи щодо впливу на ментальне здоров'я молоді.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi-ib0iVAfsdTUF1E7B8Z6427De7ZtIVDx0Ib2yMXkw9-yPNZlubYH0VedxNVrztH5HNtgHQuyaMBAjVAQZQh48WGjA3uGacQlt5MR_5O9e1fokXbAlqjlor_JR_ITv5sXvG9UrsmwMS_Zff1_159D3rOo1B50EIxBY3fP4wYcFlcEzJesQMFk3e_Jx2zifbXYJRxXxg==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOdYPwG4IhhEOLYURqB1jxR6ynIzEyhs1zPoivoOdMtgGQcIij02Lksinx8LG8zfaMzpnOcMcEf8dHkZKfH0EdU9wUY5tkbU1HrakWb99j0nrzOEcyVFkcvvyB3nrOwLdx7EkEbTKbup4X4oYSjebLqhhQDuh_hqTxKIkLKZI8P9Ri_HRHSfg-SMVGZh9D8DyReQO_HCim2K-uC8JmXIgtEz1-XSy4JFK9YLzFXi5xqYiXo5wNszCKP7v9AjE=="
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг / Продукт",
+   "stream": "Платформа",
+   "source": "Meta",
+   "title": "Дохід Meta зріс на 28% у Q2 2026, але вільний грошовий потік впав на 91% через інвестиції в ШІ",
+   "why": "Демонструє значні інвестиції в ШІ та їхній вплив на фінансову стабільність великих платформ.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація / Продукт",
+   "stream": "Платформа",
+   "source": "Meta",
+   "title": "Meta припиняє бонуси для Reels та запускає Creator Fast Track",
+   "why": "Змінює стратегію монетизації для творців коротких відео, впливає на їхні доходи та залученість.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація / Продукт",
+   "stream": "Платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює монетизацію Shorts та YPP",
+   "why": "Впливає на доходи творців коротких відео та умови участі в партнерській програмі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "Алгоритми / Монетизація",
+   "stream": "Платформа",
+   "source": "Meta",
+   "title": "Алгоритми ШІ Meta підвищують залученість користувачів та ефективність реклами",
+   "why": "Підкреслює ключову роль ШІ у зростанні доходів та утриманні аудиторії на великих платформах.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIuEyYgT5TYKmTfJKvcIrU8uTyXr4wSNFpmbSl1kcYj1GKZCpn6SDFVhbjRQJ6RbogPSYmVNEsHO7_6M9PiMvEgWs00UVXhwSTmI4mZc8fK3eu8Mu2SK_CldGNrUGSO2e-mxkoCyq_hRmop5tX6FNV5V6HNCfzRWcgCP9eMOYWfSMrNcgnOmFLZvPYehSig4G856AAyG3kkthZjtLKT5m8C5GXipk=="
+  },
+  {
+   "importance": "medium",
+   "theme": "Регуляції / Контент",
+   "stream": "Платформа",
+   "source": "Meta",
+   "title": "Голова ІТ-комітету Індії вимагає вибачень від Meta за видалення рілса Моді",
+   "why": "Демонструє зростаючий тиск урядів на платформи щодо модерації контенту та потенційні загрози \"безпечній гавані\".",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3d46JVgxhljMcrf7iucg1Zho_twscsGM_0GbkJ63nzvdE5SstZz5aRWu7oXxV9MRJD8eGUc0KKLrCcUBTbvZwC1pDAyNAgzWqZH_tSlYt0CjZgn7V0wr_YQ-t8l8pDFKsgoit74a1E_XM-ubAo3sAKZORX4oRqZUJv7St3crSNiC7oueTcPrN5SpVyPDSB3gB7tsZKzju4v4Hf8pD84CCky0Jj49Yvy-9rzQKqRNq2X-Jva4mbRFKH6PgdOpyggH2nlDIqHiYMcMw"
+  },
+  {
+   "importance": "medium",
+   "theme": "Регуляції",
+   "stream": "Платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано та розслідується щодо захисту неповнолітніх",
+   "why": "Вказує на посилення регуляторного тиску на TikTok щодо безпеки користувачів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "Конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено",
+   "why": "Впливає на консолідацію традиційних медіа та конкурентне середовище у відеодистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "Продукт / Контент",
+   "stream": "Платформа",
+   "source": "Bilibili",
+   "title": "Bilibili призначає керівника для бізнесу з генерації ШІ-відео та запускає платформу Toy",
+   "why": "Вказує на стратегічні інвестиції Bilibili у ШІ для створення контенту та розширення можливостей для творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET-irRXN04HB0pLAGGZGQ2QC2H7eXI153zXqbz8a4pW1n0gwglXwwiwNjFNUsN8ghB0CqWCS-ANUKAQQLipJUX6-EhgQIV3Ip5jG2AQP4XUSsBuzvbX0eOiq_aYIgBGrh2GtUtDHpJH-3AxJgbNeP0oXOrEj6tiaxF4UXhlt3KealtrF2UYUecZ7uj6aj_pOf46YIw0g=="
+  },
+  {
+   "importance": "low",
+   "theme": "Контент / Продукт",
+   "stream": "Конкурент",
+   "source": "Amazon (Prime Video)",
+   "title": "Prime Video анонсує новий контент на серпень 2026 року, включаючи оригінальні серіали та спорт",
+   "why": "Зміцнює пропозицію контенту Prime Video, що важливо для залучення та утримання підписників.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwANaO45xCBOqQg1nFOXA9dHQ0Y_0PHWU7d14QbFMLSMXm07uXq4DHLwNKJlUzI7QqnaADEvAwXreKdhVDBlRfAoNf3xD0FoRTH2jcRElkaODf9OgzEr_W0B12XjsDZm-yxqhrNFTQmkVKqUWvmMN0m0PkUFcrm3qF_xRNodGCDzEB3Xq730Ur, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcQoTWjV_5AaXY8912VJrnks5VrMPid_vUi3btwGMX6j3XkQevWyJdMpY7DQqn-EWtMHPWgfx_l8M6mySF5qg2QisDhBIRf7W0_cjgWQDPJIVmF-nl0e5NsVl7fVB5N7VCbBc7BOG_3t5xt2xRJUsBDuUPtFbkcaNxUXN-cgt7yOAywTjVqLO8DoM2Jsj7IKdfWjgOTGZT3ASRLUfsRDv0fCd, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLSs8zW2o-aXdw1Is1JNsA76ZkOdlr9bEpQ-OvS8NNrucPByBiEy-K9dPSNFHemKfUtB-3bYKF3Kw2Z2roF6FRbR9mQo8udAqRDcjFeRBSrMWRZ8TOGVdPqAZgWLXFFiYd3Jyh6dqMer4XdteHxwnnk82tYzrHw==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDH9AACGnkNk_JMl2vv4-nta2iBvdAIUWz0WS9-4o8erAzii3oVRXm1FvMUfduE_7fugtR9Cc8aKw5NhAYZg1SnaCEcdUzdt3FVT-PN0msGg_j7ShBkdkx7Kqdbgyp1u-dfKA9B24slip-dpZymV8maUhdQ7DRiIheXz2gHFrzu8yzG_NYQDbmfc5piv7HcePBc5IdEJGccwjt_A==, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFD4mKA40ktIk22irpMnXi7EQWOTBA866y3UZBb5fYJiLA8oUaOPxVWP2w-rMg7qINIl_f6xIuaSBtqwjCNu5RkL9HziWpAaurFd1RyKqQccCvM-0mJNgN4Li6mbkYGKbNIaFukqwebajZrCEN3ISNH2AsyUzrG_uScUgII3n1pEvXv2nqbHLcYTuLdYdgbI_fhqGuntMd6qOAHX5gJCqTpG2Pq5Mpf5YDSglpoHSYJnh5ghbwFPHEnCb-QwvaX2o6kBWLag=="
+  },
+  {
+   "importance": "low",
+   "theme": "Продукт",
+   "stream": "Конкурент",
+   "source": "Samsung / Prime Video",
+   "title": "Samsung та Prime Video запускають HDR10+ ADVANCED стрімінг",
+   "why": "Покращує якість перегляду для користувачів Prime Video на сумісних пристроях, підвищуючи конкурентоспроможність.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9hJdXtpllhLyQCo0H1keZdUu6OUawEHyC9q7alLTjJ0iaWcRkvmuK2pUg_EGcLMTKuNE0M0NLz_K-6l_LmTaDU9xq1PYI2GUkFwRyQTe0t7hVaBp3Ja5Wguww8JXkOhy7CMWqpSooVrK_CnEKurSMGsgS_cbWeC70gax0IanqCDPHZ6LyOpq0_WlIaTB8vlsnWZRtzwwc_Cc2WvFCQXS2FFkcPOCWTlBZVzk=="
+  },
+  {
+   "importance": "low",
+   "theme": "Партнерства / Контент",
+   "stream": "Платформа",
+   "source": "TikTok",
+   "title": "TikTok співпрацює з TESDA на Філіппінах для розвитку цифрових навичок",
+   "why": "Розширює екосистему творців TikTok в Азії та сприяє залученню нових користувачів через освітні ініціативи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXh5CZNsKiH-x-7QrpxdY_anpuB3Zv3b2BVqHfnGZyxm1U4vIFpiW-6HZs80-6etE8Fh4jwiY5aDogLVjfZeWos8EQjS8VbKg-ZK_-QpgVupDUTzwk-TUwUMZLRXzaJznLIdtuqNUG0g5aDgFxBNVMHYxXzXXOdcrtYqfnW5zgykkJj1c2"
+  },
+  {
+   "importance": "low",
+   "theme": "Продукт / Партнерства",
+   "stream": "Платформа",
+   "source": "Snap",
+   "title": "Snap розширює пропозиції для агентств та партнерів",
+   "why": "Посилює екосистему Snap для бізнесу та творців, потенційно збільшуючи дистрибуцію контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "Платформа",
+   "source": "Bilibili",
+   "title": "Bilibili запускає програму викупу акцій на $300 млн",
+   "why": "Вказує на фінансову стабільність та стратегію управління капіталом, що може вплинути на майбутні інвестиції в контент.",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на ШІ-контент: Набуття чинності правил ЄС щодо маркування ШІ-контенту та дії Snapchat щодо пріоритету людського контенту свідчать про глобальний тренд до більшої прозорості та контролю за штучним інтелектом у відеодистрибуції.",
+  "Зміни у монетизації для творців: Платформи, такі як Meta та YouTube, продовжують адаптувати свої програми монетизації, переходячи від бонусів до нових моделей винагород та двоступеневих систем доступу, що впливає на доходи та стратегії творців.",
+  "Інвестиції в ШІ та їхній вплив на фінанси: Великі технологічні компанії, як Meta, інвестують значні кошти в ШІ, що впливає на їхні фінансові показники, але також підвищує залученість користувачів та ефективність реклами.",
+  "Юридичні виклики для платформ: TikTok стикається з врегулюванням позовів щодо залежності та розслідуваннями щодо захисту неповнолітніх, а Meta — з тиском щодо модерації контенту, що підкреслює зростаючі юридичні ризики для соціальних медіа.",
+  "Консолідація та стратегічні партнерства: Відкладене злиття Paramount-Warner Bros. Discovery та розширення пропозицій Snap для агентств вказують на постійні зміни у конкурентному ландшафті та пошук нових можливостей для зростання."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляторного тиску на ШІ-контент (ЄС), юридичні виклики для TikTok та Meta (США, Індія), фінансове зростання Snap та інвестиції Meta в ШІ."
+  },
+  {
+   "region": "Азія",
+   "note": "Штрафи та розслідування щодо TikTok (Південна Корея), стратегічні інвестиції Bilibili у ШІ-відеогенерацію та програми для творців (Філіппіни)."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, сьогоднішні новини підтвердили та поглибили розуміння регуляторного тиску на ШІ-контент з набуттям чинності правил ЄС та конкретними діями Snapchat. Також з'явилися деталі щодо фінансових показників Snap, які свідчать про значне зростання, та інформація про врегулювання TikTok позовів щодо залежності.",
+ "bizdev": [
+  "Розробка рішень для автоматичного маркування ШІ-генерованого контенту та забезпечення відповідності регуляторним вимогам ЄС.",
+  "Створення інструментів та послуг для творців, що допомагають адаптуватися до нових програм монетизації платформ (наприклад, Meta Creator Fast Track, YouTube YPP) та оптимізувати контент для алгоритмів, що надають перевагу людському контенту.",
+  "Інвестиції у технології ШІ для покращення якості відео, персоналізації рекомендацій та ефективності рекламних кампаній.",
+  "Розширення партнерств з освітніми установами для розвитку цифрових навичок та залучення нових творців, особливо на ринках, що розвиваються."
+ ],
+ "watch_next": [
+  "Подальші регуляторні дії щодо ШІ-контенту в інших регіонах та можливі наслідки для платформ.",
+  "Розвиток програм монетизації для творців на YouTube та Meta, а також їхній вплив на екосистему контенту.",
+  "Результати розслідувань та судових процесів щодо TikTok та інших соціальних медіа щодо захисту неповнолітніх та залежності.",
+  "Фінансові звіти інших великих гравців ринку відеодистрибуції та їхні інвестиції в ШІ.",
+  "Оновлення контентної стратегії та партнерств Amazon Prime Video."
+ ],
+ "sources": [
+  {
+   "label": "The Japan Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi-ib0iVAfsdTUF1E7B8Z6427De7ZtIVDx0Ib2yMXkw9-yPNZlubYH0VedxNVrztH5HNtgHQuyaMBAjVAQZQh48WGjA3uGacQlt5MR_5O9e1fokXbAlqjlor_JR_ITv5sXvG9UrsmwMS_Zff1_159D3rOo1B50EIxBY3fP4wYcFlcEzJesQMFk3e_Jx2zifbXYJRxXxg=="
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9otKPwCD4V1SJ76EUANeiYGrNeqKFgko6i_jmOWH6whTtXoAy-vjI0r_J8EKZ_edpz4kZoEqRjmt9qFCJAKYevNUSASocWdTyytzH6yWkJymtWX1zDTeDcX2YzEvgEAvgnrof7YehugHSytL3-ZJAaV_yICALovkgAm06xz4Eo8qXYiAYgu-rvOXLp7rlNAEoi-d6e7y_At3IwqrEJ0WQgUrR0-IvonY=="
+  },
+  {
+   "label": "Help Net Security",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY-Qiqzf_9-iyIyy3lcX7WDJs6AjRIQE2_G-4fu94pWdGc1dXIoj3mj259keXaf_bZnDrSHmpp7nh9xreu32rpCPi1ho84tOkdTwZsQTUk9SCfaFPadqspjqIeZNmLh0w9af5oyGmlG79_xpdEInyrkujO4fGgYL161W8OdCEkgKzCPKaIUA=="
+  },
+  {
+   "label": "The Business Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOdYPwG4IhhEOLYURqB1jxR6ynIzEyhs1zPoivoOdMtgGQcIij02Lksinx8LG8zfaMzpnOcMcEf8dHkZKfH0EdU9wUY5tkbU1HrakWb99j0nrzOEcyVFkcvvyB3nrOwLdx7EkEbTKbup4X4oYSjebLqhhQDuh_hqTxKIkLKZI8P9Ri_HRHSfg-SMVGZh9D8DyReQO_HCim2K-uC8JmXIgtEz1-XSy4JFK9YLzFXi5xqYiXo5wNszCKP7v9AjE=="
+  },
+  {
+   "label": "Mediaweek",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoBJK58TM9d5zgZXfRE_-hgPSpzVv-tmtMzHw0qZpbvi1PVrJfyqYznVt_tCPgmMcFyZLs6PaOrgXvQpxNuoJODveOOosiTtDXVMNp3hmyflvnPOcIYjroAM9Ymv1um68hnpn2Tpa3MNN4pviFjn9rfYUPbAuh8wHtDLHaG5u1vSoQ4RlQwE0fbP9nhJlqZd81Ya50Z_au"
+  },
+  {
+   "label": "Mumbrella",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKQbqFeCCMkbgSJVoDC8ZzsgdyOBPgU1G9qhbM4lYvBO15G53GHmCX8tBjojMw5XZrDzIsY3Ko9TPa8YOSFqs-bUSEzBkkkPaKjWvFxXmNzNWagcGJl8pwEtHMbc7u0IlzfJ-ciaF771es-YHEBY-zBNstb70YiNLIQSGk9eoomN6CyvAwCOGCxwX0-_R8o-vrODM=="
+  },
+  {
+   "label": "InsiderPH",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXh5CZNsKiH-x-7QrpxdY_anpuB3Zv3b2BVqHfnGZyxm1U4vIFpiW-6HZs80-6etE8Fh4jwiY5aDogLVjfZeWos8EQjS8VbKg-ZK_-QpgVupDUTzwk-TUwUMZLRXzaJznLIdtuqNUG0g5aDgFxBNVMHYxXzXXOdcrtYqfnW5zgykkJj1c2"
+  },
+  {
+   "label": "Prime Video",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwANaO45xCBOqQg1nFOXA9dHQ0Y_0PHWU7d14QbFMLSMXm07uXq4DHLwNKJlUzI7QqnaADEvAwXreKdhVDBlRfAoNf3xD0FoRTH2jcRElkaODf9OgzEr_W0B12XjsDZm-yxqhrNFTQmkVKqUWvmMN0m0PkUFcrm3qF_xRNodGCDzEB3Xq730Ur"
+  },
+  {
+   "label": "ETIH EdTech News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPOH4YoM_nVtr51gso-1Cak4kdu_E2n808LGRdrG2Fxk8FGg8-vieCAfx-J8fIpvzknpA9neXrw_OiyT-jvRTrPKZ0zYfq8ruCKbTB7PwDdbh477DPCD9uzZSa3XLmJ4GYnWrX9WcfDVphIVyLzFPdITatWKBm3AYh-K3mtxo7_QuaDAOV9HI1aZBu7J_2s6dgOr1AZK4-uYry5EiExpkHPwbhVdo6VqACfzy6FAXmsVPn"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIcQoTWjV_5AaXY8912VJrnks5VrMPid_vUi3btwGMX6j3XkQevWyJdMpY7DQqn-EWtMHPWgfx_l8M6mySF5qg2QisDhBIRf7W0_cjgWQDPJIVmF-nl0e5NsVl7fVB5N7VCbBc7BOG_3t5xt2xRJUsBDuUPtFbkcaNxUXN-cgt7yOAywTjVqLO8DoM2Jsj7IKdfWjgOTGZT3ASRLUfsRDv0fCd"
+  },
+  {
+   "label": "Hindustan Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3d46JVgxhljMcrf7iucg1Zho_twscsGM_0GbkJ63nzvdE5SstZz5aRWu7oXxV9MRJD8eGUc0KKLrCcUBTbvZwC1pDAyNAgzWqZH_tSlYt0CjZgn7V0wr_YQ-t8l8pDFKsgoit74a1E_XM-ubAo3sAKZORX4oRqZUJv7St3crSNiC7oueTcPrN5SpVyPDSB3gB7tsZKzju4v4Hf8pD84CCky0Jj49Yvy-9rzQKqRNq2X-Jva4mbRFKH6PgdOpyggH2nlDIqHiYMcMw"
+  },
+  {
+   "label": "Amazon Studios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwLSs8zW2o-aXdw1Is1JNsA76ZkOdlr9bEpQ-OvS8NNrucPByBiEy-K9dPSNFHemKfUtB-3bYKF3Kw2Z2roF6FRbR9mQo8udAqRDcjFeRBSrMWRZ8TOGVdPqAZgWLXFFiYd3Jyh6dqMer4XdteHxwnnk82tYzrHw=="
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDH9AACGnkNk_JMl2vv4-nta2iBvdAIUWz0WS9-4o8erAzii3oVRXm1FvMUfduE_7fugtR9Cc8aKw5NhAYZg1SnaCEcdUzdt3FVT-PN0msGg_j7ShBkdkx7Kqdbgyp1u-dfKA9B24slip-dpZymV8maUhdQ7DRiIheXz2gHFrzu8yzG_NYQDbmfc5piv7HcePBc5IdEJGccwjt_A=="
+  },
+  {
+   "label": "FXLeaders",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIuEyYgT5TYKmTfJKvcIrU8uTyXr4wSNFpmbSl1kcYj1GKZCpn6SDFVhbjRQJ6RbogPSYmVNEsHO7_6M9PiMvEgWs00UVXhwSTmI4mZc8fK3eu8Mu2SK_CldGNrUGSO2e-mxkoCyq_hRmop5tX6FNV5V6HNCfzRWcgCP9eMOYWfSMrNcgnOmFLZvPYehSig4G856AAyG3kkthZjtLKT5m8C5GXipk=="
+  },
+  {
+   "label": "KR Asia",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET-irRXN04HB0pLAGGZGQ2QC2H7eXI153zXqbz8a4pW1n0gwglXwwiwNjFNUsN8ghB0CqWCS-ANUKAQQLipJUX6-EhgQIV3Ip5jG2AQP4XUSsBuzvbX0eOiq_aYIgBGrh2GtUtDHpJH-3AxJgbNeP0oXOrEj6tiaxF4UXhlt3KealtrF2UYUecZ7uj6aj_pOf46YIw0g=="
+  },
+  {
+   "label": "TechRadar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFD4mKA40ktIk22irpMnXi7EQWOTBA866y3UZBb5fYJiLA8oUaOPxVWP2w-rMg7qINIl_f6xIuaSBtqwjCNu5RkL9HziWpAaurFd1RyKqQccCvM-0mJNgN4Li6mbkYGKbNIaFukqwebajZrCEN3ISNH2AsyUzrG_uScUgII3n1pEvXv2nqbHLcYTuLdYdgbI_fhqGuntMd6qOAHX5gJCqTpG2Pq5Mpf5YDSglpoHSYJnh5ghbwFPHEnCb-QwvaX2o6kBWLag=="
+  },
+  {
+   "label": "Cooley",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHb_BuO1hjOuH-VFLuwuXQoKCX8EZxQbFP7Kce_8jkt7vN-S7cYQm_VkumOVFJKBEq-RrpJka3UVc722aj-656pK23YuunH7ryUoAMMjbPdWVmRDWiTtSwTIuY0IpKUbN9TauX1uCxpr871JlRgkrnWe8zx-dMBEC_3qvOXIUE1cP98Acvv9sE_TTD9gsjxXSBpG1Cn5_-CwWzKuzPJalXKM0Dgsm_Fgl2MAg=="
+  },
+  {
+   "label": "Samsung",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9hJdXtpllhLyQCo0H1keZdUu6OUawEHyC9q7alLTjJ0iaWcRkvmuK2pUg_EGcLMTKuNE0M0NLz_K-6l_LmTaDU9xq1PYI2GUkFwRyQTe0t7hVaBp3Ja5Wguww8JXkOhy7CMWqpSooVrK_CnEKurSMGsgS_cbWeC70gax0IanqCDPHZ6LyOpq0_WlIaTB8vlsnWZRtzwwc_Cc2WvFCQXS2FFkcPOCWTlBZVzk=="
+  }
+ ]
+}
