@@ -1,0 +1,227 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на ШІ-контент, зокрема набуттям чинності правил ЄС щодо його маркування. Ключові платформи, такі як Meta та YouTube, активно оновлюють програми монетизації для творців, тоді як Meta демонструє значні інвестиції в ШІ, що впливають на її фінансові показники. Злиття Paramount-Warner Bros. Discovery продовжує стикатися з антимонопольними викликами в США.",
+ "key_figure": {
+  "value": "-91%",
+  "context": "Вільний грошовий потік Meta впав на 91% у Q2 2026 через інвестиції в ШІ."
+ },
+ "figures": [
+  {
+   "value": "+28%",
+   "label": "Зростання доходу Meta у Q2 2026"
+  },
+  {
+   "value": "-91%",
+   "label": "Падіння вільного грошового потоку Meta у Q2 2026"
+  },
+  {
+   "value": "$3,000/місяць",
+   "label": "Максимальні виплати Meta Creator Fast Track"
+  },
+  {
+   "value": "€15 млн або 3%",
+   "label": "Штрафи ЄС за порушення AI Act"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією є набуття чинності основної частини положень Акта ЄС про штучний інтелект з 2 серпня 2026 року, що зобов'язує компанії чітко маркувати ШІ-генерований контент та інформувати користувачів про взаємодію з ШІ-системами. Це створює глобальний прецедент для регулювання ШІ у відеодистрибуції, посилюючи прозорість та довіру до контенту, а також протидіючи дезінформації. Провідні розробники, включаючи Google та Meta, заявили про готовність співпрацювати з Єврокомісією.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Європейський Союз",
+   "title": "Набули чинності правила ЄС щодо обов'язкового маркування ШІ-контенту",
+   "why": "Встановлює нові стандарти прозорості та відповідальності для всіх платформ, що розповсюджують відеоконтент у ЄС, впливаючи на стратегії створення та дистрибуції контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf2SnfFtxdlWFvBh4SOskgnXQwup6UJrBN6Z9SvkW7bCtxdUKIzzqxXnMS0oaxas4_ldLBmJKbGwVdO2Qpn0k5IRsTCRQA2x0ESrKvcSBMIr9fAcRhJnDvIBNUsh8azoivveqok4Bmve7PXzK4m4N585C1Kephxo-eMNObS4mYyqCGPtZL_Q-RPkkaIcOVJjg=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta запускає програму Creator Fast Track з виплатами до $3,000 на місяць",
+   "why": "Посилює конкуренцію за високопрофільних творців, пропонуючи гарантовані виплати та збільшене охоплення для Reels, що може змінити лояльність творців та обсяги контенту на Facebook.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-5KvDuwUI3y9TRSvLQCjHtLyJHtyGBJZE289bqUXEafyWFRl_n5P3B9iki_rm7QrdSj1gy8fvSPVLtx4op-eGc8wPBHdf0mJ4O6j0c0kxxWgM_nR1kRm7Vq6DcVKS781rgsHGvCmWeS11i_O1Agqr4rRR9MhZ1FpFRVL6eBXrFdtCmXjlFk6drw_SWA35AMu_YrAJtBZUrvheVKlXqPHrrzp0LfgJQUqwgd_8VEk="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat надає перевагу контенту, створеному людьми, над ШІ у Spotlight",
+   "why": "Відображає стратегічний зсув платформи до автентичного контенту, що впливає на стратегії творців та рекомендаційні алгоритми. [cite: context]",
+   "url": "https://www.snapchat.com/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено до 2027 року через антимонопольні позови в США",
+   "why": "Демонструє складність регуляторного середовища для великих медіа-консолідацій та потенційні довгострокові зміни на ринку відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG614qRAdnrk7xv4w5iMrxHExLQfoVc0I5qgcCUueD8oyJsl8HXlRTPUx4wjtAPl5YVwYPmIrpvsX7TSu_TKVuOqrDzK1n2bO4TbUoJ7VRJH9W6FMa0Fn4xgCb5tOpKlCLSLEGdqA=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює монетизацію Shorts та YPP з двома рівнями доступу",
+   "why": "Спрямовано на подальше стимулювання створення коротких відео та залучення аудиторії, потенційно збільшуючи доходи творців на YouTube.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB7A09LneiKC_AxFcRkAd2-aWeFLt1ZS5McacmIpW3lV2PdrzIAsDCIkhFcUqcfQ0MkuP30kEag8EXqt5-ea3A6ulHZJEUm2qcWqqDC82f-bmYtFh2olSX9wPAIrfxQf3yQAs2_5CWlR04y0H1r5-D6vZJEupi44TAmQ6yPh_S0jcqvAXftfl3_C3Y-9uPE6WgXQSBhwgQbg=="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано в Південній Кореї та ЄС, розпочато нове розслідування щодо захисту неповнолітніх",
+   "why": "Вказує на постійний глобальний регуляторний контроль та юридичні виклики для TikTok, що може вплинути на його діяльність та політику щодо контенту. [cite: context]",
+   "url": "https://www.tiktok.com/"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Wild Vision",
+   "title": "Wild Vision бере участь у Open Sauce 2026 для взаємодії з творцями",
+   "why": "Демонструє постійні зусилля дистриб'юторів щодо розширення охоплення контенту та співпраці з творцями.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2MAxytJXcJSj-qUB0dsjDk98zErrujjWHPHxS7GHx2vUq5E0ZHlbOk-GPEzOoFtP_iMCXS6EGovD7BdBNHm56WdDbS9FZQDh0aevWV6UuLcXMaUzQznZrC5ftOKkHFS4="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на ШІ-контент та вимоги до його прозорості.",
+  "Активні оновлення програм монетизації для творців з боку великих платформ, спрямовані на залучення та утримання талантів.",
+  "Значні інвестиції в ШІ з боку технологічних гігантів, що впливають на їхні фінансові показники.",
+  "Триваючі юридичні та антимонопольні виклики для великих медіа-злиттів."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Набуття чинності AI Act в ЄС, оновлення програм монетизації Meta та YouTube, фінансові результати Meta, антимонопольні проблеми злиття Paramount-WBD у США, пріоритет людського контенту у Snapchat Spotlight."
+  },
+  {
+   "region": "Азія",
+   "note": "Штрафи та розслідування щодо TikTok у Південній Кореї. Без помітних рухів щодо Bilibili."
+  },
+  {
+   "region": "CIS",
+   "note": "Українські медіа активно висвітлюють набуття чинності AI Act в ЄС та зміни в монетизації YouTube Shorts, що свідчить про релевантність цих тем для регіону."
+  }
+ ],
+ "changed": "На відміну від попередніх днів, сьогоднішній аналіз підкреслює повне набуття чинності правил ЄС щодо маркування ШІ-контенту, що переходить від анонсів до активної фази імплементації. Також продовжуються оновлення щодо злиття Paramount-Warner Bros. Discovery, де, незважаючи на схвалення ЄС, зберігаються значні антимонопольні виклики в США. Інші тенденції, такі як монетизація творців та вплив інвестицій в ШІ на фінанси Meta, залишаються актуальними.",
+ "bizdev": [
+  "Розробка та впровадження рішень для автоматичного маркування та виявлення ШІ-генерованого контенту відповідно до нових регуляторних вимог.",
+  "Створення інструментів та послуг для допомоги творцям у навігації та максимізації доходів від оновлених програм монетизації на платформах (Meta Creator Fast Track, YouTube YPP).",
+  "Інвестиції у платформи та сервіси, що спеціалізуються на дистрибуції та синдикації контенту, орієнтованого на людське створення, у відповідь на зміни в алгоритмах платформ."
+ ],
+ "watch_next": [
+  "Подальша імплементація та правозастосування AI Act в ЄС та реакція глобальних платформ.",
+  "Еволюція програм монетизації Meta та YouTube та їхній вплив на екосистему творців.",
+  "Результати антимонопольних розглядів щодо злиття Paramount-Warner Bros. Discovery у США.",
+  "Розвиток регуляторного ландшафту для TikTok та його вплив на діяльність компанії."
+ ],
+ "sources": [
+  {
+   "label": "Pluang",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb-Gi0E5ykgbLk-Gje-Vx9iXwl1vvVKaZ8UiPuvGCb3Qlum5ivU4coBJ32gQEToWVXQLryPckPlDJz6UUibjYPm586TuQ5JuwiJOT_dONWe4a79ad07k75e7_NJn7Pr5cWJthTXAlmu6HHS274dQjCsi144hMhqGL8luMmGzvTqqdCYA=="
+  },
+  {
+   "label": "Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwWhLOaLpNybtSPPehA5UpOmRidFc3-5SJmPrnabmzIoOigT-DTMgdhHgLAIs_iPPn4JqQQpRs0qRcTpQxF0d9KuPBpiQOTXNFV-BGBdNmUlM7zM2vJ7J-apKdAkGSKd5twParzZSsVTxdDdvO2-B4op8E2XyUOK9Mqy-SbWCrRmiSHdc3fety0Z_aO8Q7ssvqsJdobooCYXLhqgsSviN6Q2zsJbjoz-wHcDo="
+  },
+  {
+   "label": "Брюссель посилює контроль за штучним інтелектом",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf2SnfFtxdlWFvBh4SOskgnXQwup6UJrBN6Z9SvkW7bCtxdUKIzzqxXnMS0oaxas4_ldLBmJKbGwVdO2Qpn0k5IRsTCRQA2x0ESrKvcSBMIr9fAcRhJnDvIBNUsh8azoivveqok4Bmve7PXzK4m4N585C1Kephxo-eMNObS4mYyqCGPtZL_Q-RPkkaIcOVJjg=="
+  },
+  {
+   "label": "Inweb Media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZbb1gorLpIkAVJhuOWlNA3essCjnu7Uxk97zFi4aLu5EvQ-rmCGv02UsVXAgJ23BJ5ezfV7wFqyfwcMMymTxWDAHSX2MlQKeNAubdlYxcj0lP3rPxj0Y5cdyQovxYIG34MwRC-gHQNojgVI1XeUIzgE1YasnNDpreJm5MW7g75n7rW0n3"
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM9ZiS-iHYpGJE0dXwozYlwBqnUP3efGelzKKrGNC6ayiRUgg0pbcIrhNHRdur_bYNVyPWR8NDmkdIwhh62NUJbsR1qgyeTTfBFKCD9iDaQw6hGzg0QhkBL0H-ZdzI-6DkPjGpnmkpB9JUI3Bxl13jTd-lzhNzeykXWWHc5FPtucQnWHjLMtR71Xc7YMxUtBc4WnT3flVbLgM="
+  },
+  {
+   "label": "Broadband TV News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHynh9qhroY1Db3GRM_xtYkJWE2PL96byZ3c2VKrHBb994Jzl1Rp8oBLdwf9B4-zF5FXgD1txpCVCchW6nMDCi4Tgh5ssl1JBzyedxFSdB5z01TTAFyO7eolLYOafalZnIz7xp_s4G_AZULUORJQ_91evsT1O1H2EtDyI5xPLCGvowPz8u5JBKbe-zS0O5W05aY"
+  },
+  {
+   "label": "Юридична Газета",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeU9bj2KQHEG25HEZ-fw3GVBQa54B7jR-SfV31WKyVxZhhFXxzDsCXyfDgruCMcJrn4axNnPxOvC_V-4GutQFpWtMcHs5lqfFuy98BHS5hhaZqhMxkes_FMdxuwYVq3PdkRoOLu5KACWTo2RX2OO4vx1MZonVnoUelk9vrvM2bfYpBXvaHDdoL6_upUM_Cs9C1vlQwr_zY4u0qjUpISEfvZiEZY_AD"
+  },
+  {
+   "label": "Broadcast",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkK8S8XTe-IKTnpw_t7mJRb7tTX6YHytB0a-w7pw_YbkVfCc9aGpRZeMOrVuDaQb1I2lqIZH5YlaFR-MrTP89lDLL1WfaWepQVw63HtcSRxtbmlB8x1Qw43jq43H5qy5AcDuzW9DuJuUn_Yefla-mTXJZfimO12xficcQIfCeFW4g61YgGM_l0hR0rPc3paoD29t_T0iN6Hp2cnyXj01vKwBKDoXBBzaICSeLcqQ=="
+  },
+  {
+   "label": "ЄС вводить обов'язкове маркування дипфейків, чатботів і частини контенту від ШІ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFth-ZSnG17O3CzwP07GPuoJSw723waG9VK_i2eIBADJTvfmXw0tDO7PYlc7JnaBCq7e8BAAU88-HlvFkK6teYHU7NWCeovW3dUNhpHXYJ8n521HHQ2fchJsMLBWeu7nRWQ1fIsmkY0i20EikisYDnfOCgDQaJf5eSGwOQ9gLcS7_d2ztTJ2-Rb82WL-HKpv7eqCOEpKNp1OOQnZDQ0oPPgCU8seR3FhaWT34="
+  },
+  {
+   "label": "LB.ua",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqpBZzmVIigFAe6qQ7fuoh8GmZSX6vTf-0pIZ8kF9PG_kI9-RXM9draIZuYO9d3Z0cTFF_JpJgBqSpJX4OjToGT-CdIEvcP11bUOJKCk-awqcaT9ltRE4PP2xv7cQKmsXwoiAjgu1mf1ecAxyptHV35zzDcaE75Ql5zepiiOA=="
+  },
+  {
+   "label": "YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG614qRAdnrk7xv4w5iMrxHExLQfoVc0I5qgcCUueD8oyJsl8HXlRTPUx4wjtAPl5YVwYPmIrpvsX7TSq_TKVuOqrDzK1n2bO4TbUoJ7VRJH9W6FMa0Fn4xgCb5tOpKlCLSLEGdqA=="
+  },
+  {
+   "label": "Screen Daily",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5NCqUVwzbUyEbTc4w47B1AUvZGT736vtl9qg5XJXhLTYvTjpYke6bz7fgZFzqvN2UjdqohPYJoEsxiMagnMXxTx4vcm1Wfh3-VLC_6Lnby6Bc69x-9c4WnXxNUarYjFFwbMX-lJVbjM_YhzOU-qH6neQSRi8Yq7E9ZLCT71f7SrktvUY-f_HMN6y2gVQxRRHf7QNmRUGgOpJCeFPSjF9n30Zw-SSfXF0JEpPfKw=="
+  },
+  {
+   "label": "Bloomberg Businessweek",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtPV0dsm8AUqijrWIzDlhV_DsIAzMGli0Lrvrh0_aYxUvWNV5VOCZhbSr_XyqOx_wtMO72wWvs9W5E_1sZfkzbbJWRwJ8kNaowRPKO7u4KAYN8VlhFWQaT00PYCyQTmuCHe0Sw2g=="
+  },
+  {
+   "label": "Warner Bros. gains on report Newsom concerned about AG suit over Paramount deal",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV3npYnpFithNjQeZJGf5zaTkpMOE6FHX0X8D45Hy1u9y3UX_tIccy0058cr4t2FVeHr1XGSXAav-zuMCGZp4358kB2ygPsxTY8tBH_lA5dBVsymvEQX5mIQsYpBNZ7aq3xSRDbtqhkrM4_wQ-EPp0YzcpRvFI0QMHZyBnb7eUn0y8kV9nHfFjZqSEoQ8wVwL-U3o8CFlsJ7QpiwNXn0CFcn5zezWxqULuwaLR1w=="
+  },
+  {
+   "label": "YouTube платить і за короткі відео: скільки реально можна заробити на Shorts",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB7A09LneiKC_AxFcRkAd2-aWeFLt1ZS5McacmIpW3lV2PdrzIAsDCIkhFcUqcfQ0MkuP30kEag8EXqt5-ea3A6ulHZJEUm2qcWqqDC82f-bmYtFh2olSX9wPAIrfxQf3yQAs2_5CWlR04y0H1r5-D6vZJEupi44TAmQ6yPh_S0jcqvAXftfl3_C3Y-9uPE6WgXQSBhwgQbg=="
+  },
+  {
+   "label": "Wild Vision (@WildVisionIO) - Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2MAxytJXcJSj-qUB0dsjDk98zErrujjWHPHxS7GHx2vUq5E0ZHlbOk-GPEzOoFtP_iMCXS6EGovD7BdBNHm56WdDbS9FZQDh0aevWV6UuLcXMaUzQznZrC5ftOKkHFS4="
+  },
+  {
+   "label": "Pulse 2.0",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-5KvDuwUI3y9TRSvLQCjHtLyJHtyGBJZE289bqUXEafyWFRl_n5P3B9iki_rm7QrdSj1gy8fvSPVLtx4op-eGc8wPBHdf0mJ4O6j0c0kxxWgM_nR1kRm7Vq6DcVKS781rgsHGvCmWeS11i_O1Agqr4rRR9MhZ1FpFRVL6eBXrFdtCmXjlFk6drw_SWA35AMu_YrAJtBZUrvheVKlXqPHrrzp0LfgJQUqwgd_8VEk="
+  },
+  {
+   "label": "Meta Business Help Centre - Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKfW5ivXa-N_kRK7n6kPVduAF99bg5tfd5q4yKXdIU0hLRla7awUnAeRes0EbqushROVwx0_IHppY1clm8TzrFyt0d7Ff835T45YFQ1M8mcwfAwpFkexLbFXZBOk9JdJqH1uWP8PHmvFHcSn0s7LkHY_KJnNFTU-9qrysLWA=="
+  },
+  {
+   "label": "Meta Business Help Center - Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMTVfgq_HHwEisDM1OQQm5rGPInKMNWh22B_qlzqkIum8K_CTz7KkMA93BCbxXGsUKveAM4ThL0a-zG11--18sxskcu9JX1XCUN-3B17GH3IYzwUVg3iqfV0tchNPoPZ4W8PEmA4IwousN4T5bD7z5"
+  },
+  {
+   "label": "Creator Fast Track Program by Meta | How to Earn Guaranteed Monthly Payouts of $1,000–$3,000? - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFvK00TexqVrNNuPFjLNCTqWACw3oSX8KVrcA9MUBLNlUMdODrm7K9QNim86uaiK-z_IF87T6eo4X_dtPypa3rCJLRoFu-tfXUo6LSW5K3ircnJ2eZOlAafnyN8mJoz2JzBScZ"
+  },
+  {
+   "label": "Creator Fast Track: A New Way to Quickly Grow Your Audience and Earn Money on Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_zbULif0RHgUpSaLc0WF_av276G-5TchfYE3WpiWphXYwHGaNX5-qVmSUfZ2ZSdGRIYIqMxXgN9Yr4kfzZQlDo9DKck7XChpYiDlHGsLKl68DAesjh3rgpF7zrlAREYyvZv65HSUKGde90tg-hGLc6FWpEKScqPWvVe9BJZrE8MsMvbPmgC6ieNlIEfgECEIJwnZwqq2DTSc="
+  }
+ ]
+}
