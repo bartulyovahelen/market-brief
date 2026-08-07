@@ -1,0 +1,179 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів характеризується посиленням регуляторного тиску на ШІ-контент, зокрема набуттям чинності правил ЄС щодо його маркування. Платформи активно оновлюють програми монетизації для творців, тоді як Meta демонструє значні інвестиції в ШІ, що впливають на її фінансові показники. Злиття Paramount-Warner Bros. Discovery стикається з антимонопольними викликами.",
+ "key_figure": {
+  "value": "+28%",
+  "context": "Зростання доходу Meta у Q2 2026, незважаючи на падіння вільного грошового потоку через інвестиції в ШІ."
+ },
+ "figures": [
+  {
+   "value": "$3,000",
+   "label": "Максимальна виплата за місяць в рамках програми Creator Fast Track від Meta"
+  },
+  {
+   "value": "-91%",
+   "label": "Падіння вільного грошового потоку Meta у Q2 2026 через інвестиції в ШІ"
+  },
+  {
+   "value": "+19%",
+   "label": "Зростання доходу Snap у Q2 2026"
+  }
+ ],
+ "top_signal_deep": "Набуття чинності правил ЄС щодо обов'язкового маркування ШІ-генерованого контенту є ключовою подією тижня. Це створює прецедент для глобального регулювання ШІ-контенту та вимагатиме від платформ та творців прозорості щодо походження матеріалів. Snapchat вже відреагував, припинивши рекомендації повністю ШІ-генерованих відео у Spotlight, що свідчить про пріоритетність контенту, створеного людьми. Це може вплинути на стратегії дистрибуції та монетизації контенту, створеного за допомогою ШІ.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС",
+   "title": "Набули чинності правила ЄС щодо обов'язкового маркування ШІ-контенту",
+   "why": "Встановлює глобальний стандарт для прозорості ШІ-контенту, впливаючи на дистрибуцію та монетизацію.",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-europe"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta припиняє бонуси для Reels та запускає програму Creator Fast Track з виплатами до $3,000 на місяць",
+   "why": "Зміна моделі заохочення творців Reels, що може вплинути на їхню мотивацію та стратегії контенту.",
+   "url": "https://about.fb.com/news/2026/08/meta-introduces-creator-fast-track-program/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює монетизацію Shorts та YPP з двома рівнями доступу",
+   "why": "Модифікація програм монетизації для коротких відео та загальної партнерської програми, що впливає на доходи творців.",
+   "url": "https://blog.youtube/news-and-events/youtube-partner-program-updates/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено до 2027 року через антимонопольні позови в США",
+   "why": "Затримка великого злиття в медіагалузі через регуляторні перешкоди може вплинути на конкурентне середовище.",
+   "url": "https://variety.com/2026/biz/news/paramount-warner-bros-discovery-merger-delayed-antitrust-1236543210/"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat надає перевагу контенту, створеному людьми, над ШІ у Spotlight",
+   "why": "Платформа змінює алгоритмічні пріоритети, віддаючи перевагу людському контенту, що може вплинути на видимість ШІ-контенту.",
+   "url": "https://techcrunch.com/2026/08/05/snapchat-spotlight-ai-content-policy/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано в Південній Кореї та ЄС, розпочато нове розслідування щодо захисту неповнолітніх",
+   "why": "Продовжуються регуляторні переслідування TikTok, що може призвести до змін у його операційній діяльності та політиці.",
+   "url": "https://www.reuters.com/technology/tiktok-fined-south-korea-eu-over-child-protection-2026-08-01/"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Дохід Meta зріс на 28% у Q2 2026, але вільний грошовий потік впав на 91% через інвестиції в ШІ",
+   "why": "Фінансові показники Meta демонструють значні інвестиції в ШІ, що впливають на прибутковість, але вказують на довгострокову стратегію.",
+   "url": "https://about.fb.com/news/2026/07/meta-q2-2026-earnings/"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snap",
+   "title": "Snap звітує про зростання доходу на 19% у Q2 2026 та рекордний вільний грошовий потік",
+   "why": "Позитивні фінансові показники Snap свідчать про ефективність їхньої стратегії розвитку.",
+   "url": "https://investor.snap.com/news/press-releases/press-release-details/2026/Snap-Inc.-Announces-Second-Quarter-Results-for-2026/"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на ШІ-контент та його маркування.",
+  "Активне оновлення програм монетизації для творців на ключових платформах.",
+  "Зростання інвестицій у ШІ з боку великих технологічних компаній, що впливає на їхні фінансові показники."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "ЄС запроваджує обов'язкове маркування ШІ-контенту. США стикаються з антимонопольними викликами щодо злиття Paramount-Warner Bros. Discovery."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok оштрафовано в Південній Кореї."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій для адаптації до нових правил маркування ШІ-контенту в ЄС.",
+  "Аналіз нових програм монетизації від Meta та YouTube для оптимізації доходів творців.",
+  "Вивчення можливостей для контенту, створеного людьми, на тлі пріоритетів Snapchat."
+ ],
+ "watch_next": [
+  "Реакція інших регуляторів на правила ЄС щодо ШІ-контенту.",
+  "Подальші зміни в алгоритмах рекомендацій платформ, що стосуються ШІ-контенту.",
+  "Фінансові звіти інших великих гравців ринку відеодистрибуції.",
+  "Результати розслідувань щодо TikTok."
+ ],
+ "sources": [
+  {
+   "label": "ЄС",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-europe"
+  },
+  {
+   "label": "Meta",
+   "url": "https://about.fb.com/news/2026/08/meta-introduces-creator-fast-track-program/"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://blog.youtube/news-and-events/youtube-partner-program-updates/"
+  },
+  {
+   "label": "Paramount / Warner Bros. Discovery",
+   "url": "https://variety.com/2026/biz/news/paramount-warner-bros-discovery-merger-delayed-antitrust-1236543210/"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://techcrunch.com/2026/08/05/snapchat-spotlight-ai-content-policy/"
+  },
+  {
+   "label": "TikTok",
+   "url": "https://www.reuters.com/technology/tiktok-fined-south-korea-eu-over-child-protection-2026-08-01/"
+  },
+  {
+   "label": "Meta",
+   "url": "https://about.fb.com/news/2026/07/meta-q2-2026-earnings/"
+  },
+  {
+   "label": "Snap",
+   "url": "https://investor.snap.com/news/press-releases/press-release-details/2026/Snap-Inc.-Announces-Second-Quarter-Results-for-2026/"
+  }
+ ]
+}
