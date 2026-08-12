@@ -1,0 +1,220 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на ШІ-контент та захист неповнолітніх, зокрема набуттям чинності правил ЄС та Каліфорнії. Ключові платформи, такі як Meta та YouTube, суттєво оновили програми монетизації для творців, тоді як Meta демонструє значні інвестиції в ШІ, що впливають на її фінансові показники. Великі медіакомпанії стикаються з тривалими антимонопольними викликами у процесі злиття.",
+ "key_figure": {
+  "value": "+28%",
+  "context": "Зростання доходу Meta у Q2 2026, що свідчить про загальне зростання рекламного ринку, але супроводжується значними інвестиціями в ШІ та юридичними витратами."
+ },
+ "figures": [
+  {
+   "value": "$3,000",
+   "label": "Максимальна місячна виплата Meta Creator Fast Track"
+  },
+  {
+   "value": "+28%",
+   "label": "Зростання доходу Meta у Q2 2026"
+  },
+  {
+   "value": "-14%",
+   "label": "Падіння чистого прибутку Meta у Q2 2026"
+  },
+  {
+   "value": "$784 млн",
+   "label": "Вільний грошовий потік Meta у Q2 2026"
+  },
+  {
+   "value": "$2.4 млрд",
+   "label": "Юридичні витрати Meta у Q2 2026"
+  }
+ ],
+ "top_signal_deep": "Набуття чинності правил ЄС та Каліфорнії щодо маркування ШІ-контенту, а також представлення Білим домом рамок оцінки ШІ, є найважливішою подією. Це створює нові юридичні та етичні вимоги для всіх учасників ринку відеодистрибуції, які використовують або розповсюджують ШІ-генерований контент. Платформам доведеться адаптувати свої політики модерації та інструменти для творців, а творцям — дотримуватися нових стандартів прозорості, що може вплинути на типи контенту та його розповсюдження.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС, Каліфорнія, Білий дім",
+   "title": "Посилення регуляцій ШІ-контенту",
+   "why": "Встановлює нові стандарти для створення та розповсюдження ШІ-контенту, впливаючи на контент-стратегію та модерацію платформ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXEmaAfxDlIuLIe7cHxgXyo0VgP6F2_p2vnBFp_H1veYSmX828NWDLYvf_SpnvawfyXOUsOTGN0n4qLmgW_Hxv-sQKGNm6o12-rxlSoCEBR4KqxY3abq5OAANX4iawD9l2BEU"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оновлює програми монетизації для Reels та запускає Creator Fast Track",
+   "why": "Змінює модель виплат для творців, потенційно впливаючи на залученість та стратегію контенту на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWK6DdIvndlC7-JlHhpVQ79vRG24ioYvXGZD1acYKvxyXBMVFTr5iDj4EoheYzY1tI2NK62RVE5sGrM6U1ULEBfCV6oA-ormB0bskkejoIy36s9z1dxTa3TR8HeHMG9oBIPXjlj1jue-z2_RcYJJ5MRSAh9RXbsH4wDOIhzfBPM6sdeFubWda3FrGppmdTZk4jPtaD_jTQMkFRd44j3qZTCgYG78WCuoN4s3OKcBrDKOpX6q2emke5YR_hp1zaow8XzRWTkqP4TY62Z6eWTBkuCGe-Q5K1z8XS65hYpuvQ"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та YPP",
+   "why": "Впливає на поріг входу для нових творців та їхню здатність монетизувати контент на YouTube.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF99V2OWLTjFRBx9xR3lCIGFqrp-eHqSfA8sUwZzALfuSRDt6S8KHyrpOsRotnPPQ97k-lR0fB0GlmER9Ct_ihxdP26gk4-DnNAsWOHT7QGLjcBWbjYe6ABSUmiwI6atAt92dwgZv2Xb9g8sMQZ-EzBmHU52MohbvIhiN_1ZuZg300ynUWue-XpMm-VDn8uh7fTF64qDcpr48a6kCCH2-oZI7SUm8n1uEawlde6xzLAuy1G"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok, Південна Корея, ЄС, Білий дім",
+   "title": "TikTok стикається зі штрафами та розслідуваннями, скасовано заборону в США",
+   "why": "Регуляторний тиск та юридичні зміни впливають на операційну діяльність та репутацію платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5WGpZ9QZL0zRUpj4P5qzj3XgqNN3DYRza992XvKMPvXllcklFoz1-ECogGng8S8n8yRIln4dhLz0M5XLX8Ac8HNiP4x5diUr_H2Dew1fiNy0HVcJZdM9q3kId9_GOrInh5Y9UWw3y7AaTrAU0Zc_-sUFXwFLmK7N3IkwegvWA7NUJAWe-8miYJLWzzlqTxKAUn0qsPQQtmL64kWK3EzE"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Фінансові показники Meta: зростання доходу, падіння чистого прибутку через ШІ-інвестиції та витрати",
+   "why": "Відображає значні інвестиції Meta в ШІ та їхній вплив на прибутковість, що може вплинути на майбутні стратегії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgVNC4AfCHNvicyJM9__01wSIsow9XDH1YbGVUNXWC8mwZ-4K09JonUIizYcVrQO2v9MKo2wawI6xcl8evyh0e0f41MNfMryJNdy5ZjCaWXNDllF2_OuvrscEbu0gOTOiXKbUj0nP_w=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено, але отримало схвалення у Великій Британії",
+   "why": "Затримка великого злиття впливає на консолідацію ринку та конкурентне середовище.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8lZilQ6zaaYldDP0k9BRwb0i66NFN5-251xk0pXorJtEA-qOsZUMZXWJLbCvUaSCqcIWjeccbv7hmIjdv4fKVZnCIbyP-ihycxS2fq287914Lj6wdlVTkcRoSkLxd0NR5P578tfPpusEVNvBtopIPd-6lxzPvaB8YK9lqSRJ33RFl31AFYwrTBNsNnPj31iQVY7C6Mf0V"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat обмежує ШІ-контент у Spotlight",
+   "why": "Змінює стратегію контенту та рекомендацій, надаючи перевагу людському контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXEmaAfxDlIuLIe7cHxgXyo0VgP6F2_p2vnBFp_H1veYSmX828NWDLYvf_SpnvawfyXOUsOTGN0n4qLmgW_Hxv-sQKGNm6o12-rxlSoCEBR4KqxY3abq5OAANX4iawD9l2BEU"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Facebook",
+   "title": "Зниження доходу від монетизації Reels на Facebook",
+   "why": "Впливає на прибутковість творців та їхню мотивацію створювати контент для платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3eO4G5datHq2cFaUgkB7l7hWpT00AqLnpxZ25HSrWhZGxO134uRpyHEuhfS0YuAXtpH9qpApTuvtLcajw_oBq-aEoDu-X4FSP-BEBybDe9QmiKbNj-07RXvGI-Cw845Ax2BzjFq2t0dyNOugd9RUoFjgZENU_BrCBknFrtL9p0TMs1MMkcuYxWe1Q484Vuzo9D8DPwvfDpkpr8bfTDnF"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok впроваджує політику повернення до офісу на 5 днів на тиждень",
+   "why": "Впливає на операційну діяльність компанії та її корпоративну культуру.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu6U5PkMKjVjAnuxJOjZLP5vNs3Gz1qH_s2zS3A3i2uIJhud5QDY_mePRTh2mxz-vnls5QcqEBJ4iDOfHPbDh7dxTET_jdHO3pZUHb7hkJCNSgYFEjo9ldDxli6115_uHEmwgmQq21fCmx8dtKez3Je56NgctxnDfA7gquihuWb6siwrd-8l8SV3rYcnOm0eUROL4-bahDWw4SnSReJvJVVa4x-Nt9"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на ШІ-контент та захист неповнолітніх на платформах.",
+  "Активне оновлення програм монетизації платформами для творців, перехід від бонусних програм до більш структурованих виплат, але зі зниженням ефективності для деяких.",
+  "Зростаючі інвестиції в ШІ з боку великих технологічних компаній, що впливають на їхні фінансові показники та операційні витрати.",
+  "Тривалі антимонопольні виклики та затримки у великих медіа-злиттях.",
+  "Пріоритетність людського контенту над ШІ-генерованим у рекомендаційних алгоритмах деяких платформ."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляцій ШІ-контенту (ЄС, Каліфорнія, Білий дім), антимонопольні виклики для злиття Paramount-Warner Bros. Discovery, оновлення монетизації Meta та YouTube, скасування заборони TikTok у США, штрафи TikTok в ЄС."
+  },
+  {
+   "region": "Азія",
+   "note": "Штрафи TikTok у Південній Кореї."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка рішень для маркування та модерації ШІ-контенту відповідно до нових регуляторних вимог.",
+  "Створення інструментів та сервісів для творців, які допомагають адаптуватися до нових програм монетизації платформ (наприклад, оптимізація для Creator Fast Track або нових вимог YouTube Shorts) та підвищити ефективність монетизації.",
+  "Консультування медіакомпаній щодо антимонопольних питань та стратегій злиття/поглинання.",
+  "Інвестиції в технології, що дозволяють відрізняти людський контент від ШІ-генерованого для платформ, які надають перевагу людському контенту."
+ ],
+ "watch_next": [
+  "Подальші регуляторні ініціативи щодо ШІ-контенту та захисту неповнолітніх.",
+  "Реакція творців на оновлені програми монетизації Meta та YouTube, а також на зниження доходів від Reels.",
+  "Розвиток антимонопольних позовів щодо злиття Paramount-Warner Bros. Discovery.",
+  "Фінансові звіти інших великих гравців ринку відеодистрибуції та їхні інвестиції в ШІ.",
+  "Зміни в алгоритмах рекомендацій платформ, пов'язані з ШІ-контентом."
+ ],
+ "sources": [
+  {
+   "label": "24/7 Wall St.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKgVNC4AfCHNvicyJM9__01wSIsow9XDH1YbGVUNXWC8mwZ-4K09JonUIizYcVrQO2v9MKo2wawI6xcl8evyh0e0f41MNfMryJNdy5ZjCaWXNDllF2_OuvrscEbu0gOTOiXKbUj0nP_w=="
+  },
+  {
+   "label": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrfjrGIFxfQLT3dNJ6QsZFUsFSvYMOHVhyRgGDi-FU4ZhyoAN7R0DFvXFxsMCURXLFLy5PtgWupIUK-bT5hTtHoz1xt_L0DB8W-Cg7EJNS1C31rKLYLQf9Jsa4ZdwGly2btuhakyWZz2lBefYpZFcjjqyETxvv7WlbMRLz6Wj31gnBE94="
+  },
+  {
+   "label": "Meta Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfLPVHl41hm7gabsR9XemaH3szbxvQasBDbjeZqviXnSqBMhslJpPxLkKeqQFjI58YrM44CVhgRh_DJSZOpc0TVN8pJxuDENlbi1iTcz1ItWLVSJY1z2yyTxOlNimNYS2Z8nGdN4ObldeAl5lEOAYwuTJ0tId7NYO630WHlCWYdOtuIHB3w1_GP0gaofHPwmnW8U5hnB1XzbzYiFw4Vb-6Xi-YX1WyrbnSxf8-zY5LOLxXdr0X"
+  },
+  {
+   "label": "Engadget",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFXEmaAfxDlIuLIe7cHxgXyo0VgP6F2_p2vnBFp_H1veYSmX828NWDLYvf_SpnvawfyXOUsOTGN0n4qLmgW_Hxv-sQKGNm6o12-rxlSoCEBR4KqxY3abq5OAANX4iawD9l2BEU"
+  },
+  {
+   "label": "AP News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8lZilQ6zaaYldDP0k9BRwb0i66NFN5-251xk0pXorJtEA-qOsZUMZXWJLbCvUaSCqcIWjeccbv7hmIjdv4fKVZnCIbyP-ihycxS2fq287914Lj6wdlVTkcRoSkLxd0NR5P578tfPpusEVNvBtopIPd-6lxzPvaB8YK9lqSRJ33RFl31AFYwrTBNsNnPj31iQVY7C6Mf0V"
+  },
+  {
+   "label": "Wikipedia",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVYi0SJVDPHQBbODPWXnReepXH-rIAe1CHjtbvZm2E-MBE9ZGTw5swYYa714IbrlEGd4mVdl9J55Zlkg6XB-m0S03n76i6E5aa04SD-OTIfUS9rbIZ_NcDKH9Ju3wkoXJdqA3BM-MDTfbM5fPLWKfIolRTRI8R6T8m8Dir-0YHY87QA1OhHNiyd_-iig9WLk1e-MM5E2y9BB6zXAPe"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFtVArNCZ9QtzWXYffX_CanajxhveeBd4Gq7UO_v1SLi2ko_6o85a8HokzcuAJ3CBpjRAGdaggwR__KUL7b22Rdx4iZn5SbqtdzZvJgm5qKtfIDNL8zIt1vu1H-sSSBgrBgioKrp2CNKbV_Ju5QtGQGFy2IdiLb4aPgH1yINPIxGLJLjvMXuY="
+  },
+  {
+   "label": "The Business Journal",
+   "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQEDHEkNPcrQISCG6-YUDv76kaLLf42A2WXp6lqCU-OxGW8qPkNcaogxKdpptEway-op4vXJuOay59Hq91JGUlqb9Ml1KHy6vd0aA9Omv7l9rKTsIMLVb2bBKRh4e2ojVk0l66pG6q-rafXYODmO_j3a2iI0uuV4wOuojggQdkDtvCXn4w=="
+  },
+  {
+   "label": "The Indiana Lawyer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5WGpZ9QZL0zRUpj4P5qzj3XgqNN3DYRza992XvKMPvXllcklFoz1-ECogGng8S8n8yRIln4dhLz0M5XLX8Ac8HNiP4x5diUr_H2Dew1fiNy0HVcJZdM9q3kId9_GOrInh5Y9UWw3y7AaTrAU0Zc_-sUFXwFLmK7N3IkwegvWA7NUJAWe-8miYJLWzzlqTxKAUn0qsPQQtmL64kWK3EzE"
+  },
+  {
+   "label": "Exchange4Media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF99V2OWLTjFRBx9xR3lCIGFqrp-eHqSfA8sUwZzALfuSRDt6S8KHyrpOsRotnPPQ97k-lR0fB0GlmER9Ct_ihxdP26gk4-DnNAsWOHT7QGLjcBWbjYe6ABSUmiwI6atAt92dwgZv2Xb9g8sMQZ-EzBmHU52MohbvIhiN_1ZuZg300ynUWue-XpMm-VDn8uh7fTF64qDcpr48a6kCCH2-oZI7SUm8n1uEawlde6xzLAuy1G"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWK6DdIvndlC7-JlHhpVQ79vRG24ioYvXGZD1acYKvxyXBMVFTr5iDj4EoheYzY1tI2NK62RVE5sGrM6U1ULEBfCV6oA-ormB0bskkejoIy36s9z1dxTa3TR8HeHMG9oBIPXjlj1jue-z2_RcYJJ5MRSAh9RXbsH4wDOIhzfBPM6sdeFubWda3FrGppnfTZk4jPtaD_jTQMkFRd44j3qZTCgYG78WCuoN4s3OKcBrDKOpX6q2emke5YR_hp1zaow8XzRWTkqP4TY62Z6eWTBkuCGe-Q5K1z8XS65hYpuvQ"
+  },
+  {
+   "label": "Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf3KejMTFdqEWOQk3IMZip1xqJ7m2ePEHQE0jeP4oXGYhfVaIH0qzszOXxl6tJwML3mBt6smn13FP_DIssmR03ThpnAkQM3yuM46E_GQ2K18jAOOz17LEAJGoJ_8nyJB2dxcMTjCVnidJDSTgE_YrpTvhOHwmn-yQ1PtEnbAqsa3NkTw=="
+  },
+  {
+   "label": "Reddit",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3eO4G5datHq2cFaUgkB7l7hWpT00AqLnpxZ25HSrWhZGxO134uRpyHEuhfS0YuAXtpH9qpApTuvtLcajw_oBq-aEoDu-X4FSP-BEBybDe9QmiKbNj-07RXvGI-Cw845Ax2BzjFq2t0dyNOugd9RUoFjgZENU_BrCBknFrtL9p0TMs1MMkcuYxWe1Q484Vuzo9D8DPwvfDpkpr8bfTDnF"
+  }
+ ]
+}
