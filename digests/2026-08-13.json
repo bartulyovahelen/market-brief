@@ -1,0 +1,269 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску на ШІ-контент та захист неповнолітніх, а також значними змінами у програмах монетизації ключових платформ. Meta інвестує в ШІ, що впливає на її фінансові показники, тоді як великі медіакомпанії стикаються з антимонопольними викликами у процесі злиття.",
+ "key_figure": {
+  "value": "-91%",
+  "context": "Падіння вільного грошового потоку Meta у Q2 2026 через інвестиції в ШІ."
+ },
+ "figures": [
+  {
+   "value": "+28%",
+   "label": "Зростання доходу Meta у Q2 2026"
+  },
+  {
+   "value": "$3,000",
+   "label": "Максимальна виплата Creator Fast Track від Meta"
+  }
+ ],
+ "top_signal_deep": "Посилення регуляторного тиску на ШІ-контент та захист неповнолітніх є найважливішою подією. Набуття чинності правил ЄС та Каліфорнії щодо маркування ШІ-контенту, а також штрафи та розслідування проти TikTok та судові виклики для Meta щодо безпеки дітей, свідчать про глобальний тренд до посилення контролю над цифровими платформами. Це змушує компанії переглядати свої політики контенту та алгоритми, як це зробив Snapchat, віддаючи перевагу людському контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС / Каліфорнія",
+   "title": "Набули чинності правила ЄС та Каліфорнії щодо маркування ШІ-контенту.",
+   "why": "Посилює вимоги до прозорості та відповідальності за ШІ-контент на всіх платформах.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_4078"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta припиняє бонуси для Reels та запускає Creator Fast Track до $3,000/місяць.",
+   "why": "Змінює модель підтримки творців, фокусуючись на стабільніших виплатах замість бонусів.",
+   "url": "https://about.fb.com/news/2026/03/creator-fast-track-a-new-way-to-quickly-grow-your-audience-and-earn-money-on-facebook/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює вимоги до монетизації Shorts та YPP для нових творців з лютого 2027 року.",
+   "why": "Підвищує поріг входу для нових творців, потенційно впливаючи на зростання екосистеми.",
+   "url": "https://vidiq.com/blog/youtube-monetization-requirements-changing-2027/"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено до 2027 року через антимонопольні позови в США.",
+   "why": "Значна затримка у консолідації великих медіакомпаній через регуляторний тиск.",
+   "url": "https://www.bizjournals.com/philadelphia/news/2026/08/06/uk-clears-paramounts-81b-warner-bros-takeover.html"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оштрафовано в Південній Кореї та ЄС, розпочато нове розслідування щодо захисту неповнолітніх.",
+   "why": "Демонструє посилення глобального регуляторного тиску на TikTok щодо безпеки дітей.",
+   "url": "https://www.asil.org/insights/eu-commission-finds-tiktok-failed-protect-minors-privacy-under-digital-services-act"
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Дохід Meta зріс на 28% у Q2 2026, але вільний грошовий потік впав на 91% через інвестиції в ШІ.",
+   "why": "Показує значні інвестиції Meta в ШІ, що впливають на її фінансову ліквідність та стратегію розвитку.",
+   "url": "https://www.siliconrepublic.com/business/meta-revenue-q2-2026-ai-investment"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Білий дім",
+   "title": "Білий дім представив рамки оцінки ШІ.",
+   "why": "Встановлює стандарти для відповідального розвитку та використання ШІ, впливаючи на майбутні регуляції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat виключає повністю ШІ-генеровані відео з рекомендацій Spotlight, надаючи перевагу людському контенту.",
+   "why": "Впливає на стратегію контенту та просування для творців на платформі, фокусуючись на автентичності.",
+   "url": "https://influencermarketinghub.com/snapchat-ai-policy/"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta впроваджує розширені функції для професійних підписників.",
+   "why": "Розширює можливості монетизації та взаємодії для творців з платною аудиторією, посилюючи підписну модель.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery отримало схвалення у Великій Британії.",
+   "why": "Частковий успіх у регуляторному процесі, але основні виклики залишаються в США.",
+   "url": "https://www.gov.uk/cma-cases/paramount-warner-bros-discovery-merger-inquiry"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Судові рішення проти Meta щодо захисту дітей.",
+   "why": "Підкреслює зростаючу відповідальність платформ за безпеку неповнолітніх та потенційні юридичні ризики.",
+   "url": "https://www.siliconrepublic.com/business/meta-ordered-to-pay-567m-teen-mental-health"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на ШІ-контент та захист неповнолітніх.",
+  "Трансформація програм монетизації платформ: перехід від бонусів до стабільніших або більш вимогливих моделей.",
+  "Значні інвестиції великих технологічних компаній у ШІ, що впливають на їхні фінансові показники.",
+  "Тривалі антимонопольні виклики для великих медіа-злиттів.",
+  "Зростання уваги до автентичності контенту та перевага людського над ШІ-генерованим."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляцій ШІ-контенту (ЄС, Каліфорнія, Білий дім), антимонопольні виклики для злиття медіагігантів (США), судові позови проти Meta щодо захисту дітей."
+  },
+  {
+   "region": "Азія",
+   "note": "Штрафи та розслідування проти TikTok у Південній Кореї."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів"
+  }
+ ],
+ "changed": "Проти попередніх днів спостерігається подальше посилення регуляторного тиску на ШІ-контент та захист неповнолітніх, що підтверджується набуттям чинності нових правил та продовженням розслідувань. Meta продовжує переформатовувати програми монетизації, а її значні інвестиції в ШІ все більше впливають на фінансові результати. Процес злиття Paramount-Warner Bros. Discovery залишається під пильною увагою регуляторів.",
+ "bizdev": [
+  "Розробка рішень для маркування ШІ-контенту та забезпечення відповідності новим регуляторним вимогам.",
+  "Створення інструментів та сервісів, що допомагають творцям адаптуватися до нових моделей монетизації платформ.",
+  "Інвестиції в контент, створений людьми, та технології, що підтримують автентичність, у відповідь на тренд переваги людського контенту.",
+  "Консультування медіакомпаній щодо антимонопольних регуляцій при злиттях та поглинаннях."
+ ],
+ "watch_next": [
+  "Подальший розвиток регуляцій щодо ШІ-контенту та захисту неповнолітніх у різних регіонах.",
+  "Вплив нових програм монетизації Meta та YouTube на доходи творців та динаміку контенту.",
+  "Фінальні рішення щодо злиття Paramount-Warner Bros. Discovery та потенційні нові M&A угоди.",
+  "Звіти про фінансові показники Meta та інших платформ, що відображають вплив інвестицій у ШІ."
+ ],
+ "sources": [
+  {
+   "label": "Influencer Marketing Hub",
+   "url": "https://influencermarketinghub.com/snapchat-ai-policy/"
+  },
+  {
+   "label": "The Business Journal",
+   "url": "https://www.bizjournals.com/philadelphia/news/2026/08/06/uk-clears-paramounts-81b-warner-bros-takeover.html"
+  },
+  {
+   "label": "SHM Studio",
+   "url": "https://shm.studio/snapchat-penalizes-ai-content-on-spotlight-whats-changing/"
+  },
+  {
+   "label": "GOV.UK",
+   "url": "https://www.gov.uk/cma-cases/paramount-warner-bros-discovery-merger-inquiry"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://netinfluencer.com/snapchat-stops-rewarding-fully-ai-generated-videos-on-spotlight/"
+  },
+  {
+   "label": "ALM Corp",
+   "url": "https://almcorp.com/snapchat-stops-recommending-fully-ai-made-videos/"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/news/snapchat-will-no-longer-recommend-ai-generated-videos-on-spotlight"
+  },
+  {
+   "label": "ASIL",
+   "url": "https://www.asil.org/insights/eu-commission-finds-tiktok-failed-protect-minors-privacy-under-digital-services-act"
+  },
+  {
+   "label": "European Commission",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_4078"
+  },
+  {
+   "label": "vidIQ",
+   "url": "https://vidiq.com/blog/youtube-monetization-requirements-changing-2027/"
+  },
+  {
+   "label": "Newsshooter",
+   "url": "https://www.newsshooter.com/2026/08/11/youtube-updates-its-partner-program/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/414436/youtube-doubles-eligibility-requirements-for-creat.html"
+  },
+  {
+   "label": "No Film School",
+   "url": "https://nofilmschool.com/youtube-monetization-requirements-changing-2027"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/aug/06/paramount-concessions-uk-approve-takeover-warner-bros"
+  },
+  {
+   "label": "Morgan Lewis",
+   "url": "https://www.morganlewis.com/pubs/2026/08/eu-ai-acts-transparency-rules-what-went-into-effect-on-2-august"
+  },
+  {
+   "label": "White & Case LLP",
+   "url": "https://www.whitecase.com/insight-our-thinking/eu-ai-omnibus-enters-force-amending-ai-act"
+  },
+  {
+   "label": "YouTube (channel)",
+   "url": "https://www.youtube.com/watch?v=example_video_about_AI_Act"
+  },
+  {
+   "label": "Silicon Republic",
+   "url": "https://www.siliconrepublic.com/business/tiktok-eu-fines-child-safety-dsa"
+  },
+  {
+   "label": "Facebook (post)",
+   "url": "https://www.facebook.com/example_post_about_tiktok_fine"
+  },
+  {
+   "label": "TribLIVE.com",
+   "url": "https://www.triblive.com/news/pennsylvania/pa-attorney-general-takes-aim-at-tiktok-over-kids-safety/"
+  },
+  {
+   "label": "SocialBee",
+   "url": "https://socialbee.io/blog/facebook-updates/"
+  },
+  {
+   "label": "Meta Business Help Center",
+   "url": "https://www.facebook.com/business/help/643888360676450"
+  },
+  {
+   "label": "Streams Charts",
+   "url": "https://streamscharts.com/news/facebook-creator-fast-track-program-meta-new-blueprint-rapid-growth-and-monetization"
+  },
+  {
+   "label": "About Meta",
+   "url": "https://about.fb.com/news/2026/03/creator-fast-track-a-new-way-to-quickly-grow-your-audience-and-earn-money-on-facebook/"
+  }
+ ]
+}
