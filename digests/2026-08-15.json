@@ -1,0 +1,239 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в програмах монетизації ключових платформ, посиленням регуляторного контролю за великими медіа-угодами та вирішенням питань власності TikTok у США. YouTube подвоює вимоги до монетизації для нових творців, тоді як Meta оновлює свої програми для Reels, а TikTok змінює алгоритми та програму винагород для творців.",
+ "key_figure": {
+  "value": "+28%",
+  "context": "Зростання доходу Meta Platforms у Q2 2026 року, що склало $60.80 мільярдів."
+ },
+ "figures": [
+  {
+   "value": "$60.80 млрд",
+   "label": "Дохід Meta Q2 2026"
+  },
+  {
+   "value": "+55%",
+   "label": "Зростання витрат Meta Q2 2026"
+  },
+  {
+   "value": "20 млн",
+   "label": "Нові вимоги YouTube Shorts для YPP"
+  },
+  {
+   "value": "8,000",
+   "label": "Нові вимоги YouTube Watch Hours для YPP"
+  },
+  {
+   "value": "до 20 разів",
+   "label": "Потенційне зростання винагород у TikTok Creator Rewards Program"
+  }
+ ],
+ "top_signal_deep": "YouTube оголосив про суттєве посилення вимог для нових творців, які бажають приєднатися до Партнерської програми (YPP), починаючи з 1 лютого 2027 року. Новим учасникам знадобиться 8 000 годин перегляду (з 4 000) або 20 мільйонів переглядів Shorts (з 10 мільйонів) протягом 90 днів для монетизації реклами та YouTube Premium. Ці зміни спрямовані на забезпечення сталості програми та інвестиції в нові стимули для творців, але можуть ускладнити вхід для менших каналів. Водночас YouTube розширює програму Premium Lite та впроваджує нові програми заохочення для Shorts, включаючи бонуси за покупки та партнерські угоди з брендами.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  },
+  {
+   "label": "Продукт",
+   "n": 0
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює вимоги до монетизації Shorts та YPP для нових творців",
+   "why": "Впливає на поріг входу та потенційний дохід для нових творців, змінюючи ландшафт монетизації на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjn5iqk7QeOgxr7cyDB59AOgf8IemkATLlEbkb_ToeYWiND0JUKNY0xsZracVF8vsJKE1IdcYN0QYAJn28XQ1_zHeE4qKmcW7bUxA0p0liFLRKHcmzeJcMvvfFfvCHI42xHEhy2g=="
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery відкладено, Paramount погрожує покинути Голлівуд",
+   "why": "Вказує на посилення регуляторного контролю за великими медіа-угодами та потенційні наслідки для індустрії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV35865jbuv1nmdEq4NsFTc8y4i8b3eC4Kz8I-3d1REPeFbtuZfxKUSjUg6EOx72LQ4BDUgZS9xg5CWKRfUQoRv3OcyGlXl1U6xsv8HN30Rpyq5gmt1tnugenv27t5Z4LnPxDlkAq_eofq7AhVlY_fVQ8wfSVOlgZLYWRJ7jahw4_AO8fYPNBij9g8ZMKZ__i3ynVF7dVbUT_lpuQL_Wp9EXvhMo7GhQjiuiJkI9K2VfurwNx-3h4qaIxeIixzIBAjKsgrP-8m5Rw5vgRy2Q=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Білий дім скасував заборону TikTok на державних пристроях США після зміни власності",
+   "why": "Вирішує давні регуляторні питання щодо безпеки даних та іноземного впливу, впливаючи на доступність платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPwRvyvaL6x6QiqXlMUzbj0qgNZSDE9r_n_lNdMDc-9V1r2OLvOGxxwvPc2ClRwVrhezrOTLQT94YGPdOEZmNeSyLH-yXzWWD18-oQ7aGBNu6MU6dZWIwENQYuaxRi2fqfR0J29CKP8-fnIgwcMOgaCZn14KRJfhT338Q665Vm6Bos-qWpVRO7cNuXCFaG2dAg64eJo99exGBHOHMPFWuV7IPig=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оновлює програми монетизації Reels та запускає Creator Fast Track",
+   "why": "Змінює стимули для творців контенту на платформі, переходячи від загальних бонусів до цільових програм.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERXGuHW-MwClv417JIgvBlTomM6HtXEblzCEf_bjQoUgF3hQvMiRQnzWe2vi4t7xew0OmYsl2VxMRt-qqnt5mZcaLsUxb4WhDRM87Kjqf5lmLnxGzy1mZMdOKQ-NbMPsB_QJL6zI52k_WYaeqEusB9eUtDVlh2ZbQykgRvx4jgSMTQgppGSDX_"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив алгоритм для легшого вірусного поширення контенту",
+   "why": "Надає нові можливості для зростання менших каналів та впливає на стратегії створення контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-2ECFKP7E17TC__PWX8V4nmmbODaXfRBPf1ImUYRQ65lRVCTh32PkBGHqPMGodVUWbiRDTgrk6CYQS-CiRn4sk6AnmITJxYNXGuHR1xbU5CoeJd-teGJIM6SkmVqP4dR7Alq4KQ=="
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Fund замінено на Creator Rewards Program",
+   "why": "Стимулює створення високоякісного, оригінального та довшого контенту, пропонуючи значно більші винагороди.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGXcogqfuOwR3cOTm1YVIk2T4_9lVBLr_SJZoFs6d9ext2h7ibAzMai0763kqLLHzxHyp33eiBNdHdvR8LFSXuMEanT4bBQK6SexWsbynu57f3iqCwadPahHy6qtRWKqDvVlRwG6-uVxoBPhF9eh_UX6NDTqi6KEGYYdT0Enu9r3dgbze7Cm2dpF0t9bgomxL2pCCmSNtbdcQqc7K9mYXEToA=="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на платформи щодо ШІ-контенту та захисту неповнолітніх, що призводить до змін у політиках та алгоритмах.",
+  "Еволюція програм монетизації для творців на ключових платформах (YouTube, Meta, TikTok) з акцентом на якість, оригінальність та довгострокову стійкість.",
+  "Тривалі антимонопольні виклики для великих медіакомпаній у процесі злиття, що підкреслює зростаючий контроль з боку регуляторів.",
+  "Значні інвестиції в ШІ з боку великих технологічних компаній (наприклад, Meta), що впливають на їхні фінансові показники та стратегічний розвиток."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Ключові зміни в монетизації YouTube та Meta, триваючі антимонопольні виклики для Paramount-Warner Bros. Discovery, а також вирішення питання власності TikTok у США."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok продовжує оновлювати свою програму винагород для творців та алгоритми, що впливає на стратегії контенту в регіоні."
+  },
+  {
+   "region": "CIS",
+   "note": "Антимонопольний комітет України дозволив злиття Paramount Skydance Corporation і Warner Bros. Discovery, що є важливим процедурним кроком для присутності цих медіагігантів у регіоні."
+  }
+ ],
+ "changed": "Проти попередніх днів спостерігається подальша конкретизація та набуття чинності деяких змін: YouTube офіційно оголосив про подвоєння вимог до YPP з лютого 2027 року, а також розширення Premium Lite та нові стимули для Shorts. Також з'явилася інформація про погрози Paramount перенести бізнес з Голлівуду через судові позови щодо злиття. Вирішення питання власності TikTok у США та скасування заборони на державних пристроях є значним зрушенням.",
+ "bizdev": [
+  "Розробка стратегій для творців щодо адаптації до нових, підвищених вимог монетизації на YouTube, зосереджуючись на довгостроковому контенті та Shorts.",
+  "Вивчення можливостей співпраці з Meta через програму Creator Fast Track для залучення та монетизації існуючих аудиторій з інших платформ.",
+  "Моніторинг регуляторних змін щодо ШІ-контенту та захисту неповнолітніх для забезпечення відповідності та розробки етичних практик дистрибуції.",
+  "Аналіз впливу зміни власності TikTok на його контентну стратегію та алгоритми для оптимізації дистрибуції в США та інших регіонах."
+ ],
+ "watch_next": [
+  "Подальший розвиток антимонопольних позовів щодо злиття Paramount-Warner Bros. Discovery та рішення Paramount щодо перенесення операцій.",
+  "Вплив нових вимог YouTube YPP на динаміку зростання нових творців та ефективність нових програм заохочення для Shorts.",
+  "Реакція ринку та творців на оновлені програми монетизації Meta Reels та їхній довгостроковий вплив на залучення контенту.",
+  "Можливі подальші регуляторні ініціативи щодо ШІ-контенту та захисту даних на глобальному рівні."
+ ],
+ "sources": [
+  {
+   "label": "Meta Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1ExpIhLKZPFJSMtoSumnLlDakF9CoweidtvHBbWt9qCUvBfukufksnCkTT0XEOv7Ulndnfxsr3K26pEXezGXTt7A4EbziDVA3XQX0c9VriVq-uJ_NtZUaqNlJT6E1IZHNa9pAfSlTnghMPt6wDvP8SAlpUtMmTJhcmH1nXVW5FKNllX9qVf8O57xXmkPbTgCyrCzJMceEs3fAv3Z2PnsffZHYomohH6NcjtqbQ5I12mO3tDM="
+  },
+  {
+   "label": "Pluang",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0coLIWeimloKYUYvrU_bBppdtU7XgiRqR0WwPurdS97XP1g2LJTiyvczFu1cpHTC_he0sNN49YDv2OrB7UnxDkm5Duh9uYM2kx-ComF4s8ngry_Hn4FUstAdk9CbRxYLJrSO7hlclfycOsOk5qpYuXKPltSxfd7BUwqX-glrjVCzkQg=="
+  },
+  {
+   "label": "Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFfEC_MkDDUTX4k5UVXntRJdpNLjrbTzcUO0O1RULXcKttJl3ITUg7QbtjIGcV34ZPcc-PhGdW1k3huHPvk1Mjm0LWuGYxR0mogaUZOtqG0C0HMsu6wBj37gMPSokysefczSHRzmE8f64pRco8eZ8k5zsBYnhbtTB_DLuCwh4sB4C70Sny-Y0iY_viGFh-FBCDFPkiOaIXzac5kJOTJ6aVZmdFbVTnEulk_0="
+  },
+  {
+   "label": "Суспільне | Новини",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV35865jbuv1nmdEq4NsFTc8y4i8b3eC4Kz8I-3d1REPeFbtuZfxKUSjUg6EOx72LQ4BDUgZS9xg5CWKRfUQoRv3OcyGlXl1U6xsv8HN30Rpyq5gmt1tnugenv27t5Z4LnPxDlkAq_eofq7AhVlY_fVQ8wfSVOlgZLYWRJ7jahw4_AO8fYPNBij9g8ZMKZ__i3ynVF7dVbUT_lpuQL_Wp9EXvhMo7GhQjiuiJkI9K2VfurwNx-3h4qaIxeIixzIBAjKsgrP-8m5Rw5vgRy2Q=="
+  },
+  {
+   "label": "Forbes.ua",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH48mQiX-wfbwbUyr9R-E06WegzjgltL3yCIEzSWoJdDuVciJq5tEoDGaloOtDsozURwsVEkCJhb2doUKsWi5sqxlSRBUhxboATC6P7WZOfl96mia2L5soxObUtLJDytcW2ax1wzEebHbGEjzmS8BO7FoMGiv4audb5bUqU8gkPuhClA8bdJYDNEhEbPPz07QcwKt3YwcKc4H6NcjtqbQ5I12mO3tDM="
+  },
+  {
+   "label": "Agencies.co",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4vQFXFo3VBLsOu3hPgD-3_TOiVI4m6vz3hplnTEk5HsZeTFZaf6KEtjY3q49qkVq26woyB5eUoGG3Se_1J50SiTc9fu0lIuJgXK3g58zGFQMmkNP9qxpoccHyo3mGKos8yKKU876Xg_T3T6ir_wuzCXv_sOMxytNFsYNFYeAoFydROBBLIzUGGGAEn5ST"
+  },
+  {
+   "label": "NBC News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyRarC2FvIPfbugsRPStmB6rUL943DujAQiFHUPw6XZsDDxD6UhMdZLudm54TmIrB9VBRAqAQ_NhcJhoKIB4RA86WWCi5sMMn0hH4mzrZnQ-GJLF95oxxiz5mN5ScKPXvFqoo31MHTpFAP7WHErulIujFKsLt4Xs8julvwY2v3NKbb-Si-951w5wtjZEq5aLTiO1-w"
+  },
+  {
+   "label": "Obozrevatel",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4s95tG0Kyn071J5uPj_suPpVTeW3cNpzQqupTkgl4cZzx6omVqcyx94IT_cokndfCQFbn6bfeeQGzjM3gvNrARjf2RFYBBBUBafU7SXTzI8IidJ43cOyYLsuSdV3WjPYTrDjoVoG-WQRR2aZEQJrGXT2ct02edqXXQKu4b8hJMr8WNoQ2xgKE6dQXj_oOy2TGCKRjesBnNlhIBtVFDcXABJ4x5JMu12K0vP7p_l5i9hD6_j-yI7QJLJ6BuWmoXRT4rNsVfFCA3w9-d1m_a0JuDWN9"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfDSXFjlqngVMDk3INwS5GqkwbByRcG0G19MmRpABDT1OgdIThfZpNScMRepI9FwYGvcWg1MUNLhv8JjiAsue-239rjBaz52OzKpx3wuU2QYPFHgDeczV4mf4U_CLIApvK3tFqS4037Sl6qH650RbeOR_xZ3DDfnhxzgTh7KTFYvVF63h6L-1PxkacckuxAMRhQgWFiX7U8hG7J_D7FGbFjfXrHABzRLSE7NZnXRN76zwKQqI="
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6_Sm37cdOqZlQzSzhc5bijtkNJ6TP9lOKnGftvzHOGftvu1hqWw9mNDuHKNqwa2-FzszycHtz2q3QsjoFhfIUZygOtIfQpoR6PTOY7sWmcDLPeYsvr8euLJdGLl-D473VqEhNG8GVbcGO17PvXEBTUs3wtir3438p8H08jO7Yn1-h22KPFsJC11fPBwvAoyWVESg6wgLhmw8="
+  },
+  {
+   "label": "YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjn5iqk7QeOgxr7cyDB59AOgf8IemkATLlEbkb_ToeYWiND0JUKNY0xsZracVF8vsJKE1IdcYN0QYAJn28XQ1_zHeE4qKmcW7bUxA0p0liFLRKHcmzeJcMvvfFfvCHI42xHEhy2g=="
+  },
+  {
+   "label": "Mashable",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXMc9-ZNtZdhlhHdQwz6kA26m2L-m1-sVW-KEeBf9tOEDRFmwLqmoniTaJFbQmSp-_CBHxAyAl2sVI0isTKjo2bbikwU8lOfzIR6zDzWjjOHQsRflK99RYAsAyqe3BmGG_loVe4Wx-BERLJmPg3NcmjHrU8H1pFyb97w733kKTwc8hNUPd"
+  },
+  {
+   "label": "Google Help",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWtiH27qAexdhJOdq-tci4Z5R3yg7zl9u8miv0e0EU4FG6ZcCT5x5ziozAlyX9MBlapK0s0I_30CMfRfJN-89y3OLIO7O_CsLgEKaMW1pibJzvbvLQMcpfXAj11U-T57VIbyEbrV_J6v_IzEc="
+  },
+  {
+   "label": "Cambridge Analytica",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_09FwPHHsK45uTADa6O-EGd9hZaOSaFZKv_Mkr_A-3yMJQnUbNM_VLbzZ4gcvfBhvBXXM5MMvlU4d7BYoL6XE5OSHRNINpxvaDCeWUxllYkIB2MFCKO4vt7DqwT7xcGAtD5TNCQJ-WwsKyBeoNewDPawcDFEEtphKFQOZfR0KiHl6HUpSdXkljzow-qWKjbFt5b2XuQWXIav1LIAWWCda"
+  },
+  {
+   "label": "ШТАБ.INFO",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzXDVAxi-pcZtqQRTDGIcbHscvIbD6aWH9thg7kBmodDjKMLoPJt89t4owZhK5NrRbPKjQyesuCCriX9UkppQziH0HesoKenUyFbzaWKkuwRtt24Pz72COwb6ndrhGfRNse26UPVZLkATNehOHYLPecxY7jclavpzWXzG4HKveY0ykTMNQwCUGeFVjt4vUSwZ93Bdiir4A6MoD2PZuCsYP4guIMdRXMHcroKvk9SQu6Mbs4Zx3cQ=="
+  },
+  {
+   "label": "The American Bazaar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEynTXT0qsmqDxBmTjGQ1__SI0Jaw0UbzjwxH6LPV66OJa41Yh2oygjYx8hfkjqSFe_-5Bca0XeLww86FY5Sxp2SCYr5CBDENjsDd-wkafr1oB4kDXdbWY8kqcmjlvHwuOHj_2_JPM9zmeR4ojTgrjqeczBTbHqZA47ru1jLmuYYgzcxRwtpOxQnZ7rY1Qyqge5Q1yx72Q-0XZSg7Y2wJkVkZpdMy9ylvlrBPmJgSN5aQ=="
+  },
+  {
+   "label": "TikTok Support",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYirk_e0MxbD8WyjRFAokU2K3UxFGdc7uWCydqTILkwCkbHPy77CcLyDJl9KesxAWL1TV8ynZPcnT2jfYuomqAr3sSwoiiBpy0ZpFUSFR6fddxOZrlhBToiMpCubeBQLcko3gKXN465SBLMIZqUcT3Qb6qCtH0Epwz4bDSKleSlSVE_mXIheUAOz7C86KzV2LxdD5GjlL9_1pa5bNZASsOWg=="
+  },
+  {
+   "label": "PCMag",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7X2vbhiWoku_0KpxwrhKoXeJSB_AOYXI9mGhZY7707YYf7qpAq2oeN1SVq-u7MZKSlEXhtoelXkhB3bcpu5MozK45VT7QQM_9RJDIjMd9vPxPWZCsJYT70cm_KS10RKXaNrQCEeZMRquPfueDnjvS8vBNgMFVGsRfsBXtmgqHg-q8aLaHiSy38d40="
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGXcogqfuOwR3cOTm1YVIk2T4_9lVBLr_SJZoFs6d9ext2h7ibAzMai0763kqLLHzxHyp33eiBNdHdvR8LFSXuMEanT4bBQK6SexWsbynu57f3iqCwadPahHy6qtRWKqDvVlRwG6-uVxoBPhF9eh_UX6NDTqi6KEGYYdT0Enu9r3dgbze7Cm2dpF0t9bgomxL2pCCmSNtbdcQqc7K9mYXEToA="
+  },
+  {
+   "label": "Android Headlines",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFTJbZWkyT7jP_kY34_1mkMz-vwkX8GNc9imrt4ppj85m9hW4H-gFTQ71ULEmhYpaFAGQWJ_uUz45L-QkoecD5OsEQekHA_irIYcC3kWPMT3BBVMXmEd4t0n8Uh_0YYjfCTR8DMPtXEuRfuhbudKzn0ZeIguOxfvjp1VHNZc_dJipOKdre1YuvrI5e6Tq0-trvmjHp5z4="
+  },
+  {
+   "label": "vidIQ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEDLka7P5gLfa54Shu285Y5LMX1_T0K4at8M53coypm_5BrKCf80hQeU_QL-4nTo7VaH_Uzr1STSGhINsQT3oM_usUddpHPXeIgENLhlO4FY6jwvmcf-cQGHr2ASQCImGe3ejysx0U2Nia10a4gXRtQKQPnrxFA6XvN0g="
+  },
+  {
+   "label": "The Straits Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe0BvpRPiMMs0efBU8Q0VctrLrgDYbDymsZvYgCQfx-kFHdvQ4uWAuMPi3eZUp7itfyN7zf4SmvDTqxB07CWQBdU89n9VWdHWJmVAZoJid84CXluE62v9eRPKQKXpW4UBdFtXGlbQXAHciLtelGkszt0NgsaliJ7pabUavD_alFZrLErJj1SwkLYiODB1_FAMV96m2uqFwh1cT0LoA_jM7pHe0gog="
+  },
+  {
+   "label": "Amra & Elma",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4dCvr5PyGV1tNvO6fNkFSAHIGc4Hkibb6EeXDlud-e6_YUj3M7pcJyLDb4PP2SBF31lZD7v8h3Y69Yg3omaqiJogbgHGVQPC97NuM0B-wf-dedd0zeeCeBp1Pdx73mtfDI_9pLsTQ1e18-87tWBNUJ40fL7A="
+  }
+ ]
+}
