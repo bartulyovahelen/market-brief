@@ -1,0 +1,230 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значними змінами в монетизації для творців на ключових платформах, посиленням регуляторного контролю за ШІ-контентом та триваючими антимонопольними викликами для великих медіа-злиттів. YouTube та TikTok подвоюють вимоги та переглядають програми винагород, тоді як ЄС та Каліфорнія запровадили обов'язкове маркування ШІ-контенту. Bilibili розширив свою глобальну присутність, запустивши міжнародний додаток.",
+ "key_figure": {
+  "value": "+28% / -91%",
+  "context": "Дохід Meta зріс на 28% у Q2 2026, але вільний грошовий потік впав на 91% через значні інвестиції в ШІ."
+ },
+ "figures": [
+  {
+   "value": "$3,000/місяць",
+   "label": "Максимальний бонус Creator Fast Track від Meta"
+  },
+  {
+   "value": "10,000",
+   "label": "Мінімальна кількість підписників для TikTok Creator Rewards"
+  },
+  {
+   "value": "100,000",
+   "label": "Мінімальна кількість переглядів за 30 днів для TikTok Creator Rewards"
+  },
+  {
+   "value": "$110 млрд",
+   "label": "Оцінка злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$7 млн/день",
+   "label": "Щоденна 'ticking fee' Paramount за затримку злиття"
+  },
+  {
+   "value": "$7 млрд",
+   "label": "Штраф за розірвання угоди Paramount-WBD"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією є посилення вимог до монетизації та перегляд програм винагород для творців на ключових платформах. YouTube подвоює критерії для Shorts та YPP, Meta оновлює програми Reels та запускає Creator Fast Track, а TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами, але суворішими умовами. Це свідчить про зрілість ринку, де платформи прагнуть залучати якісніший контент та оптимізувати свої витрати на винагороди, що створює виклики та нові можливості для професійних творців контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та YPP для нових творців з лютого 2027 року",
+   "why": "Змінює умови входу для нових творців, впливаючи на стратегії зростання та доходу.",
+   "url": "https://briefify.ai/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами та жорсткішими вимогами",
+   "why": "Переформатовує систему винагород, стимулюючи створення якіснішого та довшого контенту.",
+   "url": "https://www.toptal.com/tiktok/tiktok-creator-rewards-program"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook & Instagram",
+   "title": "Meta оновлює програми монетизації Reels, запускає Creator Fast Track до $3,000/місяць та уніфікує Content Monetization Program",
+   "why": "Спрощує та розширює можливості заробітку для творців на своїх платформах.",
+   "url": "https://artha.link/facebook-reels-monetization-2026-requirements-eligibility-how-to-earn/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "EU / California",
+   "title": "Набули чинності правила ЄС та Каліфорнії щодо обов'язкового маркування ШІ-контенту",
+   "why": "Встановлює нові стандарти прозорості та відповідальності за контент, створений ШІ.",
+   "url": "https://minfin.com.ua/ua/2026/06/19/7342796/"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з антимонопольними позовами в США, незважаючи на глобальне схвалення",
+   "why": "Створює невизначеність для великого медіа-гравця та впливає на конкурентне середовище.",
+   "url": "https://www.mediapost.com/publications/article/414349/paramount-to-delay-warner-bros-discovery-merger.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili запускає міжнародний додаток з автоматичним перекладом",
+   "why": "Розширює глобальну присутність китайського відео-гіганта, посилюючи конкуренцію.",
+   "url": "https://blitz.bg/tehnologii/kitayskiyat-konkurent-na-youtube-izliza-na-svetovniya-pazar-bilibili-puska-mezhdunarodno-prilozhenie-s-poddrazhka-za-novi-regioni_news1168104.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив алгоритм для легшого вірусного поширення контенту",
+   "why": "Впливає на охоплення контенту та стратегії творців для досягнення аудиторії."
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Фінансові показники Meta: зростання доходу на 28% у Q2 2026, але вільний грошовий потік впав на 91% через інвестиції в ШІ",
+   "why": "Відображає значні інвестиції в ШІ та їхній вплив на фінансову стабільність компанії."
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat Spotlight надає пріоритет автентичному, створеному людиною контенту",
+   "why": "Змінює підхід до рекомендацій, зменшуючи видимість синтетичного ШІ-контенту.",
+   "url": "https://newsroom.snap.com/still-spotlight-but-still-real/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video анонсував нові серіали та фільми на серпень 2026",
+   "why": "Оновлення контентної бібліотеки для залучення та утримання підписників.",
+   "url": "https://www.aboutamazon.com/news/entertainment/whats-new-on-prime-video-in-august-2026"
+  }
+ ],
+ "trends": [
+  "Посилення вимог до монетизації та переформатування програм винагород для творців на провідних відеоплатформах.",
+  "Зростаючий регуляторний контроль за контентом, створеним штучним інтелектом, з акцентом на прозорість та маркування.",
+  "Триваючі антимонопольні виклики для великих медіа-злиттів, що створюють невизначеність на ринку.",
+  "Глобальна експансія азійських відеоплатформ та їхній фокус на технології перекладу для міжнародної аудиторії.",
+  "Інвестиції в ШІ впливають на фінансові показники великих технологічних компаній."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "США та ЄС активно впроваджують регуляції щодо ШІ-контенту та розглядають антимонопольні справи щодо великих медіа-злиттів."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою присутність на міжнародному ринку, запускаючи додаток з автоматичним перекладом."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються ринку відеодистрибуції, за останні 7 днів."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, ключовою зміною є офіційний запуск міжнародного додатку Bilibili з функцією автоматичного перекладу, що посилює глобальну конкуренцію. Також відбулося подальше уточнення деталей щодо антимонопольного судового процесу навколо злиття Paramount-WBD, включаючи початок етапу збору фактів.",
+ "bizdev": [
+  "Розробка інструментів та сервісів для допомоги творцям у відповідності до нових, суворіших вимог монетизації на YouTube, Meta та TikTok.",
+  "Створення рішень для автоматичного маркування та перевірки ШІ-контенту для медіакомпаній та платформ, щоб відповідати новим регуляціям ЄС та Каліфорнії.",
+  "Партнерство з азійськими платформами, такими як Bilibili, для виходу на нові ринки та використання їхніх технологій перекладу.",
+  "Консультування медіакомпаній щодо антимонопольних ризиків та стратегій злиттів/поглинань."
+ ],
+ "watch_next": [
+  "Розвиток антимонопольної справи щодо злиття Paramount-Warner Bros. Discovery та можливі рішення суду.",
+  "Фінансовий звіт Bilibili за Q2 2026 (27 серпня), який може дати уявлення про стратегію компанії.",
+  "Подальші оновлення політик монетизації та алгоритмів від YouTube, Meta та TikTok.",
+  "Вплив нових регуляцій щодо ШІ-контенту на виробництво та дистрибуцію відео."
+ ],
+ "sources": [
+  {
+   "label": "BriefifyAI",
+   "url": "https://briefify.ai/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "label": "Toptal",
+   "url": "https://www.toptal.com/tiktok/tiktok-creator-rewards-program"
+  },
+  {
+   "label": "artha.link",
+   "url": "https://artha.link/facebook-reels-monetization-2026-requirements-eligibility-how-to-earn/"
+  },
+  {
+   "label": "Мінфін",
+   "url": "https://minfin.com.ua/ua/2026/06/19/7342796/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/414349/paramount-to-delay-warner-bros-discovery-merger.html"
+  },
+  {
+   "label": "Blitz.bg",
+   "url": "https://blitz.bg/tehnologii/kitayskiyat-konkurent-na-youtube-izliza-na-svetovniya-pazar-bilibili-puska-mezhdunarodno-prilozhenie-s-poddrazhka-za-novi-regioni_news1168104.html"
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://newsroom.snap.com/still-spotlight-but-still-real/"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://www.aboutamazon.com/news/entertainment/whats-new-on-prime-video-in-august-2026"
+  },
+  {
+   "label": "Market Chameleon",
+   "url": "https://marketchameleon.com/PressReleases/Bilibili-to-Unveil-Q2-2026-Results-Investors-Prepare-for-August-27-Earnings-Update"
+  },
+  {
+   "label": "Earnings Whispers",
+   "url": "https://www.earningswhispers.com/stocks/bili/pressrelease/2026-08-06/bilibili-inc-to-report-second-quarter-2026-financial-results-on-thursday-august-27-2026"
+  },
+  {
+   "label": "Cord Cutters News",
+   "url": "https://cordcuttersnews.com/californias-lawsuit-against-paramount-starts-an-important-new-phase-this-week-here-are-all-the-important-dates-you-need-to-know/"
+  },
+  {
+   "label": "Forbes",
+   "url": "https://www.forbes.com/sites/marisadellatto/2026/08/14/paramount-seeks-settlement-with-12-states-blocking-its-merger-with-warner-bros/"
+  },
+  {
+   "label": "Simmons & Simmons",
+   "url": "https://www.simmons-simmons.com/en/publications/alrts/2026/ai-view-august-2026"
+  }
+ ]
+}
