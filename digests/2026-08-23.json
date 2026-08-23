@@ -1,0 +1,216 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного контролю за ШІ-контентом, значними змінами в монетизації для творців на ключових платформах, а також триваючими антимонопольними викликами для великих медіа-злиттів. Bilibili активно розширює свою глобальну присутність, посилюючи конкуренцію на міжнародному ринку.",
+ "key_figure": {
+  "value": "майже $3 млрд",
+  "context": "Meta виплатила творцям у 2025 році за контент на своїх платформах, включаючи Reels та інші формати."
+ },
+ "figures": [
+  {
+   "value": "$110 млрд",
+   "label": "Оцінка злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "CN¥7,472.04 млн",
+   "label": "Дохід Bilibili за Q1 2026"
+  },
+  {
+   "value": "CN¥209.78 млн",
+   "label": "Чистий прибуток Bilibili за Q1 2026"
+  },
+  {
+   "value": "$0.40 - $1.00",
+   "label": "Виплати TikTok Creator Rewards Program за 1000 кваліфікованих переглядів"
+  },
+  {
+   "value": "$0.30 - $5.00",
+   "label": "Виплати Facebook Reels за 1000 переглядів (RPM)"
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount та Warner Bros. Discovery вартістю $110 млрд продовжує стикатися зі значними антимонопольними викликами в США, незважаючи на глобальні регуляторні схвалення. Каліфорнія та 11 інших штатів подали позови, прагнучи заблокувати угоду, посилаючись на потенційне зменшення конкуренції та шкоду для споживачів. На 24 серпня 2026 року заплановані переговори між Paramount та офіційними особами штату Каліфорнія щодо можливого врегулювання. Ця ситуація є критичною для майбутньої структури медіаринку, оскільки затримка угоди до 30 вересня призведе до щоквартальної виплати 'ticking fee' у розмірі $650 млн, а повний розрив угоди обійдеться Paramount у $7 млрд штрафу.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount, Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з критичними переговорами щодо врегулювання в Каліфорнії",
+   "why": "Вирішальні переговори можуть визначити долю злиття вартістю $110 млрд, що має значний вплив на конкуренцію та ринок відеодистрибуції.",
+   "url": "https://www.mint.com/company-business-news/paramount-and-california-to-hold-preliminary-talks-on-monday-over-warner-bros-deal-report-111724398103362.html"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok розширює програму Creator Rewards Program з новими вимогами та механізмами виплат",
+   "why": "Зміна моделі монетизації та акцент на довгому, якісному контенті, оптимізованому для пошуку, суттєво впливає на стратегії творців та конкуренцію платформ.",
+   "url": "https://www.conbersa.com/tiktok-creator-fund-how-it-works-payouts-and-eligibility-in-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta (Instagram, Facebook)",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство брендів та комерцію, згортаючи прямі бонуси",
+   "why": "Ця зміна змушує творців переглядати свої стратегії заробітку на платформах Meta, зосереджуючись на інтеграції з брендами.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrsvmHYutevxiI-qqYxkRpGdL09Za09mOViCHv5UopQQCa2ZiMFrkgSNHPMtjTgvp2k6HkCmpSB9HE0V_HzVKs__gdPLBSOL1-IxP91npy6NEpw0j8LXCaoyqyR2HIxqcuy49kGk4yvaX5GBC9SRj2gjzFIQJrwu-Kf4J17WQ=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції, контент",
+   "stream": "платформа",
+   "source": "ЄС, Каліфорнія",
+   "title": "Набули чинності закони ЄС та Каліфорнії про обов'язкове маркування ШІ-контенту",
+   "why": "Створює нові юридичні та етичні вимоги для творців та платформ щодо прозорості використання ШІ у відеоконтенті.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_8X3IWL8M5J9mz44PH3W1MCNY5xxm4drVCS27G5JLEVG0yhJ154N1D9ZbqcSM0-e-lDBppvCVs7CsOjHh036rs-OMz5Aa6QLhy1q2nW0Kd2qmiYv7YbPYtp1d-oHeDjUvOE-xvZikYwUrZvI371cittZYKKDCYz6YUhSlrZbu0jAWlEUV6TQg17pnR2gzOiV_T2U08Fp9NheLjZcQ3KkZuib6UbCWk-ofA=="
+  },
+  {
+   "importance": "high",
+   "theme": "продукт, монетизація",
+   "stream": "конкурент, платформа",
+   "source": "Bilibili",
+   "title": "Bilibili запускає міжнародний додаток та посилює глобальну експансію",
+   "why": "Bilibili стає серйозним глобальним гравцем, що посилює конкуренцію для YouTube та TikTok, особливо на ринках Азії та серед Gen Z аудиторії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJAdVYLB6xgCyQAVey2ORReNiDihC2WW7QkITVKuxWWI0TI4yVTjG2iaPWTQ7ib2tSYFtPxiAm9fNHyO9zJtE2FoVqsqBA2ep1BIGN5NH8a1d4R8AEG1kzGstPQkZnSraB5Iw-ReGmavbCAaq_egIavfmSx_EoYtoOacWteP_3mg=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг, контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює стратегічні партнерства та отримує нагороди",
+   "why": "Демонструє зростання та диверсифікацію бізнесу великого гравця у відеодистрибуції, посилюючи його присутність на різних ринках та платформах.",
+   "url": "https://thesoul-group.com/blog/"
+  }
+ ],
+ "trends": [
+  "Посилення вимог до монетизації та переорієнтація програм винагород для творців на ключових платформах (YouTube, TikTok, Meta).",
+  "Зростаючий регуляторний контроль за контентом, створеним ШІ, з обов'язковим маркуванням у ЄС та Каліфорнії.",
+  "Триваючі антимонопольні виклики для великих медіа-злиттів, що впливають на структуру ринку.",
+  "Активна глобальна експансія азіатських відеоплатформ, зокрема Bilibili, з фокусом на залучення творців та міжнародну аудиторію.",
+  "Зміщення фокусу монетизації на платформах від прямих бонусів до спонсорства брендів та комерційних інтеграцій."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Ключові події включають антимонопольні виклики для злиття Paramount-Warner Bros. Discovery в США та набуття чинності законів про маркування ШІ-контенту в Каліфорнії та ЄС. Meta продовжує адаптувати програми монетизації Reels."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою глобальну присутність, запускаючи міжнародний додаток та зосереджуючись на монетизації творців. TheSoul Group також розширює партнерства, зокрема в Японії."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються ринку відеодистрибуції, за останні 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та інтеграція інструментів для автоматичного маркування ШІ-контенту відповідно до нових регуляторних вимог ЄС та Каліфорнії.",
+  "Створення нових можливостей для брендів та творців у сфері спонсорства та комерційних інтеграцій на платформах Meta та TikTok, враховуючи зміну моделей монетизації.",
+  "Вивчення можливостей партнерства з Bilibili для виходу на азіатські та глобальні ринки, використовуючи їхню нову міжнародну платформу та фокус на Gen Z аудиторії.",
+  "Інвестиції в довгостроковий, якісний відеоконтент, оптимізований для пошуку та утримання аудиторії, відповідно до оновлених алгоритмів TikTok та YouTube."
+ ],
+ "watch_next": [
+  "Результати переговорів між Paramount та Каліфорнією щодо врегулювання антимонопольного позову.",
+  "Подальші оновлення щодо вимог монетизації YouTube Shorts та YPP, заплановані на лютий 2027 року.",
+  "Розширення географії TikTok Creator Rewards Program та вплив нових механізмів виплат на доходи творців.",
+  "Реакція ринку та творців на нові правила маркування ШІ-контенту в ЄС та Каліфорнії."
+ ],
+ "sources": [
+  {
+   "label": "Mint",
+   "url": "https://www.mint.com/company-business-news/paramount-and-california-to-hold-preliminary-talks-on-monday-over-warner-bros-deal-report-111724398103362.html"
+  },
+  {
+   "label": "Vertex AI Search (Instagram Reels Monetization)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrsvmHYutevxiI-qqYxkRpGdL09Za09mOViCHv5UopQQCa2ZiMFrkgSNHPMtjTgvp2k6HkCmpSB9HE0V_HzVKs__gdPLBSOL1-IxP91npy6NEpw0j8LXCaoyqyR2HIxqcuy49kGk4yvaX5GBC9SRj2gjzFIQJrwu-Kf4J17WQ=="
+  },
+  {
+   "label": "Conbersa (TikTok Creator Fund)",
+   "url": "https://www.conbersa.com/tiktok-creator-fund-how-it-works-payouts-and-eligibility-in-2026/"
+  },
+  {
+   "label": "Newsline (AI disclosure laws)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxG2VqF8iV-eqafTo-JHla5XyHbyt0lsLvxFW4QE0BPCD9Qcx5uim3-nCg9e8uDw9iwOaUEUXOcrmkvcSfQ5sgsI3mjXk3ihZQc3GQBlW76yJodei2sZ_RKQi_vzDUA_rPfyOpXAD6RKLlcnDShExvHU9J_whSaqQrt7DDlKb1Lyl2hkR-H0sSg-ywlrmdxG-K9DvGUVCiXgePqLPeaGWn"
+  },
+  {
+   "label": "Indian Television (Bilibili global plans)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJAdVYLB6xgCyQAVey2ORReNiDihC2WW7QkITVKuxWWI0TI4yVTjG2iaPWTQ7ib2tSYFtPxiAm9fNHyO9zJtE2FoVqsqBA2ep1BIGN5NH8a1d4R8AEG1kzGstPQkZnSraB5Iw-ReGmavbCAaq_egIavfmSx_EoYtoOacWteP_3mg=="
+  },
+  {
+   "label": "TheSoul Group Blog",
+   "url": "https://thesoul-group.com/blog/"
+  },
+  {
+   "label": "Wikipedia (Paramount-WBD acquisition)",
+   "url": "https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"
+  },
+  {
+   "label": "WVIA (Paramount's threat to leave California)",
+   "url": "https://www.wvia.org/news/national/paramounts-threat-to-leave-california-divides-hollywood/"
+  },
+  {
+   "label": "Toptal (TikTok Creator Rewards Program)",
+   "url": "https://www.toptal.com/tiktok/tiktok-creator-rewards-program"
+  },
+  {
+   "label": "TrendInfluencer (TikTok Creator Rewards Program Expansion)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBcNeYiGk7pB54HnMeCXo8yTpusmha4yJGolGRJ3wKoGkeDCPcWySs2HLyrUud7jZSqXOVaZdloCFNaJEQzO2oGeH2bPkDveP5uTUFp1l1QWQhxpliG1roggsELB5SDKEZICfvdaSmBTaZ5oL-5pYkJA=="
+  },
+  {
+   "label": "Miracamp (TikTok Creator Rewards Program Guide)",
+   "url": "https://www.miracamp.com/tiktok-creator-program/"
+  },
+  {
+   "label": "Simply Wall St News (Bilibili Creator Monetization)",
+   "url": "https://simplywall.st/news/bilibili-bili-rewriting-its-investment-story-with-creator-monetization-amid-rising-ai-costs"
+  },
+  {
+   "label": "APKMirror (bilibili-international app)",
+   "url": "https://www.apkmirror.com/apk/bilibili/bilibili-international/"
+  },
+  {
+   "label": "Google Play (bilibili - All Your Fav Videos)",
+   "url": "https://play.google.com/store/apps/details?id=com.bstar.intl&hl=en_US"
+  },
+  {
+   "label": "Social Commerce Daily (Bilibili global expansion)",
+   "url": "https://socialcommercedaily.com/bilibili-plans-global-expansion-to-challenge-youtube-with-international-creators-and-an-english-website/"
+  },
+  {
+   "label": "Hypefury (Meta Reels Monetization)",
+   "url": "https://hypefury.com/blog/meta-expands-reels-monetization/"
+  },
+  {
+   "label": "FluxNote (Facebook Reels Monetization)",
+   "url": "https://fluxnote.com/facebook-reels-monetization-2026-requirements-eligibility-how-to-earn/"
+  },
+  {
+   "label": "TheSoul Group (Facebook Page)",
+   "url": "https://www.facebook.com/TheSoulGroup/"
+  },
+  {
+   "label": "TheSoul Music",
+   "url": "https://thesoul.music/"
+  }
+ ]
+}
