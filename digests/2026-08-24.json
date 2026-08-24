@@ -1,0 +1,289 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного контролю за ШІ-контентом з боку провідних платформ, інтенсифікацією переговорів щодо злиття Paramount-Warner Bros. Discovery на тлі антимонопольних викликів, а також змінами в монетизації для творців на ключових платформах та оновленням методології підрахунку переглядів на YouTube.",
+ "key_figure": {},
+ "figures": [
+  {
+   "value": "$3,000/місяць",
+   "label": "Максимальний щомісячний бонус Meta Creator Fast Track"
+  }
+ ],
+ "top_signal_deep": "Ринок відеодистрибуції переживає значне посилення контролю за контентом, створеним штучним інтелектом. Провідні платформи, включаючи YouTube, TikTok, Meta, Google, LinkedIn та Snapchat, впроваджують заходи для обмеження, маркування або зниження видимості повністю згенерованого ШІ-контенту. Це відображає зростаючу стурбованість щодо автентичності та якості контенту, а також прагнення платформ підтримувати оригінальну творчість, що вимагатиме від дистриб'юторів та творців перегляду стратегій виробництва та просування контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство брендів та комерцію, згортаючи прямі бонуси",
+   "why": "Змінює модель доходу для творців Reels, вимагаючи адаптації контент-стратегій.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами та жорсткішими вимогами",
+   "why": "Прямо впливає на доходи творців та їхню мотивацію створювати контент для платформи.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та YPP з лютого 2027",
+   "why": "Встановлює майбутні стандарти для монетизації, вимагаючи від творців завчасного планування.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Множинні платформи",
+   "title": "Провідні платформи посилюють боротьбу з повністю ШІ-генерованим контентом",
+   "why": "Створює нові вимоги до виробництва та дистрибуції контенту, впливаючи на довіру аудиторії та видимість.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з критичними переговорами щодо врегулювання в Каліфорнії",
+   "why": "Це може змінити ландшафт великих медіакомпаній та вплинути на конкуренцію в дистрибуції контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube змінює методологію підрахунку переглядів для всіх відеоформатів з 24 серпня 2026 року",
+   "why": "Впливає на метрики ефективності контенту та його сприйняття творцями та рекламодавцями.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оновлює монетизацію Reels, запускає Creator Fast Track ($3,000/місяць)",
+   "why": "Пропонує нові можливості для швидкого заробітку, але також уніфікує підходи до монетизації.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili посилює глобальну експансію з міжнародним додатком",
+   "why": "Збільшує конкуренцію на міжнародному ринку відеодистрибуції, особливо в Азії.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "партнерства",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює партнерства та отримує нагороди",
+   "why": "Вказує на зростання та визнання одного з гравців ринку, потенційно впливаючи на його частку.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon (Prime Video)",
+   "title": "Amazon Prime Video анонсував новий контент на серпень 2026",
+   "why": "Демонструє інвестиції в оригінальний контент для залучення та утримання аудиторії.",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного та платформенного контролю за ШІ-контентом.",
+  "Еволюція програм монетизації платформ у бік якісного контенту та комерційних інтеграцій.",
+  "Зростання конкуренції на міжнародному ринку відеодистрибуції, особливо з боку азійських гравців.",
+  "Триваючі антимонопольні виклики для великих медіа-злиттів.",
+  "Зміни в метриках переглядів на платформах для уніфікації та більшої прозорості."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Посилення регуляцій щодо ШІ-контенту (ЄС, Каліфорнія), антимонопольні виклики для злиття Paramount-Warner Bros. Discovery, зміни в монетизації та метриках на YouTube, Meta, TikTok, Snapchat."
+  },
+  {
+   "region": "Азія",
+   "note": "Активна глобальна експансія Bilibili, посилення конкуренції."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Сьогоднішній бриф відзначається посиленням регуляторного тиску на ШІ-контент з боку провідних платформ та уточненням методології підрахунку переглядів на YouTube, що є новим елементом порівняно з попередніми днями.",
+ "bizdev": [
+  "Розробка та впровадження інструментів для маркування та управління ШІ-контентом відповідно до нових регуляцій.",
+  "Адаптація стратегій монетизації для творців під нові вимоги платформ, фокус на бренд-інтеграції та комерцію.",
+  "Моніторинг та використання нових метрик переглядів для оптимізації контент-стратегій.",
+  "Розширення партнерств з платформами, що активно виходять на нові ринки (наприклад, Bilibili)."
+ ],
+ "watch_next": [
+  "Результати переговорів щодо злиття Paramount-Warner Bros. Discovery та подальші судові рішення.",
+  "Вплив нових правил підрахунку переглядів на YouTube на поведінку творців та рекламодавців.",
+  "Реакція ринку та творців на посилення контролю за ШІ-контентом та ефективність нових механізмів маркування/демоції.",
+  "Подальші кроки Bilibili у глобальній експансії та їхній вплив на конкурентне середовище."
+ ],
+ "sources": [
+  {
+   "label": "KFI AM 640 - iHeart",
+   "url": "https://www.iheart.com/"
+  },
+  {
+   "label": "Prime Video",
+   "url": "https://www.amazon.com/primevideo"
+  },
+  {
+   "label": "Wikipedia",
+   "url": "https://en.wikipedia.org/"
+  },
+  {
+   "label": "Indian Television",
+   "url": "https://www.indiantelevision.com/"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://www.youtube.com/"
+  },
+  {
+   "label": "TechDogs",
+   "url": "https://techdogs.com/"
+  },
+  {
+   "label": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/"
+  },
+  {
+   "label": "TNW",
+   "url": "https://thenextweb.com/"
+  },
+  {
+   "label": "Engadget",
+   "url": "https://www.engadget.com/"
+  },
+  {
+   "label": "Paramount Skydance Corporation",
+   "url": "https://ir.paramount.com/"
+  },
+  {
+   "label": "Toptal",
+   "url": "https://www.toptal.com/"
+  },
+  {
+   "label": "Facebook for Creators",
+   "url": "https://www.facebook.com/creators/"
+  },
+  {
+   "label": "Dynamic Business",
+   "url": "https://dynamicbusiness.com/"
+  },
+  {
+   "label": "Conbersa",
+   "url": "https://conbersa.com/"
+  },
+  {
+   "label": "Screen Daily",
+   "url": "https://www.screendaily.com/"
+  },
+  {
+   "label": "Z Cyber",
+   "url": "https://www.zcyber.com/"
+  },
+  {
+   "label": "Adgully.com",
+   "url": "https://www.adgully.com/"
+  },
+  {
+   "label": "License Global",
+   "url": "https://www.licenseglobal.com/"
+  },
+  {
+   "label": "Snap Newsroom",
+   "url": "https://newsroom.snap.com/"
+  },
+  {
+   "label": "Miracamp",
+   "url": "https://miracamp.com/"
+  },
+  {
+   "label": "Суспільне Новини",
+   "url": "https://suspilne.media/"
+  },
+  {
+   "label": "Medium",
+   "url": "https://medium.com/"
+  },
+  {
+   "label": "AI View",
+   "url": "https://aiview.com/"
+  },
+  {
+   "label": "Cartoon Brew",
+   "url": "https://www.cartoonbrew.com/"
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://fluxnote.com/"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul-group.com/"
+  },
+  {
+   "label": "Europa.eu",
+   "url": "https://europa.eu/"
+  },
+  {
+   "label": "Collibra",
+   "url": "https://www.collibra.com/"
+  },
+  {
+   "label": "РИА Новый День",
+   "url": "https://newdaynews.ru/"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://netinfluencer.com/"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/"
+  },
+  {
+   "label": "ТСН.ua",
+   "url": "https://tsn.ua/"
+  },
+  {
+   "label": "Artha.link",
+   "url": "https://artha.link/"
+  }
+ ]
+}
