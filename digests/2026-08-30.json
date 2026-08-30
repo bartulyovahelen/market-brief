@@ -1,0 +1,215 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним врегулюванням Meta на суму до $17.1 млрд щодо безпеки дітей, що встановлює нові стандарти для галузі. Ключові платформи, такі як YouTube, Meta та TikTok, переформатовують програми монетизації для творців, посилюючи вимоги та змінюючи моделі виплат. Злиття Paramount-Warner Bros. Discovery продовжує стикатися з антимонопольними викликами в США, тоді як Bilibili активно розширює свою глобальну присутність.",
+ "key_figure": {
+  "value": "$17.1 млрд",
+  "context": "Максимальна сума врегулювання, досягнутого Meta щодо позовів про безпеку дітей, що встановлює новий прецедент відповідальності для галузі."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання Meta (макс.)"
+  },
+  {
+   "value": "$353 млн",
+   "label": "Врегулювання Meta з Вірджинією"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією тижня стало врегулювання Meta на суму до $17.1 млрд щодо безпеки дітей. Ця подія не лише підкреслює зростаючий тиск на технологічні гіганти щодо захисту молодих користувачів, але й встановлює новий, надзвичайно високий стандарт відповідальності для всіх платформ відеодистрибуції. Це може призвести до значних інвестицій у технології модерації контенту та зміни політик, що вплине на стратегії розвитку продуктів та алгоритмів у всій галузі.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta досягла врегулювання на суму до $17.1 млрд щодо безпеки дітей",
+   "why": "Встановлює новий прецедент відповідальності платформ за безпеку дітей та може призвести до посилення регуляторного тиску на всю галузь.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з антимонопольними викликами в США",
+   "why": "Затримки та потенційні перешкоди для великих медіа-злиттів впливають на консолідацію ринку та конкурентне середовище.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює вимоги до монетизації для нових творців та Shorts",
+   "why": "Змінює умови для входу та монетизації для нових творців, впливаючи на стратегії розвитку контенту та залучення аудиторії.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook & Instagram",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство брендів та комерцію",
+   "why": "Змінює модель заробітку для творців коротких відео, стимулюючи інтеграцію брендів та комерцію замість прямих бонусів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами та жорсткішими вимогами",
+   "why": "Впливає на стратегії монетизації творців на одній з найбільших платформ коротких відео, потенційно підвищуючи якість контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili розширює глобальну присутність, запускаючи оновлений міжнародний додаток",
+   "why": "Посилює конкуренцію на міжнародному ринку відеодистрибуції, особливо в Азії.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС, California",
+   "title": "Набули чинності закони ЄС та Каліфорнії про обов'язкове маркування ШІ-контенту",
+   "why": "Встановлює нові вимоги до прозорості контенту, що може вплинути на виробництво та дистрибуцію ШІ-генерованого відео.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Провідні платформи",
+   "title": "Провідні платформи посилюють боротьбу з повністю ШІ-генерованим контентом",
+   "why": "Впливає на політику модерації та стандарти контенту, що дозволений до дистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery умовно схвалено в Туреччині",
+   "why": "Показує регіональні відмінності в регуляторних підходах до великих злиттів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta досягла врегулювання на $353 мільйони з Вірджинією щодо безпеки дітей",
+   "why": "Частина більшого тренду регуляторного тиску на платформи щодо безпеки дітей.",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, особливо щодо безпеки дітей та прозорості контенту (ШІ).",
+  "Переформатування програм монетизації для творців на ключових платформах (YouTube, Meta, TikTok) зі зміною вимог та моделей виплат.",
+  "Триваючі антимонопольні виклики для великих медіа-злиттів, що уповільнює консолідацію ринку.",
+  "Активна глобальна експансія азіатських платформ (Bilibili), що посилює конкуренцію."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значне регуляторне врегулювання (Meta), триваючі антимонопольні виклики для M&A (Paramount-WBD), набуття чинності законів про маркування ШІ-контенту (ЄС, Каліфорнія)."
+  },
+  {
+   "region": "Азія",
+   "note": "Активна глобальна експансія Bilibili, що посилює конкуренцію на міжнародному ринку."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та інтеграція рішень для безпеки дітей та модерації контенту у відповідь на посилення регуляторного тиску.",
+  "Створення інструментів та послуг, що допомагають творцям адаптуватися до нових моделей монетизації на платформах (спонсорство брендів, комерція).",
+  "Можливості для партнерства з платформами, що розширюють глобальну присутність, особливо в Азії.",
+  "Розробка рішень для маркування та ідентифікації ШІ-генерованого контенту."
+ ],
+ "watch_next": [
+  "Подальший розвиток антимонопольних розглядів щодо злиття Paramount-Warner Bros. Discovery.",
+  "Реакція інших платформ на врегулювання Meta щодо безпеки дітей та потенційні зміни в їхніх політиках.",
+  "Вплив нових програм монетизації (TikTok Creator Rewards, Meta Reels) на доходи та стратегії творців.",
+  "Прогрес Bilibili у глобальній експансії та його вплив на регіональні ринки."
+ ],
+ "sources": [
+  {
+   "label": "Meta",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Paramount-Warner Bros. Discovery",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "YouTube",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "TikTok",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Bilibili",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "ЄС",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Каліфорнія",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Вірджинія",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Fixated",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE36pavaeu8Zmh7kQXHJVZWf5ojLYnhcVK21SBHfF_22gAEmyKahLM4F-MPWzfPxpkvapiJ0FtGAzZ_sbmZ0FgSRDapTcPIesGZS_XT2TBwqBDeZ9w11R5ro5CWmkMAE9shQYuBtvq_UgCx-S_s"
+  },
+  {
+   "label": "Studio71",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE36pavaeu8Zmh7kQXHJVZWf5ojLYnhcVK21SBHfF_22gAEmyKahLM4F-MPWzfPxpkvapiJ0FtGAzZ_sbmZ0FgSRDapTcPIesGZS_XT2TBwqBDeZ9w11R5ro5CWmkMAE9shQYuBtvq_UgCx-S_s"
+  },
+  {
+   "label": "VideoElephant",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4YKF-lkhtUFmbf6u27Lw9qevRqNbWMoAR-QQIwAlWIsYUtlXb9V8zvaEsiBHFXoGx7Yn2sz30dF8O4iwwXz0A4Fg15_LSMCVYKntXMKICwmyFtlKsqTz_0tCtpASmVT9T-Ak6YFCOj0f4T412J4iUqOGA7uq3ACpTsOyefX0k91Txm8-Lz7MIJKaGT36v3kiA8d8KSyU7b2tRIsWPfKOzQBuK5b-XG0Imius="
+  },
+  {
+   "label": "Amazon Fire TV Channels",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4YKF-lkhtUFmbf6u27Lw9qevRqNbWMoAR-QQIwAlWIsYUtlXb9V8zvaEsiBHFXoGx7Yn2sz30dF8O4iwwXz0A4Fg15_LSMCVYKntXMKICwmyFtlKsqTz_0tCtpASmVT9T-Ak6YFCOj0f4T412J4iUqOGA7uq3ACpTsOyefX0k91Txm8-Lz7MIJKaGT36v3kiA8d8KSyU7b2tRIsWPfKOzQBuK5b-XG0Imius="
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGtFm-n7nZmVhLmyFbBlsdNYRNcLQkTGPezafs0R0sx5q_yZDStgUnl3FXwRJqqzNr4fUAeL7D2kLtXdEsbmeDsCxxrc6JqAomCpQ_dQvv-WG6yIQ8aV_QXT1IdEBle3tgaYCWAapySnT1ifhCp6K-xRXillXfCr8yeQG__a5V"
+  }
+ ]
+}
