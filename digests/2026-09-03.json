@@ -1,0 +1,291 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним врегулюванням Meta на суму до $18 млрд щодо безпеки дітей, що встановлює нові стандарти для галузі та може вплинути на конкурентів. Ключові платформи, такі як YouTube, Meta та TikTok, продовжують переформатовувати моделі виплат для творців, посилюючи вимоги. Спостерігається активне впровадження AI-технологій для оптимізації робочих процесів та монетизації, а також зростання стратегічних партнерств у сфері контенту.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Максимальна сума врегулювання Meta щодо безпеки дітей, яка залежить від впровадження аналогічних обмежень іншими платформами."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Мінімальна сума врегулювання Meta щодо безпеки дітей"
+  },
+  {
+   "value": "2 години",
+   "label": "Щоденний ліміт часу для підлітків на платформах Meta"
+  },
+  {
+   "value": "971 млн",
+   "label": "Щомісячні активні користувачі Snapchat"
+  },
+  {
+   "value": "343.73 млн CNY",
+   "label": "Чистий прибуток Bilibili за Q2 2026"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією дня є подальші деталі врегулювання Meta на суму до $18 млрд щодо безпеки дітей. Це врегулювання встановлює нові стандарти для галузі, включаючи обов'язкові обмеження на використання платформ для підлітків, такі як двогодинний щоденний ліміт, заборона використання з півночі до 6 ранку, блокування сповіщень під час шкільних годин, приховування кількості «лайків» та обмеження фільтрів, що впливають на образ тіла. Важливо, що повна сума врегулювання ($17.1 млрд до $18 млрд) залежить від того, чи впровадять подібні обмеження конкуренти, такі як TikTok та YouTube. Це створює прецедент і потенційно змусить інші великі платформи переглянути свої політики щодо молодіжної аудиторії, що може суттєво вплинути на їхні моделі залучення та монетизації.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 4
+  },
+  {
+   "label": "Контент",
+   "n": 6
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $18 млрд",
+   "why": "Встановлює нові стандарти для галузі та може змусити конкурентів впровадити аналогічні обмеження.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGVYa8mBcn8vC9ZcYYD0wuDyugFU_SyQ6VCS_q9N92Lybn8PakSIQv2m-uUhunM_6daRHWdksXtAYrgpbtoHybItMQpY1VmfrYfqQVLej8ylPnhmbqconNBy9OZJW1lTKmxACp12a-g3QTlei_cYYmM1JzCjTXpEP0dYZtS1CzZfrNzYgJL8nVxQwH3EOOKxJz6yCp_dw=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює фокус монетизації Reels",
+   "why": "Впливає на стратегії творців та рекламодавців на платформі.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запустив нову програму винагород для творців",
+   "why": "Змінює умови заробітку для творців контенту та може вплинути на їхню лояльність.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює умови монетизації",
+   "why": "Впливає на вхідний бар'єр для нових творців та стратегії розвитку Shorts.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery під загрозою через антимонопольні виклики",
+   "why": "Може змінити ландшафт великих медіаконгломератів та дистрибуції контенту.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "контент",
+   "stream": "глобальний",
+   "source": "ЄС та Каліфорнія",
+   "title": "Введено закони про маркування ШІ-контенту",
+   "why": "Встановлює нові вимоги до прозорості контенту та може вплинути на виробництво та дистрибуцію.",
+   "url": ""
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta представила нову модель ШІ Muse Spark 1.3",
+   "why": "Посилює конкуренцію в сфері ШІ та відкриває нові шляхи для монетизації контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN797KR-uZI9cmvff1_e60l1LRpQ9C7mKiESYczXOce5hF3zirJdwGqihkw5Rgo4_RYvRuQjKfUuivLhfFsjD8HS9qLGi8W0Wr-QmoIcwKpUnycKYUslkra6eiDnj8W48UmcETTdq1cp3mpKHAn_aAY6Z0s0gAKJsZXWo4WxflGXlVCcfxo0gYR3Q2IJwdpvmdoYkAkkpBfRhawOlOoh-EQojtUusptZUjI8XJUUSHheeS_61_nJ8"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює підхід до використання ШІ співробітниками",
+   "why": "Відображає еволюцію внутрішньої стратегії Meta щодо ШІ та її потенційний вплив на розробку продуктів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1i1QTNR-PlArurRv3KZklVWsE27FPvPcZHr38VN2UZYKLLQtuyThC_JDG-NEMpjdK1_uqJw-IjHGDieiXfmcDrXlJUOfP3szF1M4kh7DqOScmasB5VvltHlA2ECNIe1FMyT31a4kEW7bGRkuAHQpgYR3Q2IJwdpvmdoYkAkkpBfRhawOlOoh-EQojtUusptZUjI8XJUUSHheeS_61_nJ8"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Snapchat, HBO Max",
+   "title": "Snapchat та HBO Max запускають AR-досвід для \"Harry Potter\"",
+   "why": "Розширює можливості залучення аудиторії через інтерактивний контент та партнерства.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSxsoaN73D3TIi15w4_qaugKXIq-8D6mCKcn-HCgulCGSvt_1OOJ65dngJSMszTOttD_cjCbpWOVmpcA_CXfrAQlOXU5auMSo79Xud5HaDLQB34XkzxzpHSOjcpJ4hGAJc9DZIIYR9rgWk8s-uQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "конкурент",
+   "source": "Eluvio",
+   "title": "Eluvio презентує інновації в дистрибуції відео та ШІ на IBC 2026",
+   "why": "Вказує на тренд до децентралізованої дистрибуції та інтеграції ШІ для оптимізації та монетизації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3yUor3m96yHY80e2slpEBBWnUxvrojnYqoFhVZtSl776BUOYrVVbxRKIS597swJQufgF51sypW3kibLxllzHe9BhBwdgIWRSNqNC8x61n7NxhahvjcGRcRsb1zt3O0YQqV8V3RVbC0bdk3M7F2657nwFqWAXKpWeFDKtA-qRiIut9UbP8cZfa9ehEmz0dpJg66qmrhCylH_Mlm7dduWr0ugDSOBzge12cZLOSraDaDabFIJOien1zIaGXQfdSX2jjXg7kVhfNEmLrBzowfWB433Zvxwl10FwL39I5t6CXuxVMADOYjj4NFk1V4cw5eLT4ykdyHh3A76Om0c_HwLgrafJeKz90S59tM443DREBVvC4fKXVpO7iKdEx8AxPh02FxRHeZ8R1wmeceQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "конкурент",
+   "source": "Brightcove",
+   "title": "Brightcove випустила Gen 2 платформу з ШІ для відео",
+   "why": "Демонструє зростаючу роль ШІ в автоматизації та підвищенні ефективності монетизації відеоконтенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLbnrDGSW7DI1OL9ofIZ_mP7BT3xkvD3S-h4eFCDpWtT2gZS8uf5uuCNsUBvtpBfzB6xi4gmbdyjshbyC8w4-g6LSO53DSg6sgXvN5P7Vh40iVkK3s7Tazm_F_AkZ-ztZQQvVQsLUW5h0giRQxf_m4Dmn8XpO2OmpJj75nqdxBXx4IXrRI95SKGEasH7tGapLkIQN-OkGz1WQmZBs8Dk9v1odcCtqi9KxPFCU="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "LiSTNR, Flightcast",
+   "title": "LiSTNR та Flightcast об'єднуються для відеостратегії",
+   "why": "Підкреслює конвергенцію аудіо- та відеоконтенту та важливість крос-платформної дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKzLsV98BnbCKOwNYrxosqzV0rDbNbRZj1ZXJnsBY4NGMd-7UwJYtUACrh4fPZuG4Bvr-9PmA0ugmzVVmJbswm4saMTYhpdINYFWMknmsX3yxGRK5tHxlBO0fAXd0qyhacBSVUn0s56KCiEofyw8XJFBWxckxwvCA6prOP7iRsVv4ZeZZ-ZGv-yjQbJabbb1LsFgpodToiVoM"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili посилює глобальну експансію",
+   "why": "Вказує на зростання конкуренції на міжнародному ринку відеодистрибуції.",
+   "url": ""
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "WildVision",
+   "title": "Додаток WildVision вийшов на ринок США",
+   "why": "Приклад нішевої відеодистрибуції та розширення географії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQI02gcb9oE9F_PouFieZYAA8StjeKybnppXARqpmebr2biX3CZeu5byRmn-EJm5K5dpMPDT26xs3JcidhFLUKi2w_QEa4u8WDuStM_oNE9SsOIpGEPsKYd9l6KP5ZjHwKMf9mbG7AmJSt-5BYTW1D5zRXEEsp_vZPemecepW0w47e4wFldJaXIiRfiMlj_ouN71DyT4c3Wl0="
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Studio71, Bent Pixels",
+   "title": "Екс-керівник Studio71 перейшов до Bent Pixels",
+   "why": "Зміни в керівному складі можуть вплинути на стратегію розвитку компаній у сфері роботи з творцями.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHkWZCyzYn-cnK_MX-n56BcDlQe2-zwcwkmkanPVqS2d4C5zT_J0NOY4Q8VVLPq_6rzjqvcCS1X2Wx9kE571chREhoa__2-G73YFDhHPcsc92rFkdq6hxYF9c0rJ9aeexVjVL9HU3e2uuYkuDOsYtRtC8o1II-4DGbXDarcsSYCkvtp5C1osPiFUXQPaA3UP5qMAHHXgOf0GA8fMGGRO3r2cW4hGz9DlR8O2X"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "ProSiebenSat.1, Studio 71",
+   "title": "ProSiebenSat.1 призначила нового CDO",
+   "why": "Зміни в керівництві впливають на цифрову стратегію та розвиток медіа-активів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfTB_U3aIdTj40s86dueFPCHBmPs-nfyYl9s_ZSauiUwM6On0OhhLiN0M8A-vYQQwWNfY2jDSf61ppjT5V7va96rwwuqBrDxBQTRppAtfqjeuVGdhn7ZTNURsf0X34bP020vkJJSBnEyNSKYcA34-op5uceRDLhkuZPQ5XuhqrtPNBKv25XkrSW8omejLgqkWHraayLmX1tIv2a4smQvNSCMFM0YO0"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи щодо безпеки дітей та модерації контенту.",
+  "Активне впровадження AI-технологій для оптимізації відеодистрибуції, монетизації та створення контенту.",
+  "Переформатування програм монетизації для творців на ключових платформах зі зміною вимог та моделей виплат.",
+  "Зростання стратегічних партнерств та M&A у сфері відеодистрибуції для розширення охоплення та можливостей.",
+  "Глобальна експансія азіатських відеоплатформ, зокрема Bilibili."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значне врегулювання Meta щодо безпеки дітей, що може вплинути на всю галузь. Посилення антимонопольного контролю за великими злиттями (Paramount-Warner Bros. Discovery). Впровадження законів про маркування ШІ-контенту в ЄС та Каліфорнії."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili продовжує активну глобальну експансію та демонструє зростання прибутку, підтримуване AI-ініціативами."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, сьогодні з'явилися нові деталі щодо врегулювання Meta, які уточнюють умови та потенційний вплив на конкурентів. Також відзначено нові партнерства (Snapchat з HBO Max, LiSTNR з Flightcast) та значні оновлення продуктів з фокусом на AI від Eluvio та Brightcove.",
+ "bizdev": [
+  "Розробка та інтеграція AI-рішень для автоматизації робочих процесів, персоналізації контенту та підвищення ефективності монетизації.",
+  "Формування стратегічних партнерств з медіа-компаніями та контент-провайдерами для розширення дистрибуції та залучення аудиторії.",
+  "Адаптація до нових регуляторних вимог щодо безпеки дітей та прозорості AI-контенту, що може відкрити ніші для консультаційних послуг або технологічних рішень.",
+  "Моніторинг та використання можливостей на ринках Азії, особливо з огляду на глобальну експансію Bilibili."
+ ],
+ "watch_next": [
+  "Реакція інших великих платформ (TikTok, YouTube) на врегулювання Meta щодо безпеки дітей та потенційне впровадження аналогічних обмежень.",
+  "Подальший розвиток антимонопольних розглядів щодо злиття Paramount-Warner Bros. Discovery.",
+  "Новини щодо глобальної експансії Bilibili та її програм монетизації для творців.",
+  "Розвиток AI-технологій у відеодистрибуції та їх вплив на монетизацію та створення контенту.",
+  "Запуск SPECS від Snapchat 16 вересня."
+ ],
+ "sources": [
+  {
+   "label": "WebWire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBSxsoaN73D3TIi15w4_qaugKXIq-8D6mCKcn-HCgulCGSvt_1OOJ65dngJSMszTOttD_cjCbpWOVmpcA_CXfrAQlOXU5auMSo79Xud5HaDLQB34XkzxzpHSOjcpJ4hGAJc9DZIIYR9rgWk8s-uQ=="
+  },
+  {
+   "label": "Gizmodo",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1i1QTNR-PlArurRv3KZklVWsE27FPvPcZHr38VN2UZYKLLQtuyThC_JDG-NEMpjdK1_uqJw-IjHGDieiXfmcDrXlJUOfP3szF1M4kh7DqOScmasB5VvltHlA2ECNIe1FMyT31a4kEW7bGRkuAHQpgYR3Q2IJwdpvmdoYkAkkpBfRhawOlOoh-EQojtUusptZUjI8XJUUSHheeS_61_nJ8"
+  },
+  {
+   "label": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN797KR-uZI9cmvff1_e60l1LRpQ9C7mKiESYczXOce5hF3zirJdwGqihkw5Rgo4_RYvRuQjKfUuivLhfFsjD8HS9qLGi8W0Wr-QmoIcwKpUnycKYUslkra6eiDnj8W48UmcETTdq1cp3mpKHAn_aAY6Z0s0gAKJsZXWo4WxflGXlVCcfxo0gYR3Q2IJwdpvmdoYkAkkpBfRhawOlOoh-EQojtUusptZUjI8XJUUSHheeS_61_nJ8"
+  },
+  {
+   "label": "Las Vegas Sun News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGVYa8mBcn8vC9ZcYYD0wuDyugFU_SyQ6VCS_q9N92Lybn8PakSIQv2m-uUhunM_6daRHWdksXtAYrgpbtoHybItMQpY1VmfrYfqQVLej8ylPnhmbqconNBy9OZJW1lTKmxACp12a-g3QTlei_cYYmM1JzCjTXpEP0dYZtS1CzZfrNzYgJL8nVxQwH3EOOKxJz6yCp_dw=="
+  },
+  {
+   "label": "The Dispatch",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6v8Kr4WM6JHrwx3Oilr94epLyPe4oaIllvhDSuHZM0E_Q0KVz4CEnWmhhJ8mR3J2ckwMZeYT8zs1y3d2XzpwP9FTlRquhoPLaNxYEoAe43Gg-bJmkoJ8ZX1eawaopLo_lhpvZTD228g-OWwweGLeSysDB_RvKDilvtUy-u6PVrpqy"
+  },
+  {
+   "label": "Farmers Weekly",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQI02gcb9oE9F_PouFieZYAA8StjeKybnppXARqpmebr2biX3CZeu5byRmn-EJm5K5dpMPDT26xs3JcidhFLUKi2w_QEa4u8WDuStM_oNE9SsOIpGEPsKYd9l6KP5ZjHwKMf9mbG7AmJSt-5BYTW1D5zRXEEsp_vZPemecepW0w47e4wFldJaXIiRfiMlj_ouN71DyT4c3Wl0="
+  },
+  {
+   "label": "Morningstar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3yUor3m96yHY80e2slpEBBWnUxvrojnYqoFhVZtSl776BUOYrVVbxRKIS597swJQufgF51sypW3kibLxllzHe9BhBwdgIWRSNqNC8x61n7NxhahvjcGRcRsb1zt3O0YQqV8V3RVbC0bdk3M7F2657nwFqWAXKpWeFDKtA-qRiIut9UbP8cZfa9ehEmz0dpJg66qmrhCylH_Mlm7dduWr0ugDSOBzge12cZLOSraDaDabFIJOien1zIaGXQfdSX2jjXg7kVhfNEmLrBzowfWB433Zvxwl10FwL39I5t6CXuxVMADOYjj4NFk1V4cw5eLT4ykdyHh3A76Om0c_HwLgrafJeKz90S59tM443DREBVvC4fKXVpO7iKdEx8AxPh02FxRHeZ8R1wmeceQ=="
+  },
+  {
+   "label": "Content + Technology",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKzLsV98BnbCKOwNYrxosqzV0rDbNbRZj1ZXJnsBY4NGMd-7UwJYtUACrh4fPZuG4Bvr-9PmA0ugmzVVmJbswm4saMTYhpdINYFWMknmsX3yxGRK5tHxlBO0fAXd0qyhacBSVUn0s56KCiEofyw8XJFBWxckxwvCA6prOP7iRsVv4ZeZZ-ZGv-yjQbJabbb1LsFgpodToiVoM"
+  },
+  {
+   "label": "Broadband TV News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLbnrDGSW7DI1OL9ofIZ_mP7BT3xkvD3S-h4eFCDpWtT2gZS8uf5uuCNsUBvtpBfzB6xi4gmbdyjshbyC8w4-g6LSO53DSg6sgXvN5P7Vh40iVkK3s7Tazm_F_AkZ-ztZQQvVQsLUW5h0giRQxf_m4Dmn8XpO2OmpJj75nqdxBXx4IXrRI95SKGEasH7tGapLkIQN-OkGz1WQmZBs8Dk9v1odcCtqi9KxPFCU="
+  },
+  {
+   "label": "Fidelity Investments",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCzIxCqSp0SuVec9PotA8OFuzgg1uSSGMhqkKjpYop5UZtFvMR-KYPCUYJPGkvuh1fvhGmd8AynOXb7_Ltqufva_QnDDSn3wDpaxD4eMqwWNzTTqyXbcobK-xDfZ1CiLaDdBzsBSxY0UZi-WFBaDnPuG5XVu87bT0u7TlzBXwltioH1liCnKaIgdB9lp9fJcY="
+  },
+  {
+   "label": "PressBee",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHkWZCyzYn-cnK_MX-n56BcDlQe2-zwcwkmkanPVqS2d4C5zT_J0NOY4Q8VVLPq_6rzjqvcCS1X2Wx9kE571chREhoa__2-G73YFDhHPcsc92rFkdq6hxYF9c0rJ9aeexVjVL9HU3e2uuYkuDOsYtRtC8o1II-4DGbXDarcsSYCkvtp5C1osPiFUXQPaA3UP5qMAHHXgOf0GA8fMGGRO3r2cW4hGz9DlR8O2X"
+  },
+  {
+   "label": "newsroom.de",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfTB_U3aIdTj40s86dueFPCHBmPs-nfyYl9s_ZSauiUwM6On0OhhLiN0M8A-vYQQwWNfY2jDSf61ppjT5V7va96rwwuqBrDxBQTRppAtfqjeuVGdhn7ZTNURsf0X34bP020vkJJSBnEyNSKYcA34-op5uceRDLhkuZPQ5XuhqrtPNBKv25XkrSW8omejLgqkWHraayLmX1tIv2a4smQvNSCMFM0YO0"
+  },
+  {
+   "label": "Finanztrends",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbEZNPe9uNsIdpixOBulhupGdlOARXxxG6SYA3uUUU936V5YWUCTlHsA3XPbvkAk822hiap4B8uiYwwWIFn-R30dR1v65ELuwrgNJ5EywzSgayIxnPdhFYuTXGuTfUHF82dEaxzfMSRqDWTVdGIRq-MlVytg3MztSQT2tyjjecRkGGmLgmMT0cWNIy9yhwAy7I"
+  },
+  {
+   "label": "Snapchat Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED2M-3HvZTE05daMfQV3NS7B0VE3yZVs6FG5w0dHR103dvJBQLrhciTZmSPKOD6VEAlcqPLBnnNSEflsEs_fj2WXRShdlfGd0y9zwWcVimjgXUCW9l"
+  },
+  {
+   "label": "Simply Wall St",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8ZRHf-cLYNTWtubgi4_BVMXCrOiv7Q9t3bHN4YA8BYyx8KukkYEcu_5sl4Y8f3teI-qD2iGDvJj4VmlEsy-VH2VAHGKnqb08g90PM1Ea9Oa8COVfS_auml_amimMe2R73LCYjO92fcbuCh1n8WaWKexDlDmsEcsRARyOnbSEL-Vgd0BmQTz0mHPZk1IkUw8hxJd4cb8jecGoIULInKlTcLMoacWa_4ZE_rFy9Fsl9Dedbb8mZZyQ=="
+  },
+  {
+   "label": "GuruFocus",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiE_j_f_1mrXCFm43d0OkVCyC1MxxWgq0YDmYEUA4sb3_clndQBPMUxyDKY6YzOk0eP8p5Qaq2qLDnOSwnq6fwYZfmJ8QyBIaeQpbFlPxgis01foVWDQKNKwdNdPj9IhOgzRzun356tqL8roLyOzP-CM8KAw8d0fU5x_S4UOB_1zp-3omXE_eSZijipWTWA3In4PydrPUfBvPRFZq7RAzzP_ze"
+  }
+ ]
+}
