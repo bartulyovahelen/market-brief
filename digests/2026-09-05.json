@@ -1,0 +1,191 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним врегулюванням Meta на суму до $18 млрд щодо безпеки дітей, що встановлює нові стандарти для галузі. Ключові платформи, такі як YouTube, Meta та TikTok, продовжують переформатовувати моделі виплат для творців, посилюючи вимоги. Злиття Paramount-Warner Bros. Discovery стикається з антимонопольними викликами, тоді як Bilibili активно розширює свою глобальну присутність, а закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума врегулювання Meta за позовом щодо безпеки дітей, що встановлює новий стандарт для галузі."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання Meta"
+  },
+  {
+   "value": "$0.70",
+   "label": "Орієнтовна виплата Bilibili за 1000 переглядів"
+  },
+  {
+   "value": "21%",
+   "label": "Комісія Bilibili Singapore за виведення коштів"
+  },
+  {
+   "value": "100 годин",
+   "label": "Нові вимоги Snapchat Spotlight до часу перегляду"
+  },
+  {
+   "value": "$7 млн",
+   "label": "Щоденні витрати Paramount через затримку злиття"
+  }
+ ],
+ "top_signal_deep": "Врегулювання Meta на суму до $18 млрд щодо позову про безпеку дітей є найважливішою подією тижня. Ця колосальна сума підкреслює зростаючий тиск на платформи щодо відповідальності за добробут користувачів та встановлює прецедент для всієї індустрії відеодистрибуції. Очікується, що це призведе до посилення функцій безпеки, суворішої модерації контенту та потенційно вищих операційних витрат для всіх гравців ринку, впливаючи на майбутній розвиток продуктів та політики платформ.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Встановлює нові стандарти безпеки та відповідальності для платформ відеодистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство брендів та комерцію, припинивши програму бонусів Reels Play",
+   "why": "Змінює стратегію заробітку для творців коротких відео та впливає на рекламний ринок.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU00dsapnkUgZGP1O2EfvQflCL3I6K-_ci6ub6ypnNVNqbxAqcndx3hz9eCoiMjGhJb0xiDbBAa2wCcQJ1j46IpwZyVbyk1duH6mFMnBBbai6FzMNBA03e9A3wqsrTMrsmTi9XeSbjuSZagDZQpNbW8Ho6ceV-Cg4vU6XXtqq6Ghk5x2X4ln4s5mwKQbhks-flOjas4RePCBswgomJzhFmBdKlb7pcaLNl5KOecUgLBiN-JPh0LpL1CJzxAeo9b_auSkf_nYg="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами та жорсткішими вимогами",
+   "why": "Переформатовує стимули для творців, потенційно змінюючи тип контенту та його якість.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_Y6or39k4Wo7F3XhZzW6SQ3KUYprWzyzdH7r3ukKIjDXrHRsG1Zd8xgg3_SF2Cc_6MruAPbYXL8HQCDSNtRJ1DiX1XBYZlEIdDavzxtcXgJOoSMHEka2l4gbFjQqRfL_-FZFJVkD42k3gocCCI2H_vA0BLn-jfNTH9gq2SxfiTtM8H3a29q7OMpjpA="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації для нових творців та Shorts",
+   "why": "Впливає на поріг входу для нових творців та стратегії розвитку каналів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFYjgf6asyp_1YtmieJspFqo2V5LzcX775Ci28oHiWJrQxYnIXE6WeriqqPpPTwgxRtqZcBCkHrfueRGQUTVL0x3ANBjkHSI7bWaVYcChZBqQkVcSUandlbbCS7-D9-A67isI3drFyHhhQMGvs_9ZK0UseUVLKeRCdcFxzYup4qL_YwJA0"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery під загрозою через антимонопольні виклики, суд призначено на березень 2027 року",
+   "why": "Значна подія M&A, яка може переформатувати ландшафт традиційної відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGMyuDOZcL8jkrPT0-qMCSvAKBYtWVWKUA4rSLE3E1zBqDj68O_IqWbcSorxsNT8FoJRoK6jU70ufgoN_vK75rcKzcJMBuKJIKyAexuddvn7ww-7VfjFZVfOaK65YNMDEDgfThpS-7EyjeIb6jvM7RpSlvEl_lkd6ivy3Pp3ou01JObd58Qxy57jU5SlMGO27ko8LYZiHUdm42HEPhLPf5LB6IH-bYp7NF6Cb9cXk4Ra9bK8THOJA="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "індустрія",
+   "source": "ЄС та Каліфорнія",
+   "title": "Закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії",
+   "why": "Створює нові вимоги до прозорості та відповідальності за контент, створений ШІ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxmVrG6P4Z5SSnS5SXE9-85XCJzvslluhg_JVJ16DcmGOg2nz5QmQVMz6S0LgeHANLjNUNHjtlcGPP-fHUvPEbslOLUUlxCh2AUAdCIy_K0l1NU5DLgTRYGi65_BkqSLWIwTOshOjUqYAZwXD7Q28iZZU_zBauYmXUCKkeVZI0JEB2s8DUs3dOA6RRKZwvJbkkpJ_W37sU1gqbpEt4LTgCWLfW6TeARWy"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili активно розширює глобальну присутність та пропонує монетизацію творцям",
+   "why": "Посилює конкуренцію на глобальному ринку відеодистрибуції, особливо в Азії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqtRyBrOm6ORdULwUAWb5hntyUMJVlFEIm1WDMHzUnV94ZiBEEJ6y3cGjEigLPZpQNFotyGjVftzIGDox-cmmucy5DJWXZ99l_lwBKRd9OhUwM1ymARgh3FgdsfA87zC-dJmhZgsYB0VCgeVoCnWPjYPv0_sIUsaI1SIButUAt4kCZ9EGooJ0Owf3UQeoFLatFOF9Pst9hU_p_Ti5qGxvDqq0fJH0ALX-L5-ted2dQ1cvuFIVwzaSimNbeK9641o23nBxR"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat посилив вимоги до монетизації Spotlight, вимагаючи 100 годин перегляду за 28 днів",
+   "why": "Підвищує планку для творців, які прагнуть отримувати максимальні винагороди.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6szNSt2s_h-s6oekmJ5TdsEKCt75LwQXkXYRUWMh4AwhZsQyNuaWgTAbuNYrWyQYbJWxTTYaXL-qN5bFiohlNVElfejlHthgu-jbTMlllH6iTsAWV-RfP4KfNGE0bl-ZdMQyOewNvIGBuMqL7LAQC4Hq98nP9"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи щодо безпеки користувачів та прозорості контенту.",
+  "Переформатування моделей моненетизації для творців на ключових платформах зі зміною вимог та умов.",
+  "Активне впровадження AI-технологій для оптимізації робочих процесів та монетизації, а також нові вимоги до маркування ШІ-контенту.",
+  "Зростання стратегічних партнерств у сфері контенту.",
+  "Продовження глобальної експансії азійських гравців, таких як Bilibili."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значне врегулювання Meta в США, антимонопольні виклики для злиття Paramount-Warner Bros. Discovery, а також впровадження законів про маркування ШІ-контенту в ЄС та Каліфорнії."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою глобальну присутність та програми монетизації для творців, пропонуючи конкурентні виплати."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються відеодистрибуції, згідно з наявними даними."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження рішень для безпеки дітей та модерації контенту відповідно до нових регуляторних стандартів.",
+  "Створення гнучких моделей монетизації та програм підтримки творців, що відповідають оновленим вимогам платформ.",
+  "Інвестиції в AI-інструменти для оптимізації виробництва, дистрибуції та монетизації відеоконтенту, з урахуванням нових вимог до маркування.",
+  "Пошук стратегічних партнерств для розширення бібліотек контенту та географічного охоплення, особливо на ринках, що розвиваються."
+ ],
+ "watch_next": [
+  "Розвиток антимонопольного розгляду злиття Paramount-Warner Bros. Discovery та його вплив на традиційну медіаіндустрію.",
+  "Реакція інших платформ на врегулювання Meta щодо безпеки дітей та можливі зміни в їхніх політиках.",
+  "Подальші кроки Bilibili щодо глобальної експансії та вплив на регіональних гравців.",
+  "Вплив нових програм монетизації на контент-стратегії творців на YouTube, Meta та TikTok.",
+  "Дотримання компаніями нових законів про маркування ШІ-контенту та можливі штрафи за недотримання."
+ ],
+ "sources": [
+  {
+   "label": "Meta",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU00dsapnkUgZGP1O2EfvQflCL3I6K-_ci6ub6ypnNVNqbxAqcndx3hz9eCoiMjGhJb0xiDbBAa2wCcQJ1j46IpwZyVbyk1duH6mFMnBBbai6FzMNBA03e9A3wqsrTMrsmTi9XeSbjuSZagDZQpNbW8Ho6ceV-Cg4vU6XXtqq6Ghk5x2X4ln4s5mwKQbhks-flOjas4RePCBswgomJzhFmBdKlb7pcaLNl5KOecUgLBiN-JPh0LpL1CJzxAeo9b_auSkf_nYg="
+  },
+  {
+   "label": "TikTok",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_Y6or39k4Wo7F3XhZzW6SQ3KUYprWzyzdH7r3ukKIjDXrHRsG1Zd8xgg3_SF2Cc_6MruAPbYXL8HQCDSNtRJ1DiX1XBYZlEIdDavzxtcXgJOoSMHEka2l4gbFjQqRfL_-FZFJVkD42k3gocCCI2H_vA0BLn-jfNTH9gq2SxfiTtM8H3a29q7OMpjpA="
+  },
+  {
+   "label": "YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFYjgf6asyp_1YtmieJspFqo2V5LzcX775Ci28oHiWJrQxYnIXE6WeriqqPpPTwgxRtqZcBCkHrfueRGQUTVL0x3ANBjkHSI7bWaVYcChZBqQkVcSUandlbbCS7-D9-A67isI3drFyHhhQMGvs_9ZK0UseUVLKeRCdcFxzYup4qL_YwJA0"
+  },
+  {
+   "label": "Paramount-Warner Bros. Discovery",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGMyuDOZcL8jkrPT0-qMCSvAKBYtWVWKUA4rSLE3E1zBqDj68O_IqWbcSorxsNT8FoJRoK6jU70ufgoN_vK75rcKzcJMBuKJIKyAexuddvn7ww-7VfjFZVfOaK65YNMDEDgfThpS-7EyjeIb6jvM7RpSlvEl_lkd6ivy3Pp3ou01JObd58Qxy57jU5SlMGO27ko8LYZiHUdm42HEPhLPf5LB6IH-bYp7NF6Cb9cXk4Ra9bK8THOJA="
+  },
+  {
+   "label": "ЄС та Каліфорнія (законодавство)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxmVrG6P4Z5SSnS5SXE9-85XCJzvslluhg_JVJ16DcmGOg2nz5QmQVMz6S0LgeHANLjNUNHjtlcGPP-fHUvPEbslOLUUlxCh2AUAdCIy_K0l1NU5DLgTRYGi65_BkqSLWIwTOshOjUqYAZwXD7Q28iZZU_zBauYmXUCKkeVZI0JEB2s8DUs3dOA6RRKZwvJbkkpJ_W37sU1gqbpEt4LTgCWLfW6TeARWy"
+  },
+  {
+   "label": "Bilibili",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqtRyBrOm6ORdULwUAWb5hntyUMJVlFEIm1WDMHzUnV94ZiBEEJ6y3cGjEigLPZpQNFotyGjVftzIGDox-cmmucy5DJWXZ99l_lwBKRd9OhUwM1ymARgh3FgdsfA87zC-dJmhZgsYB0VCgeVoCnWPjYPv0_sIUsaI1SIButUAt4kCZ9EGooJ0Owf3UQeoFLatFOF9Pst9hU_p_Ti5qGxvDqq0fJH0ALX-L5-ted2dQ1cvuFIVwzaSimNbeK9641o23nBxR"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6szNSt2s_h-s6oekmJ5TdsEKCt75LwQXkXYRUWMh4AwhZsQyNuaWgTAbuNYrWyQYbJWxTTYaXL-qN5bFiohlNVElfejlHthgu-jbTMlllH6iTsAWV-RfP4KfNGE0bl-ZdMQyOewNvIGBuMqL7LAQC4Hq98nP9"
+  }
+ ]
+}
