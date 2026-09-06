@@ -1,0 +1,20 @@
+{
+ "tldr": "Автоматичний розбір не вдався — нижче сирий вивід.",
+ "bars": [],
+ "signals": [
+  {
+   "importance": "low",
+   "theme": "—",
+   "stream": "—",
+   "source": "raw",
+   "title": "e an_search_query_block\nprint(google_search.search(queries=[\"Meta child safety settlement amount 2026\", \"Meta Reels monetization changes 2026\", \"TikTok Creator Rewards Program 2026 requirements payouts\", \"YouTube Shorts monetization requirements 2026\", \"Paramount Warner Bros Discovery merger antitru",
+   "why": "",
+   "url": ""
+  }
+ ],
+ "trends": [],
+ "changed": "",
+ "bizdev": [],
+ "watch_next": [],
+ "sources": []
+}
