@@ -1,0 +1,231 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним врегулюванням Meta на суму до $17.1-18 млрд щодо безпеки дітей, що встановлює нові стандарти для галузі. Ключові платформи, такі як Meta, TikTok та YouTube, продовжують переформатовувати моделі виплат для творців, посилюючи вимоги, тоді як злиття Paramount-Warner Bros. Discovery стикається з антимонопольними викликами, а закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії.",
+ "key_figure": {
+  "value": "$17.1-18 млрд",
+  "context": "Максимальна сума врегулювання Meta у позові щодо безпеки дітей, що встановлює нові стандарти для галузі."
+ },
+ "figures": [
+  {
+   "value": "$17.1-18 млрд",
+   "label": "Врегулювання Meta"
+  },
+  {
+   "value": "березень 2027",
+   "label": "Суд по злиттю Paramount-WBD"
+  },
+  {
+   "value": "$7 млн",
+   "label": "Щоденний 'ticking fee' для Paramount"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією дня є врегулювання Meta на суму до $17.1-18 млрд у позові щодо безпеки дітей. Це рішення не лише накладає значні фінансові зобов'язання на Meta, але й встановлює новий прецедент та підвищує стандарти відповідальності для всіх великих платформ відеодистрибуції щодо захисту неповнолітніх користувачів. Очікується, що це призведе до посилення модерації контенту та впровадження нових функцій безпеки в усій галузі, а також чинитиме тиск на конкурентів, таких як YouTube та TikTok, щоб вони запровадили аналогічні обмеження.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $17.1-18 млрд",
+   "why": "Встановлює нові стандарти відповідальності для платформ та впливає на регуляторне середовище всієї галузі, чинячи тиск на конкурентів для впровадження аналогічних обмежень.",
+   "url": "https://www.axios.com/2026/08/26/meta-lawsuit-settlement-states-facebook"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з антимонопольними викликами та 'ticking fee'",
+   "why": "Значна M&A угода під загрозою через судові позови та 'ticking fee' у розмірі $7 млн на день, що може змінити ландшафт великих медіаконгломератів.",
+   "url": "https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС та Каліфорнія",
+   "title": "Закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії",
+   "why": "Впливає на створення та дистрибуцію контенту, вимагаючи прозорості щодо використання ШІ та встановлюючи нові стандарти для галузі.",
+   "url": "https://www.insidelegala.ai/ai-disclosure-laws-arrive-in-the-eu-and-california-what-do-they-mean-for-marketers/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство брендів та комерцію, припинивши програму бонусів Reels Play",
+   "why": "Змінює модель заробітку для творців на одній з ключових платформ коротких відео, фокусуючись на комерційних партнерствах замість прямих бонусів.",
+   "url": "https://medium.com/@kernelolivascorpuz/facebook-monetization-playbook-2026-b52e3919e910"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok замінив Creator Fund на Creator Rewards Program з вищими виплатами та жорсткішими вимогами",
+   "why": "Переформатування ключової програми монетизації впливає на стратегії творців та конкуренцію платформ за таланти, винагороджуючи довший та якісніший контент.",
+   "url": "https://www.toptal.com/tiktok/tiktok-creator-rewards-program"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації для нових творців та Shorts",
+   "why": "Впливає на поріг входу для нових творців та стратегії монетизації коротких відео на найбільшій відеоплатформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube вводить нові правила для графічного ігрового контенту",
+   "why": "Змінює підхід до модерації та рекомендацій для специфічного, але популярного типу контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili активно розширює свою глобальну присутність та оновлює програму монетизації для творців",
+   "why": "Зростання азійського гравця на світовому ринку посилює конкуренцію та пропонує нові можливості для творців, хоча міжнародна програма монетизації ще розвивається.",
+   "url": "https://profit.ndtv.com/news/youtube-rival-bilibili-expands-globally-reportedly-offering-creators-rs-60-per-1000-views-4328507"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску: зростання уваги до безпеки користувачів (особливо дітей) та прозорості контенту (ШІ-маркування) з боку урядів та громадськості.",
+  "Трансформація моделей монетизації для творців: платформи відходять від прямих бонусних програм до більш структурованих систем, що вимагають вищої якості та залученості, або фокусуються на бренд-інтеграціях.",
+  "Консолідація та антимонопольні виклики: великі медіа-угоди стикаються зі значними перешкодами, що вказує на пильну увагу регуляторів до концентрації ринку.",
+  "Глобальна експансія азійських гравців: платформи на кшталт Bilibili активно виходять за межі своїх традиційних ринків, посилюючи глобальну конкуренцію."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значні регуляторні зміни (врегулювання Meta, закони про ШІ в ЄС/Каліфорнії), трансформація монетизації на Meta, YouTube, TikTok. Антимонопольні виклики для великих M&A."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою глобальну присутність та оновлює програму монетизації для творців, що свідчить про зростання впливу азійських гравців."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що були б виділені в контексті останніх 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка рішень для забезпечення безпеки дітей та відповідності новим регуляторним вимогам для платформ.",
+  "Створення інструментів та стратегій для творців, що адаптуються до нових моделей монетизації (спонсорство брендів, комерція) на Meta, TikTok та YouTube.",
+  "Моніторинг антимонопольних рішень щодо великих злиттів для виявлення потенційних ніш або партнерств.",
+  "Дослідження можливостей співпраці з Bilibili для виходу на азійські та глобальні ринки.",
+  "Розробка інструментів для автоматичного маркування ШІ-контенту для відповідності новим законам."
+ ],
+ "watch_next": [
+  "Розвиток судового процесу щодо злиття Paramount-Warner Bros. Discovery.",
+  "Подальші кроки Meta щодо імплементації врегулювання по безпеці дітей.",
+  "Реакція інших платформ на нові закони про маркування ШІ-контенту.",
+  "Деталі та успішність нової програми Creator Rewards від TikTok.",
+  "Вплив нових вимог YouTube на динаміку зростання нових творців та Shorts."
+ ],
+ "sources": [
+  {
+   "label": "Value Add VC",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPlORpyJlCq0XxnsX_tnFHiW5hxmEfsYL_8QzN4cwTZJZgs3IwVM7A0UNCodZTGaZqqBJwIkFpGuj5W2A9qBaCIH3XCzF9S_xcGavlxlmhugvR4Pax0A8tFhMWi8MygoQ_6be14XcDQohCljKRY8_yJald9AsHNVJSzQeyFZlC8ivkLlM="
+  },
+  {
+   "label": "The Texas Tribune",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhcBlqaHKVlbnNRyaGQu99RDwTtyRqdlcsd9YTwn3Uxb0j7OwItqoVcPHmt3yvQhwuI_6R2NxipefDvgqqd4o1oITlXI-hGiRyIcYCeb9hA8jHHV-nXQAlq8oqTuTtAjVhDlxH5UE3l_gymZdk5K8Og1zueHnpD0_q3GVy12yre0EuIM14ekuBhkJg35_MmEBP9eWdvYr21zc-7Ml7N_OiJPszgANKwY15iYTq"
+  },
+  {
+   "label": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL08rOWBulp4zTB1FSphEjqHCJrI_wRGpgpN7dKvDn_EASrLMfLXS6rbnpJZZsiSfwhT5LJMMJeaD3numFMFiYHxfBaLSV9pTt7mzIe5NJP0srqLPJF_16WWkr3glxQfUuN7Dtp7lGOhEddv344xi6tGaecC9cayMPJo6z0KOGTynCgJQG6A="
+  },
+  {
+   "label": "YouTube (CNN)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_K3HmxsoddUhFCmXICKutbMP338nhUPntyRzh_UugB8eXnENqfIR_OdaeyTjUCzR5pDf_YYgKRLZY2juYRy_jfWrDXJxmd-hO24dwAhsoqYIKLYMEB9M4wOFHWIaC7u8UVVfG1QY="
+  },
+  {
+   "label": "Court Approves Meta Settlement With 29 States Over Alleged Harms to Children and Teens",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQC2WLu_mMIFwNcquQdMe-A2CYsFOztVoV2HoFpY8yBGPVJivd84bZ-ZPH0bjVsVkxGXgfw-aWKZCM39AhPEjgCAtQE-ekr1ZqEcQ3hsqKMnhj2hGMSgJgDImYSPdPXpdrbdCWMuIS0QXnySM3W2ElMc0_4ykVsj96kJlrAILtIzLvEIs0BctS-XVum8r4wyQmvPLWzrs0q2VJuV2qQQlWNDItMT3AXWCG51XcW6Fi_fuOPtkBw_LNfuvIwdI7zWDJXnaGVw05WFaEON8="
+  },
+  {
+   "label": "Entertainment Law Resources",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBjo7fvMUNkaU433bCyaFBO1vBSZrbFbVHx0t646Dk7DZGAyVoEa7d05kjVUggzkKv53Yj3V9szPW3l1k2ndsORcOHkkjtMNMyCOqX2gzGZDhtypONauLQK_lzEtWKoZW-VAbJ7WpCA2rqy3a2xMlcrz2AcVHeUX7v6FlNP2VfhoQNK2a85eW7257BuoZtn5W4_2qpfG4S3EPSReX-5lPqXCMPNyA="
+  },
+  {
+   "label": "Inside Legal AI",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdBkMxFpTTICHI-jJUXykPTEQ3DMVDsrBgvVcjzrAlXoRElSnaFb5ElEIt8cx8MiJtyMEpqqUlxk9Bp-cQag4DMjKlWLIBU3vly3ZDFa5PIbOIopltaJHLNtrJbGz_F4RZT9Wo9dvGCTb5hwVI6Zn3bJVk1YzhBkOYbLwznQa3lvkY4xrTtS-b5UpvPUf_lb470BWnYevpkrQQDHEqNqCt3fipkk2sbUE64A="
+  },
+  {
+   "label": "Wikipedia (Paramount–Warner Bros. Discovery Merger)",
+   "url": "https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"
+  },
+  {
+   "label": "Toptal",
+   "url": "https://www.toptal.com/tiktok/tiktok-creator-rewards-program"
+  },
+  {
+   "label": "Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0vRLdxaNSDeoppGH5PXAIzXkzqrrh2hQo044C1Sx7XH82e6aGqSn7RhUzc76pB1yk8Sdrumn45oaX-W0p0Bs2K494ieC4ABWqhd2Jnw7HTT1AHYdOCqeMk1Odk9vxSqt-Q4xx8atBBTRv48Uu6LdX3rP8igxFL0fbT52-lYz3-JB9uJJclh6AtDWfLq9B5GJP10gsciD3tvinesHBbdEjZpyqYqt93PnJq9jS0w=="
+  },
+  {
+   "label": "FlowShorts",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL3Gf5wX0mhWQNHRgE1Os3rFcQ5ugF7D5ikhA_xKE7fo30yGbE8MN4TPsbDxcjAHaMaPhZNwhryaOOsdgCmKXCiSflvaoZk3X0qFmR0ku4qIJsfWbj3oLOiWWJuxmObN1YZh7CqumhgQX0E5tgPSrsqLiimgtKEg=="
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://profit.ndtv.com/news/youtube-rival-bilibili-expands-globally-reportedly-offering-creators-rs-60-per-1000-views-4328507"
+  },
+  {
+   "label": "Los Angeles Business Journal",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe6GE5fn-HujBiHfKyT3xa1rJZJltNt_qZxXFUJwvJI_Z3xfCFbs62KozTm-GoTbDmoEoEQMuA7gh3gREa51EObrQGgIm8recltITXIru66QLWPfaF7FQmNFGZuXIM_II-g4aZj-EwTIYa71xXsErsu7Y_p7xz1sdlSoJufg2F_szu0Cru5aYTmFy14-JflA=="
+  },
+  {
+   "label": "Medium (Kernel Olivas Corpuz)",
+   "url": "https://medium.com/@kernelolivascorpuz/facebook-monetization-playbook-2026-b52e3919e910"
+  },
+  {
+   "label": "Medium (Rentier Digital)",
+   "url": "https://medium.com/@rentierdigital/how-to-make-money-on-bilibili-in-2026-the-playbook-for-getting-in-early-87630713398"
+  },
+  {
+   "label": "YouTube (Top Review)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8JXK1Bd8LhJyQBAm0Ag1eKWoDsAagn5_VvTiSDZHJ-teBNJ8DPGWrwVsfNIiIq9Pj1ZC6k_BHDsjIPHWU4Wpi3dQcGYz0wC3rc5hwYxN66lQpY-XaUvHJ81IG7JDfmc7ToYD3uxM="
+  },
+  {
+   "label": "Gadgets Now",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7qpOYXV2rQd7sCpgCtzWgnWtpPveqQ-uuNAxhrQ5oydFouIxh0lc6ZYVqvJQM7AeJ08FceuGlnRvMHmdkNK_jRXXM3j5JpW_bTZA74GbIs64cveQP0ZZOUgUbN3-fqZ6_OlrTzOuU1cBOboCAW8U1xr1cmXQUZS12MswNRaWt46uLU34OONrBeFNK2xPMtjEvXuaP7-OcVENKTupO4VENENwdji0hq5pIdUMygA9B4Ztg_45Y"
+  },
+  {
+   "label": "SammaPix",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbVxGuM7B0G1fFXpt5essSc1BrCt6qXputHiIDUO--XJcOPTCDnNaaOwCIybYAp5sRT_e1blo3vCq36PMg8D-ww3DGNslc_esZsEPGoBzkiZbpPZlkVFirsOApOEtRw3DF_OLlcEzZjIK_2cE483400HHf"
+  },
+  {
+   "label": "Potomac Law",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNnEONDchjJE6Lw8oVDqOUvsvzek-fU1jfVQPrfdj9cCwGoWgsEClM0SIUJRNRUqi2IOC7n-ofZ55fPCU2iBDcE9CJWb58T1fOXTSnZWwPidIt2wYzBmOdGzYcgv8F60hlR8PN3GurSVjHPVxOGtwjmbnC1gLBc_Bm_DtyQPxB5UGVTAvQl42pk6Q19mjTkF66U-DzxLE1kfP0z5Il0qUhKBrjoM5vH5VQZ7ZU"
+  },
+  {
+   "label": "GRIP",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUTkhloWsaBTsVf5W6xedKzh80bpsb9zeaVkQ7DhJ44zg3mMnh8qVOZGXFsm5u0zw4IF0q6_QLe7wRjA7Hi2ETf1epF_MX5WQ8ZqRCh7Lzw9palmWzdY60V4DXFs1AxrgNCChSMKoMJrTIgVpoyMqXZR0gv6mnW0DRLKpaeJgQ6cy068gE-CGwxUgxpTJsOhuef-B7Z7Z7dkz9J1pdF9jDOByV"
+  }
+ ]
+}
