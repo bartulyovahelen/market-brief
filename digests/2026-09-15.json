@@ -1,0 +1,279 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значним врегулюванням Meta на суму до $18 млрд щодо безпеки дітей, що встановлює нові стандарти для галузі. Ключові платформи, такі як Meta, TikTok та YouTube, продовжують переформатовувати моделі виплат для творців, посилюючи вимоги та переорієнтовуючи монетизацію. Регуляторний тиск посилюється з антимонопольними викликами для злиття Paramount-Warner Bros. Discovery та набуттям чинності законів про маркування ШІ-контенту в ЄС та Каліфорнії.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Максимальна сума врегулювання позову щодо безпеки дітей, яку Meta погодилася виплатити."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання Meta"
+  },
+  {
+   "value": "$7 млн/день",
+   "label": "Штраф за затримку злиття Paramount-WBD"
+  }
+ ],
+ "top_signal_deep": "Найважливішою подією останніх днів є врегулювання Meta позову щодо безпеки дітей на суму до $18 млрд. Це не лише найбільше врегулювання в історії компанії, але й встановлює безпрецедентні стандарти відповідальності для технологічних гігантів щодо захисту молодих користувачів. Хоча це може призвести до посилення контролю за даними та змінити підходи до персоналізації контенту, що є основою бізнес-моделей платформ, це також може стимулювати інновації у безпечних технологіях та дизайні продуктів, орієнтованих на добробут користувачів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Встановлює нові стандарти відповідальності для платформ щодо захисту молодих користувачів та може вплинути на бізнес-моделі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює монетизацію Reels: фокус на спонсорство та комерцію",
+   "why": "Сигналізує про зміну стратегії монетизації коротких відео, впливаючи на доходи творців та рекламні можливості.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами",
+   "why": "Впливає на стратегії творців та конкуренцію платформ за таланти, змінюючи модель розподілу доходів.",
+   "url": "https://www.tiktok.com/forcreators/creator-rewards-program"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації для Shorts та нових творців",
+   "why": "Може вплинути на вхідний бар'єр для нових творців та стратегії контенту на платформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery під загрозою через антимонопольні виклики",
+   "why": "Потенційно змінює ландшафт великих медіакомпаній та конкуренцію на ринку відеодистрибуції, зі значними фінансовими наслідками через 'ticking fee'.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "ЄС та Каліфорнія",
+   "title": "Набули чинності закони про маркування ШІ-контенту в ЄС та Каліфорнії",
+   "why": "Встановлює нові вимоги до прозорості та відповідальності за контент, створений ШІ, впливаючи на виробництво та дистрибуцію.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Amazon Prime Video",
+   "title": "Prime Video додає короткі новинні кліпи до стрімінгового сервісу",
+   "why": "Розширює пропозицію контенту Prime Video, конкуруючи з іншими платформами за увагу користувачів до коротких відеоформатів.",
+   "url": "https://thedesk.net/2026/09/prime-video-adds-short-form-news-clips-to-streaming-service/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili посилює глобальну експансію та оновлює монетизацію",
+   "why": "Вказує на зростаючу конкуренцію на глобальному ринку відео та прагнення Bilibili залучити більше творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat продовжує розвивати монетизацію для творців Spotlight",
+   "why": "Підтримує конкуренцію серед платформ за короткі відео та таланти, хоча з високими вимогами до участі.",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії, особливо щодо безпеки користувачів та прозорості контенту.",
+  "Переформатування моделей монетизації для творців на ключових платформах, з акцентом на посилення вимог та переорієнтацію на спонсорство/комерцію.",
+  "Зростаючі антимонопольні виклики для великих злиттів у медіаіндустрії, що призводять до значних фінансових ризиків.",
+  "Активна глобальна експансія азіатських платформ (наприклад, Bilibili) та їхня боротьба за творців.",
+  "Інтеграція коротких відеоформатів (Shorts, Reels, News Clips) у стратегії дистрибуції контенту великих гравців."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значне врегулювання Meta щодо безпеки дітей, антимонопольні виклики для злиття Paramount-Warner Bros. Discovery, набуття чинності законів про маркування ШІ-контенту в ЄС та Каліфорнії."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою глобальну присутність та оновлює програму монетизації для творців."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що були б виділені в наданому контексті, окрім згадки про ракетний удар по офісу українського каналу 8 вересня 2026 року."
+  }
+ ],
+ "changed": "Протягом останніх днів спостерігається посилення регуляторного тиску на великі платформи, що підтверджується масштабним врегулюванням Meta та новими законами про ШІ-контент. Також чітко простежується тенденція до перегляду та посилення умов монетизації для творців на ключових платформах, таких як Meta, TikTok та YouTube, що свідчить про зрілість ринку та прагнення до більш стійких бізнес-моделей. Amazon Prime Video також розширює свою пропозицію, додаючи короткі новинні кліпи.",
+ "bizdev": [
+  "Розробка та інтеграція інструментів для маркування ШІ-контенту відповідно до нових регуляцій ЄС та Каліфорнії.",
+  "Створення нових партнерських програм та інструментів для монетизації контенту, орієнтованих на спонсорство брендів та комерцію, у відповідь на зміни в політиці Meta Reels.",
+  "Пошук та залучення творців, які шукають нові можливості монетизації на тлі посилення вимог на великих платформах.",
+  "Дослідження можливостей інтеграції коротких новинних форматів у власні відеодистрибуційні стратегії, наслідуючи приклад Prime Video."
+ ],
+ "watch_next": [
+  "Подальший розвиток антимонопольних розслідувань щодо злиття Paramount-Warner Bros. Discovery та перебіг судових переговорів.",
+  "Реакція ринку та творців на нові програми монетизації від TikTok та YouTube.",
+  "Вплив врегулювання Meta на майбутні регуляторні ініціативи щодо безпеки дітей та конфіденційності даних.",
+  "Деталі та імплементація законів про маркування ШІ-контенту та їхній вплив на виробництво контенту."
+ ],
+ "sources": [
+  {
+   "label": "PYMNTS.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH85AJPxAvC7RuSiVNZ0MTEi0bNjpJ91L1PyJDrsMBMrurNMqyc6iKqDn5JoWOLXGyo-MadEBtaZcARYHfFaGW6CZKq3wxrtt7PcG4ZgYZ0Na9wSy6FsnNAxMn0Nep5lhkSvilj4Dw-yeQOlhktQTMqVfZstjCd94IxsvqiXQrme_FzKL4vRk4oWgvUbX49kdW3BrXoT4YGbQRAJCoQxmr"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHecuYL1nauc2R5K3q1EwaxAom3ECz8lqLoIb8bg3VbBgxd8-G1v21xM_5JVCIcJDTFFHHRSa2qFTtSISXM2iZ0DRus5XzcR80vm2kTRd-blD1dzWwjVRh4wb8MjERgCagNQjc5kDJd4W5eMsr8a8DACbIYhu_6u9am7xbcigQRJM1a_nUFJ-r1bPciw2fG6Z8oABY14wE="
+  },
+  {
+   "label": "TheDesk.net",
+   "url": "https://thedesk.net/2026/09/prime-video-adds-short-form-news-clips-to-streaming-service/"
+  },
+  {
+   "label": "TikTok Support",
+   "url": "https://www.tiktok.com/forcreators/creator-rewards-program"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeNiu30AR2QiKxL9bWu8cCunWR45KPTtoELkV06aWBN3oVd0Oi7gQJRBe00gBd4Hl8NLBkmdKXHJ83e5Vd2BZ9BfE2EoSzYs3NgmAkHjErG9MLzuix7NCp2ZGSAMAPD104CEvEJpLuok0qjWE3kfpLjPIPPc_WsA=="
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCwj6KPesieHzCbCvuRbrF_3kMCYRZPrbTVS7uOSH9g-nYRYeCbYaIvrq_NDXemgUTRZAgnpVjRCxacO7qQ4iYtVspM631JteTyHZSFu_yot22SYARp8GlVL85K0dAwxftrtM6U7viyWUjkW9jEUpy6b3bpoj5jLvyrNHEIC2le3pv9olrzSC-8w9S6Do46G8aKFYbZGua"
+  },
+  {
+   "label": "Эксперт",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe7ETEYFGuhoI5FwQZFNzDptkCHCwKA9F6VHqkHt5eqgMqX5PjnhqGJw4uAJj58tCAriVAAApyI0Z8rwgVD4WU9fRxNsRDOwNJ7kM4ZlwFGSc0mwgcPpJJpBJ0BBizFHAP_o_mPBvc4C9-MFmolnFf5yW-P92qz8kQF_VTDbNbvk3cd6m1MNZjE8Q="
+  },
+  {
+   "label": "Digital Crew",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJKlkgT_oA_EQEc41l8itygfrGz5fAWK7emhA3qG49kO0sBtQhTPLz_5SA4Nfp02FZLsC5tLxUhIR0_IHQarYAbHS-YLVWPw50s_z8cMxXQZwdOuD5LO9lSvdt982FArRFEoKfJXpkFubYny3IXq8qxwuwaJ_tolZf-WWYDJGQ2r1lfyHRybkABVbooGUo1Ur26lSHYSIVUYm2nO96rw=="
+  },
+  {
+   "label": "ARQ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhx0A6dL8_or53Nz183Kma4RwSGSEj85uXznN3IYrWldqf1w2KUb6MiyzFj-2S3HXBSmT6oYYJvEsMQ8RqbnFsl9LOKhwV8x8YFL3mqka2TT6DTYQCRs0viWmUb0x0pXBOHZyD3MrjmJmPYM7s8SuJiTtihRtgrQpQR2nTb9b-7fZ7NoXbyLZ1klikxtm-rMFggoju7ppX7pDSCenk"
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENvdQDlGtMOqkqTEBYDdgCHlZ2_cjPseCdskddmgRLEx14WK-xUXAabGN_lhw1P7FHrHgtZRRHfTEGMvcvGW_DeEa7sm7y4PLONAQB6qaeH_ykOWapB7S4UFUPbu8pzMyk4E0O0sAN2E_uqLmjGnucZFpFVN2QoNAqi3wWp_0Q6bNwu8dN5ar8VQ1-hQ=="
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgspXqidt0UMImVuZDqJj4F-DapQH_X5Fg9N8ZS7gF9DaUrv1Lw8ftkW27zjSydJ_S0wx93O8rjASjCt-6MVUlXkj8BWWYyRlflic9WV__jiNeok4UHP5F0dysz5rstU9FlZPjKfFc9TPbnaLccFSK0WTcXV8egnNgOntEFYN"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt1g95T8BTY7VhkkyR88Sral0ZLe3klMUPR6Ps7FIPKxVeeDFQzA32paFDsiRvJnnz6_JJ3RFdBPCPXsWECWiaue_18ZOPj_EK7HsP_gQ9ir14s72ggu1tla1qKX71391NaTmljJVsVaX7AgazW2F1nGViGO9PIyWP5HbTDgHnja02xYxxzXhyZ7u_-Mav8XgeHwe7z-DJXdiLcw=="
+  },
+  {
+   "label": "iGeeksBlog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs17depx8Oy-nBoutbt0o7msz1va7gClDaJWop9ywppbRxsTPJQqtgidB6iLUk4JSd_XHlZ16v-UOoMQRSMlq9hRW0OPmW-wNJCFXbAisGF1fMaXJglOEZldXO30INfdfRgRV5gYmT_VYZyv_c_XExeteS3jeT2YqAi0a8a9Vsc6uZNn715A=="
+  },
+  {
+   "label": "TikTok Monetization in 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCrxwJJqx8aN3463KhwtspIdDXuGHF86jslSy-6Gpm5sxYdekLqJ9NFApvQSOI2Pfn4mTjbF_eGKNXdtJK92ws8QfKEjDKomzn-XzZjT1DULM1GUQcVEdc0K6iXqD_hqB4P4U5MZdTVtVeK3lZykA6Pt_KsYlQKWqGryYwaNXqryae1xI_1kMC8TCuhCshsw0M7j-FISZEozyvxDQx7iAGpPk="
+  },
+  {
+   "label": "Lewitt Hackman",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErHirMjW-51WmJpkvh7KyTw69VjqrCecpqbSLal_RQVhsKCoNdxtLZnlmxZ_KN73lqx6PubkCM6u-et14JvPu6f6ccj06HGyR6NJtQd0AtMvilEzWwej456xsdIdWEp481-ewUKKuiAdb8tgPIGhjPOliZtKfuzS-TfHDivKe6nqKAtV-Z-0mAazxIqGryYwaNXqryae1xI_1kMC8TCuhCshsw0M7j-FISZEozyvxDQx7iAGpPk="
+  },
+  {
+   "label": "TV Tech",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3v5nj32ScmmmQDIjzlJV2Shkxo3Sh2YPift1_BQ-OLoP0GUPsfvgO9ag_yEX3nK9yTa_HXKWCgBR6qNfsyonMIE8XEKkeo7pQpLssY4Zzx629W6e9q7gC2romgWxkwhGrCfvD2TCvEt710ardMaimi4aLUiBMdg1iC4zmCdmBapzekx36UzSIvxyHkAMcE6wq2fgneFpU6A=="
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4tNTLlBGreDGeBaDangdLx-lILx5GPDlETH7xltd4NzQIG1pd0BuO-MgUlpwnIKbTzZxDJSlOaEnN5j6Fa8m_SXKqcd5EWELdKMI36G4WYCog4X26jlLU2hcqz5AJK5dLXhjekXtRbeNYr_bq-Ci9oCCvL4PwY-Oi3-WJ2i9Y_8225Ic2-hVFpRQ3z314zQDbkKG4iDnWBAZsztd4"
+  },
+  {
+   "label": "AIR Media-Tech",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWfbu-p_PVl98f7cSOeyCrKS6Qsoym4SfVVPnFx_EwXgMQNlmJq9P5xOTk2ePy663pmvJzMYFROB4qY8LxMthhxYb0Ute8cTLXDJpO_2jJzg0NEK0qDdApXPki7islyG7AoCaULS3qktvyWL1ikzkE6oW2weKi42A4L13ZeNmRQDu4qAd3KGT8mB7V03DC1QiLR5IMM0am5EXv8-w="
+  },
+  {
+   "label": "Mashable",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXXUk0m9vDAdRgrH8wOvBvw1XcGPJvQ1iKUgKKOszCvLSJPhsMyyvuUtAhihMZ22KWZsB4vt7BnkqUkcP_TGEUZNgKLpcqSdvJO-Re6cr4M-fgtK0Lo8mLKZ4SlKZDX2ryq-tD7A7M6fsUMecN6KWCtTHETiWA5KBPT2jU3J9V01M7xFZ48w=="
+  },
+  {
+   "label": "Cartoon Brew",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_cNW2zO6LHqX8jh-7fNF42DjeVbuJvRVKuNbhldXaTb3ToK7YQOuOLv-V6_Vh8VNXqY45AajtI8WeEgT-xO4GLKbWQrzXg6PVkXwIQcxzHCNQFJVy4VYreeeZXvclt5IZ5gMUyfuL_S0kC6M6BacN2EpcmnKmE3EWTVgl5tnpblUOAvf7aNlQlanA5srVbJcJgA=="
+  },
+  {
+   "label": "Dataconomy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz5k8hGKOqiT4TIivAsPvHHj1lYs_XXhdtpeL6v9KatlETx3q5aAdGWtIAfKW3S1iJc4kl3gW-tK5bWZu2mpCnn7eP5vcdKuvRbS4yJYJ-cWvAOO0IjFLxxE1yOqorWnE0lfXnDRBnEHYawH10RaVZhaCdToZeaDt_PFJ3wwzWYcBSz7xqHA=="
+  },
+  {
+   "label": "Medium",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhhIRPJXgLG1LEC3XdJ2Fe5Q_aL2Rg0UIVEAxjg8oZ6dyD7Xpg0MMaIsX8XQBX13Lh1hYuu1YeBGpD-59qwsP-u58LtzzyudMHCSumEwGE2QUTGgbcQFOKQ_tSOYu9bJo60j83fOHsW1QAzhf2CNcwC5NCxGMDGEQSR1CzjpLXE6QrRdv3lNKKYj2ewW0P3BOkSqCYe1ivp9qhmQenQ5gJrok7f1k8Yk1jHdattN6xLF7v"
+  },
+  {
+   "label": "Benly",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4sug99uMfePAzJSN7Z94CKJUqDjkD0PvgSEFAIoRQpyfb_NnWMU6xzZiMtQs5e9MZEv3yF9yMFTHd_SdSLziVmK1oirwe3qrJ1GtrzgDnOdD1X0_aLzCQaFEi3P_BvJpbFP7u-AEgyf9Co3NeuHVjQ0O-ZU0tlJvZ"
+  },
+  {
+   "label": "Amazon MGM Studios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOa3JEvGvflXQhxQquagaGpjSx0iyCDu8eHYK3LZJRLX5hk588IYm1LyHrFHHmFTCH66F_6lStE8m7W-HceYRg_56j_ZTdW62E4GkhB_uka5cC4JCir3xDRiZ3QcB1gZZ2jWadp2PeRf6D3bRNBTpCN2s964jZKZSeUQ=="
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ2EL1Y46poa45zJl9d589aceBW1nG79hRsvfchy6dCY4TzMVuxLPCSDac4kj3NsSJ-sRlUKD1J15wDAAn2Ce1ZNoJUyE6mngpjxcby_SBoGMzQwl9Usi6RudNWurSbZmz0NXGSPYxekkGE10JTWSlyriMW0DChLlf9Eq4lyMegEWt-pHhLd7cLws12P-Do7GDEZuhXRztH3MtRtqPtATWinpquCSWkSk="
+  },
+  {
+   "label": "Курс валют",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEodtd3NsY4Kh5HzndhsR54osfMobeWQ4THpbAwJ2Jb5QlAinzeyxkAsetjghlbYzB4R8dBBvBGOCrXq2kdt6ieR0Te58zL4iwvUukJtJwfuFG47AMEBDm8sZ04x2ORiJe-qUoy3oUtO1o1wJGMvY_gpGxHCNO-yYPARFSe8KLCcESpmfRw4Ty_FXb6xM4TPAwPro0ZB_uI6594mnJHrqloaq1OJmGO5FBD3Z2xFlsgXC5zZm1OEa8FG4ENoyCOHE3wLpdUhrc1ZeqI-_vXxOF00aY="
+  },
+  {
+   "label": "24 Канал",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfLXFVyDtuhEy_aTBlQjiXLvnAgSamnwl_6KFgRYUUXfcUrZ_zjWRRkPDJ1Mepr2fiPGwy_Z9KXTE9EDaz7w_RInStvx3Vn-G9T1yeCi138jTXSeSfU8TdAx3ZklkS2VzKGn5lX9g_xmeseQVQlifCpLgFKjWLnDzYX-AjuTLK_QYaqlCgsIbTOMq5i0QSOrswXeCeT11sbTSlpg=="
+  },
+  {
+   "label": "Мінфін",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFePbv9XLWMGk6OBFNSFJ8wflVf-06RK04i_S_21rKSQ_3FogJWFqqOiKFZ7D3xmZf65nK-9dQw9_3_5626EdTOg14HSjHfTSSq2lh16vpgx5s9WD6bWeH07moG1u4BxyL-CAfJk7JuTMqVfZstjCd94IxsvqiXQrme_FzKL4vRk4oWgvUbX49kdW3BrXoT4YGbQRAJCoQxmr"
+  },
+  {
+   "label": "Інтерфакс-Україна",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9BmDWAtbdmvyQwnDBrCHLmotWLEowX9epQS0jRBK0FeaX9tecsfGiMFTb1wnw9hEOd5mcmTp_BZX-_SVROm2uZcrek63E2UnphfDnDp24BdbIWthv1vCpeSw5PAIfE4e6bAST_PVNHD996pg="
+  },
+  {
+   "label": "YouTube (United News)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrF6ZWzNlhh2Yg0TTcNFkeOFuViEEuhcj55atZ2b4M32MRxOWzmzu15IR-iLbM56mWuO1rytSqA8irVgJE07tDInQBYhUM0nHN1albKrIGup1KdFj1oRMpn7YnBxiQl1hpXDc5kME="
+  }
+ ]
+}
