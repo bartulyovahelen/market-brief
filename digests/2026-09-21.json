@@ -1,0 +1,237 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився посиленням регуляторного тиску та значними змінами в моделях монетизації для творців. Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд, а закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії. Злиття Paramount-Warner Bros. Discovery зіткнулося з посиленим антимонопольним тиском, тоді як ключові платформи, такі як Meta, TikTok та YouTube, продовжують переформатовувати виплати для творців.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума врегулювання позову Meta щодо безпеки дітей, що встановлює новий прецедент для галузі."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання Meta"
+  },
+  {
+   "value": "$0.525",
+   "label": "Квартальний дивіденд Meta за акцію"
+  },
+  {
+   "value": "$111 млрд",
+   "label": "Оцінка злиття Paramount-Warner Bros. Discovery"
+  }
+ ],
+ "top_signal_deep": "Врегулювання Meta позову щодо безпеки дітей на суму до $18 млрд є знаковою подією, що встановлює нові стандарти відповідальності для великих технологічних компаній. Це може призвести до посилення вимог до платформ щодо захисту неповнолітніх та вплинути на розробку продуктів і політику модерації контенту. Інші платформи, ймовірно, переглянуть свої практики, щоб уникнути подібних судових процесів. Паралельно, злиття Paramount-Warner Bros. Discovery стикається з посиленим антимонопольним тиском та загрозою виходу Paramount з Голлівуду, що може кардинально змінити ландшафт великих медіаконгломератів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  },
+  {
+   "label": "Дистрибуція",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Встановлює нові стандарти відповідальності для платформ та впливає на їхні політики щодо захисту неповнолітніх.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvaXnYsrRrOQeUa-7XrOf2Au9hHYFKNvzMYRcdDACtvpRUifVUuwQ3gBvT5dsCCZPe-l6Ik-hPNuKV4tX4oYKf5u_3msmkQ-uA9gqI_IkL9LIxaqYSbaKKaf_Aj3n_sTsCMqUhCpV_GAdv4n0bB-ecjoa5ntTw--uiB5KHI1xquunHbwSrybJH0STTh9WtKTNsW3lf4QKZCo9iKMc6llz6e-JRopzc2_342Q-Hq4Udah97MKtj3Gq13umPTrWy"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС, Каліфорнія",
+   "title": "Набули чинності закони про маркування ШІ-контенту в ЄС та Каліфорнії",
+   "why": "Впливає на створення та розповсюдження контенту, вимагаючи прозорості та змінюючи підходи до модерації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJP0u14z-8JfbH4mIvB2ishLbEA07PEuTWqiQR28G8NafNE-bQdFVGxghuKqmA7JBhIxjYP1zA8Uol9Y4LN44ZCV3r1BQpXBIq29xM8nNOfS3Nvg2rR9pwviV-dOb7ZpP82IYSEcos-niqEkMeqSY3DzK-2slXH-InFzSeqlW2k7IFzr4e317JqP7xtkDRv6peqAEf-Ya7xX496trZX9TXhApFRF0hnPpZKyBr1K3pcqcCvETLFU6awTuvBBrJtUtgHzswWA"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery стикається з посиленим антимонопольним тиском та загрозою виходу Paramount з Голлівуду",
+   "why": "Може кардинально змінити ландшафт великих медіаконгломератів та дистрибуції контенту, а також мати значні економічні наслідки для регіону.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1oGbkOKyR5V-wf5Q7hoI08gh58GvWfK_IRB_UfizWnKEFaM9PPKHYxqOnPBrw1UaJGZkNeiuj_Ohy7ICcgAD-Az5VrUy8qOPJkNY--Y2762m00J1TF4dMnHtuxWq09GeFg3f9N9yI-zWRTWQMeI6B5Q2tJdQtbbUPNvi-CRjbOhGBya_ywOUMGfe7ZtfwepZ--HPEk90F25XodXR6d0qbT2OU_JNn5m6ykhjbfyj6hKBNljM="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta переорієнтовує монетизацію Reels на спонсорство та комерцію, припиняючи бонуси",
+   "why": "Змінює модель заробітку для творців Reels, фокусуючись на інтеграції брендів та довгострокових партнерствах."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами та вищими виплатами",
+   "why": "Стимулює створення якісного та оригінального контенту, але з жорсткішими вимогами до творців."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації для Shorts та нових творців",
+   "why": "Впливає на поріг входу для нових творців та умови монетизації коротких відео, що може змінити стратегії контент-мейкерів."
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оновив Умови надання послуг та Політику конфіденційності, які набули чинності 21 вересня 2026 року",
+   "why": "Вимагає від користувачів прийняття нових умов, що може вплинути на взаємодію з платформою та використання даних.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZr_oEhlkznBQFPQDNIe0i7CuxfRA8C1eE-kxHp6oFgVRiSifc_QWlY-eqQL5diFctUU6jObIkvd8JzyxJxiSez-g65bxhrCgLuaOUCWhiY5OinqQC_Yi8JPRtGYsVDQtc8NI="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon (Prime Video)",
+   "title": "Amazon Prime Video анонсував новий контент на вересень 2026 року, включаючи серіали та спортивні трансляції",
+   "why": "Посилює конкуренцію на ринку стримінгових послуг та розширює пропозицію для глядачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhg1ckqde4Sj3wD3Jr1nrKfDiSqOkllrWmW1zP9lZG09pkmxEEhhMSLdwlT7kJNr7m6COoaR0Fy6Q7NXifhKV8MoOyn8B2so9sqbxrJOKBO7JuRb5o_e38uOBBTOM2Eu4cX3U_tTU_i99pr2hXfYMmyTZ8njNMWuUc6Pq9NHhIcoeM08POREOPjK8gw9GdxTx_h6fW0Iw="
+  },
+  {
+   "importance": "low",
+   "theme": "дистрибуція",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group запустила контент 5-Minute Crafts та 123 GO! на пристроях Powered by TiVo у кількох країнах",
+   "why": "Розширює охоплення контенту TheSoul Group через нові канали дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNRc7Rptqv3it7Q5syHck7jnBRsWtTwy4BxW-IHko7b50wgyVf2JYoZzHMd3-zc2ctvWrZ_GgctPVw5KtsnNctDAlguPXI_A73-i7KUrVTKrx4ERc="
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "регіональний",
+   "source": "Україна",
+   "title": "Україна планує розробити закон про ШІ у 2026 році, враховуючи європейський AI Act",
+   "why": "Свідчить про глобальну тенденцію до регулювання ШІ та потенційно вплине на місцевий ринок контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVvmHwr7cOodaMzSzEzKpB8_wwgOeNXG6z8bWThsI0f4-muNL3sdrZt1RGwTlTyR4WoDCUrpNoQclFlKiByy0088ZWkfMq4HH9tzm64cokbGl70pwatbf_lJUUg8qXXN4s9EV17SkdB240kTG2M4kqjS5B6OuU742PlwagwfkBorQ9PCGDonkGyIaccJQ8"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta Platforms оголосила квартальні грошові дивіденди у розмірі $0.525 за акцію",
+   "why": "Вказує на фінансову стабільність компанії, але має непрямий вплив на ринок відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvLK_vpugC1wSLpyXvZDfsN9HVLAksVqMwnwvLvabv8Hd5VEnBET_nYAavUNlWC60sGTrKsWtXw0ZIi1cWkAEJgcOLIcohfeVVkaV743Nk00paD7LGj7k0YShTUgcd4rQFZoCfmuQb2WTg13qgZMyvSqrris0myjoboVrz99GaHYerzZcF2J5mH-ZBmS6PoUg9ckp2PqzO1g=="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії, особливо щодо безпеки користувачів та прозорості ШІ-контенту.",
+  "Переформатування моделей монетизації на ключових платформах з акцентом на спонсорство, комерцію та якість контенту.",
+  "Зростаючі антимонопольні виклики для великих злиттів у медіаіндустрії, що може призвести до значних змін у структурі ринку.",
+  "Розширення контентної пропозиції стримінгових платформ для залучення та утримання аудиторії."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значне регуляторне втручання (Meta, ШІ-закони в ЄС та Каліфорнії), посилення антимонопольних викликів для великих злиттів (Paramount-Warner Bros. Discovery)."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok продовжує розвивати програми винагород для творців, TheSoul Group розширює дистрибуцію контенту на нові платформи."
+  },
+  {
+   "region": "CIS",
+   "note": "Україна планує розробити закон про ШІ, що свідчить про адаптацію до глобальних регуляторних тенденцій."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, спостерігається подальше посилення регуляторного тиску та конкретизація змін у монетизації платформ. Врегулювання Meta на $18 млрд є значним кроком, що встановлює новий прецедент. Також посилився опір злиттю Paramount-Warner Bros. Discovery, що може мати значні наслідки. Snapchat оновив свої Умови надання послуг та Політику конфіденційності, які набули чинності сьогодні.",
+ "bizdev": [
+  "Можливості для розробки рішень з маркування ШІ-контенту для платформ та творців у світлі нових регуляцій.",
+  "Пошук нових моделей співпраці зі спонсорами та брендами на платформах, що змінюють монетизацію (наприклад, Reels).",
+  "Консультування творців щодо адаптації до нових вимог монетизації та програм винагород на YouTube та TikTok.",
+  "Дослідження можливостей партнерства з платформами, що розширюють дистрибуцію контенту (наприклад, TiVo)."
+ ],
+ "watch_next": [
+  "Моніторинг подальших регуляторних ініціатив щодо безпеки дітей та ШІ-контенту, особливо в контексті розробки українського законодавства.",
+  "Відстеження розвитку злиття Paramount-Warner Bros. Discovery та його впливу на ринок, включаючи можливі зміни в стратегіях дистрибуції.",
+  "Аналіз ефективності нових програм монетизації на Meta, TikTok та YouTube та реакції творців на посилення вимог.",
+  "Спостереження за оновленнями політик платформ, таких як Snapchat, та їхнім впливом на користувачів та творців."
+ ],
+ "sources": [
+  {
+   "label": "Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1oGbkOKyR5V-wf5Q7hoI08gh58GvWfK_IRB_UfizWnKEFaM9PPKHYxqOnPBrw1UaJGZkNeiuj_Ohy7ICcgAD-Az5VrUy8qOPJkNY--Y2762m00J1TF4dMnHtuxWq09GeFg3f9N9yI-zWRTWQMeI6B5Q2tJdQtbbUPNvi-CRjbOhGBya_ywOUMGfe7ZtfwepZ--HPEk90F25XodXR6d0qbT2OU_JNn5m6ykhjbfyj6hKBNljM="
+  },
+  {
+   "label": "What's new on Prime Video in September 2026, including 'Neagley,' 'The Love Hypothesis,' and 'Thursday Night Football' - Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhg1ckqde4Sj3wD3Jr1nrKfDiSqOkllrWmW1zP9lZG09pkmxEEhhMSLdwlT7kJNr7m6COoaR0Fy6Q7NXifhKV8MoOyn8B2so9sqbxrJOKBO7JuRb5o_e38uOBBTOM2Eu4cX3U_tTU_i99pr2hXfYMmyTZ8njNMWuUc6Pq9NHhIcoeM08POREOPjK8gw9GdxTx_h6fW0Iw="
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNRc7Rptqv3it7Q5syHck7jnBRsWtTwy4BxW-IHko7b50wgyVf2JYoZzHMd3-zc2ctvWrZ_GgctPVw5KtsnNctDAlguPXI_A73-i7KUrVTKrx4ERc="
+  },
+  {
+   "label": "Meta Announces Quarterly Cash Dividend - PR Newswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvLK_vpugC1wSLpyXvZDfsN9HVLAksVqMwnwvLvabv8Hd5VEnBET_nYAavUNlWC60sGTrKsWtXw0ZIi1cWkAEJgcOLIcohfeVVkaV743Nk00paD7LGj7k0YShTUgcd4rQFZoCfmuQb2WTg13qgZMyvSqrris0myjoboVrz99GaHYerzZcF2J5mH-ZBmS6PoUg9ckp2PqzO1g=="
+  },
+  {
+   "label": "Закон про ШІ в Україні планують розробити у 2026 році: що пропонують врегулювати",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVvmHwr7cOodaMzSzEzKpB8_wwgOeNXG6z8bWThsI0f4-muNL3sdrZt1RGwTlTyR4WoDCUrpNoQclFlKiByy0088ZWkfMq4HH9tzm64cokbGl70pwatbf_lJUUg8qXXN4s9EV17SkdB240kTG2M4kqjS5B6OuU742PlwagwfkBorQ9PCGDonkGyIaccJQ8"
+  },
+  {
+   "label": "On September 21, 2026, changes to our Terms of Service and Privacy Policy will go into fix Snapchat - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZr_oEhlkznBQFPQDNIe0i7CuxfRA8C1eE-kxHp6oFgVRiSifc_QWlY-eqQL5diFctUU6jObIkvd8JzyxJxiSez-g65bxhrCgLuaOUCWhiY5OinqQC_Yi8JPRtGYsVDQtc8NI="
+  },
+  {
+   "label": "Paramount, California settlement talks accelerate, potentially moving Warner Bros. merger closer | Business News - ArcaMax",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSrczbwdJSLllX6bW_im792Wr5NN3MeFCQibagbEHWP5ToCubcjarqbDIBfvahO53w93DdKH7E0iaXnSxj2ieo8gXqKGOSGLcHRZs0DFfFV8V7y8oeRnRTxYdzj9ShkFCAOVHCHkYQVayxlvSisWJBS3Tvdmk="
+  },
+  {
+   "label": "ШІ-контент доведеться маркувати. Що AI Act змінює для медіа та блогерів",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJP0u14z-8JfbH4mIvB2ishLbEA07PEuTWqiQR28G8NafNE-bQdFVGxghuKqmA7JBhIxjYP1zA8Uol9Y4LN44ZCV3r1BQpXBIq29xM8nNOfS3Nvg2rR9pwviV-dOb7ZpP82IYSEcos-niqEkMeqSY3DzK-2slXH-InFzSeqlW2k7IFzr4e317JqP7xtkDRv6peqAEf-Ya7xX496trZX9TXhApFRF0hnPpZKyBr1K3pcqcCvETLFU6awTuvBBrJtUtgHzswWA"
+  },
+  {
+   "label": "Закон ЄС про ШІ перейшов до етапу реального контролю: нові правила вже діють",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-FFzRzJpbUsvqvjPnp-ZJpyvv30bFPhpkZ5xEvsRQCPLwTCAKMtD9jXabhuRdXZ3f1cOkeK6UiteJiRISav2VmSePz14s79AboF8TIS_RE7BQKz5kpMro6ifpiLxfxg3_8fDK21c-mID1xmn0of5tjxmEJYgQUjkt_2eInhDd1H8CSeanhk8uXrm_XdLz-caxBHFkVeTfNNhHDVPEWGP1JeL"
+  },
+  {
+   "label": "Meta reaches $21.2b settlement over social media harms to children | The Straits Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvaXnYsrRrOQeUa-7XrOf2Au9hHYFKNvzMYRcdDACtvpRUifVUuwQ3gBvT5dsCCZPe-l6Ik-hPNuKV4tX4oYKf5u_3msmkQ-uA9gqI_IkL9LIxaqYSbaKKaf_Aj3n_sTsCMqUhCpV_GAdv4n0bB-ecjoa5ntTw--uiB5KHI1xquunHbwSrybJH0STTh9WtKTNsW3lf4QKZCo9iKMc6llz6e-JRopzc2_342Q-Hq4Udah97MKtj3Gq13umPTrWy"
+  },
+  {
+   "label": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line - LA Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcWp0CTJTjA1SgBDetemwLUtX5upzQ6Y3J4Utk_MCLRHNq1fAk5RfuzeIK5FpSm3QxGPZy_aVGpRzSjhrvk3CtRbmSW9eAGKdcBZbl8jluO6IzVeHqPVtGNtxj4U0nvsG4iEXoCoQVvgj9DSKlUGnKiCJMZSa5HOZzs92XBkOgF9RXgXzt5ia4ZHI98LXg76GJ0nmA5El97GMnuaLVbzMCexo0ZfvbQXdHPJW7dm8P4ul2sz_Ll4vaqRjCcg=="
+  },
+  {
+   "label": "The proposed $111 billion merger between Paramount and Warner Bros. Discovery hit a major roadblock when California's attorney general and 11 other states sued to stop it, citing antitr - Facebook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBSHm7ytuyBAR5jz1RXsferRcsg_7f6sQ794wr6DI5-zZqaCI-ZTvHFUgH9kzRJAPX1Oof7k5lDUjg8ZVWy71LlcbTfypTGhA6_wW_Fnr7eb2ErIFLNhk9ZRv8BO9V_18lBznxMjz50Sk-FUHaTTFkPFsmPhjWc4UAwGcYupL5uzvKM-tN2cElm6LnJX21MJbgF_VEynbAyQSExtCY43qw30JGl4GqPs83nusvLO_MFRccc-nJvI2z2BcAJetbQXeCGmbtAwM="
+  },
+  {
+   "label": "В ЄС з 2 серпня почне діяти закон про штучний інтелект - Інститут масової інформації",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpTw0UtAK0mknaaGpF2Fo8hk4ZS08g4ttcWn_v1GXcsjWJc12jOOuCBdCRkKAgCLheqknPscTgnrLUfZ8Dm5FldqgpF12jmEsiMr0j_Z0dLiqSDO1OyxEfCWJgT4D_r8MULb1Q-E2czjQ1lYgya-0ASmYprmKoPuZfFY6O_44PcHN7AVtRHK2uJdbrgqiC"
+  }
+ ]
+}
