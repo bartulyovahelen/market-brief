@@ -1,0 +1,281 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився значним регуляторним тиском та ключовими змінами в монетизації для творців. Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд, а закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії. Водночас, злиття Paramount-Warner Bros. Discovery отримало зелене світло після врегулювання антимонопольного позову, а провідні платформи, такі як Meta, TikTok та YouTube, продовжують переформатовувати виплати для творців.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума, яку Meta погодилася виплатити для врегулювання позову щодо безпеки дітей."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$10 млрд",
+   "label": "Приблизна вартість придбання Warner Bros. Discovery компанією Paramount Skydance"
+  },
+  {
+   "value": "30",
+   "label": "Мінімальна кількість фільмів, які об'єднана Paramount-Warner Bros. зобов'язана випускати щорічно"
+  },
+  {
+   "value": "$300 млн",
+   "label": "Щорічні інвестиції Paramount у вітчизняне виробництво"
+  },
+  {
+   "value": "$0.10 - $0.30",
+   "label": "Середній RPM для Snapchat Spotlight у 2026 році"
+  },
+  {
+   "value": "$0.70",
+   "label": "Заявлена ставка Bilibili за 1000 переглядів (не підтверджено офіційно)"
+  },
+  {
+   "value": "376 млн",
+   "label": "Щомісячна активна аудиторія Bilibili"
+  }
+ ],
+ "top_signal_deep": "Врегулювання позову Meta щодо безпеки дітей на суму до $18 млрд є знаковою подією, що встановлює нові стандарти відповідальності для технологічних платформ. Ця угода, яка передбачає виплати протягом 10 років та умови щодо запровадження обмежень для підлітків, впливає не лише на Meta, але й на конкурентів, таких як TikTok та YouTube, заохочуючи їх до впровадження аналогічних заходів безпеки. Це підкреслює зростаючий регуляторний тиск на соціальні медіа та їхній вплив на молодь.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Встановлює нові стандарти відповідальності платформ за безпеку користувачів, особливо дітей, та впливає на всю галузь.",
+   "url": "https://www.almc.com/2026/09/21/meta-agrees-to-pay-18-billion-to-settle-teen-safety-lawsuit/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "EU, California",
+   "title": "Закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії",
+   "why": "Впливає на створення та розповсюдження контенту, вимагаючи прозорості щодо використання ШІ та формуючи нові вимоги до творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHShQOfDCARtBdNevTf2iVQF-p8HXE56nmdziTzW68DbBiKlTwoIdw3Ca0s0ofa1kIItWytVyyg_UAmzR2YqoaSko7KhbEO7jWsTn9Qpm1RqexiybsZHOXyDTfBDwPCl4qo-gwxB0ifAsQ2o_3EnVTO4I3SXHv70L6mm3leR8uN7MkREw=="
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount, Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery отримало дозвіл після врегулювання антимонопольного позову",
+   "why": "Значно змінює ландшафт великих медіакомпаній та відеодистрибуції, створюючи нового гіганта на ринку.",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-09-18/fcc-approves-foreign-owners-for-a-merged-paramount-warner-bros"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції",
+   "why": "Переорієнтовує стратегії творців на Reels та впливає на їхні доходи, вимагаючи адаптації до нових моделей заробітку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhuGk0uUBDmwU2I0lGehgWkQlgq7XdRWp42030dnMGa62JarGqxypyIM8ag1aMT7GGe1zecakAZmpGosBwNoBMthXWT-rFWJYUGyViWzHX7d6Vx4SL1QCvot4KIthNGD0V5Lnm1C6cmhQ7SVK2tuYdCFN2FAvLVzTf0zatmFqcs9Oi57ZAJ20fAI40tnw-9ksjKHAvvywr8y0EMi9FEln3otvAXiTJGzfZmQ9jauwM9gGii13B5qmQ6u6sUrkcXr0E6PlRSzeEiL93wvB3ew=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами та вищими виплатами",
+   "why": "Стимулює створення контенту та змінює конкурентне середовище для творців, пропонуючи покращені умови монетизації.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Впливає на можливості монетизації для творців коротких відео та нових каналів, вимагаючи більшої активності та відповідності критеріям.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD3HwjHBizjL7VqSacHG1wKiibVp1kpQirsKH058kXcViK1zVhLVfbLumL6zweFwCz_0E3OLhZixbeqU7f5PZiuXjSGkPm4zgylTSwQaXTpxuXJ8qCPD97yapqFsm3VERCAM_PB5iNFHJL_U6o_DybnEZo"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MGM Resorts International",
+   "title": "Розслідування щодо пропозиції Баррі Діллера про поглинання MGM Resorts International",
+   "why": "Потенційне поглинання може вплинути на структуру власності та стратегію великої розважальної компанії, що має відео-активи.",
+   "url": "https://www.bfalaw.com/cases/mgm-resorts-investigation"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "MGM+",
+   "title": "MGM+ запускає новий кримінальний трилер 'Rules of Prey'",
+   "why": "Розширення оригінального контенту на стрімінгових платформах посилює конкуренцію за аудиторію та впливає на стратегії контенту.",
+   "url": "https://www.thefutoncritic.com/news/2026/09/22/mgmplus-greenlights-crime-thriller-rules-of-prey-starring-jensen-ackles-24310/20260922mgmplus01/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat Spotlight: оновлені вимоги до монетизації та виплати творцям у 2026 році",
+   "why": "Зміни в умовах монетизації впливають на доходи творців та їхню стратегію створення контенту для платформи.",
+   "url": "https://fluxnote.com/blog/snapchat-spotlight-earnings"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili розширюється глобально та пропонує творцям нові можливості монетизації",
+   "why": "Збільшення конкуренції на глобальному ринку відеодистрибуції та нові можливості для творців, особливо в Азії.",
+   "url": "https://fluxnote.com/blog/how-to-make-money-on-bilibili"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює партнерства зі стрімінговими платформами та MSN",
+   "why": "Збільшення охоплення контенту та диверсифікація каналів дистрибуції для великого медіа-видавця.",
+   "url": "https://thesoul.group/news/streaming-partnerships-thesoul-group-launches-5-minute-crafts-and-123-go-on-powered-by-tivo-devices-across-multiple-countries/"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні платформи, особливо щодо безпеки дітей та прозорості ШІ-контенту.",
+  "Зміни в моделях монетизації для творців на ключових платформах (Meta, TikTok, YouTube, Snapchat), що вимагають адаптації та нових стратегій.",
+  "Консолідація на ринку медіа та розваг через великі злиття та поглинання.",
+  "Глобальна експансія азіатських відеоплатформ (наприклад, Bilibili) та посилення конкуренції за міжнародну аудиторію та творців."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на Meta та набуття чинності законів про маркування ШІ-контенту в ЄС та Каліфорнії. Завершення злиття Paramount-Warner Bros. Discovery. Зміни в монетизації Reels від Meta та вимоги YouTube до Shorts. Розслідування щодо MGM Resorts."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширюється глобально, пропонуючи нові можливості монетизації для творців та посилюючи конкуренцію з YouTube."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються відеодистрибуції, за останні 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка та впровадження інструментів для маркування ШІ-контенту відповідно до нових регуляторних вимог ЄС та Каліфорнії.",
+  "Консультування творців та компаній щодо адаптації до нових моделей монетизації на платформах Meta, TikTok та YouTube.",
+  "Пошук партнерств з азіатськими платформами, такими як Bilibili, для виходу на нові ринки та розширення аудиторії.",
+  "Моніторинг M&A активності для виявлення нових можливостей для співпраці або інвестицій."
+ ],
+ "watch_next": [
+  "Подальші регуляторні ініціативи щодо безпеки дітей та ШІ-контенту.",
+  "Реакція TikTok та YouTube на врегулювання позову Meta щодо безпеки дітей та можливі зміни в їхніх політиках.",
+  "Інтеграція та стратегії об'єднаної компанії Paramount-Warner Bros. Discovery.",
+  "Розвиток програм монетизації для творців на всіх ключових платформах.",
+  "Глобальна експансія Bilibili та її вплив на конкурентне середовище."
+ ],
+ "sources": [
+  {
+   "label": "ALM Corp",
+   "url": "https://www.almc.com/2026/09/21/meta-agrees-to-pay-18-billion-to-settle-teen-safety-lawsuit/"
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-09-18/fcc-approves-foreign-owners-for-a-merged-paramount-warner-bros"
+  },
+  {
+   "label": "The Futon Critic",
+   "url": "https://www.thefutoncritic.com/news/2026/09/22/mgmplus-greenlights-crime-thriller-rules-of-prey-starring-jensen-ackles-24310/20260922mgmplus01/"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul.group/news/streaming-partnerships-thesoul-group-launches-5-minute-crafts-and-123-go-on-powered-by-tivo-devices-across-multiple-countries/"
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://fluxnote.com/blog/how-to-make-money-on-bilibili"
+  },
+  {
+   "label": "AFP.com",
+   "url": "https://www.afp.com/en/news/1315/paramount-settles-us-states-clear-warner-bros-mega-merger-doc-14782026"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com/publications/article/387439/states-settle-with-paramount-over-warner-bros-me.html"
+  },
+  {
+   "label": "Shumaker, Loop & Kendrick, LLP",
+   "url": "https://www.shumaker.com/news-insights/meta-s-18-billion-settlement-implications-for-law-technology-and-the-future-of-child-safety-online"
+  },
+  {
+   "label": "SammaPix",
+   "url": "https://sammapix.com/eu-ai-act-labeling-ai-content/"
+  },
+  {
+   "label": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/09/23/3371900/0/en/MGM-Stock-Notification-MGM-Resorts-is-Being-Investigated-after-the-Diller-48-30-Merger-Deal-Disclosed-Investors-are-Alerted-to-Contact-BFA-Law.html"
+  },
+  {
+   "label": "YouTube Help",
+   "url": "https://support.google.com/youtube/answer/12450505?hl=en"
+  },
+  {
+   "label": "Shopify",
+   "url": "https://www.shopify.com/blog/youtube-shorts-monetization"
+  },
+  {
+   "label": "PostFast",
+   "url": "https://postfast.com/youtube-monetization-requirements-2027/"
+  },
+  {
+   "label": "Diptanu Shil",
+   "url": "https://www.facebook.com/diptanu.shil.official/videos/facebook-reels-2x-extra-bonus-update-how-it-works-meta-just-announced-a-2x-extra/1005886470659837/"
+  },
+  {
+   "label": "Value Add VC",
+   "url": "https://valueaddvc.com/meta-settles-child-safety-suit-for-18-billion/"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://www.ndtvprofit.com/technology/youtube-rival-bilibili-expands-globally-reportedly-offering-creators-rs-60-per-1-000-views"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://kompozy.com/blog/snapchat-monetization-2026"
+  },
+  {
+   "label": "Storika",
+   "url": "https://storika.io/snapchat-creator-marketing-2026/"
+  },
+  {
+   "label": "SocialDay",
+   "url": "https://socialday.com/blog/snapchat-adds-100-hour-threshold-creators-must-maintain-to-keep-earning-from-spotlight"
+  },
+  {
+   "label": "Marketing Dive",
+   "url": "https://www.marketingdive.com/news/meta-creator-marketing-hub-apis-ai/727931/"
+  }
+ ]
+}
