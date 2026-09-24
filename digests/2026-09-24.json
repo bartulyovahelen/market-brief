@@ -1,0 +1,337 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився значним регуляторним тиском, ключовими змінами в монетизації для творців та консолідацією великих медіаактивів. Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд, а злиття Paramount-Warner Bros. Discovery отримало зелене світло після врегулювання антимонопольного позову. Провідні платформи, такі як YouTube, Snapchat, Meta та TikTok, продовжують переформатовувати виплати та вимоги для творців, а закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума врегулювання позову Meta щодо безпеки дітей, що встановлює нові стандарти відповідальності для платформ."
+ },
+ "figures": [
+  {
+   "value": "$110-111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$195.85 млрд",
+   "label": "Прогнозований розмір світового ринку відеострімінгу у 2026 році"
+  },
+  {
+   "value": "20 млн",
+   "label": "Нові вимоги YouTube Shorts до переглядів для монетизації"
+  },
+  {
+   "value": "50 тис.",
+   "label": "Нові вимоги Snapchat до підписників для монетизації"
+  }
+ ],
+ "top_signal_deep": "Врегулювання позову проти Meta щодо безпеки дітей на суму до $18 млрд є знаковою подією для всієї індустрії. Ця угода не лише накладає величезні фінансові зобов'язання на Meta, але й встановлює безпрецедентні стандарти відповідальності для соціальних медіа-платформ за вплив на молодь. Частина виплат є умовною, залежно від того, чи приймуть TikTok, YouTube та Snapchat аналогічні заходи безпеки, що фактично перетворює Meta на механізм формування галузевих стандартів. Це змусить інші платформи переглянути свої політики та дизайн продуктів, щоб уникнути подібних судових позовів та регуляторного тиску, що може призвести до значних змін у функціоналі та монетизації контенту, орієнтованого на підлітків.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  },
+  {
+   "label": "Продукт",
+   "n": 5
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Встановлює нові стандарти відповідальності для платформ та впливає на їхні операційні витрати, а також потенційно формує галузеві стандарти через умовну частину виплат.",
+   "url": "https://www.shumaker.com/news-insights/meta-s-18-billion-settlement-implications-for-law-technology-and-the-future-of-child-safety-online"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery отримало дозвіл після врегулювання антимонопольного позову",
+   "why": "Переформатовує ландшафт великих медіаконгломератів, впливаючи на конкуренцію та стратегії дистрибуції контенту.",
+   "url": "https://www.cbsnews.com/news/paramount-skydance-antitrust-deal-warner-bros-discovery-purchase/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "EU, California",
+   "title": "Закони про маркування ШІ-контенту набули чинності в ЄС та Каліфорнії",
+   "why": "Впливає на стратегії створення та дистрибуції контенту, вимагаючи прозорості від творців та платформ.",
+   "url": "https://www.shumaker.com/news-insights/generative-ai-the-eu-and-california-impose-mandatory-content-labeling-on-the-same-day"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Впливає на доступність монетизації для нових творців та стратегії розвитку Shorts, потенційно зменшуючи кількість монетизованого контенту.",
+   "url": "https://www.shopify.com/blog/youtube-shorts-monetization"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає єдину програму монетизації для творців, посилюючи вимоги",
+   "why": "Змінює умови заробітку для творців коротких відео, стимулюючи створення довшого контенту та постійну активність.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfsgj9NiB49qWLDg2Upd7wqjAobLW_KR1aW2kgi61o9KP2CF7xdncCYEgzANAUsqf2W9TKUYwO1oNvNU5FXwSMt8mpQ6HhIp1iGlokM65VVWNjZRIev86dJcZZIwTT6YusQejmZp9zhjuEl3ecSs-NoL75NENj9pVAYljaAdtslGsrZQFlzgvrXl0Dek_fGVsvsmbM"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta (з контексту)",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції",
+   "why": "Безпосередньо впливає на доходи творців коротких відео та їхні стратегії контенту на платформі. [VERIFY]",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok (з контексту)",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами та вищими виплатами",
+   "why": "Стимулює створення контенту та переманює творців, посилюючи конкуренцію за таланти між платформами. [VERIFY]",
+   "url": ""
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Parks Associates",
+   "title": "Десять стрімінгових сервісів у США були закриті або консолідовані у Q2 2026",
+   "why": "Вказує на тенденцію до консолідації на ринку стрімінгу та зміну стратегій дистрибуції контенту.",
+   "url": "https://www.parksassociates.com/blog/article/pr-09232026"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює дистрибуцію, запускаючи 5-Minute Crafts та 123 GO! на пристроях TiVo",
+   "why": "Розширює охоплення контенту та потенційні джерела доходу для великого виробника цифрового контенту.",
+   "url": "https://thesoul.group/news/thesoul-group-launches-5-minute-crafts-and-123-go-on-powered-by-tivo-devices-across-multiple-countries"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili оновила гайд з монетизації для творців у 2026 році, акцентуючи на 5 основних потоках доходу",
+   "why": "Надає творцям чіткіші шляхи для заробітку на платформі, підтримуючи її зростання та конкурентоспроможність.",
+   "url": "https://www.shopify.com/blog/how-to-make-money-on-bilibili"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video випускає нові оригінальні фільми та серіали у вересні 2026 року",
+   "why": "Зміцнює контентну пропозицію платформи, що є ключовим фактором для залучення та утримання передплатників.",
+   "url": "https://press.amazon.com/2026/09/whats-new-on-prime-video-in-september-2026-including-neagley-the-love-hypothesis-and-thursday-night-football"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії, особливо щодо безпеки дітей та прозорості контенту.",
+  "Еволюція моделей монетизації на платформах, з акцентом на короткі відео та зміну вимог для творців.",
+  "Продовження консолідації на ринку стрімінгових сервісів та медіаконгломератів.",
+  "Зростання важливості маркування контенту, створеного за допомогою ШІ.",
+  "Активна конкуренція між платформами за творців та їхній контент."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на Meta, врегулювання антимонопольного позову щодо злиття Paramount-Warner Bros. Discovery, набуття чинності законів про маркування ШІ-контенту в ЄС та Каліфорнії, зміни в монетизації YouTube Shorts та Snapchat Spotlight, консолідація стрімінгових сервісів."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розвиває програми монетизації для творців та розширює свою присутність на міжнародних ринках."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Порівняно з попередніми днями, найважливішою зміною є остаточне врегулювання антимонопольного позову та отримання дозволу на злиття Paramount-Warner Bros. Discovery, що раніше стикалося з посиленим тиском. Інші ключові події, такі як врегулювання позову Meta, набуття чинності законів про ШІ-контент та зміни в монетизації на YouTube, Meta та TikTok, зберігають свою актуальність та продовжують формувати ринок.",
+ "bizdev": [
+  "Розробка та інтеграція інструментів для маркування ШІ-контенту відповідно до нових регуляторних вимог ЄС та Каліфорнії.",
+  "Адаптація контентних стратегій та моделей монетизації для коротких відеоформатів на різних платформах (YouTube Shorts, Snapchat Spotlight, Meta Reels, TikTok Creator Rewards Program) з урахуванням нових вимог та виплат.",
+  "Пошук можливостей для партнерства з великими медіаконгломератами, що утворюються в результаті консолідації, для розширення дистрибуції контенту.",
+  "Інвестиції в контент, орієнтований на безпеку дітей та підлітків, з огляду на посилений регуляторний контроль та судові прецеденти."
+ ],
+ "watch_next": [
+  "Подальші регуляторні ініціативи щодо безпеки дітей та ШІ-контенту на глобальному рівні.",
+  "Реакція TikTok, YouTube та Snapchat на умовні вимоги врегулювання позову Meta щодо безпеки дітей.",
+  "Вплив злиття Paramount-Warner Bros. Discovery на конкурентне середовище та стратегії дистрибуції контенту.",
+  "Подальші зміни в програмах монетизації для творців на ключових платформах."
+ ],
+ "sources": [
+  {
+   "label": "Shumaker, Loop & Kendrick, LLP",
+   "url": "https://www.shumaker.com/news-insights/meta-s-18-billion-settlement-implications-for-law-technology-and-the-future-of-child-safety-online"
+  },
+  {
+   "label": "Value Add VC",
+   "url": "https://www.valueadd.vc/p/meta-settles-child-safety-suit-for-18"
+  },
+  {
+   "label": "Dreamstime.com",
+   "url": "https://www.dreamstime.com/states-must-publicly-track-show-how-they-spend-meta-s-settlement-money-image233278930"
+  },
+  {
+   "label": "CNN (Facebook)",
+   "url": "https://www.facebook.com/CNN/videos/meta-said-it-has-agreed-to-pay-about-18-billion-as-part-of-a-settlement-to-resol/1273932750106606/"
+  },
+  {
+   "label": "Office of the Attorney General (OAG) DC",
+   "url": "https://oag.dc.gov/release/attorney-general-schwalb-announces-meta-will-pay"
+  },
+  {
+   "label": "CBS News",
+   "url": "https://www.cbsnews.com/news/paramount-skydance-antitrust-deal-warner-bros-discovery-purchase/"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/sep/21/paramount-warner-bros-discovery-merger-antitrust-settlement"
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://www.latimes.com/entertainment/business/story/2026-09-21/paramount-warner-bros-discovery-merger-antitrust-settlement"
+  },
+  {
+   "label": "CBS News Los Angeles",
+   "url": "https://www.cbsnews.com/losangeles/video/paramount-skydance-reaches-antitrust-deal-over-warner-bros-discovery-purchase/"
+  },
+  {
+   "label": "Shumaker, Loop & Kendrick, LLP (AI)",
+   "url": "https://www.shumaker.com/news-insights/generative-ai-the-eu-and-california-impose-mandatory-content-labeling-on-the-same-day"
+  },
+  {
+   "label": "The Drum",
+   "url": "https://www.thedrum.com/news/2026/08/06/ai-disclosure-laws-arrive-the-eu-and-california-what-do-they-mean-for-marketers"
+  },
+  {
+   "label": "SammaPix",
+   "url": "https://sammapix.com/eu-ai-act-label-ai-content/"
+  },
+  {
+   "label": "Shopify Blog",
+   "url": "https://www.shopify.com/blog/youtube-shorts-monetization"
+  },
+  {
+   "label": "PostFast",
+   "url": "https://postfast.com/youtube-monetization-requirements-2027/"
+  },
+  {
+   "label": "Unkoa Marketing",
+   "url": "https://unkoa.com/youtube-shorts-monetization-requirements-2026/"
+  },
+  {
+   "label": "Cartoon Brew",
+   "url": "https://www.cartoonbrew.com/youtube/youtube-shorts-monetization-rule-animators-232930.html"
+  },
+  {
+   "label": "Reddit (r/NewTubers)",
+   "url": "https://www.reddit.com/r/NewTubers/comments/15o1219/youtube_just_doubled_the_monetization/"
+  },
+  {
+   "label": "Vertex AI Search (Snapchat)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfsgj9NiB49qWLDg2Upd7wqjAobLW_KR1aW2kgi61o9KP2CF7xdncCYEgzANAUsqf2W9TKUYwO1oNvNU5FXwSMt8mpQ6HhIp1iGlokM65VVWNjZRIev86dJcZZIwTT6YusQejmZp9zhjuEl3ecSs-NoL75NENj9pVAYljaAdtslGsrZQFlzgvrXl0Dek_fGVsvsmbM"
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://fluxnote.io/snapchat-spotlight-earnings/"
+  },
+  {
+   "label": "SocialDay",
+   "url": "https://socialday.com/news/snapchat-adds-100-hour-threshold-creators-must-maintain-to-keep-earning-from-spotlight"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://kompozy.com/snapchat-monetization-2026/"
+  },
+  {
+   "label": "SocialDay (Snapchat Monetization)",
+   "url": "https://www.socialday.com/news/snapchat-monetization-2026-eligibility-payouts"
+  },
+  {
+   "label": "TheSoul Group News",
+   "url": "https://thesoul.group/news/thesoul-group-launches-5-minute-crafts-and-123-go-on-powered-by-tivo-devices-across-multiple-countries"
+  },
+  {
+   "label": "TheSoul Group (Name Change)",
+   "url": "https://thesoul.group/news/bye-bye-publishing-hello-group"
+  },
+  {
+   "label": "Shopify Blog (Bilibili)",
+   "url": "https://www.shopify.com/blog/how-to-make-money-on-bilibili"
+  },
+  {
+   "label": "Gadgets Now",
+   "url": "https://www.gadgetsnow.com/how-to/how-to-make-money-on-bilibili-in-2026-the-complete-creator-monetization-guide/articleshow/103067822.cms"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://www.netinfluencer.com/news/chinas-bilibili-goes-global-to-challenge-youtube-reportedly-pays-0-70-per-1000-views/"
+  },
+  {
+   "label": "Kalkine Media",
+   "url": "https://www.kalkinemedia.com/au/news/bilibili-bili-puts-monetization-progress-back-in-focus/37785"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://press.amazon.com/2026/09/whats-new-on-prime-video-in-september-2026-including-neagley-the-love-hypothesis-and-thursday-night-football"
+  },
+  {
+   "label": "Vital Thrills",
+   "url": "https://www.vitalthrills.com/prime-video-september-2026-movie-and-tv-titles-announced/"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://www.thewrap.com/new-on-prime-video-september-2026-full-list/"
+  },
+  {
+   "label": "MovieWeb",
+   "url": "https://movieweb.com/new-on-prime-video-september-2026/"
+  },
+  {
+   "label": "Exclaim!",
+   "url": "https://exclaim.ca/film/article/heres_everything_coming_to_prime_video_in_september_2026"
+  },
+  {
+   "label": "Parks Associates",
+   "url": "https://www.parksassociates.com/blog/article/pr-09232026"
+  },
+  {
+   "label": "Broadband TV News",
+   "url": "https://www.broadbandtvnews.com/2026/09/23/us-streaming-market-sees-wave-of-consolidation/"
+  },
+  {
+   "label": "Mordor Intelligence",
+   "url": "https://www.mordorintelligence.com/industry-reports/video-on-demand-market"
+  },
+  {
+   "label": "Precedence Research",
+   "url": "https://www.precedenceresearch.com/video-streaming-market"
+  }
+ ]
+}
