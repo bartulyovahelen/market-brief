@@ -1,0 +1,283 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився посиленням регуляторного тиску, значними змінами в монетизації для творців та консолідацією медіаактивів. Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд, а злиття Paramount-Warner Bros. Discovery отримало зелене світло. Платформи, такі як YouTube, Meta, TikTok, Snapchat та X, переформатовують виплати творцям, а також активно інвестують у ШІ-інструменти та комерційні можливості.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума, на яку Meta врегулювала позов щодо безпеки дітей."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання позову Meta"
+  },
+  {
+   "value": "11 млн",
+   "label": "Підписки Prime Video в Італії"
+  },
+  {
+   "value": "10",
+   "label": "Стрімінгових сервісів США припинено у Q2 2026"
+  }
+ ],
+ "top_signal_deep": "Врегулювання позову щодо безпеки дітей на суму до $18 млрд компанією Meta є знаковою подією, що підкреслює зростаючий регуляторний тиск на великі технологічні платформи. Ця подія встановлює важливий прецедент щодо відповідальності платформ за вплив їхнього контенту на молоду аудиторію та може призвести до посилення вимог до модерації контенту та функцій безпеки. Це також сигналізує про подальше втручання регуляторів у діяльність соціальних медіа, що може вплинути на їхні бізнес-моделі та стратегії залучення користувачів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 6
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $18 млрд",
+   "why": "Впливає на регуляторне середовище та відповідальність платформ за контент.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery схвалено",
+   "why": "Змінює ландшафт великих медіахолдингів та конкуренцію на ринку.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобально",
+   "source": "ЄС та Каліфорнія",
+   "title": "Закони про маркування ШІ-контенту набули чинності",
+   "why": "Встановлює нові стандарти для створення та розповсюдження контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Впливає на доходи творців та стратегії контенту на платформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції",
+   "why": "Переорієнтація моделі доходу для творців та рекламодавців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами та вищими виплатами",
+   "why": "Стимулює створення контенту та змінює конкуренцію за творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає єдину програму монетизації для творців, посилюючи вимоги",
+   "why": "Змінює можливості заробітку для творців на платформі.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube інвестує в ШІ та нові інструменти для творців",
+   "why": "Посилює конкурентоспроможність YouTube у боротьбі за творців та інновації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy1jScmMyOjfQIwGye4on2xdBRBN4t1eOCSvz-vwf4kpjJpAiti8jph2a4mAA8spiZF-ErklJQD6B58ZV8Bt32NQcohrXDQnaENifBBHcXvhGrkaGgQcLOyi0zVO70yJvTOXALaonr80Wx0X59xLLMGI4vmJTcICfnAnZoZqKUFReK2KkCCa4HIY91ZPQK9e4IuvWB959QbxCd3WwAciQZjFx7vUYbyNW6leeq24DRjJmIJg=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобально",
+   "source": "Китай",
+   "title": "Китай впроваджує національні правила щодо ШІ",
+   "why": "Встановлює прецедент для регулювання ШІ на великому ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPRQb9aKEOqnncxt-AN7e-wxjIVqXcAoSGzwL063zkXa3yJy0XqAx5tAJVvtxIb2S4i5hw7mz5ozkjecSSF5JfvyeB5P8n4a7vkbQ1S-J_-sBk8iYBL34Nn-zime0Ugc0I1H-Z4thDS_P3oG1UGhT_jcu-JeO4LZx8-8vu7fyRKKpvh528keRCNqB6NVF1-ysnYBhlBfsuhyDQ2eDpskSUKf7ZiUe0-5P9yYc="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобально",
+   "source": "Google, OpenAI, Anthropic",
+   "title": "Провідні ШІ-компанії створюють орган саморегуляції",
+   "why": "Спроба індустрії встановити стандарти та уникнути державного втручання.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES4IIOBeSsRUZbZml1vmO2pTPeaDbXWerPkEvUL6ji71Ewo0L86Q-Mra85TqUdaivXBnUuMiO6VwQXjrOuNT_MV0usFw8eDGiPVO8LDiMB_MxvQvm5u811O6zgkPSSa7sgAS1KgsPFvvXLVslcCT_gbhXEdNFfHSw5vRt4xrqu5hDIZ3HaoGfhaIh_al9HfXBG-5fwJpgNFw=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "X",
+   "title": "X запускає нову програму винагород для творців",
+   "why": "Змінює модель монетизації для творців на платформі X.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5AmZkUFfPDp_QpMMilFuW99Oi8C0Qu7jyz9CziVi6PecdD_RNW9Wy-yHDoxM4LYraoQsnYGkDcZwbsMbt95NGDJiMb0-9NOTIK4JcKNIsZyx6nbNrBPM39HYz8ERjXcJIis2PXp3s8brttls9x9O_mZjnuEBDBY9ow1nHOeVLlSILQkYeEkLiEfXDO292EGdi4sy1gtLt5ZeIu4TxpPros3r8ZCGZ2JCZ3XnYci0LFxKot-Sj72MBfeXR7whwJ5fXic3YHMKsZIuKHIJYUJfnoUBHyMsv7VFW_PxZiuLspiJG20Yp5A=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube розширює Shopping affiliate program в Індії",
+   "why": "Збільшує можливості монетизації для творців через комерцію.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Ies-XOXn7AzP7rjElv4Ndrc25U0wz-m3MMmW_GOGMs46w0BU7E9OZoHoC_XVlrpXU_Xnq_rMZwcKzGn5y0EEm0O9TZ7hh4MBKeWrHgo0lVkHMHyXEqXx22gGceTK5DaSp2hBeuBLATh9pE4yJVToYz6reVtFOBRgbSxF_0S_yiLCm5qHlxACMC8G5QFVZzk8x2xGuaGQrMCYOU0JZ1ixO-fdjt7l56CmwGxz6ADBNk230D5VAV0_UrRY"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili проведе збори щодо викупу акцій",
+   "why": "Впливає на структуру капіталу та інвестиційну привабливість компанії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpiKUctPg5LSmSB5Rg_j8d_wV70xs2eiizOg4WD8AbmJO2tMG_eFR7qUw07KNyXeEcbK1eXzCEbA44kkz72KEvL3pq-p2o2gI03o3JVFDpoiSXr-wjjvSCq-CpXgXlb5vCnxTmB6R7tmjN8T8aB4GidJwDVfEbQ85-LjVnal8rFXCeMD3ndA34RV8Bjt9EbeumHW1QHOfXDbbMx3Hf26zlN9SZ00XRtJogv0KF3Uy4EZJ7txUaYt3fBG1VUUBq"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Prime Video лідирує на італійському ринку платного ТБ",
+   "why": "Демонструє сильні позиції Amazon на ключовому європейському ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk0NLOfEY83ngfB8l2IxdKsbhHxTgwCHVPyHwMOHtie1hCGZoiR2diDsrVlymFt_uNYZeCEuwxiMp4y06Cj0talSwu2XFeT8Pav8UndzV1gDCXt7p1Du08vAtj2UH00EKUgfJUOEXIZid-nSOEFanr88-qv801w3tMSBWpPsrpV_o6sjLaPa1slnUBk5lDvdkuBVrkkY5D4T7Hun5mN6m3db4Ob0=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Parks Associates",
+   "title": "Консолідація стрімінгових сервісів у США",
+   "why": "Відображає тенденцію до консолідації та зміни стратегій дистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl5YJqkvhlJhz4oUHhDLHI5RUvloNoG43URG_rI1kpu9wvoS_2HmARRujmTIw0K5o6EtqDyBBvZoVlMYp7MFSvErT2mkvStpse3ttLsp05N2TUrumw_Gc6YQr6vL7-5FzlpVeD596231uIKchf3mcKP9id0HaapAvCbORzd3vamzuYTC1oafWP7w72vl_U6PIcCHAcgscjNSrkag59hpmQe6m1gvajchXX5U9qR-kx0JG_3mSaacT5eVVkG3ikqeUnGadR_dmlvrNZktpLG_arRcLZxyOwPWdT"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює дистрибуцію на TiVo",
+   "why": "Розширює охоплення контенту TheSoul Group на нові платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLxtzLu1pwRfhs87AEph_6DSYH1UxwXGfda0m1uPinxz15fokXcvwf36qpikjn6S2Oz8zh6a5sjk3BJrqVH2Qb3V_8Iy-WaWe2fhrYtgC5VIS0RoY="
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Prime Video замовляє новий комедійний серіал 'New Money'",
+   "why": "Розширює оригінальний контент Prime Video.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW03dxAelJPe9qsXOaaHZ9SYvl6WpVFoOrH_d0HTBavpNRRadNf53EpjQADFzaTxZ5e9A4mrO-4K_dh8uNxMQwGd--gq4_jainrVvPLPQeXt7_h6mTkGoYLusVZdtgq1WCiykBkaf6KQ-BkLooKvTJ5ojhjNTRoCoXbjC6cHfNesLdHAvNOKPmlCaFT5ArPdqw"
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі платформи, особливо щодо безпеки дітей та контенту, створеного ШІ.",
+  "Значні зміни в моделях монетизації для творців на провідних платформах (YouTube, Meta, TikTok, Snapchat, X), з фокусом на оригінальність, довгий формат та комерцію.",
+  "Продовження консолідації на ринку стрімінгових сервісів та M&A активність серед великих медіахолдингів.",
+  "Зростаюче використання ШІ-інструментів для створення та дистрибуції контенту, а також спроби індустрії до саморегуляції ШІ.",
+  "Зміцнення позицій великих гравців на регіональних ринках та розширення комерційних можливостей (наприклад, YouTube Shopping в Індії)."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск (Meta, ШІ-контент), зміни в монетизації платформ (YouTube, Meta, Snapchat, X), консолідація стрімінгових сервісів, M&A (Paramount-WBD)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активізує корпоративні дії (викуп акцій), Китай впроваджує національні правила щодо ШІ. YouTube розширює комерційні можливості в Індії."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, злиття Paramount-Warner Bros. Discovery отримало остаточне схвалення після врегулювання антимонопольного позову, що є ключовим завершенням тривалого процесу. Також з'явилися нові сигнали щодо інвестицій YouTube в ШІ-інструменти для творців, запуск нової програми винагород від X, корпоративні дії Bilibili та ініціатива саморегуляції ШІ від Google, OpenAI та Anthropic.",
+ "bizdev": [
+  "Розробка та інтеграція ШІ-інструментів для оптимізації створення, редагування та дистрибуції відеоконтенту, а також для підвищення залученості аудиторії.",
+  "Адаптація контент-стратегій до нових моделей монетизації та програм винагород на провідних платформах, з акцентом на оригінальність та довгий формат.",
+  "Вивчення можливостей для розширення комерційних партнерств та інтеграції функцій шопінгу у відеоконтент.",
+  "Моніторинг та забезпечення відповідності регуляторним змінам щодо ШІ-контенту та безпеки дітей для мінімізації ризиків."
+ ],
+ "watch_next": [
+  "Подальший розвиток регулювання ШІ на глобальному рівні та ефективність ініціатив саморегуляції індустрії.",
+  "Вплив нових програм монетизації на доходи творців та їхню міграцію між платформами, особливо на короткоформатний контент.",
+  "Реакція ринку на консолідацію великих медіаактивів та її довгострокові наслідки для конкуренції.",
+  "Корпоративні дії Bilibili та їхній вплив на компанію та азіатський ринок відеодистрибуції."
+ ],
+ "sources": [
+  {
+   "label": "Bilibili Sets Record Dates Ahead of October 28 EGM on Off-Market Share Buy-Back",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpiKUctPg5LSmSB5Rg_j8d_wV70xs2eiizOg4WD8AbmJO2tMG_eFR7qUw07KNyXeEcbK1eXzCEbA44kkz72KEvL3pq-p2o2gI03o3JVFDpoiSXr-wjjvSCq-CpXgXlb5vCnxTmB6R7tmjN8T8aB4GidJwDVfEbQ85-LjVnal8rFXCeMD3ndA34RV8Bjt9EbeumHW1QHOfXDbbMx3Hf26zlN9SZ00XRtJogv0KF3Uy4EZJ7txUaYt3fBG1VUUBq"
+  },
+  {
+   "label": "Xi acknowledges risks of AI even as Trump dismisses them - The Washington Post",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPRQb9aKEOqnncxt-AN7e-wxjIVqXcAoSGzwL063zkXa3yJy0XqAx5tAJVvtxIb2S4i5hw7mz5ozkjecSSF5JfvyeB5P8n4a7vkbQ1S-J_-sBk8iYBL34Nn-zime0Ugc0I1H-Z4thDS_P3oG1UGhT_jcu-JeO4LZx8-8vu7fyRKKpvh528keRCNqB6NVF1-ysnYBhlBfsuhyDQ2eDpskSUKf7ZiUe0-5P9yYc="
+  },
+  {
+   "label": "Bilibili Inc. to Hold Extraordinary General Meeting on October 28, 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO3PjjTD3LM7ErSgS5tYQbveMbBfGukTW2o9GH-6vQ-VO3PccaM0GPdFOSlsrTVCENVnfTchVLRjcNn5hvFuCZ-ZXmn_L1cPS8xlbXmjgv_Jqiq1_bT-i3AX5ERsjFIDIKAJjVwPwCyv-YnlIaQKjGwRigjE4q5AxOhDYdMHJQN1V4wPUwImGNCRMRhvlhZabGfWFu3iH3n8AMHXKuOoNl4L-gjZzjujAyyamo3JZUMA0QN3JDplI3qiGQkC0O5znYn2W5qHP5Ng=="
+  },
+  {
+   "label": "YouTube invests in AI agents, live 'gamification,' and editing tools to keep creators close",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy1jScmMyOjfQIwGye4on2xdBRBN4t1eOCSvz-vwf4kpjJpAiti8jph2a4mAA8spiZF-ErklJQD6B58ZV8Bt32NQcohrXDQnaENifBBHcXvhGrkaGgQcLOyi0zVO70yJvTOXALaonr80Wx0X59xLLMGI4vmJTcICfnAnZoZqKUFReK2KkCCa4HIY91ZPQK9e4IuvWB959QbxCd3WwAciQZjFx7vUYbyNW6leeq24DRjJmIJg=="
+  },
+  {
+   "label": "Bilibili Inc. (NASDAQ: BILI) Releases 2026 Interim Financial Report for Hong Kong Stock Exchange Listing | Kalkine Media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj31JaNXHeO543R2a_7rykice6dziPY2WVIRJXfOOhjqj0E8FOXBLWbnKNdV3UmXj1pEFtknta6bvcXSKNlWVDKYjHmHzCCFJtd2j1P88xuck1Kw45m6da-J4Q8CItKQBkDmzV9LpsxjuStV_YxXgH8G8BwXWIH6CDe8r5djMIHaB3YHflrfuwweC5EX6RqTaZjXJ1wpn_IocnyW8MIsF0aCCqnW0R-7i3TE9DwOZhT2MBbouuhJVLPy_Vq8PPUKAx9zHDBll-KtPIYFTLVw=="
+  },
+  {
+   "label": "X scraps Creator Revenue Sharing for Original Content Rewards: New payout, eligibility rules explained | Hindustan Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5AmZkUFfPDp_QpMMilFuW99Oi8C0Qu7jyz9CziVi6PecdD_RNW9Wy-yHDoxM4LYraoQsnYGkDcZwbsMbt95NGDJiMb0-9NOTIK4JcKNIsZyx6nbNrBPM39HYz8ERjXcJIis2PXp3s8brttls9x9O_mZjnuEBDBY9ow1nHOeVLlSILQkYeEkLiEfXDO292EGdi4sy1gtLt5ZeIu4TxpPros3r8ZCGZ2JCZ3XnYci0LFxKot-Sj72MBfeXR7whwJ5fXic3YHMKsZIuKHIJYUJfnoUBHyMsv7VFW_PxZiuLspiJG20Yp5A=="
+  },
+  {
+   "label": "Creator economy gets a commerce push as brands move closer to checkout",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Ies-XOXn7AzP7rjElv4Ndrc25U0wz-m3MMmW_GOGMs46w0BU7E9OZoHoC_XVlrpXU_Xnq_rMZwcKzGn5y0EEm0O9TZ7hh4MBKeWrHgo0lVkHMHyXEqXx22gGceTK5DaSp2hBeuBLATh9pE4yJVToYz6reVtFOBRgbSxF_0S_yiLCm5qHlxACMC8G5QFVZzk8x2xGuaGQrMCYOU0JZ1ixO-fdjt7l56CmwGxz6ADBNk230D5VAV0_UrRY"
+  },
+  {
+   "label": "X Overhauls Creator Pay as Bad Bunny, Jay-Z and Drake Make News - EURweb",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFkBDDnRmVHRsh8jO4g_M0UBLaEOFiDwak48hS5Ee5ZqNB8UCK5-4Mv6W39hGSTLY-DDDK52SOti5ZiuG1PBFy7mYLZQ9JqnffpdF64QmLslsQMo_kxOKvEvTF8OccJSY="
+  },
+  {
+   "label": "Google, OpenAI, Anthropic Form New AI Self-Regulation Body - GuruFocus",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES4IIOBeSsRUZbZml1vmO2pTPeaDbXWerPkEvUL6ji71Ewo0L86Q-Mra85TqUdaivXBnUuMiO6VwQXjrOuNT_MV0usFw8eDGiPVO8LDiMB_MxvQvm5u811O6zgkPSSa7sgAS1KgsPFvvXLVslcCT_gbhXEdNFfHSw5vRt4xrqu5hDIZ3HaoGfhaIh_al9HfXBG-5fwJpgNFw=="
+  },
+  {
+   "label": "Mekki Leeper to star in 'New Money' comedy series at Prime Video",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW03dxAelJPe9qsXOaaHZ9SYvl6WpVFoOrH_d0HTBavpNRRadNf53EpjQADFzaTxZ5e9A4mrO-4K_dh8uNxMQwGd--gq4_jainrVvPLPQeXt7_h6mTkGoYLusVZdtgq1WCiykBkaf6KQ-BkLooKvTJ5ojhjNTRoCoXbjC6cHfNesLdHAvNOKPmlCaFT5ArPdqw"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLxtzLu1pwRfhs87AEph_6DSYH1UxwXGfda0m1uPinxz15fokXcvwf36qpikjn6S2Oz8zh6a5sjk3BJrqVH2Qb3V_8Iy-WaWe2fhrYtgC5VIS0RoY="
+  },
+  {
+   "label": "Prime Video leads Italian pay-TV market with 11m subscriptions - Broadband TV News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk0NLOfEY83ngfB8l2IxdKsbhHxTgwCHVPyHwMOHtie1hCGZoiR2diDsrVlymFt_uNYZeCEuwxiMp4y06Cj0talSwu2XFeT8Pav8UndzV1gDCXt7p1Du08vAtj2UH00EKUgfJUOEXIZid-nSOEFanr88-qv801w3tMSBWpPsrpV_o6sjLaPa1slnUBk5lDvdkuBVrkkY5D4T7Hun5mN6m3db4Ob0=="
+  },
+  {
+   "label": "Parks Associates: Ten Streaming Services Phased Out in Q2 2026 as US Streaming Video Market Reorganizes - PR Newswire",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl5YJqkvhlJhz4oUHhDLHI5RUvloNoG43URG_rI1kpu9wvoS_2HmARRujmTIw0K5o6EtqDyBBvZoVlMYp7MFSvErT2mkvStpse3ttLsp05N2TUrumw_Gc6YQr6vL7-5FzlpVeD596231uIKchf3mcKP9id0HaapAvCbORzd3vamzuYTC1oafWP7w72vl_U6PIcCHAcgscjNSrkag59hpmQe6m1gvajchXX5U9qR-kx0JG_3mSaacT5eVVkG3ikqeUnGadR_dmlvrNZktpLG_arRcLZxyOwPWdT"
+  }
+ ]
+}
