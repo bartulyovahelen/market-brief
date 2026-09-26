@@ -1,0 +1,199 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився посиленням регуляторного тиску, значними змінами в монетизації для творців та консолідацією медіаактивів. Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд, а злиття Paramount-Warner Bros. Discovery отримало зелене світло. Платформи, такі як YouTube, Meta, TikTok та Snapchat, переформатовують виплати творцям та змінюють алгоритми, а також активно інвестують у ШІ-інструменти та комерційні можливості.",
+ "key_figure": {
+  "value": "$18 млрд",
+  "context": "Сума врегулювання позову Meta щодо безпеки дітей, що підкреслює зростаючий регуляторний тиск на великі технологічні компанії."
+ },
+ "figures": [
+  {
+   "value": "$195.85 млрд",
+   "label": "Глобальний ринок відеостримінгу у 2026 році"
+  },
+  {
+   "value": "18.5%",
+   "label": "Прогнозований CAGR глобального ринку відеостримінгу до 2035 року"
+  }
+ ],
+ "top_signal_deep": "Останні дні показали значні зміни у підходах платформ до монетизації та алгоритмів, що безпосередньо впливає на творців контенту. YouTube посилює вимоги до монетизації Shorts та нових творців, тоді як Meta переорієнтовує монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції. TikTok, навпаки, запускає нову програму Creator Rewards Program з вищими виплатами, але водночас змінює алгоритм рекомендацій у США, віддаючи перевагу нішевому контенту та високій утримуваності аудиторії над широкими вірусними хітами. Ці зміни свідчать про те, що платформи шукають більш стабільні та ефективні моделі взаємодії з творцями та рекламодавцями, а також адаптуються до зростаючих вимог до якості та релевантності контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 6
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд",
+   "why": "Значний регуляторний тиск на великі платформи та прецедент для майбутніх судових розглядів."
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery отримало зелене світло",
+   "why": "Консолідація медіаактивів змінює ландшафт відеодистрибуції та конкуренції."
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "загальний ринок",
+   "source": "ЄС, Каліфорнія",
+   "title": "Закони про маркування ШІ-контенту набули чинності",
+   "why": "Впливає на створення та розповсюдження контенту, вимагаючи прозорості від творців та платформ."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Змінює умови для творців короткого відеоконтенту та входу в партнерську програму."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook & Instagram",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції",
+   "why": "Переорієнтація моделі доходу для творців короткого відео, акцент на прямій комерції."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає Creator Rewards Program з новими умовами та вищими виплатами",
+   "why": "Змінює стимули для творців, потенційно залучаючи більше якісного контенту на платформу."
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запускає єдину програму монетизації для творців, посилюючи вимоги",
+   "why": "Уніфікація та посилення вимог впливає на стратегії творців на платформі."
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент / платформа",
+   "source": "Parks Associates",
+   "title": "Консолідація стримінгових сервісів у США: 10 платформ припинили існування у Q2 2026",
+   "why": "Вказує на тренд консолідації та зміни стратегій дистрибуції контенту, а також на зростання FAST-каналів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa29riaXsq5bch8D3O1FnSSy8KT5CWSHooH84sDosNIoSVALdYVF6AnLEWGbq2nt1216fPW3CPXXzC-0J7_KERy70SYP3-WPoPDw6JZ0d72lvGfmrcesanQBOYWIZPolV-689B9Unh6Ud227StVuannJHT5cZza7IX86lWhe-__AVR1SRKF5PrZKdaApvweCk8ZFk4UX5m_DVJbm4UReBGFmqaNR--yz2COryMXpo9ljTc_4Ryq95O3UxTGo0yAkc3jNNN7sQMsnQKTwUCp0fJ3cWqeyb1xG6m4Q=="
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "TikTok / SocialPilot / ArtistRack",
+   "title": "TikTok змінює алгоритм рекомендацій у США та фокусується на нішевому контенті",
+   "why": "Кардинальна зміна в механіці рекомендацій для американських творців, що вимагає перегляду контент-стратегій.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLpFDHoEyN3ULVzaT9fbGuk8vYbjqTaAIAnmuO1nORfdpI9n_MZU5g2yNfAhSfyfYWSPH5D5MqEjlqmooOweA22wg7jGENQaIkknCSPsDEUT9gaXxbUjbyk7lOyMaNj-c4tpEaXl_lSd3bC89lsuDgWIfQjqkbGv4DoHpydjQtXJfISgDWPf-gZLV0QLEhIzs=, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWbKkRJ3EcMxFvqtj0aUprtAUXhVXSAfwBcFbn3c2xbugOw4QNzlQ7Jo3lQ3HzH51ucTYsrvRoxueKyMM3f1KS4ywfgKbJgYWNK_JSVRSEJsqu0lIKarmdmOnxY73yiFXK12JLj-9FIrKfy7OfneSZERazyA=="
+  },
+  {
+   "importance": "high",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta / Common Thread Collective / GoodMorning",
+   "title": "Meta запускає Creator Marketing Hub та розширює можливості реклами на Threads",
+   "why": "Спрощує співпрацю між брендами та творцями, розширює рекламні можливості на нових платформах Meta.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvl-2oqfQf4mKEGrHfYiZwM8IoUZZviyJkA3EwTTARuVDfxwk7HEkvjr1KIOwy7g6iJPuZM6FnY-71apnnaLPJn8ejwygdGBtZTsR-RT-MccIE8pFMagehKJYdjUHqHO44nBywB-GFiYB0SrEjLilC5xSEb7cZl8UswKbFBuAI, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbo7TY0-7egzya1bwm9oJ2mhCaLutTG3aB2v4D4TFS0Y7XQx56mqq3p3q1zzVHe-NBbAuURdUulY90ffJZT6piy5x-RR4ULfpqeQ1SFKBqtPrXuksRbnit5ZifH_KFZFQRdlJevfvQ10pmzOrnmeTEnsoC99AAbCk=="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / GoodMorning",
+   "title": "Instagram запровадить партнерські оголошення для прямих трансляцій",
+   "why": "Нова можливість монетизації для творців та рекламних інтеграцій для брендів на Instagram Live.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbo7TY0-7egzya1bwm9oJ2mhCaLutTG3aB2v4D4TFS0Y7XQx56mqq3p3q1zzVHe-NBbAuURdUulY90ffJZT6piy5x-RR4ULfpqeQ1SFKBqtPrXuksRbnit5ZifH_KFZFQRdlJevfvQ10pmzOrnmeTEnsoC99AAbCk=="
+  },
+  {
+   "importance": "low",
+   "theme": "загальний ринок",
+   "stream": "загальний ринок",
+   "source": "Precedence Research",
+   "title": "Глобальний ринок відеостримінгу оцінюється в $195.85 млрд у 2026 році",
+   "why": "Надає ключові показники зростання ринку та підкреслює роль ШІ у персоналізації контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWqfo_bvpBupwe8trNChSgZNcf7Mr9QetAjjT8Z87FX1GiXYzEBsbZ85Il8kqXCJTSdGvAWWEVjJDWOr-YUNiTC8dGVT0QTKpui_pU7qoY6eYdTbsbx8yl57PK58PVsoNHt4Xjrm7hz5A5tq53yOr2o0Eww=="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні платформи, особливо щодо безпеки користувачів та прозорості контенту.",
+  "Консолідація медіаактивів та стримінгових сервісів, що призводить до зникнення менших гравців та посилення позицій великих конгломератів.",
+  "Еволюція моделей монетизації для творців: від бонусів до спонсорства, комерції та програм винагород з новими умовами.",
+  "Зміни в алгоритмах рекомендацій платформ, що фокусуються на якості контенту, утримуваності аудиторії та нішевій відповідності.",
+  "Зростаюча роль ШІ у створенні, маркуванні та персоналізації контенту, а також в оптимізації рекламних кампаній."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Висока активність у сфері регуляцій (позов Meta, закони про ШІ-контент), значна консолідація стримінгових сервісів у США, а також ключові зміни в монетизації та алгоритмах на платформах Meta, YouTube, TikTok та Snapchat."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів за останні 7 днів у сфері відеодистрибуції, що не були б охоплені загальними трендами."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів за останні 7 днів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка інструментів та сервісів для творців, що допомагають адаптуватися до нових моделей монетизації та вимог алгоритмів платформ (наприклад, для створення нішевого контенту з високою утримуваністю).",
+  "Створення рішень для маркування та верифікації ШІ-контенту відповідно до нових регуляторних вимог.",
+  "Дослідження можливостей партнерства з великими медіаконгломератами, що консолідують контент, для розширення дистрибуції.",
+  "Інвестиції в технології, що покращують персоналізацію контенту за допомогою ШІ для підвищення залученості аудиторії."
+ ],
+ "watch_next": [
+  "Запуск партнерських оголошень для прямих трансляцій в Instagram (29 вересня).",
+  "Подальші регуляторні ініціативи щодо безпеки дітей та ШІ-контенту.",
+  "Реакція творців та рекламодавців на зміни в алгоритмах TikTok та моделях монетизації Meta Reels.",
+  "Нові оголошення про M&A у сфері стримінгових сервісів."
+ ],
+ "sources": [
+  {
+   "label": "Parks Associates",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa29riaXsq5bch8D3O1FnSSy8KT5CWSHooH84sDosNIoSVALdYVF6AnLEWGbq2nt1216fPW3CPXXzC-0J7_KERy70SYP3-WPoPDw6JZ0d72lvGfmrcesanQBOYWIZPolV-689B9Unh6Ud227StVuannJHT5cZza7IX86lWhe-__AVR1SRKF5PrZKdaApvweCk8ZFk4UX5m_DVJbm4UReBGFmqaNR--yz2COryMXpo9ljTc_4Ryq95O3UxTGo0yAkc3jNNN7sQMsnQKTwUCp0fJ3cWqeyb1xG6m4Q=="
+  },
+  {
+   "label": "SocialPilot",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLpFDHoEyN3ULVzaT9fbGuk8vYbjqTaAIAnmuO1nORfdpI9n_MZU5g2yNfAhSfyfYWSPH5D5MqEjlqmooOweA22wg7jGENQaIkknCSPsDEUT9gaXxbUjbyk7lOyMaNj-c4tpEaXl_lSd3bC89lsuDgWIfQjqkbGv4DoHpydjQtXJfISgDWPf-gZLV0QLEhIzs="
+  },
+  {
+   "label": "ArtistRack",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWbKkRJ3EcMxFvqtj0aUprtAUXhVXSAfwBcFbn3c2xbugOw4QNzlQ7Jo3lQ3HzH51ucTYsrvRoxueKyMM3f1KS4ywfgKbJgYWNK_JSVRSEJsqu0lIKarmdmOnxY73yiFXK12JLj-9FIrKfy7OfneSZERazyA=="
+  },
+  {
+   "label": "Common Thread Collective",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvl-2oqfQf4mKEGrHfYiZwM8IoUZZviyJkA3EwTTARuVDfxwk7HEkvjr1KIOwy7g6iJPuZM6FnY-71apnnaLPJn8ejwygdGBtZTsR-RT-MccIE8pFMagehKJYdjUHqHO44nBywB-GFiYB0SrEjLilC5xSEb7cZl8UswKbFBuAI"
+  },
+  {
+   "label": "GoodMorning",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbo7TY0-7egzya1bwm9oJ2mhCaLutTG3aB2v4D4TFS0Y7XQx56mqq3p3q1zzVHe-NBbAuURdUulY90ffJZT6piy5x-RR4ULfpqeQ1SFKBqtPrXuksRbnit5ZifH_KFZFQRdlJevfvQ10pmzOrnmeTEnsoC99AAbCk=="
+  },
+  {
+   "label": "Precedence Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWqfo_bvpBupwe8trNChSgZNcf7Mr9QetAjjT8Z87FX1GiXYzEBsbZ85Il8kqXCJTSdGvAWWEVjJDWOr-YUNiTC8dGVT0QTKpui_pU7qoY6eYdTbsbx8yl57PK58PVsoNHt4Xjrm7hz5A5tq53yOr2o0Eww=="
+  }
+ ]
+}
