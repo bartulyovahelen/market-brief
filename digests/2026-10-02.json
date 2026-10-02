@@ -1,0 +1,272 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним схваленням злиття Paramount-Warner Bros. Discovery на суму $110 млрд та значними змінами в монетизації для творців на провідних платформах. Meta врегулювала позов щодо безпеки дітей на суму до $17.1 млрд, що призведе до суттєвих змін у продуктах, а закони про маркування ШІ-контенту набули чинності, посилюючи вимоги до прозорості.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Вартість злиття Paramount і Warner Bros. Discovery, яке отримало остаточне схвалення суду та має завершитися 6 жовтня 2026 року."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Сума врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "1000+",
+   "label": "Кількість творців у мережі Fixated після придбання Studio71"
+  },
+  {
+   "value": "1 хвилина",
+   "label": "Мінімальна довжина відео для програми TikTok Creator Rewards"
+  }
+ ],
+ "top_signal_deep": "Злиття медіагігантів Paramount та Warner Bros. Discovery вартістю $110 млрд отримало остаточне схвалення федерального судді 30 вересня 2026 року, що усунуло останню перешкоду для угоди. Очікується, що угода буде закрита 6 жовтня 2026 року. Це злиття значно консолідує ринок, об'єднуючи великі студії, стрімінгові платформи (Paramount+ та HBO Max) та телевізійні канали, що матиме довгострокові наслідки для конкуренції, контентної стратегії та дистрибуції. Умови схвалення включають вимоги до виробництва фільмів та незалежності новинних підрозділів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  },
+  {
+   "label": "Продукт",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery отримало остаточне схвалення суду",
+   "why": "Ця угода вартістю $110 млрд значно консолідує ринок відеодистрибуції та медіаактивів, впливаючи на конкуренцію та стратегії контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJYUNS7hno53Jz_LvYkPWeI5uXp1a5ah_yJkR1wipKfwp81UWHxQBNqYsd5w2wAXaSQz89IEFJMLjTcA7S24UgmKfd8beRiJHwAWFTbo3VVBXeEaWpjTEigQmXQoxnrz74n-OtIlniLpS6RFd6oqtIcclKtHORppCWSvIobgmTqnDXA6o6eDeurn57SF35UvrliueX8W8k3xZtz2EituLCO6s="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $17.1 млрд",
+   "why": "Врегулювання призведе до значних змін у продуктах Meta, включаючи обмеження часу використання для підлітків та заборону певних функцій, що вплине на взаємодію користувачів та політику платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfnoR7Q0gC6Y19LNN14NVwp_se6QfZ3Ly_M98HTWUjPK5IJJunFwnvFI8oUDo4LWR5lea1XvuPB2jWTxEVyMAuv5REPatqkOsNn_suTGMFxLk2qo6_2oYukyUl65mXa_aC48AnOnShHbRyejKXivI3Ns-xUf36-mXMeFrWBaAWY9ZJQ-NfOm4wWpc2dB7Za4zH5OB-izQnY2YBZJ6EcAJe8XyHjtlP"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Подвоєння порогу переглядів з 2027 року та посилення вимог до Shorts вплине на стратегії творців та конкуренцію за короткий відеоконтент.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe3aja1sX4SdmKhNHWv5BSLs5T3SBn5VNsUOtdYqIHJzHQFU8X1HRJOh6MGUIvoZBBFc51oa3yaT042MdkFrRE8ENB3xtMPlHcldltDVcd1tdMNJ0fLhv57W_xT4CJTlxfa4tcPjJUYfeOgO920rPYQ3LPkUfIfch1eEeQGmkPqzpAHgQ6DzrQE6kRgK9v3jy1Z7X1dQ=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program оновлено з фокусом на оригінальний контент довше 1 хвилини",
+   "why": "Зміни в програмі винагород стимулюють створення якісного, довгого та оригінального контенту, що може змінити контентні стратегії творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7LAkWVTt9INKkzryAudEiBB5-yjgkyrGLUrpXWoiIApGESH60SHwoJM2g3DKwXTwB_ZPv008gcEpvS9PydNgW6Mb2jHMPpe-JlrASLjAkZ9ddKgLvWnhDf6I3DeBUNfrEVho2IUjhLzasv2g4l7SFU8E0-4UOfuDwi7lN7Q=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві",
+   "why": "Ці зміни переорієнтовують творців на комерційні партнерства та вбудовану рекламу, що вимагає адаптації стратегій монетизації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHgvliYTFYSYZSQnYNAKII87SihgMlD_ezSZlq6bsfnhfBUCYE7SZWvZ0OqIItJElK72HtKtlvAOeX7WncXkh1ZOhYrN-q1eslZJNirR9EQZdugGf4_9apVXcdj3mEzsFIe434YrUHwFacDrUESvkJo-I3Q2jMnmVY5dJLk6dr6vsCFQ=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запустив єдину програму монетизації для творців з підвищеними вимогами",
+   "why": "Уніфікація програм монетизації та підвищення порогів входу впливає на можливості заробітку для творців на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe3aja1sX4SdmKhNHWv5BSLs5T3SBn5VNsUOtdYqIHJzHQFU8X1HRJOh6MGUIvoZBBFc51oa3yaT042MdkFrRE8ENB3xtMPlHcldltDVcd1tdMNJ0fLhv57W_xT4CJTlxfa4tcPjJUYfeOgO920rPYQ3LPkUfIfch1eEeQGmkPqzpAHgQ6DzrQE6kRgK9v3jy1Z7X1dQ=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "ЄС / Нью-Йорк",
+   "title": "Набули чинності закони про маркування ШІ-контенту",
+   "why": "Ці закони вимагають обов'язкового маркування контенту, створеного або значно зміненого ШІ, що посилює прозорість та впливає на виробництво контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZOfgxbueLql02nDyBomKX2yyKosjG_INRL3_unDU0ecHbtWdHjWAf75RSE7dfUn1Lz83wrxgU5gQTvE2ZOngmrOT-7OY-v9YX7Xi_VoLbPU90dnt3_1G4BMVFMSM9I41IWhv_evMv6E11OGJkJw81zJGKHR4fRZdyow=="
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Fixated",
+   "title": "Fixated придбала Studio71 US, розширюючи мережу творців до понад 1000",
+   "why": "Це придбання посилює позиції Fixated на ринку управління та дистрибуції контенту для творців, пропонуючи комплексні послуги.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGga1wao-usxSANeNdU0EEAXcjRvx20gf__GW9d1P2RiY62345PmC-TnHmjg7avniPKBzWPKyf6fUfAlwudHaiwZKCtFSgLAR5anby0CyEy3Z0PrSaUHL-9PLdPP83Mnz8xcZ0QGC9irngs-pAtKDxK4U53fRgsEw4CcvgtXha7Pbs="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Amazon (Prime Video)",
+   "title": "Prime Video заявляє, що ШІ допомагає творчості, знижуючи витрати",
+   "why": "Позиція Amazon щодо використання ШІ у виробництві контенту може вплинути на індустрію, роблячи створення контенту доступнішим та різноманітнішим.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf1oz8wL8c4PMr47mdFmnpeRt0F86sJIm6-L6b2DunuKkDZn58ng_KHWW5KQLqoaiuT5yIB3efYrnM1c5Fv3Q6k8nsaEPTZscd7HZOArm2Mamx3r7xwPX7_5tEFFFYXIegLdcmtCzK9F7gnNglmxDsHCqZLZF7krimefa7RR312oeXvLeoqQoM25o8yBxhJO16EzTnmo6pWhz0NAMHiNyNZ_eAAcRD"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili активно залучає міжнародних творців, але міжнародна програма монетизації ще в розробці",
+   "why": "Глобальна експансія Bilibili та потенційні високі виплати можуть створити нову конкуренцію для існуючих платформ за таланти.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75KkEDEJHPYZUQhX1VS26S8Y7ZvmjqfaMRt3XPwyVGdJW6ZjVzu9ZPRySK3X11Mt-c6nWnaR2RRx7r5oEvLNtijb-Op3Hfc2FHugZqqka0TPeS-3sXJKmyD8eWKz4YtZyyXNXaq-UR9h9syozEniMrde3oxaZyNxMGGr0ibp-qZHW8krdtx11"
+  },
+  {
+   "importance": "low",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta впроваджує обмеження часу використання для підлітків (дві години на день)",
+   "why": "Це може вплинути на залученість підліткової аудиторії та ефективність рекламних кампаній, орієнтованих на цю демографічну групу.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLO9FBdvpbCi2zRIICpVy2wOKkklCqt9_r_yWXJx-fERkQrKT_-yDatXihh4Efq7LshNEnmwhFdroo6ONn1SiE8f8odWNXfEIXZ0NeOJzSiHynTOUKJgGeQZ8EHxc4fCPYs-XWcBek2jZ0E3kVAQtdbuUnWw=="
+  }
+ ],
+ "trends": [
+  "Посилення регуляторного тиску на великі технологічні компанії, особливо щодо безпеки дітей та прозорості ШІ-контенту.",
+  "Консолідація медіаактивів через великі злиття та поглинання, що змінює ландшафт дистрибуції контенту.",
+  "Переформатування програм монетизації на платформах з акцентом на оригінальний, якісний та довший контент, а також на комерційні партнерства.",
+  "Зростаюча роль ШІ у створенні та дистрибуції контенту, а також у формуванні політик платформ."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значний регуляторний тиск на Meta (США) та остаточне схвалення великого медіа-злиття (США). В ЄС та Нью-Йорку набули чинності закони про маркування ШІ-контенту."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширюється на міжнародні ринки, залучаючи західних творців, хоча міжнародна монетизація ще в розробці."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що не стосуються глобальних трендів платформ."
+  }
+ ],
+ "changed": "Проти попередніх днів, ключовою зміною є остаточне схвалення судом злиття Paramount-Warner Bros. Discovery, що усуває невизначеність щодо цієї великої угоди. Також, Amazon Prime Video публічно висловила свою позицію щодо використання ШІ для підвищення творчості та зниження витрат.",
+ "bizdev": [
+  "Розробка та адаптація контентних стратегій для відповідності новим вимогам платформ щодо оригінальності та довжини відео (особливо для TikTok та Meta Reels).",
+  "Інвестиції в інструменти ШІ для оптимізації виробництва контенту та зниження витрат, з урахуванням нових регуляторних вимог до маркування ШІ-контенту.",
+  "Пошук партнерств з дистриб'юторами, які пропонують комплексні послуги для творців, включаючи управління та монетизацію (наприклад, Fixated).",
+  "Моніторинг глобальної експансії Bilibili як потенційного нового каналу дистрибуції та монетизації для міжнародних творців."
+ ],
+ "watch_next": [
+  "Завершення злиття Paramount-Warner Bros. Discovery та його перші наслідки для ринку.",
+  "Реакція інших платформ (YouTube, TikTok) на врегулювання Meta щодо безпеки дітей та можливі аналогічні зміни.",
+  "Подальший розвиток програм монетизації Bilibili для міжнародних творців.",
+  "Вплив нових правил монетизації на доходи творців та їхні контентні стратегії на YouTube, Meta та Snapchat."
+ ],
+ "sources": [
+  {
+   "label": "Silicon Republic",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfnoR7Q0gC6Y19LNN14NVwp_se6QfZ3Ly_M98HTWUjPK5IJJunFwnvFI8oUDo4LWR5lea1XvuPB2jWTxEVyMAuv5REPatqkOsNn_suTGMFxLk2qo6_2oYukyUl65mXa_aC48AnOnShHbRyejKXivI3Ns-xUf36-mXMeFrWBaAWY9ZJQ-NfOm4wWpc2dB7Za4zH5OB-izQnY2YBZJ6EcAJe8XyHjtlP"
+  },
+  {
+   "label": "Dealroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN2rSHeZanaZjxbhGPRDzPd0oVy4Mf_bGZKu61_VhPSqst0lkj4yMLQq1DOWf60rNrek2irvMV4moRaXnOf-Y5JBsdDWKrIXtK3Y3mrNQGVHzjGF_wxYzZACplqZRE-fuQN231XJBQJn42fiflY9CjCkqaFdpr3xShz2Qtw-pijSuUsKmhNbzapEB28pJcIix-MbDKYIuyojNjBHQ5CoWSQ=="
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHd7479zxqtJNqZVmEYXychQ3Y7fF5Orlws32RpBtnFtFpWGplONmbkHEwGF3XELOsIYEUrnnJlZ1JmJhXvXYKJ5fqRNMoY9Fos36RTUbvtNxnIvIpklMAwbKiBhx1SU_CkHrjpfwz2QDVK0MrA2eiZaFUE23PLsMcIgT8HrJr65_LJtO3n1CuWA=="
+  },
+  {
+   "label": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBYi-hXXq8equ8WcZedZNN1Bmx34pqkf1WwNrz337o1PFZqe6Ne2nEvOX-Sp22Sd5EZaczRh3ZD_tsV0LbB6Hy3FenCIqRw2ohZXG8XrTPfGBjd694DDUORAmqhpBY1SFklyTbehacoAs41UfjYCW7eu_XdEVBKIq987M9kUiGe-N48Z_Tw=="
+  },
+  {
+   "label": "Paramount-WBD merger expected to close Tuesday after judge approves settlement",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJYUNS7hno53Jz_LvYkPWeI5uXp1a5ah_yJkR1wipKfwp81UWHxQBNqYsd5w2wAXaSQz89IEFJMLjTcA7S24UgmKfd8beRiJHwAWFTbo3VVBXeEaWpjTEigQmXQoxnrz74n-OtIlniLpS6RFd6oqtIcclKtHORppCWSvIobgmTqnDXA6o6eDeurn57SF35UvrliueX8W8k3xZtz2EituLCO6s="
+  },
+  {
+   "label": "TikTok Creator Rewards Program: Complete Guide 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7LAkWVTt9INKkzryAudEiBB5-yjgkyrGLUrpXWoiIApGESH60SHwoJM2g3DKwXTwB_ZPv008gcEpvS9PydNgW6Mb2jHMPpe-JlrASLjAkZ9ddKgLvWnhDf6I3DeBUNfrEVho2IUjhLzasv2g4l7SFU8E0-4UOfuDwi7lN7Q=="
+  },
+  {
+   "label": "Court Approves Paramount-WBD Merger - MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6x_mPH8yALoDLTQc-6pqCbljgTc_XDfFrishBGtJo3qlVfD59RN44GIwaLhfk6euWKM7aTZb5He0zNpoJLTe5dWzkSY-mJ1ubYi_VLoTB52tdKgKFWc62ei5ovoPmwMY6Fvr7rViKdZMRC-tnoUn7KIo1I71aCnMZ86ltoSCXkeHtxddY24M3X5K02YK4kDS9KMpGGK0ly7TBMgewi5yThge6hql-6JI="
+  },
+  {
+   "label": "Paramount-WBD Merger Gets Final Approval, Deal Set to Close Next Week - World of Reel",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpljYm58kZG38DyULMWcHDEfoYAn6Xojq0usdy_Ku3udAw6n0oCbZeLfayOr-k12CDNUrfULwU7yFuoAe94fH93xKsuQMPQWGJiqYQAHSZXI8AVOzXAVFgqet56WPWj1eSsfZSQEGlezSrvP1TsV9THsJlJRCovuPdyzZosoSppwJ6MpLbEQoHSj0OP5BE52GVqHYVUAP1gqNidnLJk-B1ZnUTnx7OW33ehQ=="
+  },
+  {
+   "label": "Kroll's Transaction Advisory Services Team Advised Fixated LLC on Its Acquisition of Studio71 US from ProSiebenSat.1 Media SE",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGga1wao-usxSANeNdU0EEAXcjRvx20gf__GW9d1P2RiY62345PmC-TnHmjg7avniPKBzWPKyf6fUfAlwudHaiwZKCtFSgLAR5anby0CyEy3Z0PrSaUHL-9PLdPP83Mnz8xcZ0QGC9irngs-pAtKDxK4U53fRgsEw4CcvgtXha7Pbs="
+  },
+  {
+   "label": "Prime Video Says AI Helps Creativity. Here's the Streamer's Plan. - Movieguide",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf1oz8wL8c4PMr47mdFmnpeRt0F86sJIm6-L6b2DunuKkDZn58ng_KHWW5KQLqoaiuT5yIB3efYrnM1c5Fv3Q6k8nsaEPTZscd7HZOArm2Mamx3r7xwPX7_5tEFFFYXIegLdcmtCzK9F7gnNglmxDsHCqZLZF7krimefa7RR312oeXvLeoqQoM25o8yBxhJO16EzTnmo6pWhz0NAMHiNyNZ_eAAcRD"
+  },
+  {
+   "label": "About Snapchat's Monetization Program",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7p666cjt25lhp9WkkJRpSj7IrWDDT3Nj-qxtwA0VXoS_T9WPLHGUInfOTRYRGaz67qJkmtQULlbeZ8ON9n8AhiruqErIIZuWVDR6tuGZVg7F2FfrE-x9eTT2vmusbEa7NQ5CEsp4zSozPt049PfXAXL28TeqByAnuLnHG9eHktV2DRWfTekqnBl1NIvqYlBHEnCUjReXUHCk89Q=="
+  },
+  {
+   "label": "Bilibili Monetization Requirements: Complete Creator Guide - Gadgets Now",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo-DiKCRcIt9HMe-vczXS3mNDXRAd1KfR92Ujngl0HB478_4ArbnDVidpumMVc-F3rXmm40WUJiAEQBhoPZ2vEH76Sg-rEIeKvx8GC1QOWP4oxdU6NpBbhzSjDlFkrKgaJxN4ToY46ki0eSFzMcVLOBBf85GK5UbYjOpNEMVe-miJ637ydnHX62gxSgTb0uLmDsdlIUnsLtHLv91rpbX8sbUsJacN590lCpCRYFplN_Y81yDGC"
+  },
+  {
+   "label": "Fixated Acquires Studio71, Creating a Global, End-to-End Platform for Creator-Led Media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFSgdcAMfh7IB7jdIagKLfuZHa27Mf3tCCqjzsb_cQ1cfKbiq460luLHlXIJqCS-ODc4qZ26-wHtou_MdRbNtCfGZrUj_eeENVQ_hM5zDE13T86NLqNkOUy7ENGsofooCEJCkUj3f2DmUHKs8T"
+  },
+  {
+   "label": "Snapchat launches unified monetization program for creators - The Keyword",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe3aja1sX4SdmKhNHWv5BSLs5T3SBn5VNsUOtdYqIHJzHQFU8X1HRJOh6MGUIvoZBBFc51oa3yaT042MdkFrRE8ENB3xtMPlHcldltDVcd1tdMNJ0fLhv57W_xT4CJTlxfa4tcPjJUYfeOgO920rPYQ3LPkUfIfch1eEeGmkPqzpAHgQ6DzrQE6kRgK9v3jy1Z7X1dQ=="
+  },
+  {
+   "label": "Bilibili Just Dropped ID Verification for Global Creators. Here's What's Actually True",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE75KkEDEJHPYZUQhX1VS26S8Y7ZvmjqfaMRt3XPwyVGdJW6ZjVzu9ZPRySK3X11Mt-c6nWnaR2RRx7r5oEvLNtijb-Op3Hfc2FHugZqqka0TPeS-3sXJKmyD8eWKz4YtZyyXNXaq-UR9h9syozEniMrde3oxaZyNxMGGr0ibp-qZHW8krdtx11"
+  },
+  {
+   "label": "Facebook Reels Monetization Requirements 2026 - FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHgvliYTFYSYZSQnYNAKII87SihgMlD_ezSZlq6bsfnhfBUCYE7SZWvZ0OqIItJElK72HtKtlvAOeX7WncXkh1ZOhYrN-q1eslZJNirR9EQZdugGf4_9apVXcdj3mEzsFIe434YrUHwFacDrUESvkJo-I3Q2jMnmVY5dJLk6dr6vsCFQ=="
+  },
+  {
+   "label": "Meta Original Content Rules 2026: Reach & Demonetization - AuditSocials",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSVvHimkqt510TwZIyDHQES-oP-aeZ9vZmM48-aDIi8xDq9ktdvAh8B7nfSh1lm5cr3257kBbe-rfHlB8VPbqkgjMJgHMApFTDzOOHG8_yAS1VINQwGuLrc35I34mRH7eP1Xk0X4uGYxgXO91g-MyqfQbZPwa-nki6tT-UjXLUtjMZGRAqYPzoF6pACzGNIvV_UnjctWh7xXwW6Z_mRMu-_Fg4OCXmkBqFwUTXNLCvc_vQrj442_pD19q6axois4T9k4WN4PkyRg=="
+  },
+  {
+   "label": "Meta Ads Updates 2026: Latest Changes, News and Deadlines - Admanage",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxUDFckOdrhq3y9PZ5AllzlnY35laPvhzsvwh1KW-6UOlYGZwm9grL6mg9X2nvXZ5tZ1qouSoXqCdajknHCLnfkp1MoGQhqG0VQNRn0tm5rMu-YpulR6dorD5iPAlHYlVFg6A="
+  },
+  {
+   "label": "Meta Ads Updates: September 2026 Changelog for Media Buyers | AdMakeAI Blog",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLO9FBdvpbCi2zRIICpVy2wOKkklCqt9_r_yWXJx-fERkQrKT_-yDatXihh4Efq7LshNEnmwhFdroo6ONn1SiE8f8odWNXfEIXZ0NeOJzSiHynTOUKJgGeQZ8EHxc4fCPYs-XWcBek2jZ0E3kVAQtdbuUnWw=="
+  },
+  {
+   "label": "AI Content Labels: Platform Rules for Advertisers 2026 - Digital Applied",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU_vKYwJU2r1Olc-ewRLdQTHR4NZUpJVQWJkFduEqJJWbX7HMwWYbygFePk0Z9OpjG437cIblbyolPieFHHBAy0u73JNeCIGnMKhXEJP9aJ7NXGBR8Dk4D-wSYKwXF_e3V1zPqAvoUQC2k64T8xlrIeIURqRnkkmXXHr31dFSekhlcTI3J6BE4d-NBQcyJ3PlbtyM="
+  },
+  {
+   "label": "Missing an AI Label? Understanding Your Options Under the EU AI Act",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBiCzUHQ3aDaL1Y_MjcOi1CbuMqys9sxFnhir0lh-p3sNORdkWrakZ3N8-pjhhSrfDZqCMnBtjfvNjs6pirqjLaImEBwen4vfsUDqdKA1tG33hoj_LRI31sZcln5-dLwB-E6ojuryNq4bYz5CyKOD-AJ1soTJJe9OSZbEducL8zc4fKKEm5bcmMABBHflWiifkceJI5ZPrxzbpoALVrtLzTkMJPYTBWPO_vbln"
+  },
+  {
+   "label": "California's 2026 Legislative Session Wraps: A Wave of Privacy and AI Bills Reaches the Governor, with Key Child Safety and AI Measures Signed into Law",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qJvpY8KJ3A9F6MkSkU0v3WsL89C1xM17MhxFLgfHjUQI3UfcKHsxIYFmVpNHNB4MR4oI3DqyRmhkT35jaLwPzjVMRKAnTvr7zKgl4GW-a-cT99GpKk0z7DVdFN3a0DlAQXwzoGnErkYcaJ8YyzOPriy2n7R6YmgqeufrXdUH_PMWG_FRwOQknNfcvHFKSZW2ZTJ02LRU2BEja7G2Z4nxD8Af28Hza77Mm6uF6UpCvdPRyyUr0bXsN7C3auqnFPA_ZOqlC2JqnEDf0lO7WL4VOG2_YhqQ7oaFvMSxB62abL7rqkwaCthQvGNgnQ6KnSVGNSmin3LR4kuSTspCHMuuyl8tqc7WsU7Qdw=="
+  }
+ ]
+}
