@@ -1,0 +1,296 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним схваленням злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створює нового медіагіганта. Meta врегулювала масштабний позов щодо безпеки дітей на суму до $17.1 млрд, що призведе до значних змін у продуктах. Провідні платформи, такі як YouTube, Meta та TikTok, посилюють вимоги до монетизації та фокусуються на оригінальному контенті, а закони про маркування ШІ-контенту набули чинності.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Сума злиття Paramount-Warner Bros. Discovery, що створює нового медіагіганта."
+ },
+ "figures": [
+  {
+   "value": "$110 млрд",
+   "label": "Злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "1 хвилина",
+   "label": "Мінімальна довжина відео для TikTok Creator Rewards"
+  }
+ ],
+ "top_signal_deep": "Остаточне схвалення злиття Paramount-Warner Bros. Discovery на суму $110 млрд є найважливішою подією, оскільки воно створює нового медіагіганта, який суттєво змінить конкурентний ландшафт відеодистрибуції. Ця консолідація може призвести до перерозподілу ринкових часток, вплинути на стратегії придбання контенту та дистрибуції, а також посилити тиск на менших гравців.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 3
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery на $110 млрд отримало остаточне схвалення суду",
+   "why": "Створює нового медіагіганта, що суттєво змінює ландшафт відеодистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $17.1 млрд",
+   "why": "Призведе до значних змін у продуктах Meta, впливаючи на контент та взаємодію користувачів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube посилює вимоги до монетизації Shorts та нових творців",
+   "why": "Змінює умови для заробітку творців на платформі, особливо для короткого відеоконтенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program оновлено з фокусом на оригінальний контент довше 1 хвилини",
+   "why": "Стимулює створення довшого та оригінальнішого контенту, впливаючи на стратегії творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta змінює монетизацію Reels, припиняючи бонуси та фокусуючись на спонсорстві та комерції",
+   "why": "Переорієнтація моделі заробітку для творців Reels, що вимагатиме нових підходів.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Global (general regulation)",
+   "title": "Набули чинності закони про маркування ШІ-контенту",
+   "why": "Впливає на прозорість та вимоги до творців контенту на всіх платформах.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запустив єдину програму монетизації для творців з підвищеними вимогами",
+   "why": "Уніфікує та посилює умови для заробітку творців на Snapchat.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Fixated",
+   "title": "Fixated придбала Studio71, розширюючи мережу творців",
+   "why": "Зміцнює позиції Fixated на ринку відеодистрибуції та розширює її вплив на творців.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Amazon Prime Video",
+   "title": "Prime Video додає новий контент у жовтні 2026 року",
+   "why": "Розширення бібліотеки контенту Prime Video, включаючи фільми та серіали, може вплинути на залучення аудиторії та конкуренцію.",
+   "url": "https://www.ign.com/articles/everything-coming-to-amazon-prime-video-in-october-2026"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta представляє нові розумні окуляри Ray-Ban Gen 3 та легші VR-окуляри",
+   "why": "Інновації в апаратній частині Meta можуть вплинути на майбутні формати споживання відеоконтенту та взаємодію з ним.",
+   "url": "https://mashable.com/article/meta-connect-2026-ray-ban-vr-glasses-muse-ai-agent"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok та Meta підтримують хакатон ЄС для розробки інструментів проти онлайн-антисемітизму",
+   "why": "Ініціативи з модерації контенту та боротьби з дезінформацією впливають на безпеку платформ та довіру користувачів.",
+   "url": "https://www.brusselstimes.com/970104/tiktok-and-meta-supports-eu-hackathon-to-develop-new-tools-against-on-line-antisemitism"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok відмовився від апеляції щодо штрафу у £12.7 млн за недопуск осіб до 13 років",
+   "why": "Підкреслює посилення регуляторного тиску на платформи щодо захисту дітей та вікових обмежень.",
+   "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-against-127m-fine-for-not-keeping-under-13s-off-platform"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Звіт: дезінформація про ацетамінофен та аутизм на TikTok зросла після оголошення FDA",
+   "why": "Виділяє проблему поширення медичної дезінформації на платформах та роль алгоритмів у її посиленні.",
+   "url": "https://www.sierrasuntimes.com/2026/10/03/american-academy-of-pediatrics-reports-tiktok-misinformation-content-on-acetaminophen-tylenol-and-autism-surged-after-president-trumps-fda-announcement-majority-of-which-was-created-by-influencers-rather-than-medical-professionals/"
+  },
+  {
+   "importance": "low",
+   "theme": "фандинг",
+   "stream": "конкурент",
+   "source": "Amazon Web Services",
+   "title": "Amazon зобов'язується інвестувати $1 млрд у громади, що приймають центри обробки даних ШІ",
+   "why": "Інвестиції в інфраструктуру ШІ та вирішення проблем громад можуть вплинути на майбутні можливості дистрибуції контенту.",
+   "url": "https://www.benzinga.com/news/26/10/29000000/amazon-pledges-1-billion-to-win-over-communities-as-ai-data-center-backlash-intensifies"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MGM Resorts",
+   "title": "MGM Resorts може зробити пропозицію про придбання People Inc.",
+   "why": "Потенційна угода може змінити ландшафт медіа та видавничої справи, впливаючи на дистрибуцію контенту.",
+   "url": "https://www.mediapost.com/publications/article/391039/mgm-resorts-may-make-a-bid-for-people-inc.html"
+  },
+  {
+   "importance": "low",
+   "theme": "фандинг",
+   "stream": "конкурент",
+   "source": "Enfinity Global",
+   "title": "Enfinity Global забезпечує фінансування на $164 млн для портфеля сонячних проектів у Японії",
+   "why": "Хоча це не прямо стосується відеодистрибуції, інвестиції в енергетику можуть опосередковано впливати на інфраструктуру, що підтримує цифрові платформи.",
+   "url": "https://mercomindia.com/enfinity-global-secures-164-million-financing-solar-project-portfolio/"
+  },
+  {
+   "importance": "low",
+   "theme": "партнерства",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює партнерство з Banijay Kids & Family",
+   "why": "Розширення партнерств у сфері дитячого контенту може збільшити охоплення аудиторії та можливості монетизації.",
+   "url": "https://thesoul-publishing.com/news/banijay-kids-family-and-thesoul-expand-partnership/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili залучає індійських творців, попри відсутність запуску в Індії",
+   "why": "Розширення впливу Bilibili на нові ринки та залучення міжнародних творців посилює конкуренцію на глобальному ринку відеодистрибуції.",
+   "url": "https://economictimes.indiatimes.com/industry/media/entertainment/bilibili-chinas-youtube-draws-indian-creators-despite-no-india-launch-as-india-china-ties-thaw-and-youtube-monetisation-set-to-tighten/articleshow/103823467.cms?from=mdr"
+  }
+ ],
+ "trends": [
+  "Консолідація ринку через великі злиття та поглинання, що створює нових медіагігантів.",
+  "Посилення регуляторного тиску та уваги до безпеки користувачів, особливо дітей, що призводить до значних змін у продуктах платформ.",
+  "Переорієнтація платформ на монетизацію оригінального та якісного контенту, з підвищенням вимог до творців, особливо для короткого відеоконтенту.",
+  "Зростання важливості прозорості та маркування контенту, створеного ШІ, з набуттям чинності відповідних законів.",
+  "Інвестиції в інфраструктуру ШІ та її вплив на майбутні можливості дистрибуції контенту та взаємодії з ним."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Активні M&A угоди (Paramount-Warner Bros. Discovery, Fixated-Studio71) та значні регуляторні зміни (Meta, закони про ШІ-контент)."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok продовжує оновлювати програми монетизації, фокусуючись на оригінальному контенті, а Bilibili розширює вплив на нові ринки."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, але глобальні тренди монетизації та регуляцій впливають опосередковано."
+  }
+ ],
+ "changed": "Проти попередніх днів, сьогодні остаточно схвалено злиття Paramount-Warner Bros. Discovery, що є ключовою подією. Також набули чинності закони про маркування ШІ-контенту, а Meta, YouTube, TikTok та Snapchat продовжують уточнювати та посилювати вимоги до монетизації творців.",
+ "bizdev": [
+  "Розробка стратегій для адаптації до нових вимог монетизації на YouTube Shorts, TikTok Creator Rewards та Meta Reels.",
+  "Інвестиції в створення оригінального, якісного контенту, що відповідає новим вимогам платформ.",
+  "Моніторинг та інтеграція інструментів для маркування ШІ-контенту.",
+  "Пошук партнерств з новими медіагігантами, що утворилися внаслідок M&A."
+ ],
+ "watch_next": [
+  "Подальші кроки Meta щодо імплементації змін після врегулювання позову про безпеку дітей.",
+  "Вплив злиття Paramount-Warner Bros. Discovery на ринок контенту та дистрибуції.",
+  "Реакція творців та їх адаптація до нових правил монетизації на YouTube, TikTok, Meta та Snapchat.",
+  "Деталі та правозастосування законів про маркування ШІ-контенту."
+ ],
+ "sources": [
+  {
+   "label": "Paramount-Warner Bros. Discovery",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Meta",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "YouTube",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "TikTok",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Snapchat",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Fixated",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Studio71",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Global (general regulation)",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Amazon Prime Video",
+   "url": "https://www.ign.com/articles/everything-coming-to-amazon-prime-video-in-october-2026"
+  },
+  {
+   "label": "Amazon Web Services",
+   "url": "https://www.benzinga.com/news/26/10/29000000/amazon-pledges-1-billion-to-win-over-communities-as-ai-data-center-backlash-intensifies"
+  },
+  {
+   "label": "MGM Resorts",
+   "url": "https://www.mediapost.com/publications/article/391039/mgm-resorts-may-make-a-bid-for-people-inc.html"
+  },
+  {
+   "label": "Enfinity Global",
+   "url": "https://mercomindia.com/enfinity-global-secures-164-million-financing-solar-project-portfolio/"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul-publishing.com/news/banijay-kids-family-and-thesoul-expand-partnership/"
+  },
+  {
+   "label": "Bilibili",
+   "url": "https://economictimes.indiatimes.com/industry/media/entertainment/bilibili-chinas-youtube-draws-indian-creators-despite-no-india-launch-as-india-china-ties-thaw-and-youtube-monetisation-set-to-tighten/articleshow/103823467.cms?from=mdr"
+  }
+ ]
+}
