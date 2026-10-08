@@ -1,0 +1,250 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним схваленням злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створює нового медіагіганта Skydance. Провідні платформи, такі як YouTube, Meta та TikTok, посилили вимоги до монетизації та фокусуються на оригінальному контенті, тоді як Meta врегулювала масштабний позов щодо безпеки дітей на суму до $17.1 млрд.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Сума злиття Paramount-Warner Bros. Discovery, що створює нового медіагіганта Skydance."
+ },
+ "figures": [
+  {
+   "value": "$110 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "до $17.1 млрд",
+   "label": "Сума врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$0.70",
+   "label": "Максимальна виплата Bilibili за 1000 переглядів для творців (орієнтовно)"
+  },
+  {
+   "value": "$32.6 млн",
+   "label": "Домашні касові збори фільму 'Verity' від Amazon MGM Studios у перший вікенд"
+  }
+ ],
+ "top_signal_deep": "Злиття Paramount-Warner Bros. Discovery на суму $110 млрд отримало остаточне схвалення суду 6 жовтня 2026 року, що призвело до створення нового медіагіганта під назвою Skydance. Ця консолідація об'єднує великі кіностудії, стрімінгові сервіси (Paramount+, HBO Max) та новинні мережі (CBS, CNN), значно посилюючи конкуренцію на ринку відеодистрибуції з такими гравцями, як Netflix, Disney, Amazon та Apple. Угода включає зобов'язання щодо збільшення виробництва фільмів у США та створення незалежних редакційних рад, що може вплинути на контентну стратегію та ринок праці в індустрії.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount, Warner Bros. Discovery (now Skydance)",
+   "title": "Злиття Paramount-Warner Bros. Discovery на $110 млрд остаточно схвалено, створюючи медіагіганта Skydance.",
+   "why": "Створює нового потужного гравця на ринку відеодистрибуції та медіа, посилюючи конкуренцію з існуючими гігантами.",
+   "url": "https://hypebeast.com/2026/10/paramount-warner-bros-discovery-merger-cleared-to-close-111-billion-usd-settlement-approval"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $17.1 млрд, що призведе до значних змін у продуктах.",
+   "why": "Вимагає від Meta впровадження нових функцій безпеки та обмежень для неповнолітніх, впливаючи на дизайн продуктів та користувацький досвід.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAr8vWleqUzJMRt0fxLimRUu6e7myKxm0-585IhQsHQH8VcZga0nEAeOadJMyeyF3dlnBKcsIZEy2zxkAsqf68g8D-LOEB1z-84ddDtTdIC3_NVEILoQ96YY9DHyFP0GanLtF4YcX2D_INjLeszv3ghnr0a_jfk9Dw36nZHoTvUubBt6jglY-r-MaDczRdJ6XwgTwI2hVlDgohwrpWOpAxGqbkJ1oSfEZqIiD6"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив алгоритм Shorts, надаючи пріоритет оригінальному контенту та зменшуючи охоплення для перезавантажених відео.",
+   "why": "Стимулює творців до створення унікального контенту та впливає на стратегії дистрибуції коротких відео, що може змінити динаміку переглядів та монетизації.",
+   "url": "https://aituber.com/youtube-algorithm-changes-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Meta об'єднує програми монетизації (Reels, In-Stream Ads, Performance Bonuses) в єдину 'Content Monetization Program' та посилює вимоги до оригінальності контенту.",
+   "why": "Спрощує процес монетизації для творців, але вимагає вищої якості та оригінальності контенту для отримання доходу, що впливає на стратегії виробництва контенту.",
+   "url": "https://www.facebook.com/groups/sahmengagement/posts/1000282668045719/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program оновлено з фокусом на оригінальний контент довше 1 хвилини.",
+   "why": "Змінює стратегії творців на TikTok, заохочуючи створення більш глибокого та тривалого контенту для монетизації та підвищення якості платформи.",
+   "url": "https://influenceflow.com/tiktok-creator-rewards-program-earnings-guide/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "регуляції",
+   "source": "Законодавство",
+   "title": "Набули чинності закони про маркування ШІ-контенту.",
+   "why": "Підвищує прозорість та відповідальність за контент, створений ШІ, впливаючи на виробників та дистрибуторів контенту.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta представила нові інструменти для рекламодавців на базі ШІ, включаючи покращеного бізнес-асистента та автоматизовані рекламні можливості.",
+   "why": "Спрощує створення та управління рекламними кампаніями, роблячи їх більш ефективними та доступними для бізнесу, що може змінити рекламний ландшафт.",
+   "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-ad-week-2026/695603/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili посилює глобальну експансію та пропонує творцям до $0.70 за 1000 переглядів, кидаючи виклик YouTube.",
+   "why": "Створює нову можливість для міжнародних творців та посилює конкуренцію на глобальному ринку відеодистрибуції, особливо в Азії.",
+   "url": "https://techjuice.pk/bilibili-takes-on-youtube-with-bigger-creator-pay-and-global-push/"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon MGM Studios",
+   "title": "Amazon MGM Studios випустила фільм 'Verity', який зібрав $32.6 млн у домашньому прокаті.",
+   "why": "Демонструє продовження інвестицій Amazon в оригінальний контент та його дистрибуцію через кінотеатри та Prime Video.",
+   "url": "https://themovieblog.com/2026/10/amazon-mgm-studios-unveils-verity-at-new-york-premiere/"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group (раніше TheSoul Publishing) розширює свою екосистему, інтегруючи Mediacube та Underscore Talent.",
+   "why": "Зміцнює позиції TheSoul Group як великого гравця у виробництві контенту та управлінні талантами.",
+   "url": "https://presswire.com/thesoul-group-and-shortstv-bring-award-winning-short-films-to-youtube/"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Florida Attorney General",
+   "title": "Флорида вимагає негайних обмежень на використання Meta підлітками, не приєднавшись до загальнонаціонального врегулювання.",
+   "why": "Вказує на потенційні регіональні відмінності в регулюванні соціальних медіа та посилення тиску на платформи щодо безпеки дітей.",
+   "url": "https://www.courthousenews.com/florida-seeks-immediate-limits-on-teens-use-of-meta/"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat запустив єдину програму монетизації для творців з підвищеними вимогами.",
+   "why": "Спрощує монетизацію для творців на платформі, але вимагає відповідності новим стандартам, що може вплинути на залучення творців. [VERIFY]",
+   "url": "[VERIFY]"
+  }
+ ],
+ "trends": [
+  "Консолідація медіагігантів через M&A, що призводить до створення нових потужних гравців на ринку відеодистрибуції.",
+  "Посилення вимог до монетизації та фокус на оригінальному, якісному та довшому контенті на провідних платформах (YouTube, Meta, TikTok).",
+  "Зростаючий тиск регуляторів щодо безпеки дітей та прозорості контенту, особливо ШІ-генерованого, що призводить до змін у продуктах та політиках.",
+  "Експансія азіатських відеоплатформ (наприклад, Bilibili) на глобальний ринок та їхні спроби залучити міжнародних творців через привабливі умови монетизації.",
+  "Активна інтеграція ШІ-інструментів у рекламні та контентні стратегії платформ для підвищення ефективності та автоматизації."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Активна консолідація медіаринку (злиття Paramount-Warner Bros. Discovery), посилення регуляторного тиску на Meta щодо безпеки дітей, зміни в алгоритмах та монетизації на YouTube та Meta, а також впровадження ШІ-інструментів у рекламні рішення."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili активно розширює свою присутність на глобальному ринку, пропонуючи привабливі умови монетизації для творців, що може посилити конкуренцію з західними платформами."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Основні події, такі як злиття Paramount-Warner Bros. Discovery, врегулювання позову Meta щодо безпеки дітей та зміни в монетизації платформ, залишаються послідовними з попередніми днями. Нові деталі включають підтвердження остаточного закриття угоди Paramount-Warner Bros. Discovery 6 жовтня 2026 року, інформацію про перші виплати Meta штатам у рамках врегулювання, а також більш глибоке висвітлення оновлень алгоритму YouTube Shorts та нових ШІ-інструментів для реклами від Meta.",
+ "bizdev": [
+  "Розробка та адаптація контентних стратегій для створення оригінального, високоякісного та довшого відеоконтенту, що відповідає новим вимогам платформ для монетизації (YouTube, Meta, TikTok).",
+  "Дослідження можливостей співпраці з Bilibili для виходу на азіатські ринки та залучення нових аудиторій, враховуючи їхні привабливі програми монетизації.",
+  "Інтеграція ШІ-інструментів у виробництво контенту, його дистрибуцію та рекламні кампанії для підвищення ефективності та автоматизації.",
+  "Адаптація до нових регуляторних вимог щодо маркування ШІ-контенту та посилення політик безпеки дітей на платформах, щоб забезпечити відповідність та уникнути санкцій."
+ ],
+ "watch_next": [
+  "Подальші кроки Meta щодо впровадження функцій безпеки для дітей та реакція інших штатів на врегулювання, а також потенційний вплив на дизайн продуктів.",
+  "Вплив злиття Skydance (Paramount-Warner Bros. Discovery) на контентну стратегію, виробництво та конкурентне середовище в медіаіндустрії.",
+  "Динаміка глобальної експансії Bilibili та її вплив на доходи творців та конкуренцію з іншими відеоплатформами.",
+  "Подальші оновлення алгоритмів та політик монетизації від YouTube, Meta та TikTok, а також їхній вплив на охоплення та доходи творців."
+ ],
+ "sources": [
+  {
+   "label": "WCNC Charlotte",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAr8vWleqUzJMRt0fxLimRUu6e7myKxm0-585IhQsHQH8VcZga0nEAeOadJMyeyF3dlnBKcsIZEy2zxkAsqf68g8D-LOEB1z-84ddDtTdIC3_NVEILoQ96YY9DHyFP0GanLtF4YcX2D_INjLeszv3ghnr0a_jfk9Dw36nZHoTvUubBt6jglY-r-MaDczRdJ6XwgTwI2hVlDgohwrpWOpAxGqbkJ1oSfEZqIiD6"
+  },
+  {
+   "label": "AITuber",
+   "url": "https://aituber.com/youtube-algorithm-changes-2026/"
+  },
+  {
+   "label": "MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiB0qxfiu8lFpPdCY1ZsYpG1w0-qE78gv0q7d5yMqZo1zr63O7WDGFO3XOtxqqKSLqlcZk44RzdY1HeKp1agTcMVfBVZkgE_jC4hDo8UNEdQjEd1e-4xuybURPdaky2J17hJA51ATiXUt0qeo3ClKq59OwmyvmpetHGD0EEK3J7di9BKWlQ5oYLeUfbJgFgbWJnewYd18JEtsKSlIbP4mkypVboYMThH2BPU6Da-125LAbc48"
+  },
+  {
+   "label": "ESG Dive",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJf0jh5KWQfwMGTYNwGjU7TLxiYCARg34gutCslNZB966lbddSlcZbkkxXCnCizFZRAFsmLmXI6j2t85RmDGMLf3u4X1KWM3fj4Lj92PIxBeD-d-vwKDB_VjBuOUaroIAAdl6W8AwsoMrTzwew32UWHqGR8i_YvE2L4jHHpVyJlzY8NLHwnxuaf1hntc9WDGfwdJiy_0Q"
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://www.socialmediatoday.com/news/meta-introduces-new-ai-powered-tools-ad-week-2026/695603/"
+  },
+  {
+   "label": "Hypebeast",
+   "url": "https://hypebeast.com/2026/10/paramount-warner-bros-discovery-merger-cleared-to-close-111-billion-usd-settlement-approval"
+  },
+  {
+   "label": "The Movie Blog",
+   "url": "https://themovieblog.com/2026/10/amazon-mgm-studios-unveils-verity-at-new-york-premiere/"
+  },
+  {
+   "label": "Facebook (Natalie Neil)",
+   "url": "https://www.facebook.com/groups/sahmengagement/posts/1000282668045719/"
+  },
+  {
+   "label": "Courthouse News Service",
+   "url": "https://www.courthousenews.com/florida-seeks-immediate-limits-on-teens-use-of-meta/"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/tiktok-creator-rewards-program-earnings-guide/"
+  },
+  {
+   "label": "TechJuice",
+   "url": "https://techjuice.pk/bilibili-takes-on-youtube-with-bigger-creator-pay-and-global-push/"
+  },
+  {
+   "label": "Paramount Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1qARFwdhwqaHcCTPuAx6Qpsoa_Tx4tj2byPplK7cxLroK5j_eZ_7qAu8_2l69FOsgJ0vcSEOYD-jGPWhrn33C6LIDQxavd3pPyQdLgf1yUm72LDfYQaUbRs1t3xwP2Gx_MiAdOMrrOiGNqCa-SXCzZr9ElQOCN9ECAwzERuKNkL7t70ECWtwJxUPeebXzbfkewjYs_-7F9E9gnK5Q03Gz"
+  },
+  {
+   "label": "PBS",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcHGA_UV1u1h-N7zMGutKQ1EiYCKenRsHn2erAq9_69vdxICSf_pTqUnm7ri62cOKy2bB8CNuZktD6jibRY1BujjxY7T9XwmwVSd6EwkZosZAXYFQQ0rhmSmbB3TdZTL_eILrhlGePR9aSvzBnfd2bxq_2KIY4jTqgrvOYBCJODYC5k5kYIlk2FyIByjLcyDbJfnh8LtQKB-znPRVvYUDqm7oqBhS_W9kZoMVljNs2XpCloF4FxmS4hPtOjjOjfXkTK8E5-Ho="
+  },
+  {
+   "label": "The Washington Post",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm91xpLvl9_qxzF4f1J5DTSTQukYFGnxbz_mq7TkBlKhbeQAXGYXdYuOGpm19KW0l2vAnlgoxAPcgeGAdHs6LnOkRyYlk5iXFeLwSodGeYu7f6vfuc34rLsKgp6h0SxKDl7GhIzv-gH0UF6I5SmKKg7ayjGbyEic18_TV0gP7ulMMQm9jCVBoYUyRgDZqbggFVeqxpxetO7377XLUJ6JQhwYHQ5s773qoRHhLNBq0pNqCiTYNtMPf6AJrmGw=="
+  },
+  {
+   "label": "Presswire (TheSoul Group)",
+   "url": "https://presswire.com/thesoul-group-and-shortstv-bring-award-winning-short-films-to-youtube/"
+  }
+ ]
+}
