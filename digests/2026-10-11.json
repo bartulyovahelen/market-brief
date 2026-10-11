@@ -1,0 +1,321 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним схваленням злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створює нового медіагіганта Skydance. Провідні платформи, такі як YouTube, Meta та TikTok, посилили вимоги до монетизації та фокусуються на оригінальному контенті, тоді як Meta врегулювала масштабний позов щодо безпеки дітей на суму до $18 млрд, а Флорида домагається судової заборони.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Сума злиття Paramount-Warner Bros. Discovery, що створює нового медіагіганта Skydance."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$79-80 млрд",
+   "label": "Чистий борг Skydance після злиття"
+  }
+ ],
+ "top_signal_deep": "Остаточне схвалення злиття Paramount-Warner Bros. Discovery на суму $110 млрд є найважливішою подією, оскільки воно створює нового медіагіганта Skydance. Ця консолідація кардинально змінює ландшафт традиційної та стрімінгової відеодистрибуції, посилюючи конкуренцію та потенційно впливаючи на стратегії контенту та монетизації всього ринку. Нова компанія, очолювана Девідом Еллісоном та Іноном Крайзом, успадковує значний борг, але також має на меті значні скорочення витрат та зобов'язання щодо підтримки кіновиробництва та новинних операцій.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 6
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "The Motley Fool",
+   "title": "Злиття Paramount-Warner Bros. Discovery на $110 млрд остаточно схвалено, створюючи медіагіганта Skydance.",
+   "why": "Створює нового медіагіганта, що кардинально змінює ландшафт традиційної та стрімінгової відеодистрибуції, посилюючи конкуренцію та впливаючи на стратегії контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVxJEahHLGRao2HNzjhv1YmLP7LFG-Ht0c0NrHVs5fpeVFoCa_TObULyBj9GZ9F2BNj-CByRqKBucZSBNoZ3hoPtKVEVvTbuoejeIvX-eZUFtv1uZwwkTAg-9CCK73a9-IbLmNa5r-KB2-_3NrjS_nfSf_4xteCnre-GKIO0q1Ih0JANkLbeIxu4zNHC7q8OD__PVnJ0JQg=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "WUSF",
+   "title": "Флорида домагається судової заборони проти Meta щодо безпеки дітей.",
+   "why": "Ця подія може призвести до значних змін у продуктах Meta, впливаючи на дизайн платформ та політику щодо неповнолітніх користувачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBI0M_5eWWyO-3tHDTPH2VZQ33ncdX_AQXW8iqBnSoWDtm4QJ--WGcVjFrr_U0G5dn2_W6w0yiuGQNhVq6rSGDNFEXsSHUz3L5emivmvEH6cNjtHiT6PiHkW4IQEQnfId-5-K8wQkSuMfbLN_xhQSbbMtLhogG3jNpKWuFZ5BhWpPGokLWx5nj8xdw74PERUD3USrI1Rf8jhFraWZJ2ByYjNQQOwYmaeq09QDjSbmMYak83a94tw=="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "The National Law Review",
+   "title": "Meta врегулювала масштабний позов щодо безпеки дітей на суму до $18 млрд.",
+   "why": "Врегулювання позову на значну суму та зобов'язання щодо впровадження заходів безпеки для підлітків вплинуть на стратегію Meta та можуть стати прецедентом для інших платформ.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwMUcBPvmVZrbiF3wrf26gNMenWRNwSLzPMvxJ0iUYPq6CRUbV3Omt_sjpLD8tjBZlx3TFzbRngXQ2X4i87giCNPj2wQyKLQqq-Xv4dJbTIAHD34rtM4Npqcf3gluOJtWQLfGL26Tw7RkD8jDzsoAsrcL9jxJdChcY74LacWr-u6E4-Rpb_LWqHq9Wkgzuz3mNARcTMkbMiXk3sTGYAL_bL6L2AG2jQ16fWhuR_B58YH1laCw=="
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "GoFaceless",
+   "title": "YouTube оновив алгоритм Shorts, надаючи пріоритет оригінальному контенту та посиливши вимоги до монетизації.",
+   "why": "Зміни впливають на стратегії творців коротких відео, стимулюючи створення оригінального контенту та переглядаючи умови отримання доходу.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvxQ7luJKIECRlGPjklM3QNMI7qf7a8rqSv0bL44glNV6cwwOUfRAHE_jVet4oY88s9L6LkHOj27vtjwpy9ZebDDQKobrxqMISNijqjmmy5IwZ39RjEazeJlpsmubUVAPNLj8upDiokM1RyvBqTboOBqdvahU=="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Контекст",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту, фокусуючись на спонсорстві Reels.",
+   "why": "Зміни в монетизації Reels та фокус на оригінальність впливають на доходи творців та контентну стратегію на платформах Meta. [VERIFY]",
+   "url": "https://www.meta.com/creators/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Toptal",
+   "title": "TikTok Creator Rewards Program оновлено з фокусом на оригінальний контент довше 1 хвилини.",
+   "why": "Оновлення програми винагород стимулює створення довшого та оригінального контенту, змінюючи підходи творців до заробітку на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR4U3G_cWV8yISCcy8ZZEYCTV9Xg69JiQbyofGVWJe_6pg7vdR4JZNnxnmZUI_MpUAGJWXQ3BgIxYoNeEID-XYl0i0IhLTLVZsZiGs4O_LW3Wd5C8J_EWH9r1AvAfAjyPfCh4pfPW0yAxtPiavY3P1MZedtF6gaWgYfBjWTpD99kiwXAg0K5H7cEC4GOY=="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon News",
+   "title": "Amazon Prime Video отримав ексклюзивні глобальні права на трансляцію Emmy Awards з 2027 року.",
+   "why": "Це значний крок у контентній стратегії Amazon, що посилює його позиції на ринку стрімінгу та змінює традиційну дистрибуцію преміального контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH36X7O98Xa-fMR78c2sE0gu6YDiV_9VYMtsyWCtkUCQpoUIz-1uHHIC03HCY4Fxs80sPEQvNUc-TBcb1bacNHOzJ7VD03OT4YiBFbWFpdN20sQC1R3EQ8wLbFItkkbvydhhk8ueABrK82FXk5-1ofQ3XVC4QnAvhY759AqOcXiYBcgKRYR3w=="
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "Transparency Coalition",
+   "title": "Набули чинності закони про маркування ШІ-контенту (ЄС, Нью-Йорк, Каліфорнія).",
+   "why": "Ці закони створюють нові вимоги до прозорості та можуть вплинути на виробництво та дистрибуцію контенту, особливо в маркетингу та новинних медіа.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMXiTPv2yikqfUqVcJ_09FKtfeukZevz-mwk1Inw1TvhUXtu0cKjk_qvtVXOjR4XuiExjGRGr4W3WtXqn8dCn5RPYE7qlFwSAvbJlS98sYkMbWQ76ZrPlXpcOp8UfCT3hN8WjVdO3MIAEEvKs1oqQS35wUZjt7kclE4A0KTsRES7OilIg9uVuTd3"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "openPR.com",
+   "title": "TheSoul Group та ShortsTV запустили нові YouTube-канали для дистрибуції короткометражних фільмів.",
+   "why": "Розширення дистрибуції короткометражних фільмів на YouTube через партнерство вказує на зростаючий інтерес до цього формату та нові можливості для творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-fF0yp6NPQS0v5RzCq6ty0CC1gCGrwfV0hraIYnh7DqBkUlZV48FGjkhjPP5r7vlgudlaF4xwFKcD6PrMg0GhSIvR4zhn8Q4iwn6aT4LlpZtdUodY0LzTNCb6GPzIe0kpH5oiQ2bHpNsPop6ARI9RkGysNdK0SQqCV-uvaBR4VOUpebDeneG3MqOaRQMb2u1Amg8dAB8TKio=="
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "конкурент",
+   "source": "VideoElephant",
+   "title": "VideoElephant та New York Post запустили перший FAST-канал.",
+   "why": "Запуск FAST-каналу відомим медіа-брендом через VideoElephant підкреслює зростання ринку безкоштовного потокового телебачення з рекламою.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQM0jyS0DnPK20CHY0uV35mS8R56BhzagcoajAMpllI79jJZncZ-s6wBUKof5e2C8IRV42ouprNbz-X7p7EOHbJAfuhLpIvVx9qqWSWCt1TDbQ1mshsDpouP84pghrkBI"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Net Influencer",
+   "title": "Fixated придбала Studio71 US, розширюючи мережу творців до 1000+ та портфоліо подкастів.",
+   "why": "Це консолідація на ринку управління творцями, що створює більш інтегровану платформу для їхнього розвитку та монетизації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Ld3Cjki15jfT9rVCxaUZHOpy2i2MYtWKg-xo7h7E7LG4uDP-D3q58-kRdezk-Oyw-SIbtO4RS2oOw7pXqguJ8iOHhxNqdiB1EX7MpqhjeRN9Q80pBt-uGwtroOYwtRoznGPsHVCJWUY-zErlUw7ZwuVDxSl64I7u7KiCwlnLQc1ciSDEtMZqfp0mh2dBDA0z8hHmdtaBcbuZSVN8-dw6CVgDQ6_g4rbM8iAvWNuOIEMyJSEg=="
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Instagram (dailypulse60)",
+   "title": "Bilibili розширює глобальну присутність та пропонує потенційні виплати творцям.",
+   "why": "Глобальна експансія Bilibili може створити нову значну платформу для творців, посилюючи конкуренцію з YouTube.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECm4t_vZhGwiovgoj0cvr4VRoy69H6RlOHvob2ud33KsMeMDbb8JdMR8UmEK9z_KERfI6UFDf2_m0JV_thUYd2RbDi_oZRt-Eq9MwERDoAs6GHE5Ro_22-IKB-Ta5CrGCgdFuMyv4=="
+  }
+ ],
+ "trends": [
+  "Посилення вимог до оригінального контенту та його монетизації на провідних платформах (YouTube, Meta, TikTok).",
+  "Консолідація на ринку традиційних медіа через великі злиття (Paramount-WBD/Skydance).",
+  "Зростання уваги до регулювання контенту, зокрема щодо безпеки дітей та маркування ШІ.",
+  "Зростання ринку FAST-каналів та диверсифікація дистрибуції контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна консолідація медіаринку (злиття Paramount-WBD), посилення регуляторного тиску на великі платформи (позов Meta, дії Флориди), зміни в монетизації та алгоритмах стрімінгових сервісів."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok продовжує адаптувати програми винагород для творців, фокусуючись на оригінальному контенті. Bilibili активно розширює глобальну присутність, пропонуючи нові можливості для монетизації творців."
+  },
+  {
+   "region": "CIS",
+   "note": "Набуття чинності законів про маркування ШІ-контенту може вплинути на регіон. Без помітних специфічних рухів, окрім глобальних трендів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій для створення та дистрибуції оригінального контенту, що відповідає новим вимогам платформ (YouTube, Meta, TikTok).",
+  "Пошук можливостей для партнерства з новим медіагігантом Skydance та іншими гравцями ринку FAST-каналів (VideoElephant).",
+  "Адаптація до нових регуляторних вимог щодо безпеки контенту та маркування ШІ.",
+  "Вивчення можливостей глобальної експансії Bilibili для диверсифікації каналів дистрибуції та монетизації."
+ ],
+ "watch_next": [
+  "Моніторинг подальших кроків Skydance після злиття та впливу на ринок.",
+  "Відстеження результатів судової заборони Флориди проти Meta та її впливу на політику платформи щодо безпеки дітей.",
+  "Аналіз впливу нових алгоритмів та програм монетизації YouTube, Meta та TikTok на доходи творців та контентну стратегію.",
+  "Розвиток регуляторного ландшафту щодо ШІ-контенту та його застосування в різних регіонах."
+ ],
+ "sources": [
+  {
+   "label": "The Motley Fool",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJVxJEahHLGRao2HNzjhv1YmLP7LFG-Ht0c0NrHVs5fpeVFoCa_TObULyBj9GZ9F2BNj-CByRqKBucZSBNoZ3hoPtKVEVvTbuoejeIvX-eZUFtv1uZwwkTAg-9CCK73a9-IbLmNa5r-KB2-_3NrjS_nfSf_4xteCnre-GKIO0q1Ih0JANkLbeIxu4zNHC7q8OD__PVnJ0JQg=="
+  },
+  {
+   "label": "UCapital",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4l0MFafdmCkgE5VxyEC2RF6TMLRrltE_AwgbiK1uNIN310DTOQ8YOqeZ-jYEJKty-KkDAtB1HUmRkWvuZwsjYCi3LApBYzjg2lA6p91j1KfX_3HPNIFq3N3rCJu_YPmJVWkKIiAPAdqYlgOT1SBrYF5KbN8lW6kkAQb9ccoY="
+  },
+  {
+   "label": "LA Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcEWriaNeq6ocpjVs1QENTw03xYOPaq3V4FI7YnlYSVG_dO_S8OQkYU1Xj5A5MEUyt8bjBP_vcnDkUd7QYDY4zwPX6-CVzpnRhYMwAzeFDjBNWAGs_kAcqf_VEf_yNJdxq0-G1VuUq1o0ZkbvQShCXVoq5LjmJrdfdmO7iyGPdxgDJvsP0CHCdNv85-Xk4-gXp6dYcr-fd9yEeuDLr1rtN3wgIEpkxTVlR9xfFoke8zSCXPpc260rv7gNkSV7ZHR3Z"
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxlIihcEmkiRsIMG3tAi-uNNSD9sdCFR9mt-XIkwADABk4wVBpWhbGbjR9zrmpkWRVjts8GJ7b-3hjd6W9AyVuV3d9oDK9AGxaCcQFR_HUnrdkjcjxndiSSEvcgP11sIm635OvxbdB0qVPgG82mvkG99ahaUW1nnXJOsil4mA7SvKtFKIo343fwS6Q7v8wERy7"
+  },
+  {
+   "label": "WUSF",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBI0M_5eWWyO-3tHDTPH2VZQ33ncdX_AQXW8iqBnSoWDtm4QJ--WGcVjFrr_U0G5dn2_W6w0yiuGQNhVq6rSGDNFEXsSHUz3L5emivmvEH6cNjtHiT6PiHkW4IQEQnfId-5-K8wQkSuMfbLN_xhQSbbMtLhogG3jNpKWuFZ5BhWpPGokLWx5nj8xdw74PERUD3USrI1Rf8jhFraWZJ2ByYjNQQOwYmaeq09QDjSbmMYak83a94tw=="
+  },
+  {
+   "label": "Jurist.org",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER1jvi29QJMyfs_4v8ctM4gNfbWpzwUp9Xxv4NSgFRGzQ8eInuDRC8cGm7ngvFozOyjdDb-m57wf_PZ6SnGrVCryUxEyZ8sQuWgZhRfP_YJIYiYNZURq3TYr_Q-3ujmUnOZS1iUMtnMsdvpotqMceMhrWbcQJiAqF6VbXHbvL9Au69KiXzH1ZhUod2aFBeevjmZ_fSU5sby6l39R8fbMPMcvtH4uU66w6ctyr1HkIAOABYjLFxMjZgtAjGuK5Hj9E="
+  },
+  {
+   "label": "The National Law Review",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwMUcBPvmVZrbiF3wrf26gNMenWRNwSLzPMvxJ0iUYPq6CRUbV3Omt_sjpLD8tjBZlx3TFzbRngXQ2X4i87giCNPj2wQyKLQqq-Xv4dJbTIAHD34rtM4Npqcf3gluOJtWQLfGL26Tw7RkD8jDzsoAsrcL9jxJdChcY74LacWr-u6E4-Rpb_LWqHq9Wkgzuz3mNARcTMkbMiXk3sTGYAL_bL6L2AG2jQ16fWhuR_B58YH1laCw=="
+  },
+  {
+   "label": "Court Approves Meta Settlement",
+   "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQHDZDlXq5QaOzgf58Xv6gnrE5cneJBPRP6jzMaGsgJnDRIhp99-I6XFU41StLOj6WMHUqmmrsM_LMjmwUUG88hlxAH9ojIyyLuUqc7IoqHIWqTYyWRgryngCZ51TMlvaRbgxWoOOQYFTUtzqKnW10TFfvkneDKvp-6NjTz1yEQCwf1b8ISXlLq8bW8iRYG6Zi74DluCEZDJ6JCkH5bN_LWqHq9Wkgzuz3mNARcTMkbMiXk3sTGYAL_bL6L2AG2jQ16fWhuR_B58YH1laCw=="
+  },
+  {
+   "label": "GoFaceless",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvxQ7luJKIECRlGPjklM3QNMI7qf7a8rqSv0bL44glNV6cwwOUfRAHE_jVet4oY88s9L6LkHOj27vtjwpy9ZebDDQKobrxqMISNijqjmmy5IwZ39RjEazeJlpsmubUVAPNLj8upDiokM1RyvBqTboOBqdvahU=="
+  },
+  {
+   "label": "FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHWLvS7Ym5WvncvOves-lw-ZVlLLYGTkR9Qym9P4SWZZdjdajss6KsmbUQuXivvHLr3pMu6ZDu2hhszwZ_9pmXHeK4t2V03mvQwcHcqeEWYNOIjJfh6ZALf3Ycdh33n3U8Epbtct_fk1cT2MPdn94ZC6RGxri6e2uvBVTydE4="
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWUK6uCdH2bMIiiThLHduwXLr6iNJOt50wu1trgSvQH-yYMa76HOMQT080-xpj-rAGOtpv4BPjVpk0HZScK32eTbUyqNZko__B4VVbsnRBEtMIZcKL0dJK15_P3WH-fC8I8c1zVvYMnvVejwK5B0PYiz_Syax01bdRsOqIOyB7242JGZSeNAIqK_ZC_dOCfdN0guy8hCtejMUGvnht"
+  },
+  {
+   "label": "Toptal",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR4U3G_cWV8yISCcy8ZZEYCTV9Xg69JiQbyofGVWJe_6pg7vdR4JZNnxnmZUI_MpUAGJWXQ3BgIxYoNeEID-XYl0i0IhLTLVZsZiGs4O_LW3Wd5C8J_EWH9r1AvAfAjyPfCh4pfPW0yAxtPiavY3P1MZedtF6gaWgYfBjWTpD99kiwXAg0K5H7cEC4GOY=="
+  },
+  {
+   "label": "Neal Schaffer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL1NyF1NN1lAEH8Ao87B2LD3yyLSWAv3oRlAQyT74CzeyscpLMZQf662Ij3ZcIR8fRhhm0IojzvZeR00N-dXy6DhVAJDuC8oOeu0dFR4GgkYpZ4MOr8pvJZ6et3nTUPMLX0sv90whYPsy49IoxvfS4BDOc"
+  },
+  {
+   "label": "Benly",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECDCtRwDbcpeIPPnZxXDgxN3FETK4ADjmp7qkiUaFRwKfMA6zhR6lv21Q923eMjhuv6j_-bXygmsw4mTmZjugpyCbVWxHtnoKyg_3mZmVZM6JBzHhtW-BLKDt1S3dQ8glrQ7z6dugWXRGnBcbwazS7lFMdE5x76Kq8"
+  },
+  {
+   "label": "TikTok Support",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8mr_XGn18VTDSJMmthSDbn41RWUIfAKIPaI7lmVMQSsVwYokskANobzr_lSjaSkPwMIV6JgvfbdssXZOAOKWWwRPm_mt71wVPaXmQFL__bmZS9MmfPXr1CNdX2cWcKDp1AuIfsEaJvzOR93Vi9326C_4IYnj1-Z5gbjmejbjRFexqteWf"
+  },
+  {
+   "label": "Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH36X7O98Xa-fMR78c2sE0gu6YDiV_9VYMtsyWCtkUCQpoUIz-1uHHIC03HCY4Fxs80sPEQvNUc-TBcb1bacNHOzJ7VD03OT4YiBFbWFpdN20sQC1R3EQ8wLbFItkkbvydhhk8ueABrK82FXk5-1ofQ3XVC4QnAvhY759AqOcXiYBcgKRYR3w=="
+  },
+  {
+   "label": "kare11.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEqHNVNBZSFz6JdEuQMvrVMjx_ePk04P8TH-hr2zluRqOrlLlkAUZXlTPxkSDP2ujlHEbGIuJ13uQ8VG2gmaN5kfFhKnxasrPn2fvORPym2VFrpyAJpHqBGPdrrKs5_fLBqAGep22fyUIStxAlAm7eCbYWJo2AxZcwqbpawQwXTCmgS-GW31ms6J3IgPwBASCuWvQFpi0buUjbfFOTi_4aosto3t-uqTsaV0aJXOkXiRmvwVFQnuG3MEJsw=="
+  },
+  {
+   "label": "TVLine",
+   "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQH6kMbwIKAeljI5-0MH6nsTUSVG-oWN8sMpHL8Lv3SeWnrq0qFVh2zVBcLu4OfL1Kdj1vp2dvHQ-bRe23sIDbing0ZeN0XBHpvvwxkMdq88jf30dvQGbyH5IkkefQ0clTR674yubrVJA3p8MWfSSfrJBBUyx7hVLtAcpSQkPzZ4wQ=="
+  },
+  {
+   "label": "FandomWire",
+   "url": "https://vertexaisearch.google.com/grounding-api-redirect/AUZIYQG_bAIQT388bD_MnddC_EajWzmGqDNMUOBGGFTy5CSuT02sytTQxLWiqm6IwpoVQNXVScO_ozbJpthUT2w9SE2EyCjWIwOo0pYkcVFgRz_OfEZddrn3wZ4HvCJnLEgjTMv4g1JUGFmg03pa4CKGvx0FXT5Wy7E08496cRpAHqc0vCAw7-5eGQ1F7L8X"
+  },
+  {
+   "label": "Transparency Coalition",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMXiTPv2yikqfUqVcJ_09FKtfeukZevz-mwk1Inw1TvhUXtu0cKjk_qvtVXOjR4XuiExjGRGr4W3WtXqn8dCn5RPYE7qlFwSAvbJlS98sYkMbWQ76ZrPlXpcOp8UfCT3hN8WjVdO3MIAEEvKs1oqQS35wUZjt7kclE4A0KTsRES7OilIg9uVuTd3"
+  },
+  {
+   "label": "Digital Applied",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfPkvbrhg-lqRJo5fl_undCOfoaRrdDFzgLXnQKKldK2DQ3FkOg88ExafB8OiN6F5yiRBz5I_ed5Bd3KdqCz9n6WfYjtvVJfMmjgcMeTfNj8KHVTXzK7pGhO2szLAsFasL6G8k_KSIMgSHmWoRmXRMRO2K9SrqryIhA=="
+  },
+  {
+   "label": "Delante",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFtJQJApV1J2WaBqgiK1ilkUnZx9bq2zGyU5oVn4zW_OQnurr0ndwi58CaSylI0X1Yhua7iYgZoZ70DUmqjV7z_SDwBobRTWCbjWuErG5jqSYx7ABtKCh72CEBDlkM8H07kQPHufSAl2PKPYLyIV9FWtoT"
+  },
+  {
+   "label": "Wilson Sonsini",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOALL2-0Yvcs-98MY8QKyGEOie-TgRhAEsd5itbrjbg-KAB2yHa73fziFCIjukKPdMIXu7e4oXI-cR9ldYsSZGl-P0fS3oTSSKo-QOoNjJ_IgzM2Hlw3M37tt5BaRaug7dlW0iiPcRamzfLIEwEgoBQxerZ5x_L9uX38RW08cE5MGfyGuXBz3MQ9fkUyj9VNqvRafMiNllsYAC_mD0pslCXwjwQY8kVigR9V8Ds9SMMGUxei5oT7glIe607CQ_qjM="
+  },
+  {
+   "label": "openPR.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-fF0yp6NPQS0v5RzCq6ty0CC1gCGrwfV0hraIYnh7DqBkUlZV48FGjkhjPP5r7vlgudlaF4xwFKcD6PrMg0GhSIvR4zhn8Q4iwn6aT4LlpZtdUodY0LzTNCb6GPzIe0kpH5oiQ2bHpNsPop6ARI9RkGysNdK0SQqCV-uvaBR4VOUpebDeneG3MqOaRQMb2u1Amg8dAB8TKio=="
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3kXuJC6vFlJvKGKtgRMbddQibj8iCRE4amb7KhFHUjq-bZS6rX5QIiud6VHfebmgXolXDcW4jITKWH6gQggfFasiQBbYWRgZsQQLdvI3xbQKCKuMO"
+  },
+  {
+   "label": "VideoElephant",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlQM0jyS0DnPK20CHY0uV35mS8R56BhzagcoajAMpllI79jJZncZ-s6wBUKof5e2C8IRV42ouprNbz-X7p7EOHbJAfuhLpIvVx9qqWSWCt1TDbQ1mshsDpouP84pghrkBI"
+  },
+  {
+   "label": "ExchangeWire PressBox",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETeos0zhKG0Q4k_2RGxq-gSCcX6V-G299IJf8KxJkJ7GgRMSWSIVsZXNVfBEZXItNNxHHLJFCJe1bdoEwb2vrYsGY9-U95w8S5CJvcNvsIgWmB40cIDhgGUGpf1VwQkAUR0Ft7wT35_ypqE0FjmA_-dHwsFRYatzBqRU7rwq9hKYrLpl3evfobRW_qehYGl7VDJ-6o5UeIhnfWFSy94xBlvgLbhG_bJy-9v8-7HLE7UjGaGg=="
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Ld3Cjki15jfT9rVCxaUZHOpy2i2MYtWKg-xo7h7E7LG4uDP-D3q58-kRdezk-Oyw-SIbtO4RS2oOw7pXqguJ8iOHhxNqdiB1EX7MpqhjeRN9Q80pBt-uGwtroOYwtRoznGPsHVCJWUY-zErlUw7ZwuVDxSl64I7u7KiCwlnLQc1ciSDEtMZqfp0mh2dBDA0z8hHmdtaBcbuZSVN8-dw6CVgDQ6_g4rbM8iAvWNuOIEMyJSEg=="
+  },
+  {
+   "label": "Pluang",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhfMAKhuaPhOiOq9FEwr4CneqeH7O6cf-dWYnKxQb_LPyminCtnWpeyDD2ElUoAHJQ4F4sRu6t4x0MCQMdufl_HEFUNbPvmMlZPK00kFEL0-uzuG5ur3RdbYZ0_bn8qWSlOuZGqrAIK_sI5IeGIC0GZelEJm7NO3_edy9Pa6U1WTm-0-k="
+  },
+  {
+   "label": "The Daily Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW3HdYlWSo3OvnxZicZ2s0dF-X-tsePVFbihEX2afvIWOep97SX0oPQt1bMS8ytAgNUk71vtmTy0OLQbHjoKzpFKpbmv8F9H6XvOBgxbFHqxNHHn_ceiEOuPL3TX1NbvQljUJV3yMwspzoMd1Oe_InOqxZAqKOA6slmEuEdltgMAprWEs="
+  },
+  {
+   "label": "Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGytUAHqOJBIgLA0tDbRmijikL-w8rZo7MM41rnIPpnCuc5HbeYn2YkxqOGPahtNTAe0doMoSO9m1HXHfCSnBYKY_kKm0xXIMFJDi269i6ccqS5yBVHSFOPdveb4mp6TdAACEOOEBsOzguBOpJd7awemEH2Vrxhyn7bsHkfZxY6aHPN40kMhfFbl4WnMRYUyDFnUDsTAPt5jLKBl6fMTvLP_ZogVnNy5DApuA4Y"
+  },
+  {
+   "label": "Instagram (dailypulse60)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECm4t_vZhGwiovgoj0cvr4VRoy69H6RlOHvob2ud33KsMeMDbb8JdMR8UmEK9z_KERfI6UFDf2_m0JV_thUYd2RbDi_oZRt-Eq9MwERDoAs6GHE5Ro_22-IKB-Ta5CrGCgdFuMyv4=="
+  },
+  {
+   "label": "Tehelka",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTzGfMKZjKJRRUHSuFM30CS9jUfSWYurcE6JLVOxZZVzKpZU2bgx4mBlMvMZFjDrSgH53_IGadMnKH67nyvjEsVWCkhcvF4wb4M80EMT3ju-JKhjazyMc7PDx2z17Qklw-ukt0dos7tnT2jZXtQ9lRPt3cv-j9Y-Ev66UQM5i0goaXmr5ZJyf32t4Yhj_ofB1f5H6lFMWjCVyA7B0UnniKLNtflI07RHovvWC8tPNV"
+  },
+  {
+   "label": "Medium",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7zl2GqyxSZAObUi_FQRBaldI4lOj0T99v1I_Rg-Dww1YARC4YXqOj6IfE77hCLvW0kCDuggW3nqZV7Bj5rWmmnTEU_g_esNjKtJA1Zre1oWOby2jWLJjXxL1WXIfVDynr_TYUlhYRo-pgH6O6U61UTmBBcYstIYaZTgsFnT9vil06JQdCHSZjHfD0gsmpzaMEVnDSRvuSbV95apOshJf2mdJBLsWjAb5esgAzmeCO8vRK"
+  },
+  {
+   "label": "Gadgets Now",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkp6pESZr954n57O0g-NRNSNSvrK2Pd4k7K-_shfcHVx-2E4ln-y_q5P6TqOvFnesvN1k4rm1kQxZfSapbcpuIO56Y246VuOw9YkgN8UKmtTL4OVtpJcUChoZasMBTHBQSWsGm_UiAdOkSH-TptUGVHTxEpEfod_rHRUbHKb8m4A70MupoLfTOwXr3Sw0mjC-WBW2py39jpSycDvYQqlwWY8BDgiYrCBQKYwYg0o_8NiaoE26"
+  }
+ ]
+}
