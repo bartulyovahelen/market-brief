@@ -1,0 +1,327 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним закриттям угоди зі злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створює нового медіагіганта Skydance. Провідні платформи, такі як Meta, YouTube та Snapchat, посилюють вимоги до монетизації та фокусуються на оригінальному контенті, тоді як Meta продовжує стикатися з регуляторним тиском щодо безпеки дітей.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Вартість злиття Paramount та Warner Bros. Discovery, що призвело до створення медіагіганта Skydance."
+ },
+ "figures": [
+  {
+   "value": "$18 млрд",
+   "label": "Максимальна сума врегулювання позову Meta щодо безпеки дітей."
+  },
+  {
+   "value": "10 млн",
+   "label": "Мінімальна кількість переглядів Shorts за 90 днів для монетизації на YouTube (для існуючих партнерів)."
+  },
+  {
+   "value": "25%",
+   "label": "Зростання переглядів Spotlight на Snapchat за рік."
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount та Warner Bros. Discovery на суму $110 млрд є найважливішою подією останніх днів. Ця угода, офіційно закрита 6-7 жовтня 2026 року, створює нового медіагіганта під назвою Skydance, який об'єднує величезний портфель активів, включаючи кіностудії Paramount та Warner Bros., стрімінгові сервіси HBO Max та Paramount+, новинні канали CNN та CBS, а також численні кабельні мережі. Це значно змінює ландшафт традиційних медіа, посилюючи конкуренцію з іншими великими гравцями та створюючи можливості для синергії, але також викликаючи занепокоєння щодо монополізації та потенційного скорочення робочих місць.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount / Warner Bros. Discovery",
+   "title": "Злиття Paramount-Warner Bros. Discovery завершено, створюючи медіагіганта Skydance",
+   "why": "Створює нового медіагіганта, що змінює ландшафт традиційних медіа та стрімінгових сервісів, посилюючи конкуренцію та консолідацію.",
+   "url": "https://www.facebook.com/newshour/posts/pfbid02xJ66738914821437156947392636597257"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд; Флорида вимагає суворіших обмежень",
+   "why": "Вказує на посилення регуляторного тиску на соціальні мережі та потенційні значні зміни у функціоналі платформ для молодих користувачів.",
+   "url": "https://www.investing.com/news/stock-market-news/florida-pursuing-court-order-for-meta-teen-safety-changes-432SI-3944605"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook & Instagram",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту",
+   "why": "Спрощує процес монетизації для творців, але вимагає вищої якості та оригінальності контенту, що впливає на стратегії виробництва.",
+   "url": "https://www.facebook.com/masudulhasanmasudbcl/posts/pfbid02xJ66738914821437156947392636597257"
+  },
+  {
+   "importance": "high",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив алгоритм Shorts, надаючи пріоритет оригінальному контенту та посиливши вимоги до монетизації",
+   "why": "Змінює правила гри для творців Shorts, стимулюючи створення унікального контенту та ускладнюючи монетизацію для перевантажених відео.",
+   "url": "https://aituber.com/youtube-algorithm-changes-2026/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та розширює можливості заробітку для творців контенту, стимулюючи виробництво відео для Spotlight.",
+   "url": "https://www.mediapost.com/publications/article/405459/snapchat-brings-spotlight-videos-to-stories-rev-sh.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "регуляції",
+   "source": "ЄС",
+   "title": "Набули чинності закони про маркування AI-контенту (ЄС)",
+   "why": "Створює нові вимоги до прозорості та відповідальності для виробників та дистриб'юторів відеоконтенту, особливо для тих, хто працює з європейським ринком.",
+   "url": "https://ecija.com/en/news/companies-will-be-required-to-label-ai-generated-content-starting-from-august-2026/"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "MGM Resorts",
+   "title": "Акції MGM Resorts впали до 52-тижневого мінімуму після відкликання пропозиції про викуп",
+   "why": "Вказує на невизначеність щодо майбутнього компанії та впливає на її ринкову капіталізацію.",
+   "url": "https://www.investing.com/news/stock-market-news/mgm-stock-hits-52week-low-at-2916-usd-432SI-3945934"
+  },
+  {
+   "importance": "low",
+   "theme": "партнерство",
+   "stream": "конкурент",
+   "source": "Versant / Verizon",
+   "title": "Versant (колишній Comcast) продовжив угоду про дистрибуцію з Verizon",
+   "why": "Забезпечує стабільність дистрибуції для медіа-активів Versant, підкреслюючи важливість традиційних партнерств.",
+   "url": "https://www.instagram.com/p/DAA0o94x4_D/"
+  }
+ ],
+ "trends": [
+  "Консолідація в традиційних медіа: великі злиття створюють нових медіагігантів, що змінює конкурентний ландшафт.",
+  "Посилення вимог до оригінальності контенту: платформи активно стимулюють створення унікального контенту та обмежують поширення неоригінального або перезавантаженого відео.",
+  "Зміни в монетизації для творців: платформи уніфікують програми монетизації та вводять нові, часто суворіші, критерії для отримання доходу.",
+  "Зростаючий регуляторний тиск: уряди та регулятори посилюють контроль над соціальними мережами, особливо щодо безпеки дітей та прозорості AI-контенту.",
+  "Фокус на короткоформатному відео: платформи продовжують інвестувати в Shorts/Reels/Spotlight, але з акцентом на якість та оригінальність."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Завершення великого медіа-злиття (Skydance), триваючий судовий процес Meta щодо безпеки дітей у США, набуття чинності законів ЄС про маркування AI-контенту, а також значні оновлення монетизації та алгоритмів на ключових платформах (Meta, YouTube, Snapchat)."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів за останні 7 днів."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів за останні 7 днів."
+  }
+ ],
+ "changed": "Проти попередніх днів, ключовою зміною є остаточне закриття угоди зі злиття Paramount-Warner Bros. Discovery, що перетворило її з «схваленої» на «завершену». Ситуація з позовом Meta щодо безпеки дітей продовжує розвиватися, оскільки Флорида домагається більш суворих судових заборон, незважаючи на врегулювання з іншими штатами. З'явилися нові деталі щодо уніфікованої програми монетизації Snapchat та падіння акцій MGM Resorts до 52-тижневого мінімуму. Загальні тенденції щодо посилення вимог до монетизації та оригінальності контенту на платформах (Meta, YouTube) залишаються незмінними, але з'являються додаткові уточнення та дати впровадження.",
+ "bizdev": [
+  "Розробка та просування інструментів для створення оригінального контенту, що відповідає новим вимогам платформ та алгоритмам (особливо для Shorts/Reels/Spotlight).",
+  "Консультування та стратегічна підтримка творців контенту щодо адаптації до посилених правил монетизації та алгоритмічних змін на YouTube, Meta та Snapchat.",
+  "Спеціалізовані рішення для автоматичного маркування AI-генерованого контенту відповідно до регуляторних вимог (особливо для компаній, що працюють з ЄС).",
+  "Пошук нішевих можливостей у відеодистрибуції, де великі гравці не фокусуються, або створення ексклюзивного контенту для нових медіагігантів, таких як Skydance."
+ ],
+ "watch_next": [
+  "Вплив злиття Skydance на контентну стратегію, дистрибуцію та потенційні зміни у відносинах з партнерами та творцями.",
+  "Подальші кроки у судових процесах проти Meta щодо безпеки дітей, особливо дії Флориди та можливі наслідки для функціоналу платформ.",
+  "Деталі впровадження нових правил монетизації на YouTube (особливо після лютого 2027 року) та Snapchat (після травня 2026 року).",
+  "Розвиток регуляцій щодо AI-контенту та їх вплив на відеодистрибуцію, включаючи можливі ініціативи у США.",
+  "Фінансові результати BetMGM (Q3 2026) та MGM Resorts (Q3 2026), які можуть прояснити майбутнє компанії після відкликання пропозиції про викуп."
+ ],
+ "sources": [
+  {
+   "label": "Snapchat Brings Spotlight Videos To 'Stories' Rev-Share Program - MediaPost",
+   "url": "https://www.mediapost.com/publications/article/405459/snapchat-brings-spotlight-videos-to-stories-rev-sh.html"
+  },
+  {
+   "label": "Paramount officially closed its multi-billion-dollar deal for Warner Bros. Discovery on Tuesday, creating one of Hollywood's most valuable properties. The combined company, called Skyd | PBS NewsHour - Facebook",
+   "url": "https://www.facebook.com/newshour/posts/pfbid02xJ66738914821437156947392636597257"
+  },
+  {
+   "label": "Paramount closes $110 billion deal to acquire Warner Bros. Discovery, creating Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsjpWHE5u3u77VFRz6yD6ARlBnHny3w8pwsSR95peHCjwaTVNhUSSgwXEOVcK3oWwpCg64V5QW9481d8uZ1QJTnpVGr3bKOXpfWg8XqS0jPWx0Z1aVyVSStKhm5xdmprUI43oUitUY8oPo_trxZXYBpoIEmDhJNkqjrOq8OS0vGKwhUa4OjQ=="
+  },
+  {
+   "label": "Notice of BetMGM Q3 2026 Update and Conference Call - Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSrZfPYA3pPlFSWG4e477sHa5GmCiln_IcSqIXSg7HSKnQ0bFjTeBwzeiRhjGYrMJ4iLOjYoU54ziUzneaClGQRfH-nzewT_cfpBggeETCbpaDZyp0kjtqy1NnXit6eu_JI95yuUayXhfIC_0tybBIMD8s7JqLHgZGpLnqjVhjnC0gs28sHjnfDBIix0N0X7NmO2aBfpoFsGPtvew3FtDg"
+  },
+  {
+   "label": "Florida pursuing court order for Meta teen safety changes - Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/florida-pursuing-court-order-for-meta-teen-safety-changes-432SI-3944605"
+  },
+  {
+   "label": "What you need to know about Amazon today: October 7, 2026 - Public Technologies (PUBT)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5HJqXV7ab4Ds_ewAY8BvovUz7vI4Ihbqf-gWgI1YaK1GKgmGOdHoHmjATANSUkWi0xpo8VD8AOUqDFByVcFjaBM0DIZRWNPnNdL7TAmEQYgB3_RGv-lr1bsxTs4qFMSJTzkToR4yRVKRO2-HROTAbuKxJCgmpNe7B6gaFYzf-bfY"
+  },
+  {
+   "label": "Paramount Completes Acquisition of Warner Bros. Discovery, Creating a New Global Entertainment Leader, Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyDPQuHwSr7ia6bDmMN4pyuZul-BfXb29weUzfB_I2_oL8rXBdmYuIpE74jp9X-JjffQxyTxjJ3kSm06vvWPaSCMdecmmIReKwVqDydCTF4obhpR4datH3EMLPoJR6CpCdWi5uHEW9eeqoxIega9Sw0prdbMc-YXLgRImFseSjS3rPLt-swgIblJaYGNJg2pm24x6PXp2WzYRG9ekjHaJTema9MEIRu8oM93jpEkw7CjnQq0E_M3dAlUhFLTTYOnLx40x88Lm-cMD3-h8="
+  },
+  {
+   "label": "Snapchat Creator Stories Monetization",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhSZCuGxs2lGWd_DR9nhRdmqapVSQblVI_VNMe4q6EE6LbVXzSobOf8SxK3NwrJLB3cHC9qjtJECDd9teXw9HWYT6FGISqEFu6Ew0gJXC7Kxco5JzH7-sGdlYIfP87AnjB9r0DfK7XVOBTvL4mZbgM4ZvRoVIcvioz_6QgJ-Q4Qklv6GQQMPcHYqcHxtY="
+  },
+  {
+   "label": "Paramount-Warner Bros. Merger Closes, Forming New Media Company Skydance - Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0-owf1UtXL99tPxKFibD0JnJ_FTJLIKq4_RpVg1eKJHXEryk2P9YDsAjXIeOYbqly04DP4G_mR_OHrbfCz_rENDjo_RijVSi1KzFVU1SF6_hszlL0xXgoSLHEPz2pt5gg0mqzKT-_aH82e_fNE8UqHR50U3WwOlToVvIzJsbhJroymCzwZwgz_gLkIT-RuaGJJgvEqOgYrYhVoaAgNKfIOe4NyOSQ0t-HyrsJy_eD2IkuLN_Cdz5uzGBqLZfSe1cylVVI3c5wrlZWJQ8jFQ=="
+  },
+  {
+   "label": "Snapchat Creator Monetization: 5 Real Income Streams - SearchLight Social",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOJneNVdO75jI5d3qMG1_Tn7Ie1zxNdzP364L20547MwJFUv-4nX4onhblPgPmWVM48hdM61zIpLmwPfTEEpDL_e6ZFUizDfDzA5RWX2mYaV3e_fYDUub19Iimef7paTzcSLPJPTikNN0SwxAqtWzqsFLzYu5FOA=="
+  },
+  {
+   "label": "Paramount closes $110B deal with Warner Bros. Discovery after months of wrangling",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbAxk_1g7GDMgF_OWgMwf2hWO4qqLxfo8L-fJk_7oq-XIMhhO8Tn9KuBMtAwqeuZ__PjzIzX82HLc6aysghPh5w0hdBkN6Re4Au-hRtjJfUhpE2cf3EAF0JpcN3RnIQR4ggLFCB_8cw7LjidMGjBfouDzoS0fMHt3YZcsaG0865i-vwMxtcYMdbUM00Yev5jjYQUW4tH_VwMwKxNfQyx4xXf8fRK5g6sFHNWBUxewjFWS0pozP2Pmw2ZHWrw=="
+  },
+  {
+   "label": "Meta agrees to make changes, pay up to $18B US over social media harms to children",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiAkJLdKEcjJnUZmM1cYF-U8FIY0XLjro9w9xoTR68Zo-i0JgdeOs6JCgLdfyrDtFUgcARNKyT8nh0nzmEg24aDC3llJeJAnL8AvoE6kLB4_BWXQie1gP71_gowGdrNcbX_bqI-nhyIPjnfKbMTku4Tb-0c67nCdB7wBSQ5CcOA2YTtmhKV0Fv"
+  },
+  {
+   "label": "Facebook Monetization Payout Update 2026 | Latest News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhnffQu9nwRWSLX9oNw5Je-8xwPNMwrPnCpMR2-mr92nW_e7COdnOOp6ImGzSCzGWEu7_rS2vxgvz-3NkA_Ps5vANo02geOYeCeUqdl2Y-C7BWQ3oaR6gKb_JZgS0-0PULCneHVN3Loo-w9ta8qvzz-I5MVUkVki2dzoIeHO-TUTSiDD5FcNAn6TtV6DjL7MGT4wOwq9L0-EO10Zs5KCYdDwjvb1iKVeLIo5iW472aIZHzZA=="
+  },
+  {
+   "label": "Meta settles landmark child privacy case for up to $18B | ESG Dive",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DnS4kAHfii1S6qs3DSWN4oSzt50u5b687ITrAmmkxzq2-8BnMMWrZ4mKIf04QIOnbCp7D7UtgcFj7aGEujev2S6gICp4_pvYSQyi3YXRmuDBSbncMGb0hEQYzRSugb7tav7FyOe-81J9VsBuOTMuy1Ap1hcLF8Cif94faN8yXf8wz_d4-RBON1ZcOz75ODRxstQKT60="
+  },
+  {
+   "label": "YouTube Makes Monetization Harder – New Partner Program Rules Explained - CineD",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0OLC1-wLsjZL9QhnOPJBd-ZdzwjzigVuoon3jGWByzXh3V8lEHOFQtyGdYT-AFROHYOrE95tLoo2PiXjAaLSIDTdNvenD9HByquD31THdKTP0k1ls4gK5RvQ11cAhBxqazTnragG-2m5YD8s8314LVc_lxq4oNzMmY6Cs9NSQNiUaD4JS0iMCNXAVxluEAl4qPzkb1Co4"
+  },
+  {
+   "label": "Snapchat Spotlight Creator Earnings",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz5MMSRU6aJgx8ah7kOs-iiQ2LVFRFtN-u_YeP9KnCQLkXbcoLcZhnSnigSaRHayLOBZQDsVStjBCSvJ9-ZeRsUNjS_tp-7ra8C0Q7z0ABJ5wY1SmYM_5uCC0bQYgbZVCtAbBnsK7MTRp7FiaiviMuiF34G5dDHFHAp3G5mucMaRNGQUDjLMU="
+  },
+  {
+   "label": "About Snapchat's Monetization Program",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9UoAtQodQsfeyzuEFffiXdg_xYwQamrp3EuJ77ldDUSiQH-QYQFXLp0GYfF_ns5XwTDuizciAp1mFieg_OpSeDQPxbxurM5yrWLUrrkpNpJ1Vw1K9xg91-8Qz9PrPDtO0FIKPJZdAgGP5Macxp0mH6ggqJ6CoODivXZWq96gfBIHvNBcxbUMcPYO81ismy_TXdFfoqLmM3D0e-g=="
+  },
+  {
+   "label": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb_bVgstkxjn_nBTL2ZFfoQftn_ZWTqlP2acMoZPXizS0n7Q8hrhNJ49O32AvyLEKUH5MEy8BgKuDwx0p90yLmJou0Ac56livtsXxXeyKn2sfjJp4GHM4PkN2wwkzQoTL6k0nh2OBnzDanq2LQ_4cW-eyIGAUkRTgTDrBFZp0e8bTwHMOjxQ=="
+  },
+  {
+   "label": "Skydance forms as Paramount completes Warner Bros. deal - StreamTV Insider",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy71bcTAjmjJ4Mu2EY-Pf7QGNF0Dywv1UHrlN7SotE67qPbxckNgg-GofRdG4eXiPGx8Wd6TsihVfvA89nQiCDsg-uJfWxGHTogL4R_dukmR9iCRdMWNP9hp_z_3bc5k1mmjC013J2oWMWEOCGZyG1FcGok3hvVvXhm98Q_X6VGLSmIRAosvwuUKvldcML1SOj4ijY5Wg=="
+  },
+  {
+   "label": "Meta's landmark settlement in its child safety trial will precipitate the most significant change to its social media platforms for teen users ever. CNBC's Julia Boorstin explains. Read more - Facebook",
+   "url": "https://www.facebook.com/CNBC/videos/metas-landmark-settlement-in-its-child-safety-trial-will-precipitate-the-most-s/2196662700720498/"
+  },
+  {
+   "label": "MGM stock hits 52-week low at 29.16 USD - Investing.com South Africa",
+   "url": "https://www.investing.com/news/stock-market-news/mgm-stock-hits-52week-low-at-2916-usd-432SI-3945934"
+  },
+  {
+   "label": "YouTube Algorithm Changes 2026: Every Update - AITuber",
+   "url": "https://aituber.com/youtube-algorithm-changes-2026/"
+  },
+  {
+   "label": "Versant and Verizon have come to terms on a renewal of the companies' distribution agreement, a move that means the media company, in its first year since being spun off from Comcast, has renewed all - Instagram",
+   "url": "https://www.instagram.com/p/DAA0o94x4_D/"
+  },
+  {
+   "label": "A $110 billion media merger is complete, bringing major studios, networks and streaming services under one corporate umbrella. Click Watch Live at the link in our bio for the latest live news and updates. - Instagram",
+   "url": "https://www.instagram.com/p/CyG6X1gO38T/"
+  },
+  {
+   "label": "VERSANT REACHES MULTI-YEAR DISTRIBUTION RENEWAL AGREEMENT WITH VERIZON",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjCsZ-oQZ7KaBFXV6QgOZ6OAniMDW4rkUHWBaRCWSZgH2JQTg-JRw6NHeYHPketqyjDoWNgUb3k-85tsUlwAg3WRJayS-wKcbBJ3B6x-FnP1OC0XnYhdYZAaPp1O-kkRlTicR6jDkA8NVonejv46BV42YTXm74upnFPdu2ctFz9ytEGfzNbfOClPx_2N8ZSISnnri7mdLyEZ7VsiWhoqbutGdgbLSVTpVsyV0v76x-iNY5rXeCiQ=="
+  },
+  {
+   "label": "Barry Diller Drops $18 Billion Bid For MGM Resorts—Stock Tumbles 10% - Forbes",
+   "url": "https://www.forbes.com/sites/alisondurkee/2026/09/24/barry-diller-drops-18-billion-bid-for-mgm-resorts-stock-tumbles-10/"
+  },
+  {
+   "label": "PARAMOUNT-WARNER DEAL SEALED: $110 BILLION MERGER CLOSED | 7 October, 2026 - Film Information",
+   "url": "https://filminformation.com/news/paramount-warner-deal-sealed-110-billion-merger-closed-7-october-2026/"
+  },
+  {
+   "label": "Companies will be required to label AI-generated content starting from August 2026 - Ecija",
+   "url": "https://ecija.com/en/news/companies-will-be-required-to-label-ai-generated-content-starting-from-august-2026/"
+  },
+  {
+   "label": "Meta content creator update rules October 2026 - Facebook",
+   "url": "https://www.facebook.com/groups/1010304676647464/posts/1020479102302688/"
+  },
+  {
+   "label": "$MGM MGM Resorts stock fell nearly 11% on September 24, 2026 — here's why the shares dropped so sharply. Barry Diller's People Inc. withdrew its takeover proposal for MGM Resorts International, erasing the acquisition premium investors had already priced in. The offer had been priced at forty-eight dollars and thirty cents per share, - Instagram",
+   "url": "https://www.instagram.com/p/C_1Q322x4_D/"
+  },
+  {
+   "label": "MGM Stock Falls After Diller Withdraws Buyout Offer - Bookmakers Review",
+   "url": "https://www.bookmakersreview.com/news/mgm-stock-falls-after-diller-withdraws-buyout-offer/"
+  },
+  {
+   "label": "YouTube Adds New Shorts Payout Rules To Partner Program Terms",
+   "url": "https://www.searchenginejournal.com/youtube-adds-new-shorts-payout-rules-to-partner-program-terms/461247/"
+  },
+  {
+   "label": "Social Media Monetization Requirements and API Rules 2026 - Blotato",
+   "url": "https://blotato.com/social-media-monetization-requirements-and-api-rules-2026/"
+  },
+  {
+   "label": "YouTube introduces new monetization requirements for Shorts - Mashable",
+   "url": "https://mashable.com/article/youtube-shorts-monetization-requirements-2027"
+  },
+  {
+   "label": "YouTube Shorts monetization and brand deals: what's actually there in 2026",
+   "url": "https://makeinfluence.com/youtube-shorts-monetization-brand-deals-2026/"
+  },
+  {
+   "label": "Latest Facebook policies for creators in 2026",
+   "url": "https://www.facebook.com/groups/1010304676647464/posts/1010304683314130/"
+  },
+  {
+   "label": "We're updating our terms, effective October 30, 2026 We're updating our Meta Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms, and Ad Creative Generative AI Terms. Create reel Create Edit - Facebook",
+   "url": "https://www.facebook.com/business/help/279093041926284"
+  },
+  {
+   "label": "AI Content Labels: Platform Rules for Advertisers 2026 - Digital Applied",
+   "url": "https://digitalapplied.com/ai-content-labels-platform-rules-for-advertisers-2026/"
+  },
+  {
+   "label": "Skydance Debuts As A Media Giant With Big Assets, Debts And Challenges - Forbes",
+   "url": "https://www.forbes.com/sites/davidbloom/2026/10/07/skydance-debuts-as-a-media-giant-with-big-assets-debts-and-challenges/"
+  },
+  {
+   "label": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/06/paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance"
+  },
+  {
+   "label": "Missing an AI Label? Understanding Your Options Under the EU AI Act",
+   "url": "https://www.jdsupra.com/legalnews/missing-an-ai-label-understanding-your-1473926/"
+  },
+  {
+   "label": "Curtis, Schatz, Warner Introduce Bipartisan Legislation to Provide Transparency on AI-Generated Content",
+   "url": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-schatz-warner-introduce-bipartisan-legislation-to-provide-transparency-on-ai-generated-content"
+  },
+  {
+   "label": "The EU AI Act targets AI use, not deception or real-world harm - Popular AI",
+   "url": "https://popular.ai/eu-ai-act-labeling-requirements-start-august-2-2026/"
+  },
+  {
+   "label": "Prime Big Deal Days is back October 6-7: Here's what to expect - Amazon News",
+   "url": "https://www.aboutamazon.com/news/retail-and-e-commerce/prime-big-deal-days-is-back-october-6-7-heres-what-to-expect"
+  }
+ ]
+}
