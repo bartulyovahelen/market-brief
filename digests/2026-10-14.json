@@ -1,0 +1,346 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним завершенням угоди зі злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створило нового медіагіганта Skydance. Провідні платформи, такі як YouTube, TikTok та Snapchat, продовжують посилювати вимоги до монетизації та фокусуватися на оригінальному контенті, тоді як регуляторний тиск зростає, зокрема щодо маркування AI-контенту в ЄС та безпеки дітей для Meta.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Вартість злиття Paramount-Warner Bros. Discovery, що створило Skydance."
+ },
+ "figures": [
+  {
+   "value": "$17.1-18 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$6 млрд",
+   "label": "Цільова синергія Skydance за 3 роки"
+  },
+  {
+   "value": "10 млн",
+   "label": "Переглядів YouTube Shorts для монетизації (поточна вимога)"
+  },
+  {
+   "value": "20 млн",
+   "label": "Переглядів YouTube Shorts для монетизації (вимога з 1 лютого 2027 року для нових учасників)"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що призвело до створення нового медіагіганта Skydance, є найважливішою подією. Ця угода знаменує значну консолідацію в традиційних медіа, об'єднуючи два великі кіностудії, глобальні стримінгові сервіси та телевізійні активи, включаючи CBS, HBO та CNN. Нова компанія прагне досягти щонайменше $6 млрд синергії протягом трьох років, але стикається зі скептицизмом Волл-стріт через високе боргове навантаження та історію невдалих медіа-злиттів, що відобразилося у початковому падінні акцій Skydance.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 4
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  },
+  {
+   "label": "Регуляції",
+   "n": 2
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Skydance (Paramount-Warner Bros. Discovery)",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery на $110 млрд, створення Skydance",
+   "why": "Створює нового медіагіганта, що вплине на конкурентний ландшафт та стратегії контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS3mJyZ3XRFkbxcG_prqMvbMIJhywYHfpvPcdavQMyyteBgKsbzXZVDJtN_4Vp4KNqsUMd4-Um50jOhkwvgVQG6C6XYlNDLSPO1JhXZmYXDZAUnIdN5ADUEyCrwb_8IszMtRLwPx5ush4Lgsg-D3r9MRL9Dg-O0rIgb0CG73twGoy160EOLHcvc4xCq-qTBjdXo8F1ZSo31NKvyTswSb7szheOLjeOaR_NZ2EncdzWegG0xWNYuESOgl2IyPztEE27yTtlcO7rTz-AOos="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Значно ускладнює вхід для нових творців та змінює стратегії монетизації коротких відео.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-fxcIvHKyK0Sc70ah-maqYVEIjxmvBXPAuRRtuVvwR80qMN5EwDwKloUqBRqrWJ6h20UbF2l4_Jsd4t3ZawJ68_8WrNJpxbClmLKkfblLDFkB9gsBiHV9IFNbu2upuVJ6028MGWTjcclbIWotqw="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "ЄС",
+   "title": "Набули чинності правила ЄС щодо прозорості та маркування AI-контенту",
+   "why": "Встановлює нові юридичні вимоги до прозорості для всіх, хто публікує AI-генерований відеоконтент.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLKqIvDJhN42Zot9tPi-la8scMF97o8L_kIJsGWezhBr1qMD4xs34Qs2sr71aL4ufmfaXLVnBR_s8rdjfoOvyv5rJBuI-EnXTgQQT3H5ul9BkpjSVmANXDJP9RGbxo4MFK4vggcVy4bndoZo2KLGDVq9wp="
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на суму до $18 млрд та стикається з тиском Флориди",
+   "why": "Підкреслює зростаючий регуляторний тиск на платформи щодо безпеки користувачів та вплине на політику контенту.",
+   "url": "Контекст від користувача"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok Creator Rewards Program оновлено з фокусом на оригінальний контент довше 1 хвилини",
+   "why": "Стимулює створення довшого та якіснішого контенту, змінюючи стратегії творців для отримання винагороди.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYYvAs5hzboTP0fZh2Oy-p17iDAa1G8lAE_0dZ4YY1SXjscFeLCc7BSftT68aVlfaIGmT8R3He0uiAUJAhHhlDS86oE9hLEcZBMteWiDpUECLNz8_KSU_Ctm49L-Iyps96PMpQ9QY8-50E-kD4kJf9EwQfenOBy-cs7cQlWt81nRgk="
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та консолідує можливості заробітку для творців на платформі, але зі строгими вимогами.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZa1Cl-7w9ABsOyMlwKMuka8dQ0EHiV3j4_EJLJ1HixSHojxMdDvtnE887mvaKUBauIzu-OW5huv9qreMB9tEzhv1_jgnxGwZ2sGE1PQo8XSMOWvPQ4b0dS1oDumUt63UJuzx7d9Ttg_BlFupaj4yUn-Ut2AJvGK5NkFnhh5ms="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video використовує AI для зниження витрат та розширення творчих можливостей",
+   "why": "Демонструє стратегію використання AI для оптимізації виробництва контенту та підтримки різноманітності.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWBjE8--GlUzfcNec7Ni5KJWHtP6vscMkBIRXbqvocElimjfFP1_zhWuTxrnOrRYsxzjgA8JSBrCAiyH4ztojdrwKh5CM6Qo5_Io716nz1gUcjsHvbOL029CZ8l4cSjQXBnhs3t6HTg8PMCFfaextbHfnOyIfedehiAR5QgAdcVfby5NsDEf9PtY4OmRSy8yq7p6gs2F_Yqd__MdTVHAa40FlX3LTJ"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Premiere Digital",
+   "title": "Premiere Digital придбала Vubiquity у Amdocs",
+   "why": "Посилює позиції Premiere Digital як глобального лідера дистрибуції контенту, інтегруючи ланцюжок поставок та ліцензування.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcfseMh9kWfO6U5t-h7y1oDaziIaUqd7k2sVBqnfNGrGnPv0Oshc23y_XqMsfXo_7nr7dxv7DYa3nYpke7q6brqTKYIs140HD1RKG1bgzw_4Ss3sxiXAxfrfpsdZn3wQr3y-Fr1zC5g8LJRaR7xitk0NQpxohpDAqEJ3ZrDDAjTPUDPB_EOigLdej4y8qTOFGbs7Lze_O0uWweZiKMJYt7oo5yxA=="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "In The Black Media",
+   "title": "Завершився Black Media Summit, що обговорював доступ до рекламного ринку",
+   "why": "Підкреслює важливість та виклики для різноманітних медіа у доступі до рекламних бюджетів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUa2OlCDp9oiXZYjzSExnynlPRWFETJSyUUDnv1SQ6DKDl2VMMhHOWre2bZsHlUGCVZCxT_xlUkX9c5ILSZ2JWWinBw3RH6YMbw5K43d2U0omnRKjSRiRuFCIp-IGl1oomnT3r6e9A9gFNjH0SawcbViCKXhBax8QESqs1gC3es-LN"
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "Алгоритм YouTube Shorts надає пріоритет низькому показнику відмов та високому часу перегляду",
+   "why": "Визначає ключові метрики для успішного поширення коротких відео на YouTube.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rEYwI_pDvkfnsPitdzd76Lrfeh-2RngUCSN4kKnnb3QPF7e9Rym1j8FHtucwXD4fJeiZN5jPhCuSHBbxB6f0n_9qRJiTOrbA6TsffER3a1Z1c3iN5ZJUwQOIWCADLg5yjQZK1LeSgj7"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video розширює контентну пропозицію в жовтні 2026 року",
+   "why": "Посилює конкуренцію на стримінговому ринку, пропонуючи нові серіали, фільми та спортивні трансляції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtDwOAbfqmpAUT9GpqSQPdySiLaK8yN0O6qWLS112qylBu_x3EXU8urL0cnH-e5csPjxLW-h6KdhxcFsz9J8zT6mib6GMSReugakuJpVgfSSmuIlJHNeuSluQgbpRugtoCvAqvqwSuR0UV8JGoEEScVFEawEz_K3kPFjkovmFiMx3zFVfTBUQXSSo1aUtiKMHKASWrMA="
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube інтегрує AI-інструменти для створення контенту в камеру Shorts",
+   "why": "Спрощує процес створення якісного контенту для творців, потенційно збільшуючи обсяги та якість Shorts.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rEYwI_pDvkfnsPitdzd76Lrfeh-2RngUCSN4kKnnb3QPF7e9Rym1j8FHtucwXD4fJeiZN5jPhCuSHBbxB6f0n_9qRJiTOrbA6TsffER3a1Z1c3iN5ZJUwQOIWCADLg5yjQZK1LeSgj7"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Cineverse",
+   "title": "Cineverse придбала платформу монетизації CTV IndiCue за $22 млн",
+   "why": "Приклад придбання технологій дистрибуції контенту замість бібліотек, що відображає тренди ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE71OGUfXXop2_EXNDWGU5X8z-lfyDyeBqoVRDheNLMcNNClkr-vpPJm2YYWcmuxCh1HHtIEnq9z_-iKsIrwVKE78o4FDtjdhXj1llH4_9Q6eo5J8D2vp0y59p0kn7uqLRBi9IFAnxO2s59ecP-AzITfFyY06FRfqA6v8Ut"
+  },
+  {
+   "importance": "low",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Motion Society",
+   "title": "Motion Society призначила нового керуючого директора в США",
+   "why": "Показує зростання та розширення компаній, що надають послуги творцям та IP-власникам.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT5iwIcSHWlGEFf9BHQnWDbOInIQlDAnTOWOig6eyRVDKBf17BDRUOCfrFF3sdOD8oJxlSoD5OrLe6IFRRmdI8UGNoE4PMQVe-VIJ1vVcrfGuXcQcLYAPQLwy5wE-q242omrI="
+  }
+ ],
+ "trends": [
+  "Консолідація традиційних медіа-активів для створення більших гравців на ринку.",
+  "Посилення вимог до монетизації та фокус на оригінальному, якісному контенті на провідних відеоплатформах.",
+  "Зростаюча інтеграція AI-рішень у виробництво та дистрибуцію відеоконтенту.",
+  "Посилення регуляторного тиску на платформи, особливо щодо прозорості AI-контенту та безпеки користувачів.",
+  "Стратегічні придбання технологій для дистрибуції та монетизації контенту."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Завершення мега-злиття Paramount-WBD (Skydance), посилення монетизаційних вимог на YouTube та Snapchat, регуляторний тиск на Meta, набуття чинності законів ЄС про маркування AI-контенту."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok оновив програму Creator Rewards з фокусом на оригінальний контент довше 1 хвилини. Без помітних рухів щодо Bilibili за останні 7 днів."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, ключовою зміною є остаточне завершення угоди зі злиття Paramount-Warner Bros. Discovery, що офіційно створило медіагіганта Skydance. Також відбулося подальше уточнення деталей щодо посилення вимог до монетизації на YouTube (з подвоєнням порогів для нових учасників з 2027 року) та TikTok. Набули чинності закони ЄС щодо маркування AI-контенту, що створює нові вимоги до прозорості.",
+ "bizdev": [
+  "Розробка та інвестиції в оригінальний контент, що відповідає новим, посиленим вимогам платформ для монетизації.",
+  "Адаптація контентних стратегій та виробничих процесів до інтеграції AI, з урахуванням нових регуляторних вимог щодо маркування AI-контенту в ЄС.",
+  "Пошук можливостей для партнерства з новими медіагігантами (наприклад, Skydance) та спеціалізованими дистриб'юторами (наприклад, Premiere Digital) для розширення охоплення.",
+  "Оптимізація контенту для коротких відеоформатів (Shorts, Reels, Spotlight) з урахуванням оновлених алгоритмів та монетизаційних моделей.",
+  "Інвестиції в інструменти та експертизу для забезпечення відповідності регуляторним нормам, зокрема щодо безпеки дітей та прозорості контенту."
+ ],
+ "watch_next": [
+  "Подальші кроки Skydance щодо інтеграції активів, досягнення заявлених синергій та реакція ринку на їхню стратегію.",
+  "Вплив нових, подвоєних порогів монетизації YouTube Shorts на доходи та стратегії творців, особливо після 1 лютого 2027 року.",
+  "Розвиток регуляторного ландшафту щодо AI-контенту та його практичне застосування в різних регіонах.",
+  "Діяльність Bilibili щодо монетизації творців та експансії за кордон, оскільки за останні 7 днів не було помітних новин.",
+  "Подальші дії Meta щодо врегулювання позовів про безпеку дітей та можливі зміни в політиці платформи."
+ ],
+ "sources": [
+  {
+   "label": "SKYD Stock Slides As New Skydance Media Giant Debuts - StocksToTrade",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzGp1CXDIsvCyj03ZJ5_9uTjj-WyJttj3MP4dDpAedMK7tWGyc1dKdGC8Jk5gFIk28tnTNo-s1Ix_sFEF_6V8p_-rhgVk98jFUz3ELIZNmIp34doONuUR_gHc6K_yuaM_xIYOjLn_bEGEruW8APdkcsdFtdHYcJhL78fjbDeNlODPPVELPpzwmvJvRAtKB"
+  },
+  {
+   "label": "Can Skydance Break the Media M&A Curse? - TheWrap",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOq_51gEus5VsgJ756rPhFUQ3QdANDmMeMOpChAUYSS7YgKYhXA5FBgbppnPLYBs_oJL2nqbXG5UGHUUTdk1ou3kA_rZX0MsVb6UJLw91CB-7ROuo65WghggU6lSJ6tcBbjJKSzCUr9oYrxkRIIvIMCjp9RCwnwt5S8_VU86bX0WFJsqWvbMeYLC-Z_DUk70oT4ziInTN_2"
+  },
+  {
+   "label": "Prime Video Says AI Helps Creativity. Here's the Streamer's Plan. - Movieguide",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWBjE8--GlUzfcNec7Ni5KJWHtP6vscMkBIRXbqvocElimjfFP1_zhWuTxrnOrRYsxzjgA8JSBrCAiyH4ztojdrwKh5CM6Qo5_Io716nz1gUcjsHvbOL029CZ8l4cSjQXBnhs3t6HTg8PMCFfaextbHfnOyIfedehiAR5QgAdcVfby5NsDEf9PtY4OmRSy8yq7p6gs2F_Yqd__MdTVHAa40FlX3LTJ"
+  },
+  {
+   "label": "How Shorts Monetization Actually Works in 2026 (10M Views Explained) - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7yHZDf0FDSlNo1L-Y_3iyoGN-fMVVOhdxbmYqVfYfZS4haiz3S-zH78vaw2wYicg1225ENsQVwLOB6J6A6YA-zrss_1qzqLXCYd21ekZNcu-AXQEoGcdJYnPJTCq-WFLOBBf_IRQ="
+  },
+  {
+   "label": "Paramount Completes Acquisition of Warner Bros. Discovery, Creating a New Global Entertainment Leader, Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS3mJyZ3XRFkbxcG_prqMvbMIJhywYHfpvPcdavQMyyteBgKsbzXZVDJtN_4Vp4KNqsUMd4-Um50jOhkwvgVQG6C6XYlNDLSPO1JhXZmYXDZAUnIdN5ADUEyCrwb_8IszMtRLwPx5ush4Lgsg-D3r9MRL9Dg-O0rIgb0CG73twGoy160EOLHcvc4xCq-qTBjdXo8F1ZSo31NKvyTswSb7szheOLjeOaR_NZ2EncdzWegG0xWNYuESOgl2IyPztEE27yTtlcO7rTz-AOos="
+  },
+  {
+   "label": "TikTok's Creator Fund: Replacement and Payout Rules",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYYvAs5hzboTP0fZh2Oy-p17iDAa1G8lAE_0dZ4YY1SXjscFeLCc7BSftT68aVlfaIGmT8R3He0uiAUJAhHhlDS86oE9hLEcZBMteWiDpUECLNz8_KSU_Ctm49L-Iyps96PMpQ9QY8-50E-kD4kJf9EwQfenOBy-cs7cQlWt81nRgk="
+  },
+  {
+   "label": "Skydance Corporation Announces Expiration, Pricing Terms, and Settlement of Exchange Offers and Tender Offers",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZQ-luYOA31VJnrhrD0IGTsRx0SypMwQPdusj6OgmCe1UHVMgtOAP3Ealpr6f3iPkWxMKSXPCemEJesGdfJ5yZ96u2gelAgDwHl8D0KpiAH52eh2XnyxrSggscYhoWhaZDC3dNN--v4z0clhQmq9L4MXnfJMRmWBDLopvtVVCTfwUtcM_sV0-CopvS94PuD6nALSNtOBuph4YuZ9Ej2hgX4NfMx5Zqe3J6uspWogLWPp3mHpt2YE7O6FSQzqAHCU49FpisOnvFX2AZ0Q=="
+  },
+  {
+   "label": "Black Media Summit Concluded in Washington | Wisevoter",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUa2OlCDp9oiXZYjzSExnynlPRWFETJSyUUDnv1SQ6DKDl2VMMhHOWre2bZsHlUGCVZCxT_xlUkX9c5ILSZ2JWWinBw3RH6YMbw5K43d2U0omnRKjSRiRuFCIp-IGl1oomnT3r6e9A9gFNjH0SawcbViCKXhBax8QESqs1gC3es-LN"
+  },
+  {
+   "label": "TikTok Creator Fund vs Brand Deals: Which Pays More in 2026?",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEXIgTrglRackQG5FQWWktopH97mC3tzfXk47M_YouYwDq5f4aHq6e6WQW-puwipusEOWxwf2K38e1yKu1fdxXc_7e9vWOOpAzvIFBXiBO_1iw8W0N8CJeNN_iZ3iPeNHBveqdnO5clEJVS9WjSi-uCV4BV4GsM3GMg-w9Ig=="
+  },
+  {
+   "label": "David Ellison denies he has 'politicized' Skydance despite close Trump links - The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9nMNImtITs0hyEv-2OXalgvftRYwUH4dLnIPxpc-4LA4G8RYnYnT-nHKHGgPOeXY8MXpP2k2wmvML68mIWrzHgAJ8Z0I2ymQ_pFDI2M1BaOEaZWq3eV48P0jJAOp3omICitwiO-hWlPPI418NmOcfbuw9GG750Atoosh0LunwOiNC3jDF"
+  },
+  {
+   "label": "Premiere Digital buys Amdocs' Vubiquity to build global distribution leader | Dealroom News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcfseMh9kWfO6U5t-h7y1oDaziIaUqd7k2sVBqnfNGrGnPv0Oshc23y_XqMsfXo_7nr7dxv7DYa3nYpke7q6brqTKYIs140HD1RKG1bgzw_4Ss3sxiXAxfrfpsdZn3wQr3y-Fr1zC5g8LJRaR7xitk0NQpxohpDAqEJ3ZrDDAjTPUDPB_EOigLdej4y8qTOFGbs7Lze_O0uWweZiKMJYt7oo5yxA=="
+  },
+  {
+   "label": "Snapchat Spotlight Earnings: Views, RPM & Monetization - FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZa1Cl-7w9ABsOyMlwKMuka8dQ0EHiV3j4_EJLJ1HixSHojxMdDvtnE887mvaKUBauIzu-OW5huv9qreMB9tEzhv1_jgnxGwZ2sGE1PQo8XSMOWvPQ4b0dS1oDumUt63UJuzx7d9Ttg_BlFupaj4yUn-Ut2AJvGK5NkFnhh5ms"
+  },
+  {
+   "label": "YouTube Shorts Monetization Requirements 2026 [Official] - InfluenceFlow",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfXfmeHej5aLBg99ew_QOI5DwcBJlgky0KBewDajwD8pAwSZRvSbD13kajLKHzbq8zwnE-I7VkpU1cyHG1teDZWfwZlwCbLET3kCvXYW03ir93zMm5Su8isM6iJ9P3ZLqJkdhecic9sxxONscVty8d2ZzfZuI54zOoeA3ioMvC2oxh4qhZjP-SwhLryC6d4sv57QyQ-nX4Vtrxv9qp"
+  },
+  {
+   "label": "EU AI Act: Do You Have to Label AI Content? (2026) - SammaPix",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLKqIvDJhN42Zot9tPi-la8scMF97o8L_kIJsGWezhBr1qMD4xs34Qs2sr71aL4ufmfaXLVnBR_s8rdjfoOvyv5rJBuI-EnXTgQQT3H5ul9BkpjSVmANXDJP9RGbxo4MFK4vggcVy4bndoZo2KLGDVq9wp="
+  },
+  {
+   "label": "News | VideoElephant",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW_65OKUGCn_v-xfibwKaMTHmHeUvn7ef3Qo2GPrHMyXOlCYLBLMAmhr0y5Zo2GOwD76142PHvkr_5bcGAgCIA_IpLhCrTi3fJk2fB6VP5Et7FAmNf1KwZ9dbVbDGm4iCr"
+  },
+  {
+   "label": "Entertainment Company Merger Trends To Watch In 2026 - Vitrina AI",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE71OGUfXXop2_EXNDWGU5X8z-lfyDyeBqoVRDheNLMcNNClkr-vpPJm2YYWcmuxCh1HHtIEnq9z_-iKsIrwVKE78o4FDtjdhXj1llH4_9Q6eo5J8D2vp0y59p0kn7uqLRBi9IFAnxO2s59ecP-AzITfFyY06FRfqA6v8Ut"
+  },
+  {
+   "label": "Snapchat Monetization 2026: Eligibility & Payouts - Kompozy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn42f4maqnZhD3FjYSllzslrfA32SChnfs8JRqNmZQOJKi6jNsJixnJm9cxvMcKiSC1FloZRJeZ6wzlcZtPwsS2c4kDmj7vQ7LL5QjIJTBThVjVuiLhoZzCp-54Sw_LoA3eWXav0DIMYrAsb5qvZC51GwhA19qxQ=="
+  },
+  {
+   "label": "What's new on Prime Video in October 2026, including 'Carrie,' 'The Terminal List,' and NBA games - Amazon News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtDwOAbfqmpAUT9GpqSQPdySiLaK8yN0O6qWLS112qylBu_x3EXU8urL0cnH-e5csPjxLW-h6KdhxcFsz9J8zT6mib6GMSReugakuJpVgfSSmuIlJHNeuSluQgbpRugtoCvAqvqwSuR0UV8JGoEEScVFEawEz_K3kPFjkovmFiMx3zFVfTBUQXSSo1aUtiKMHKASWrMA=="
+  },
+  {
+   "label": "Some news! Excited to announce that I've joined Motion Society as Managing Director, U.S. During my time at Spotify, they were the #1 creator service provider distributing YouTube content to us with over 350+ shows now live. Yet, with that high volume they still made time to send us amazing case studies and - Instagram",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT5iwIcSHWlGEFf9BHQnWDbOInIQlDAnTOWOig6eyRVDKBf17BDRUOCfrFF3sdOD8oJxlSoD5OrLe6IFRRmdI8UGNoE4PMQVe-VIJ1vVcrfGuXcQcLYAPQLwy5wE-q242omrI="
+  },
+  {
+   "label": "YouTube Shorts Algorithm 2026 — How It Works + Hacks - Vexub",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rEYwI_pDvkfnsPitdzd76Lrfeh-2RngUCSN4kKnnb3QPF7e9Rym1j8FHtucwXD4fJeiZN5jPhCuSHBbxB6f0n_9qRJiTOrbA6TsffER3a1Z1c3iN5ZJUwQOIWCADLg5yjQZK1LeSgj7"
+  },
+  {
+   "label": "YouTube Shorts monetization and brand deals: what's actually there in 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv-eoyG9wOtl35v_fRNjelAJsjH9KMEioex5ua3ycau-7oEQW3m94pa5lY_J5urORBgiuXDQaV8LybESpmAKorf213I0ysGaL9AzmnqzaXpfv6-YnDN4K_TTkG2XQTodk0CdW385XEPa6CCQE7C2m4t_5QiWBXyhDDJDnJ0K1orSBb2x20-LckCJJkiWiVUUjQNPoNtVQDIDVkX38PUv4-aHPWZXld9-9pqLgB"
+  },
+  {
+   "label": "EU Icons for labelling AI-generated content | Shaping Europe's digital future",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfP8jql-R0bZ9CJz-mNKC2qz_llq4Mf84IYR4rvOUpB5MnYRvlKZV0QeNac7UAEZH_er3jLOYTIAgJccCyym7pZuS9wCTXuRt6FN87cdvglMxnyGbIvjb8eMbg_I8xf97UmGN-17BNPVuAKtMTWu1EExgtAVlD8IXGi4LM-MkjXIrPlA5tztWvovTDkiCIenIHagg5"
+  },
+  {
+   "label": "New to Prime Video in October 2026 - Amazon MGM Studios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3UMXWlFVukxBFi5QCxyZ2uEia7e10MODEqPAunHbFoqj3H-81HdUSMQv_yp2UYIQUrLoN6tBsrJT1iZR3GDvvvf2YRwGcQIVn26rq4PLUPQqL6NDbSI5_9f9eGK6JdVgfw4dMZoUyuSns_g=="
+  },
+  {
+   "label": "AI labeling 2026: How the EU AI Act will affect businesses - Bombayworks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzMS8PIKmlIpH6wNEJ70uPoFTIsvkv18dTIA-l2c9ELW43LxDhBlfnDIYIc3K06LX12sHHQwNLEqL78WMSauDDOpZBxsid32Oa0wjnO1s_mi0pTuoTh0tc9X9pWUSrPO7TKK_Ry23O"
+  },
+  {
+   "label": "How TikTok's Creator Fund 2026 works - ARQ",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhq6vAlJ8a5z_eOGR0lKNJh_GfcNHHyMFfHIKf4Ngl9LMNON39PCisDJrYPRRu4HzpOGjzEnqIERk3iq_VMZQWUT-WSRsEQo1NxNSlslIDDOpknj3X1pC2jmu3CXaSUOHGTkuFuKwVzZaPtv7GflQRScwF7cWNuivJI8GNcyzKcnmhBkTbS0Mj4T9BikpA1tdCngEBoPiP9Pf7fnd0"
+  },
+  {
+   "label": "Snapchat Spotlight 2026: Creator Monetization + Disclosure - AuditSocials",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHlCexzDWR2lo4qEVfWgvTC35PKvGhTjuiEUBoqjoDnGeTul1aBCbYSrhCAq8BXvM50UVvCuDPCSMkJoWZwfnjLBbbse9tPPDiksbhpiInMowc-5XgI1tNpIJBtiy8jI6meaTwBtoxtAtE8WC8uw480WRxmUzBsaedEdziqSyRERZDQbcdQhUMFb3bSx3AAUKAUTM9BDY-86Eo-Q=="
+  },
+  {
+   "label": "Everything Coming to Amazon Prime Video in October 2026 - IGN",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJTf_vUMBRaHldMP_fZI60g4lxE0gPpnZHzBkIMWXaj4BEliEj0t82j8FYDvOnnURkgfclEuGpBke59Nylw4fdUtxNmjROMAywhGALZ6KW7wlh3iDpF74UcJm71HBysai0VD-QwrSTL9x1iwTwe5juV9fSRusYeMoBMQrq9A=="
+  },
+  {
+   "label": "Snapchat Monetization in 2026: Followers, View-Time Requirements, and Payouts",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGca8xfeZ5ZX0M_440IwiZSoOptzN97XCitqD7rH1MfTTqT4F74m8nJ71S2exzKkizMAMeouZwV7M9CMpvWia0NRjj6tL9mczHDBzm_CikqY9i1z3mjli0LiFUaFe825VIg_Fs0Zxr09tH2k6OG4VwUnFzRM94a3ChVxrFqR84qNPM="
+  },
+  {
+   "label": "TikTok Creator Fund 2026 - FluxNote",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9KRaG94V6OFa0ZY3hSurIKj-90fI-ase3FBt5Fersg4Kkcl6uLdlCt_snDS6CFCDjU7oWOHrN6BlQrtd97-Y79qEGGLBHFHk49JYBUE7ulBa77S0FCnMvlRpN9gnqKv5sQeu4C1JnQNi2KLaEyezdpyZGqrEoyQ=="
+  },
+  {
+   "label": "Snapchat Creator Stories Monetization",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEYltlepZXtKClh6ISoXHOeBf5X_ZGSPNo8wZXbOUUNWx6SY9CC8Ao4BBvzldWokpU0O2k89XjsYzqwELZouPiWswN8mOqtqTOJQc0HGfYvVNqs00qVcUjoeJ_TLUxWHCg2SN1zVsV0riJlDpD9KRiteXO-Fai-Fe-YPTsYDtavrbhgnvdLZshtX4_JN8="
+  },
+  {
+   "label": "YouTube Shorts monetization just changed: 2027 payout overhaul for creators & brands",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-fxcIvHKyK0Sc70ah-maqYVEIjxmvBXPAuRRtuVvwR80qMN5EwDwKloUqBRqrWJ6h20UbF2l4_Jsd4t3ZawJ68_8WrNJpxbClmLKkfblLDFkB9gsBiHV9IFNbu2upuVJ6028MGWTjcclbIWotqw="
+  },
+  {
+   "label": "EU Finalises Transparency Rules for AI-Generated Content - Paul, Weiss",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOCnCP2zDRWfm0-lWsjHeI81czNWXmFVpMoiE0cBeVI3dpfZlshRqS-3dKhcJQouG0cFkb0aXmw8FR7rhEIB5A7PNEpVjq9KlJ5jSEjcaKuPcEFf9DvPX2_5aJtaHtW-kzEfYgya13lm-f6aVcILeSaakw-EtbKANNPZ2E7cY4FL0PG9xBbxRij10uSiV3KXTQ4UKs_0zt-OXOUAacqg-97Vbb"
+  }
+ ]
+}
