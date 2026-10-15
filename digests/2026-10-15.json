@@ -1,0 +1,223 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився остаточним завершенням угоди зі злиття Paramount-Warner Bros. Discovery на суму $110 млрд, що створило нового медіагіганта Skydance. Провідні платформи, такі як YouTube, TikTok, Meta та Snapchat, посилили вимоги до монетизації та фокусуються на оригінальному контенті. Регуляторний тиск зростає, зокрема щодо маркування AI-контенту в ЄС та безпеки дітей для Meta.",
+ "key_figure": {
+  "value": "$110 млрд",
+  "context": "Сума угоди зі злиття Paramount-Warner Bros. Discovery, що призвела до створення медіагіганта Skydance."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "20 млн",
+   "label": "Новий поріг переглядів Shorts для монетизації на YouTube з 2027 року"
+  },
+  {
+   "value": "8 тис. годин",
+   "label": "Новий поріг годин перегляду для монетизації на YouTube з 2027 року"
+  },
+  {
+   "value": "$62 млрд",
+   "label": "Прогнозований обсяг ринку медіа та розваг Латинської Америки у 2026 році"
+  }
+ ],
+ "top_signal_deep": "Meta врегулювала масштабний позов щодо безпеки дітей на суму до $18 млрд, що є значним кроком у відповідь на зростаючий регуляторний тиск. Однак, штат Флорида відмовився приєднатися до загальнонаціонального врегулювання, продовжуючи власну справу та домагаючись судової заборони, яка вимагає від Meta більш суворих обмежень для неповнолітніх користувачів. Це підкреслює постійну напругу між технологічними гігантами та урядами щодо відповідальності за вплив платформ на молодь, і може призвести до подальших змін у політиці Meta щодо контенту та функціоналу для дітей та підлітків.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Skydance (Paramount, Warner Bros. Discovery)",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance",
+   "why": "Створює нового медіагіганта на суму $110 млрд, що вплине на конкурентний ландшафт відеодистрибуції.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Значно ускладнює вхід для нових творців у програму монетизації Shorts, впливаючи на стратегії контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ewtKybN-7D-McFULvv0f_G-gIeGUHlpC3qrDBanpMRn-z5sn6vfaplv9Gmpwqa7OrPNpSPCiBpXFU_aXTbsWc6Uwa63uRbnLKyxZNvfecq5LJ8wS-f_RaU9Z0VndudZc1O-bf4TUl9VB4mLsrwaZnZPZYtJzymk="
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program з фокусом на оригінальний контент довше 1 хвилини",
+   "why": "Стимулює створення довшого та оригінального контенту, змінюючи стратегії творців та потенційно збільшуючи доходи.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та консолідує можливості заробітку для творців на платформі, потенційно збільшуючи залученість.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta / Facebook",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту",
+   "why": "Спрощує монетизацію для творців, але вимагає оригінальності, впливаючи на стратегії контенту та якість.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5v5tiHDOleqBtm7BCHCTxFlmnSUiEyyX95iHnTQqgrZbNHz82-hFUPf_jKBNXc4P5UhpP8qT8bNIILVBNRD8peEvcXosWozhYLutLHXOu2ZlA8433lSU8xXcKLhuGnUGZYvjQnLHYEC29WQaE3x73U1UkEspIjywx031cdC0Lsp24RwuBGLE4cJNbzc96fSSpq2fxHD5-zrieWJW6FL2LNlRXtdTU7mTRZ8pnPzfyR6Cae2-hDjrTtAJOw1u6YvJDxmLtm1xpKS9hcZ57"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "Global/EU",
+   "source": "European Commission / EU AI Act",
+   "title": "Набули чинності правила ЄС щодо прозорості та маркування AI-контенту",
+   "why": "Встановлює нові стандарти для використання та маркування AI-контенту, впливаючи на виробників та дистриб'юторів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-KS57nPtVHSug7QAwE3zJS9i_1SApiDu2btkflaLb3qY6cIVkaM5xy6yn_EPqgYbczYzjw-OXbuhowXIVRluAGNX5Dc6dNGu7WCFBcNDAk7GuzB56zYflZt8dh4buVgkBVGtb_0Jg3dZz5ROWMU-5zoVSp0xCyByaJMjDk4nR3yHk_PEgwJYgEKUURa4"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta / Florida Attorney General",
+   "title": "Meta врегулювала позов щодо безпеки дітей, але Флорида домагається суворіших обмежень",
+   "why": "Вказує на зростаючий регуляторний тиск на платформи щодо безпеки користувачів, особливо дітей, та потенційні зміни в дизайні продуктів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzgSkVjxeZ8Z2jeGVQ2zfalVusoa3OTNoEuVt5vwh2rG3qgH3SyCnlkTR749b3Wp5DgsgThD6uO0tMYl-XtddV-kT5JD8FeYJTxjUoKd1lKij_BL9di8coWGPpWooKVAd0kYI6N2BBBqtyOZvhzcGm4nSJMB1FdwDU3RUpkiEp9bh8Zq8tqKividXFD4B4C_eB7tm9JGbXOlLf9UiqPXsTWXsZJ68QXSnJ1v7KXEoFavvKL97njQTZ6H7_CmEEGmne_jMxxoGFG1k="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновив алгоритм Shorts, надаючи пріоритет оригінальному контенту",
+   "why": "Стимулює створення оригінального контенту та впливає на стратегії розповсюдження для творців Shorts.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk1sOl7SOD_qJfFQxw1FM-rk6syuSgoLXeS-sXM7KgMTKBy1tAup0BYlT1pqvmOKQ8YgdNr1LWCy35vTMTvNlGwZpTBiPOY7OgM4MjonAzjrnzzBbiRgV13PsJZ5hNi301u0WjC0I2RN1jSjtGcCAPVmJLkIRHvgOfRz5nabPk5aHQ1_K20iZu1_oj6jA5jA=="
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video отримав ексклюзивні глобальні права на трансляцію Emmy Awards з 2027 року",
+   "why": "Посилює позиції Amazon Prime Video на ринку преміального контенту та приваблює нову аудиторію.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Motion Society",
+   "title": "Motion Society призначив нового керуючого директора в США, розширюючи дистрибуцію контенту",
+   "why": "Вказує на зростання та розширення гравців у сфері дистрибуції контенту для творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsq7iLJaJRP7oOerFlEDvTrkkyuv1gllVZtYg-y_Oz9_c8avsgr4Yd5tjPcQReU_hRHuCX2lnKM01LkbRZC8ST6-OV-04JfDJWpyLfjlffp3KPfj-Zea4NmKHTKrhk6tsKfQ=="
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "Wild Vision",
+   "title": "Wild Vision взяла участь у VidSummit 2026, зосередившись на творцях YouTube та синдикації контенту",
+   "why": "Демонструє активність гравців на ринку та їхню зацікавленість у розвитку екосистеми творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMCb_BV3vF09gGlc51kV286Y8IM20eZFIfKd4jmXNvNRi7_27oUz2xnVQKGfhUe4Y24aro2wilvRoKu6Nq2MIz7fwvcPjTgvBVeUygAL8MA_duToJeAqikFpOhHARP3CL-Q=="
+  }
+ ],
+ "trends": [
+  "Посилення вимог до монетизації та фокус на оригінальному контенті на провідних платформах (YouTube, TikTok, Meta, Snapchat).",
+  "Зростаючий регуляторний тиск на соціальні медіа-платформи щодо безпеки дітей та прозорості AI-контенту.",
+  "Консолідація та уніфікація програм для творців на платформах, що спрощує, але посилює вимоги до контенту.",
+  "Глобальна експансія азіатських гравців (наприклад, Bilibili) та посилення конкуренції на ринку монетизації творців.",
+  "Продовження злиття та поглинань серед великих медіа-компаній, що змінює ландшафт дистрибуції."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Завершення великого медіа-злиття (Paramount-WBD). Посилення регуляцій щодо AI-контенту (ЄС) та безпеки дітей (США, Флорида)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili продовжує глобальну експансію, пропонуючи конкурентні умови для творців."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, що стосуються ринку відеодистрибуції."
+  }
+ ],
+ "changed": "За останні сім днів ринок відеодистрибуції відзначився остаточним завершенням угоди зі злиття Paramount-Warner Bros. Discovery, що створило нового медіагіганта Skydance. YouTube подвоїв пороги монетизації Shorts для нових учасників з 2027 року, а також оновив алгоритм, надаючи пріоритет оригінальному контенту. Набули чинності правила ЄС щодо прозорості та маркування AI-контенту. Meta врегулювала масштабний позов щодо безпеки дітей, але продовжує стикатися з тиском Флориди. Meta та Snapchat також оголосили про уніфікацію програм монетизації та посилення вимог до оригінальності контенту. Amazon Prime Video отримав ексклюзивні глобальні права на трансляцію Emmy Awards з 2027 року.",
+ "bizdev": [
+  "Розробка та адаптація контент-стратегій для відповідності новим, більш суворим вимогам платформ щодо оригінальності та формату (особливо для Shorts та Reels).",
+  "Інвестиції в інструменти та процеси для маркування та верифікації AI-генерованого контенту для дотримання регуляцій ЄС.",
+  "Дослідження та використання нових можливостей монетизації на платформах, що уніфікують свої програми, для оптимізації доходів творців.",
+  "Розгляд можливостей співпраці з азіатськими платформами, такими як Bilibili, для розширення аудиторії та монетизації на міжнародних ринках.",
+  "Розробка рішень для підвищення безпеки дітей та модерації контенту, щоб відповідати зростаючим регуляторним вимогам та уникнути судових позовів."
+ ],
+ "watch_next": [
+  "Подальші дії штату Флорида щодо Meta та можливі наслідки для інших платформ у США.",
+  "Вплив нових порогів монетизації YouTube Shorts на динаміку створення контенту та доходи нових творців у 2027 році.",
+  "Реакція ринку та творців на уніфіковані програми монетизації Meta та Snapchat.",
+  "Розвиток регуляторних рамок щодо AI-контенту в інших регіонах світу та їхній вплив на глобальну дистрибуцію.",
+  "Звітність компаній-конкурентів (Enfinity, Fixated, Studio71, TheSoul Group, VideoElephant, Wild Vision, MakersTV, Motion Society, Shorthand Studios, In The Black Media) щодо їхніх стратегій та фінансових показників."
+ ],
+ "sources": [
+  {
+   "label": "HowSociable",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ewtKybN-7D-McFULvv0f_G-gIeGUHlpC3qrDBanpMRn-z5sn6vfaplv9Gmpwqa7OrPNpSPCiBpXFU_aXTbsWc6Uwa63uRbnLKyxZNvfecq5LJ8wS-f_RaU9Z0VndudZc1O-bf4TUl9VB4mLsrwaZnZPZYtJzymk="
+  },
+  {
+   "label": "WLRN.org",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFncS99rjhSL7iveHm-bX6LQ57m2WhHIqwDyH4y5OTR2ADqX-S_lhA4LCSXTm9xlNfgl1VcFpD5UyQ9x5FqZLeRIlZHHHC1o9RvL_g46v2J1Xeus_d0O3VlBWWSAtnJWsIxoz0iT35SoxxmdUPBkFAUf9e4wZuO3lKSbNo-BAndLUcI51gtuvE-mR8Zau3v9RdLEXcX8dsXT5so_8tt6ffOeSxmJ_sB6HuZh1T8Elxh_5jrNMFuj5w=="
+  },
+  {
+   "label": "JURIST - News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfvMQZ7ZyKi8txvEcyogCg6s6OnW7TDKAPpcqft-NGBA9gTevAUlz7VWSEurDSh_FYUSJGyatfEyScNYyfBZE8qzmFO7TFPOyBE3T6o2rAahindmBTwXB9Lc919qt3ohNPKPrbuIai_rU1w5Zl4yOAhB9qkfVsoTEaYaO6-XHFGRmH3U8x6EewXBu0_M71Jt7JGNrCMTRrOB2qwWMHxOUtf0YhoLxGduxqkIehIFUpWc60LNaEAxuujEH_j1aS8Q=="
+  },
+  {
+   "label": "Shaping Europe's digital future",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI-KS57nPtVHSug7QAwE3zJS9i_1SApiDu2btkflaLb3qY6cIVkaM5xy6yn_EPqgYbczYzjw-OXbuhowXIVRluAGNX5Dc6dNGu7WCFBcNDAk7GuzB56zYflZt8dh4buVgkBVGtb_0Jg3dZz5ROWMU-5zoVSp0xCyByaJMjDk4nR3yHk_PEgwJYgEKUURa4"
+  },
+  {
+   "label": "Courthouse News Service",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwwJj2GEf97QvRoTl4EKUDRX661rtbuvUwPlsET4CpmuQqCt9pHR980ZH0_-wP8mWUcxj-qIU3zTSacFRqtJfjlffp3KPfj-Zea4NmKHTKrhk6tsKfQ=="
+  },
+  {
+   "label": "Instagram (chanelpnw)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsq7iLJaJRP7oOerFlEDvTrkkyuv1gllVZtYg-y_Oz9_c8avsgr4Yd5tjPcQReU_hRHuCX2lnKM01LkbRZC8ST6-OV-04JfDJWpyLfjlffp3KPfj-Zea4NmKHTKrhk6tsKfQ=="
+  },
+  {
+   "label": "Facebook (Amantillo Crisela)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5v5tiHDOleqBtm7BCHCTxFlmnSUiEyyX95iHnTQqgrZbNHz82-hFUPf_jKBNXc4P5UhpP8qT8bNIILVBNRD8peEvcXosWozhYLutLHXOu2ZlA8433lSU8xXcKLhuGnUGZYvjQnLHYEC29WQaE3x73U1UkEspIjywx031cdC0Lsp24RwuBGLE4cJNbzc96fSSpq2fxHD5-zrieWJW6FL2LNlRXtdTU7mTRZ8pnPzfyR6Cae2-hDjrTtAJOw1u6YvJDxmLtm1xpKS9hcZ57"
+  },
+  {
+   "label": "YouTube (Wild Vision)",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMCb_BV3vF09gGlc51kV286Y8IM20eZFIfKd4jmXNvNRi7_27oUz2xnVQKGfhUe4Y24aro2wilvRoKu6Nq2MIz7fwvcPjTgvBVeUygAL8MA_duToJeAqikFpOhHARP3CL-Q=="
+  },
+  {
+   "label": "Advanced Television",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXv5qu7VWEuutfiKABZ5M-wOWGBKL2s1-T9fBehvHUk0cnOFcFCdIwIaav9EnR6D9z68vSBafHtO0mdKFwkXPTcOwSyvbxu96phNiIky1V9xNq7HnwrTNWiCOuyfFLHeaqTlT1KSvov8qtodOXFrR3scDT1s4zb03e_0C-9fT0YA9IwuRAu80GAJHpzy1JdZf4mRgy2E="
+  },
+  {
+   "label": "What Does YouTube's October 2026 Original-Content Shorts Update Mean for YouTubers?",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk1sOl7SOD_qJfFQxw1FM-rk6syuSgoLXeS-sXM7KgMTKBy1tAup0BYlT1pqvmOKQ8YgdNr1LWCy35vTMTvNlGwZpTBiPOY7OgM4MjonAzjrnzzBbiRgV13PsJZ5hNi301u0WjC0I2RN1jSjtGcCAPVmJLkIRHvgOfRz5nabPk5aHQ1_K20iZu1_oj6jA5jA=="
+  }
+ ]
+}
