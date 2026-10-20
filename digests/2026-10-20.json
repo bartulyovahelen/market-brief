@@ -1,0 +1,296 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився завершенням масштабного злиття Paramount-Warner Bros. Discovery, що створило медіагіганта Skydance Corporation, а також посиленням вимог до монетизації на провідних платформах та зростанням регуляторного тиску щодо безпеки дітей та AI-контенту.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Приблизна сума злиття Paramount-Warner Bros. Discovery, що призвело до створення Skydance Corporation."
+ },
+ "figures": [
+  {
+   "value": "$110-111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery на суму $110-111 млрд є найважливішою подією, що створила нового медіагіганта Skydance Corporation. Це злиття значно змінює ландшафт традиційної медіаіндустрії, потенційно впливаючи на стратегії дистрибуції контенту та конкуренцію на ринку. Анонсовані звільнення та плани щодо контенту Skydance свідчать про майбутню реструктуризацію та переорієнтацію.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 4
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 1
+  },
+  {
+   "label": "Регуляції",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery, створення Skydance Corporation",
+   "why": "Створення нового медіагіганта змінює конкурентний ландшафт та стратегії дистрибуції контенту.",
+   "url": "https://www.skydance.com/news/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Це ускладнює вхід для нових творців Shorts та може вплинути на обсяги короткого відеоконтенту.",
+   "url": "https://support.google.com/youtube/answer/10315189"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program, фокус на оригінальний контент > 1 хвилини",
+   "why": "Стимулює створення довшого та якіснішого оригінального контенту, впливаючи на стратегії творців.",
+   "url": "https://newsroom.tiktok.com/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та уніфікує можливості заробітку для творців на платформі, потенційно залучаючи більше контенту.",
+   "url": "https://newsroom.snap.com/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту",
+   "why": "Спрямовано на покращення якості контенту та спрощення монетизації для творців, але з вищими стандартами.",
+   "url": "https://about.fb.com/news/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд та впроваджує нові заходи захисту",
+   "why": "Підкреслює зростаючий регуляторний тиск на платформи щодо захисту неповнолітніх та вимагає адаптації політик.",
+   "url": "https://about.fb.com/news/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "глобальний",
+   "source": "ЄС",
+   "title": "Набули чинності правила ЄС щодо прозорості та маркування AI-контенту",
+   "why": "Встановлює нові стандарти для контенту, створеного ШІ, що впливає на його дистрибуцію та довіру аудиторії.",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "регіональний",
+   "source": "Мексика",
+   "title": "Мексика вимагає від цифрових платформ посиленого захисту неповнолітніх",
+   "why": "Демонструє глобальну тенденцію до посилення контролю за безпекою дітей на онлайн-платформах.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Skydance Corporation анонсував майбутні звільнення та плани щодо контенту",
+   "why": "Вказує на стратегічні зміни у виробництві та дистрибуції контенту нового медіагіганта.",
+   "url": "https://www.skydance.com/news/"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok запускає більше мікродрам через партнерство з Made By Us Studios",
+   "why": "Розширення форматів контенту та партнерств для залучення аудиторії та збільшення часу перегляду.",
+   "url": "https://newsroom.tiktok.com/"
+  }
+ ],
+ "trends": [
+  "Консолідація медіаринку через масштабні злиття та поглинання, що створює нових гравців з широким спектром активів.",
+  "Посилення вимог до монетизації та акцент на оригінальний, якісний контент на провідних платформах, що впливає на стратегії творців.",
+  "Зростаючий регуляторний тиск на цифрові платформи щодо безпеки користувачів (особливо дітей) та прозорості AI-контенту, що вимагає адаптації політик та технологій."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Завершення злиття Paramount-Warner Bros. Discovery (США), регуляції ЄС щодо AI-контенту, врегулювання позову Meta щодо безпеки дітей (США) та вимоги Мексики щодо захисту неповнолітніх."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів, що стосуються Bilibili або інших азіатських гравців у наданому контексті."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів у наданому контексті."
+  }
+ ],
+ "changed": "Події останніх днів підтверджують тенденції до консолідації медіаринку, посилення монетизаційних вимог платформ та зростання регуляторного тиску. Сьогоднішній звіт узагальнює ці зміни, які були послідовно помічені протягом останнього тижня.",
+ "bizdev": [
+  "Пошук партнерств з новими медіагігантами, такими як Skydance Corporation, для дистрибуції контенту.",
+  "Адаптація контент-стратегій під посилені вимоги платформ до оригінальності та якості, особливо для короткого відео.",
+  "Інвестування в технології та процеси для відповідності новим регуляторним вимогам щодо безпеки дітей та маркування AI-контенту."
+ ],
+ "watch_next": [
+  "Подальші оголошення Skydance Corporation щодо стратегії контенту та реструктуризації.",
+  "Реакція творців та динаміка контенту на змінені правила монетизації YouTube Shorts, TikTok та Meta.",
+  "Розвиток регуляторного ландшафту щодо безпеки дітей та AI-контенту в інших регіонах."
+ ],
+ "sources": [
+  {
+   "label": "Fastlane - YouTube Shorts Monetization 2026",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRsOjPWQioKtB3W9srhF_dTg_B12ygevjOEWWtI9ic_CaWZ4dYr72sISjyYdIyDfpctK7cAWswHYot6pbBDpJdVaqLmoqxMmzbj6RFLAWdiL3wrkxjKfzqAo34m683c-JbbCx3U9mP3yuZ4K3p3tsfER1sHOg="
+  },
+  {
+   "label": "Commission publishes Code of Practice on marking and labelling AI-generated content",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZb-vpNczVNiBns9tInxL5BwSlDPlUhXGzb0ctHKxqdx7Qmas1gBKEOVX1ZlD1NAFEikWRwEz0yEjzWv4JPPsL18PU0J-1QU3v35wqYukW9UNdM9bu-O52s8_8N0BB7ggbZfEQLy1zl5Bn-rikHVh409TStaUpelALW44fLF2RxtQOgucHPFjCNSJ2AfU0EmVJUys2zaT-V9Ok2pZHMRZ-Sh6CsaycEJFlfcDreuxwLhkYtMda"
+  },
+  {
+   "label": "Attorney General Schwalb Announces That Meta Will Pay Up to $17.1 Billion for Exploiting Kids with Intentionally Addictive Social Media Platforms - OAG DC",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJLdgxo49b19CR75yyRrkL6fFQTvppsCHLq6XTyHTSM-TI294BePNECpffF8nL5SytfqhT_WaicPeFS4JyY6xpb3GEIkyljtOQWDC7gPTaxgS4KFwy77UJ-Gh6_Dg5naFnRTnL9lLowcQ9udO7mPsKyoBWmZSZOvBvRBATs68xEeHKA47P"
+  },
+  {
+   "label": "Meta settles landmark state child harm claims for $18 billion and promises changes to its platforms | CNN Business",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv9-8-mUOhWkjt1SVUxHZW7yWTEJgPzqrTQ-sm9s5xPc_z6k1s_iFkivoflwT5MyGkjB_7wZ4J02dCrTiYc2d9PjQrDBEBF-lp1J7pGzKENpKWywkFkP1_vL9EcTs8dkJNblJjATDmgS5EtR1d-LcSPvSW_HSMSNYvCibqyQwx"
+  },
+  {
+   "label": "Mexico signs decree requiring digital platforms to protect minors",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6nCsk_MigLj-ONHfCjZN4wXJT1DUSx-AfmFv-0HKRFY6YjPbbWrcP7rMiZYuWodnhfoigYJD1-q_zqX-ccNmkuTPDV_fafci_rKjqL_j08M5PG7JuIHgaS8xcTRDczX8ERwGe49Ha_ecSD8On6f4b1W2gcZE293PWHCfgFw=="
+  },
+  {
+   "label": "Meta settles child harm claims for $18B, promises new safety features - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpdEFC69sJWhTFsms5juefhk4UrjDxaAt5HdmWoVgsXNB6rbsUB-z0zVJTnmt-ftWc3nOIjqtIMYoM6_YAyrILjJh59SdN95AHUdsln8XWWAAloX3khHHPhM6a1MFxHANIgNKLDg=="
+  },
+  {
+   "label": "Mexico's president signs decree to protect minors from harmful online content",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyuXFFI_XObUBjRfPUDuKqrYnE598UA3V_Krx6GG2RKN_MV4TiPgWTCX3F1W1sQkmpMU8R70NZjS3wsatTzUhVaCP2Hu8SSmbFOSvzbAiqxA_gqZOBUbHQIXmg7kinOia_NZNctG2cOaM5zOkmV4G9aPLGsc5JnjFPaTL217Va-gD8LxHdWe6lSPXqiXt74vdMeW1a1PVXy4PKO_ijSfp9X46pIzDN_4NyJOnwvK7djQ=="
+  },
+  {
+   "label": "Snapchat Monetization in 2026: Followers, View-Time Requirements, and Payouts",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOKAPhHtcXGMu8pymAR6b8wZtBiYitlTYjKN5Q5B1r3QM_9NqBjUS9DZYGZxrIcOyZGeVNHcwZvNkwRaMlq_O1GPkLNdpnIll60iaqBHc6Bl7uULPaojd81V0QYRbjXSIxSPfV6EtSB9Q9fY46_7e7vGfwpq0lrqWIlzfHNU6sTA=="
+  },
+  {
+   "label": "TikTok inks microdrama partnership with Made By Us studios - Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGvxc7_Asq_whFUhjM8KQ3LTcfZc3km3_voI-087uSXpclZz4uRNSkBsG9sYbrQietWZPw8lJPAXnfLBo3iPeTxJSICQ4MJiTZwtS5JCFOww-nNc9yJinG9ZDaiBmtHGfRrj-rmHPi3nxB00SGOjjHCFvfdCliqhKjEtB3W3UH4liPExviSBTahsgjpUg03UN7lWK3bpU8hgsH53KIntN-SkA="
+  },
+  {
+   "label": "Mexico's president signs decree ordering tech platforms to protect minors from adult content - Engadget",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWif_6kyMpw29__LHc-56iTT9ZZLcwdTT_0GTgstYTHdzZL4slwJdJmXcRNGJNWGP7uLelNO3CeAanjkyTgmzDMA06WKkfu54bGEOvjKFg7wKoS6KwP1pYMEsLHWov1JXQ0TWF6uMxEhxKKUgM0gqrxf0D5N5vdiZhVFVPJg_-rVS3rawdtwROJSxT6YDpwVx7oRW8j03X_Y_8S6c="
+  },
+  {
+   "label": "Meta agrees to $17 billion deal, pushing new industry standards on child safety - Axios",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnlXU91-DvZN_xqFM2E-r_xzAhv4Ybwl8iVlkGkwgrqyLW3b6FC27bMMKEMf-yzX1yQ87DQ1X6ROrG1q_YQrY3hyJWbe1CJAbPXjAvHM610KzXI4yQ0YTPNNA3eTv9Q9uRZxq_yGKsWPxrmv5_g67mWRxvTsptvCj6IUiH4wUTkcvP"
+  },
+  {
+   "label": "Mexico formalizes new platform obligations over school violence and digital risks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2ClbBG0gpYvQ5jKBBu0IGA-uuP5oyuZJsclvxZ54ErSl3wZMihJwjF32rXNZM_qXa-Q5xKeSCOHqCPcVnyO92vI3-w1bbtVpi6Sx5YjoVSjk8UEgNBipuET4daMfqukfT2UUyI_ycaC3Su67zk-aaYVTvRGhKWddYOVvIfj4="
+  },
+  {
+   "label": "AI labels to be compulsory on authentic-looking content under EU rules - The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPoT4lJPe0ebWfGCMSk_uS4YL_yfBGGW2DfGExEayCM54XnlePgiz1M3sOqbK7JTNKF-skAyd1gGi4LamT6bXxBRsmH5lWiCMcF-krHy33u6wM5mdJjCVdGB1m6gwSoO-NwuzQmqAPjkkPyk56-Vw0sKG35lR6M4Hs3LNo6jM1L7oP0RECXMLAfwIhjSTUWxfzPIRE67lMfOh8fK5ApTNcKiKoEpnC1kOIk6iBp8S-vXDo6g=="
+  },
+  {
+   "label": "Mexico to Require Digital Platforms to Protect Minors",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsN7IVLoN9t4tmBo2EQCprt16988hSZ8DAPKef0BNGpe0u8IFnJwOxvb5T7ptmzw4yJh-9wJJEs5ubwsykxxnQbM3H9r3-LWz7lI7V59_OAsr5D8a1oyHdiS2zBJBDZzqrk7y1ZddMwyLDkAD0rUpM1uvK1Je2HrJBWSdr_Uq7EV7wzzv5-FOKrtvene8O67TyOLsiAlCDOg=="
+  },
+  {
+   "label": "TikTok Is Turning Creators Into Microdrama Leads - WeRSM",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5SMizR4SH4e7NGmyeqMwa6plPGqMhirhyMQQgiv-ndKCLM7wLHH_qb-4og14kEQ71Qw0IaphCm8KQ45IDXsQvtY-0WHamrtXXAD6jTH-f6dmyP3aHCnBwozs8GnFsMyQw7kIyZGU48t7wGZBUAVGG02zf_2k="
+  },
+  {
+   "label": "EU AI Act and AI-generated content: what must be labelled from 2 August 2026?",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkpO4i1Z7gJ84XsLSoV1VmLuMTudycyzgke5-wPv0QXtduFA7UARg0U22AnfP6n8N4tJ0FdaqBwCRg11t9A2cBq6fmr1cb69s3bmRdFEb7pdcxs09ylV8RCIfggo4c64-delIidPSvGURZrgY56jtRhWqnsanEQculxZyvPA=="
+  },
+  {
+   "label": "Colorado to get $615M from Meta child safety settlement",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCMZ7_G6ESbUZwBX-UrG_C9C3ui_Hb-VEDo7OYXUJvR70Tej2dyQqTyhpi_F3qppT_2sjNadHVmq5qqY_iek2n51HDLOmBmIe4pQrbUpVen_fpP4m6hfd_WBwjeUtUy-FwvagoN7MOnQFz708tNifBskJ6CxF2K45PwUigPiK7heQXmEIx01Ki-hvG7G64dAI2reMTToHlfq5moDfS"
+  },
+  {
+   "label": "TikTok Partners With Made By Us on Microdramas",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2HYUepGRx_GaLbe5ft5qS3Ic3zsOvMYbSq_-vLFEg1flUBV_QME820BvAw9lpJGY1B3Uq33rHCD1FiE1pzUhlvyDERuuxGesN7dPFQNcHi_amYcCenvn8ZxrrDGsa20pNlcQWqYdBPaLwmtHEekHVN1L_JbZCAhwPau3CrM0"
+  },
+  {
+   "label": "Companies will be required to label AI-generated content starting from August 2026 - Ecija",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLnuYzBkanw1KvSRQEOdWyjrc-2avyscc26OcITKrRFGQwmsn9dk8ZiVZVfZi-X9krY3eC9MsWNF0U3A-GvnI6Ge0_NJ5uCLzPhKbNdB8he3SDlHG04Oz_eEOoTfJKED21-4WBq09C68W03TovCIyFAD2vrtLr2G4G8ZiRZx5xBOXIUebsKNWxQJxEHkfn09Ci-UEQj2_acehMqlAF5k3sjgP2GWTWPovlwu2A4MkjCTRCd1wx09sEoWsPdE_OmbQ="
+  },
+  {
+   "label": "YouTube Shorts Monetization 2026: Creators Need to Know - Stack Influence",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpOLi8YFBPc2eO7CpKwWnz7dXNVjA2Wrzoe4Q0rqcog57WmL7F2SbvrHEKqaYcyTHcoE--zmz5gRdJ0P3HhqnWmYssft6J5JC7GqTuiVKKu5wbmHIRBRdScl4hy_Sf2RVrsHNJOE4JSuln1e38dk4N5_OniGg=="
+  },
+  {
+   "label": "Snapchat Spotlight 2026: Creator Monetization + Disclosure - AuditSocials",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2fodVj4clKsZUH1bEknq08awBlhjuYi6tvXEeig0TwbNRY0Ps6u8JtEv_JfBuQFy55LIC_VV7gtlID6NgCmWi_YabGQXw6XBZBoHzcKoGUHWy-zKrg1Z0n2SaXgjP9d9qupsiqijo03glXGPjv6wHQ55BKnDaeQoWIPrLKD0V0kml-s8nA9h-1XcEcL5phEPtslqnsPIhUy5X"
+  },
+  {
+   "label": "About Snapchat's Monetization Program",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1pQGu9V8Q4EIb5qPyq3dvtWXY8xWwZb86gaWZQgyBh89zw7Wv8zeKlht26XIxPVohe5Z29sdu1IlN4Fyd1qY6NKhlcjXMaycdyvTTihxCISavTL-o6uJsSB-57bWxecuuDyb3KhyVJVjfGatW_0ZuYtQWCe0iIq6EndI6E8ZwCP8cJKqiK0HXnwyEUGkfFcIhi5sE5KtKu2cU"
+  },
+  {
+   "label": "Paramount Completes Acquisition of Warner Bros. Discovery, Creating a New Global Entertainment Leader, Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfPvPjFZtER4m82nFg4N-o1W5x4DIC_d82FHvWrirGBYBXcVWzn6A4f8RhU3cIdd1dT_e4P8xALZpwg8m9NCe2-ENbSDu6I2s37E501vDG280PlVvJIKN8k40MJMm4JRaUIQ-0MjlbFBGsggH-I7HNTBarWnNXK5iThyuKcQrdfxUPicTI8kpYDylTB6-NEdTx5BQAgLNCd-ZyI-Hojz9wRie7Vw6cvtHxvGhMbSaeErQ5EpuS5Lh3YtDoSqOiZMnaTdyVGi30nRtzQg=="
+  },
+  {
+   "label": "TikTok and MADE BY US STUDIOS™ Enter Strategic Partnership to Co-Produce Slate of Creator-Led Micro-Series - Newsroom",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5sev8Ga115SOgR_vr-wLC1wTLp5m5PiSD3-9jB3pjbeH3jVlsFf8bGPXL49l-Ah_EZCwR7X4cSJUJ2Wb5h2HAJoJapZKbtOkmHK-I06bcb65XczYQEbmbtzpG-KVcdSz_-h3-Q0DaYIkbta7ivzjpCkRsbkKm8RUrXWPkVODqWiEjy-9hYDvzREYUQ5TDRjtreRWNjurpVbIPJkZURFroUv5QSo1EO39qS0xyGIhJHxH92ZY="
+  },
+  {
+   "label": "TikTok To Launch More Microdramas Via Creative Partnership 10/16/2026 - MediaPost",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtJVOqr0DIGWHSsFAYFBX3rX_LNHhbmN_2bhfqvHz5ArKhXuzHBNeH8dtnHsdzsEK42dh2-Wc-zwXBDPNlTOI-nbTHKAnov672NQsZdq1R3HZZqydlkenhPwAXUxbDPJJjMGfmK0xwc_NVww8AZMF8U3tFkThxdv-cvC180e99Bj6ej0lrTyS99npUglT5OSeQfDOerdWlX7YqyWk6l9sFfcqKdSKcyQ=="
+  },
+  {
+   "label": "TikTok Creator Rewards Program 2026: New Ways Creators Are Earning Beyond the Old Playbook",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv16YkNcAHIjvAylca4GmDiy-YYAcGls4bdYRS44Eey_SMz6daSiC260IaLED7N38RNUSv1Mohn9XmhMZnp2NVzlr0WwstB62HLAfuefH07N0op291phtfTEyepIoVn8bw5qc8qDeJZ3oAwefdQHRlyk3xvxSJLnUssBZt4I_OzEu7nFSUndhp5_BCKNKjddWDYPnwj5DoNBqH6A3SWlRCUA=="
+  },
+  {
+   "label": "Paramount Skydance completes Warner Bros. Discovery merger | The latest - YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCwiqFg8GDJFpm93JW6p4k3z3sVK-Wm7iQC7LXvnXByaPGdcv6pCQwOGEgY2mWUUdtmSdsxLIUs2mN4uI5zoHnmLu86-MCRoeNCRRP4jlRmsuupB1YRvHlADqCWoNWolJ9TM35Kw=="
+  },
+  {
+   "label": "Snapchat Monetization 2026: Eligibility & Payouts - Kompozy",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_hj03zhnyZ0KFhKs582aV6I7LGlKoEl90zP8gzmpafsIiptX4tQl6q5s8q4DP7kYvlvzOI8dR7zozepB8Qx7y5rV6qi5WHYKhANPEjRF7bFP7lchI2XkOZRbFea44KqxbE_fsiEphAug842qV8MN1IkmBaXwC"
+  },
+  {
+   "label": "YouTube Shorts Monetization in 2026: What It Pays, What It Requires, and What Creators Are Choosing Instead - Clapper",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k5bRbiG7I1o-O7yRdgN2tHwaO24xrkXXRi2wupG-hvy8zZxt6ZuzEPT2_t9of4NwsKyAmY8S6NWj_VeDEyWczsk7Xb1mfbI-6cgADM99coITu-W6-3pH2ll_ErsiFpWeZ79Fqej6R_lyCGizPoYyXS5w3QfSrTE-wutrD6iSnF7fq3vLprbKCL2DhdTAijtA8J7b_V-qPCIDXcaz6haIX0-yD19fgoadTGT5L3VobC2js43wP-lLk0NW_npJAT4BjDN3TALwUY-7Mg=="
+  },
+  {
+   "label": "Paramount completes $111bn acquisition of Warner Bros to form new media empire Skydance - The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXYGS5WK28aGNUJGSEimz7T1srEP2DmxDqGAXZZWPJIthLzIzlzYS0zPvuBOimXUo3R686M3ZbYWeLivN08kbuOR4VbbVQnslzvj0EFc70M8KoTnl0iYA_U0qBzdtnE_J04fFBWs8MS037dq_cFbhqUQrdGSs4_Xw6gVoO9heuJDxBCTLiOkDfCsXHFXlizXQ=="
+  },
+  {
+   "label": "Snapchat Creator Stories Monetization",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTGUR9kAv5ZbdQmd_TbAoxy9lEzTkPmqzoTKoaOMHiTood1y-ulsqVs6TglWPKmdFotNogPlRy36LEhvdn36BzOkU_v-6ewcMRbVMfI4BDyEV1oHasyncBH_KOfT2uu57fTZZjt3SIuL_N1TcdD28E7ajygz8PVrE1FFdeuP6moM_Zq1lFiG7LN3D5Hw=="
+  },
+  {
+   "label": "TikTok Creator Rewards Program 2026: Complete Guide - Benly",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHol_Bmocp2g6WwPbU5iDLfzDqrk6H0YGNNt_qF5f2yTl7lriX7qqmPiftzaxWAQ4fVPds2eEK2P3nyn9MJLFaz_afQFIS5rjIeSnPtFIozwEteDKMAGZimtnGlFNaf2CpqGp4b8YQmipcm7pcrbDYCACjit3hXRK4="
+  },
+  {
+   "label": "2026 TikTok News: The Definitive Timeline for Creators",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6wydmo2jRRXc3cyQG4QEMZT0O5TaSLufaMmHdHLw_JdZAfMspk8ODahvg1gnbRN3IM1xb13L3vQFMvDJLx8SrX4XFXEGMOPlW_b2EcpN-hjVVeS9BcKu8cq42w=="
+  }
+ ]
+}
