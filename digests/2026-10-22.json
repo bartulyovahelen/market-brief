@@ -1,0 +1,315 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився завершенням масштабного злиття Paramount-Warner Bros. Discovery, що створило медіагіганта Skydance Corporation. Провідні платформи, такі як YouTube, TikTok, Meta та Snapchat, посилили вимоги до монетизації та фокусуються на оригінальному контенті. Зростає регуляторний тиск на Meta та TikTok щодо безпеки дітей та конфіденційності даних, а також на ринок AI-контенту.",
+ "key_figure": {
+  "value": "$110-111 млрд",
+  "context": "Оціночна вартість завершеного злиття Paramount-Warner Bros. Discovery, що створило Skydance Corporation."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$25 млрд",
+   "label": "Штраф Meta від Нью-Мексико за порушення конфіденційності"
+  },
+  {
+   "value": "$8-10 млрд",
+   "label": "Прогнозовані інвестиції SpaceX у Skydance"
+  },
+  {
+   "value": "$200 млн",
+   "label": "Викуп акцій Bilibili у Tencent"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery, що призвело до створення медіагіганта Skydance Corporation, є найважливішою подією періоду. Ця консолідація ринку створює нового потужного гравця, який об'єднує значні активи у сфері кіно, телебачення, стрімінгу та новин. Це може призвести до перерозподілу ринкових часток, зміни стратегій контенту та посилення конкуренції. Додатково, прогноз Джона Малоуна щодо потенційної інвестиції SpaceX у Skydance на $8-10 млрд підкреслює зростаючий інтерес технологічних компаній до медіа та може забезпечити Skydance необхідний капітал для подальшого розвитку та делівереджу.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 5
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 8
+  },
+  {
+   "label": "Регуляції",
+   "n": 5
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation (Paramount-Warner Bros. Discovery)",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery, створення Skydance Corporation",
+   "why": "Створення нового медіагіганта змінює ландшафт дистрибуції контенту та конкуренції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG45BlA0AjlzFCGeywWIw2Hvy-nNAsRbPeecd32Zk46vX31UxwrhAs4mK6R1d6gsDx1ceMmtNJo5qQfS-Uo55BbUkwdH0Uq5X-b5KfVkSIk0yRNyldHkbTFLlltjPIJhkq2byXH3wCGC-ptHiD6D2BFIQkGLReoHwojYs1AbmtCsX8A81cIIWwmNoLVv6ijp3vWzuL0QEnWaPOvvDpd3WCDOP0g"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation / SpaceX",
+   "title": "Джон Малоун прогнозує потенційну угоду між Skydance та SpaceX Ілона Маска на $8-10 млрд",
+   "why": "Передбачає значні інвестиції в Skydance, що може вплинути на його фінансову стабільність та стратегію контенту, а також посилює зв'язок між технологіями та медіа.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QH2fp0OO_1Lu6FIm5_xOkxVPLCd4j_obVOCpVQXHsryiJhNuwXtaVNClOx5TQ24J-c2rD7btVjOj5RvQJWHJxBbXvdNBiet5A0Q6ax3oEDTlzcVY2-G_-w7ZP2OqxlmXqdG-GKQMYtqVmPHZhkdWFJy-kpqvXzkjlYa6-lL6JNXeFNKVOxlMMDds0xGR"
+  },
+  {
+   "importance": "high",
+   "theme": "Регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд та впроваджує нові заходи захисту",
+   "why": "Підкреслює зростаючий регуляторний тиск та впливає на дизайн продуктів для молоді.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwqEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "Регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оштрафована Нью-Мексико на $25 млрд за порушення конфіденційності даних",
+   "why": "Демонструє значні юридичні ризики для платформ, пов'язані з обробкою даних користувачів, та потенційно впливає на їхні фінансові показники.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC5AQA74EDo-5CMXzmF8TCWoFC8io40maVSLRj2Ozbx6fmjQNn_O5o_gPwXwbY-vigkCUjOG5hxmyrTwXDSmLhjIT7LSrYYoWcWe3YBky47Fwld9Xpb416g2Wij_aG6vYmmKTpd_A5wHJpG5GdY96U54b8sOZzQYDeoxxXF1MbLg4BIUzA-VUKPA3Q-u9PONSGESmlH8EOLBrANVY1mt6iMD8_U7A7sak1aimTxbZxLTVyXI"
+  },
+  {
+   "importance": "high",
+   "theme": "Регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "Судові документи викривають TikTok у ризиках експлуатації дітей",
+   "why": "Посилює регуляторний тиск на TikTok щодо безпеки користувачів, особливо неповнолітніх, та може призвести до змін у політиці платформи.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW43nhIBmlbP0nhoraQzZzEjtIM3GoXM8jb7WoHeM8oSxSTxrnzyNruysoIH6U2SGUGdHOSQSnzCMNy0XyPbrOueEyF0L2-jqK2dmdoWYR2FfJjgI2avJgaaYDrK6imCze2NwRCqXMEuFFrS80jLyIDUfOZXayglVPXcp2-f6C_TsdSLVQUOzHHUlp0NntBHq23UtwKShNDgXIukjd8YV8voA_TEkuBNk-B68KgnE4LsV-ef9feNdvysM_UA66zg"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Зміни впливають на стратегії творців короткого відео та потенційний дохід.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program, фокус на оригінальний контент > 1 хвилини",
+   "why": "Стимулює створення довшого, якіснішого контенту, впливаючи на стратегії творців.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та потенційно збільшує можливості заробітку для творців на платформі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "Монетизація",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту",
+   "why": "Впливає на стратегії творців та якість контенту на платформах Meta.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta затвердила структуру акцій класу C для залучення фінансування на ШІ, оплати персоналу та угод, а також угоду про утримання гендиректора Цукерберга в Каліфорнії",
+   "why": "Забезпечує Meta капіталом для стратегічних інвестицій у ШІ та M&A, а також стабільність керівництва, що є критично важливим для довгострокового розвитку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwfEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Прибуток Meta за третій квартал зріс більш ніж утричі, дохід різко збільшився завдяки інвестиціям у ШІ",
+   "why": "Демонструє успішність інвестицій Meta у ШІ та позитивний вплив на фінансові показники, що може вплинути на подальші інвестиції в контент та дистрибуцію.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY_kx9gVikNYkhGVC9n7XxBPx06MDMIiG2a8iH2Vx33rOjPGalQhsGTUYUEq6DpIgnRgH10r3upRQ7rCQ3rD1z6PoBOSFvDLm9dl30C1phTO9p5NAnG_4szfcz8rQDUsPTnhmkArBPqf_jDdxIG6YPGRH-im_TSoVtfLT3PkmujilrYnwHihTGUPbD2whVTeKktRzSbcQ"
+  },
+  {
+   "importance": "medium",
+   "theme": "Регуляції",
+   "stream": "глобальний",
+   "source": "ЄС",
+   "title": "Набули чинності правила ЄС щодо прозорості та маркування AI-контенту",
+   "why": "Встановлює нові стандарти для контенту, створеного ШІ, впливаючи на виробників та дистриб'юторів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "medium",
+   "theme": "Регуляції",
+   "stream": "глобальний",
+   "source": "Мексика",
+   "title": "Мексика вимагає від цифрових платформ посиленого захисту неповнолітніх",
+   "why": "Відображає глобальну тенденцію до посилення регулювання безпеки дітей онлайн.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwcEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Axel Springer / TikTok",
+   "title": "Axel Springer відкритий до участі в потенційній європейській угоді щодо TikTok",
+   "why": "Вказує на триваючий геополітичний тиск на TikTok та потенційні зміни у його структурі власності та діяльності в Європі.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRrAffdeIFIkH-9Whzd0zGRihnEQMamEXdGGex6P9SoniqR7TWqoU2xlW-NmmZ6wxan6EhUjd977ng9FUvnFZrJhzt-OmPk_44-ELAPZ0TlAGrh8AwpgG_a0AyOK5k2hqk-hSbepJHsp3zq10syPSw-YrZIuadKRMsChcX3VawBD8n5nJmqWMRr5sbS1kc0wBILuO-MGcoyxj0qYQ3V0G-OxLZUAzDqSZSJyvHPe8NyzWI"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Comcast",
+   "title": "Comcast звітує про прибутковість Peacock у Q3 2026 та прогрес у розділенні NBCUniversal і Sky",
+   "why": "Демонструє успіх у монетизації стрімінгових сервісів та стратегічні зміни у великих медіаконгломератах.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbApoCC5xe0us2wf6n7dQAcTEDWj-SHUeIfkT3cZ9piHvoP7rsunv_QJy6NO89VDwD5gWXryAU8vLuz53QL8ao2IBEcQLmacAGamD8Y64epX3b4mD4GV-3TPUQ4A1z1SMvLBxXyZqW6K2-TpOuDDY9vP19tDZz7kGThMJdxS4LH0pR-_yVaVddT-2BMXDwUya9NgsX86Z9jt-Ag"
+  },
+  {
+   "importance": "medium",
+   "theme": "Монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube Masthead тепер приймає сертифіковану рекламу азартних ігор онлайн",
+   "why": "Розширює можливості монетизації для YouTube, але також може викликати питання щодо регулювання контенту.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgrplyKzihkl1DDNcfp39fkBtyqxIyCQAqwXmJhi8V4OXZP6HjTO4RxnuWVQKw1JqNIMx3AgjYGpO5RlTy-9XgNKAT_O8rm4YGDt26zgJ3hr0TxxW4HGpK9ERPbKjxYmcw2boj5dATiLGabFjiWjzsYDhyEpn_bo0QaMTH6Mg6_S6_TsftEONYdzP9nwtD"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili проведе позачергові загальні збори для затвердження угоди про підписку та викуп акцій з Tencent на $200 млн",
+   "why": "Вказує на стратегічні фінансові операції та партнерства на азіатському ринку відеодистрибуції.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1xuVvGWNirSGNKaBkJgHoikZA4SYGWcENOjymHx5WnsbEcPkyCJmJvl9uvzKaY_tkH3bVKvk-XnJH5EnoD_cTAHm_PnNz3ECaNIzK19hRv8z7yxnN_ZuFHDVpaa9IRG7B_fSI5bjmPuyGYfD13xKYj7LGAQsDhUeorElA9dNT34xxb4hTs6QuC7bn85ZSWT0Tt1EMkz11gu-bDn9uKHA7u58aSF0ZEy5VKH6nDmfI4GZo-mOQQBs"
+  },
+  {
+   "importance": "low",
+   "theme": "Контент",
+   "stream": "платформа",
+   "source": "Bilibili",
+   "title": "Bilibili провів Shanghai Wonder Festival",
+   "why": "Демонструє активність Bilibili у сфері контенту та спільноти, але не є значною зміною ринку.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5KF4mUsAXT6fatCg5wKWFvaBwAJKkIzXxjWFrY0rM6gaUuZc-AG-DJpLfSs-7Q7WfniG1cUd6Aq1uQq0uIY3FFklX5RRrhPBtn_pFFCRB2MI1SJCkMW8vBDz_LyIFpGJc4r9anR-BeAFRG_95lcu6WXwmqiArKPo0frAdTrf2ealxzoNEZUKA2kf5BM1yJrZ1xSFhKXL82RVQQq-ZxFCmyLBRWSkEkrIls5_poxkg-70"
+  }
+ ],
+ "trends": [
+  "Продовжується консолідація медіа-ринку, що створює нових гігантів та змінює конкурентний ландшафт.",
+  "Провідні платформи посилюють вимоги до монетизації та активно стимулюють створення оригінального, якісного та довшого контенту.",
+  "Зростає регуляторний тиск на великі технологічні компанії, особливо щодо безпеки дітей, конфіденційності даних та маркування AI-контенту.",
+  "Технологічні компанії проявляють зростаючий інтерес до інвестицій у медіа та розваги."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Активна консолідація медіа-активів (Skydance), значний регуляторний тиск на Meta та TikTok, зміни в політиці монетизації на провідних платформах (YouTube, Meta, Snapchat)."
+  },
+  {
+   "region": "Азія",
+   "note": "Bilibili здійснює стратегічні фінансові операції з Tencent та активно розвиває свою контентну екосистему."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Проти попередніх днів, сьогоднішній бриф доповнює інформацію про фінансові та регуляторні події навколо Meta (затвердження акцій класу C, штраф у $25 млрд, зростання прибутку завдяки ШІ). Також з'явилася нова інформація про потенційну інвестицію SpaceX у Skydance та інтерес Axel Springer до TikTok у Європі. Ці новини поглиблюють розуміння трендів консолідації, регуляторного тиску та стратегічних інвестицій у ШІ та медіа.",
+ "bizdev": [
+  "Створення та дистрибуція оригінального контенту, що відповідає посиленим вимогам платформ.",
+  "Розробка рішень для безпеки дітей та модерації контенту для відповідності зростаючим регуляторним вимогам.",
+  "Інвестиції в технології ШІ для оптимізації виробництва та дистрибуції відеоконтенту, з урахуванням правил маркування.",
+  "Пошук партнерств з новими медіагігантами, такими як Skydance Corporation, для розширення охоплення та можливостей дистрибуції."
+ ],
+ "watch_next": [
+  "Подальші деталі щодо планів Skydance Corporation щодо контенту та можливих звільнень.",
+  "Розвиток регуляторних справ проти Meta та TikTok, включаючи апеляції та нові законодавчі ініціативи.",
+  "Оголошення про алгоритмічні зміни на платформах YouTube, Meta та TikTok.",
+  "Новини щодо потенційної угоди між Skydance та SpaceX, а також можливих змін у власності TikTok у Європі."
+ ],
+ "sources": [
+  {
+   "label": "Meta approves Class C share structure, strikes deal to retain CEO Zuckerberg in California",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCoP6IUi7pWUK315bigY6ZgqlBFTbH4djypvK9FLPF4sLtBMurEy_OB1vP-2-yx0dZZjGEimk3rg31F08UtJSomoCJuVJhZrPVWma1SdqwPtf76PBbyTJSfgpbUOjOmaC0N58tC8QBDIhx2EWfwfEXkDIT50c68INQVe2i7raTnU0RS_WFRXrd0jaRwdR-pXZkHFQkHxOevUfHmnq2czxUAHZYpUrV_CBfKgio3hdmaY-_S6Lbwu7V4g"
+  },
+  {
+   "label": "Meta strikes deal to keep Zuckerberg in California after wealth tax concerns",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGljWouit-8UEs8iUd6HcP43IgcGVtE2wY3kM7otIEF1Ui8ENM_LKsvXzOmb_LLoYRyi7XpvTXuNVgH__3L0LDo5WtY312ZiV08Eg5GfxYUv5AgoBrN9HhZd_l1xv4CWFIyCIZbDGdzSmZaapsY1fPYXrLFIEIri4AxxRcc48YKRk8xuSBbRgtbSH-yyBF-Mqn_2XcxNsx7DoVlRqsdhDyRWApUb0bEquENpgTXDH2p5IYbabs1p_q3VJgHxRk7yrkOVsQ"
+  },
+  {
+   "label": "Meta has strong chance of getting $25 billion New Mexico penalty slashed on appeal, experts say - WHBL",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMC5AQA74EDo-5CMXzmF8TCWoFC8io40maVSLRj2Ozbx6fmjQNn_O5o_gPwXwbY-vigkCUjOG5hxmyrTwXDSmLhjIT7LSrYYoWcWe3YBky47Fwld9Xpb416g2Wij_aG6vYmmKTpd_A5wHJpG5GdY96U54b8sOZzQYDeoxxXF1MbLg4BIUzA-VUKPA3Q-u9PONSGESmlH8EOLBrANVY1mt6iMD8_U7A7sak1aimTxbZxLTVyXI"
+  },
+  {
+   "label": "Meta shares jump 5% as AI investments fuel revenue growth - Euronews.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY_kx9gVikNYkhGVC9n7XxBPx06MDMIiG2a8iH2Vx33rOjPGalQhsGTUYUEq6DpIgnRgH10r3upRQ7rCQ3rD1z6PoBOSFvDLm9dl30C1phTO9p5NAnG_4szfcz8rQDUsPTnhmkArBPqf_jDdxIG6YPGRH-im_TSoVtfLT3PkmujilrYnwHihTGUPbD2whVTeKktRzSbcQ"
+  },
+  {
+   "label": "META fined $25 billion for privacy violation - World - Chinadaily.com.cn",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlmXTR3vYjPUX9kkUGqUy3k1H_o-JGk7RQowS-73-N-SVIJs5jWM7gh31ZZiXxl2rrwr5img8nypuyplpQTG-XXQFVVRXdMXzhwHOwdE7-WXEI-SQCPIa7h-ICShXKgmnzn41S7rMta9GGAko1VmkBltXuD4beRoRS_6kibKsge_mo2Q"
+  },
+  {
+   "label": "Axel Springer open to role in any potential European TikTok deal, spokesperson says | live",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRrAffdeIFIkH-9Whzd0zGRihnEQMamEXdGGex6P9SoniqR7TWqoU2xlW-NmmZ6wxan6EhUjd977ng9FUvnFZrJhzt-OmPk_44-ELAPZ0TlAGrh8AwpgG_a0AyOK5k2hqk-hSbepJHsp3zq10syPSw-YrZIuadKRMsChcX3VawBD8n5nJmqWMRr5sbS1kc0wBILuO-MGcoyxj0qYQ3V0G-OxLZUAzDqSZSJyvHPe8NyzWI"
+  },
+  {
+   "label": "Axel Springer open to role in any potential European TikTok deal, spokesperson says",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIyiPVhtz4a-7SGgLeLl7fsyeqiJ8hjSS84nYewycMl4Dtm4sRjTCHgfDDV3EB5Lofx93G6e3S692VgtmK7_ZDegd49AMzhaZ5noZxssw_Uy0T3kv6rOiUbssfYcZyglRsmxZ3RGT_95UIxy8V_TwEftDN9dpPNTI5RCO6ZUCIMMx-QWmrTtk2OAmeEyjMQ2kf5eJSzmE8ji5GZxwoMOUbtGQMz4pW4eTTXUMm15wi-KR43nvqx2UD4RXOULe0P4gO_p23AME"
+  },
+  {
+   "label": "Malone predicts SpaceX Skydance deal | Advanced Television",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QH2fp0OO_1Lu6FIm5_xOkxVPLCd4j_obVOCpVQXHsryiJhNuwXtaVNClOx5TQ24J-c2rD7btVjOj5RvQJWHJxBbXvdNBiet5A0Q6ax3oEDTlzcVY2-G_-w7ZP2OqxlmXqdG-GKQMYtqVmPHZhkdWFJy-kpqvXzkjlYa6-lL6JNXeFNKVOxlMMDds0xGR"
+  },
+  {
+   "label": "Skydance Owns the Pipeline. What Happens to the People? | The ...",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyZ_jnm--BZli2oplozyocrCedZ4sRYL2xUAeWLZxtQ39RD1F3koD3VKNLNjvGECoIiTS0pbHCL3Alao_CjKIvPeWifKaR_5I61fQ5XdpGzEioRQm6ETHMK-NL8-oiyHwP_GgxoJE3eZ8ckzTOKuSJ8KoOsN3bVu5z-suML-1N7w-21DVxD-JCudFEuq9k"
+  },
+  {
+   "label": "Skydance jumps 11% on Malone's SpaceX deal talk (SKYD:NYSE) | Seeking Alpha",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5m9qs09z0OssQfQs4SmIWHdTqzZf8Bk1Ror2hbV_CzBQFhRAbsaAV5nERa74hQl_qnBRCY-3Ofdzoz2U8TexQJsJy2ir4eDaoEd0w67PEGASNO0QkbrFERuCgW3IpijYIh1C5FetfoZAR26sl1hN3YUDeo4RcSQtLJ75MQ_eV_X9tfZ1LDeWSDSl_meFs-aNMOOcJdTo"
+  },
+  {
+   "label": "Bilibili Inc. to Hold Extraordinary General Meeting on October 28, 2026 | Morningstar",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1xuVvGWNirSGNKaBkJgHoikZA4SYGWcENOjymHx5WnsbEcPkyCJmJvl9uvzKaY_tkH3bVKvk-XnJH5EnoD_cTAHm_PnNz3ECaNIzK19hRv8z7yxnN_ZuFHDVpaa9IRG7B_fSI5bjmPuyGYfD13xKYj7LGAQsDhUeorElA9dNT34xxb4hTs6QuC7bn85ZSWT0Tt1EMkz11gu-bDn9uKHA7u58aSF0ZEy5VKH6nDmfI4GZo-mOQQBs"
+  },
+  {
+   "label": "SpaceX and Skydance Potential Deal News, Insights & Timeline | Exchange4media",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxZ4f9jD7HN2r0vt4qLZ_XVhuZaYTsfhce9xwGCuyUM1wbD5o0d6BFh7RyeQ7QC0_hRwXWECHexAs-eDyWUJ8hJlkc5WxwNcqZQ7LbxJkgXAqc2pqzEo16RlvrmrP34Mh80ExMpeuMNTQkineryHo98XOAqEmX-w0VNEPx7oohe9o67JlZGShLTkABjH1ZSH_27g"
+  },
+  {
+   "label": "TikTok in the eye of the storm over child exploitation risks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW43nhIBmlbP0nhoraQzZzEjtIM3GoXM8jb7WoHeM8oSxSTxrnzyNruysoIH6U2SGUGdHOSQSnzCMNy0XyPbrOueEyF0L2-jqK2dmdoWYR2FfJjgI2avJgaaYDrK6imCze2NwRCqXMEuFFrS80jLyIDUfOZXayglVPXcp2-f6C_TsdSLVQUOzHHUlp0NntBHq23UtwKShNDgXIukjd8YV8voA_TEkuBNk-B68KgnE4LsV-ef9feNdvysM_UA66zg"
+  },
+  {
+   "label": "Comcast Reports 3rd Quarter 2026 Results | Comcast Corporation",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbApoCC5xe0us2wf6n7dQAcTEDWj-SHUeIfkT3cZ9piHvoP7rsunv_QJy6NO89VDwD5gWXryAU8vLuz53QL8ao2IBEcQLmacAGamD8Y64epX3b4mD4GV-3TPUQ4A1z1SMvLBxXyZqW6K2-TpOuDDY9vP19tDZz7kGThMJdxS4LH0pR-_yVaVddT-2BMXDwUya9NgsX86Z9jt-Ag"
+  },
+  {
+   "label": "YouTube Masthead Now Accepts Certified Online Gambling Ads - RG.org",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgrplyKzihkl1DDNcfp39fkBtyqxIyCQAqwXmJhi8V4OXZP6HjTO4RxnuWVQKw1JqNIMx3AgjYGpO5RlTy-9XgNKAT_O8rm4YGDt26zgJ3hr0TxxW4HGpK9ERPbKjxYmcw2boj5dATiLGabFjiWjzsYDhyEpn_bo0QaMTH6Mg6_S6_TsftEONYdzP9nwtD"
+  },
+  {
+   "label": "Shanghai studio brings Chinese icons to global audiences | The Star",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5KF4mUsAXT6fatCg5wKWFvaBwAJKkIzXxjWFrY0rM6gaUuZc-AG-DJpLfSs-7Q7WfniG1cUd6Aq1uQq0uIY3FFklX5RRrhPBtn_pFFCRB2MI1SJCkMW8vBDz_LyIFpGJc4r9anR-BeAFRG_95lcu6WXwmqiArKPo0frAdTrf2ealxzoNEZUKA2kf5BM1yJrZ1xSFhKXL82RVQQq-ZxFCmyLBRWSkEkrIls5_poxkg-70"
+  },
+  {
+   "label": "Bilibili Inc. to Hold Extraordinary General Meeting on October 28, 2026 | Markets Insider",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYRQbjp3cRQO-4E18BmcZgFn548iki6mh-1VWqUY67oDfopbgHyA53M0LVt0Mx1qjNxfQ0K3YVmlUxAIiIUe84wZHEgwXVYyaonLsecIdx5cA2oBiUoBInbW1JgLPdhhmF3gzMp6z7rPnrc25x4oWd0w8qiUhPHQFKK9Ub2xzWm8WpdZaf92Cw-jkVnH1E754zkX1sVhpMOYDOySyPPgVwYzglp6KqZrv6jxCdVdet0uCeJPcFvSX6DEJQ"
+  }
+ ]
+}
