@@ -1,0 +1,364 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився значною консолідацією з інвестицією Ілона Маска в новостворену Skydance Corporation. Провідні платформи, такі як YouTube, TikTok та Meta, посилили вимоги до монетизації та фокусуються на оригінальному контенті, активно інтегруючи AI для персоналізації. Зростає регуляторний тиск на Meta та TikTok щодо безпеки дітей та конфіденційності даних, що призводить до багатомільярдних штрафів.",
+ "key_figure": {
+  "value": "$25 млрд",
+  "context": "Штраф, накладений Нью-Мексико на Meta за порушення конфіденційності даних, що є одним з найбільших в історії."
+ },
+ "figures": [
+  {
+   "value": "$110-111 млрд",
+   "label": "Сума злиття Paramount-Warner Bros. Discovery"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиція Ілона Маска в Skydance"
+  },
+  {
+   "value": "Подвоєння",
+   "label": "Пороги монетизації YouTube Shorts з 2027 року"
+  },
+  {
+   "value": "$64.60 млрд",
+   "label": "Загальний дохід Meta у Q3 2026"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery на суму $110-111 млрд створило нового медіагіганта Skydance Corporation. Ця подія, що кардинально змінює ландшафт традиційної відеодистрибуції, була посилена інвестицією Ілона Маска у розмірі $1 млрд, що свідчить про потенційні стратегічні партнерства та подальші консолідації в галузі. Skydance Corporation, яка тепер об'єднує значні активи та контент-бібліотеки, очікує оптимізації операцій та формування нової контент-стратегії, що може вплинути на конкуренцію зі стрімінговими сервісами та традиційними студіями.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 6
+  },
+  {
+   "label": "Алгоритми",
+   "n": 2
+  },
+  {
+   "label": "Контент",
+   "n": 2
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, Elon Musk",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Значна інвестиція у новоствореного медіагіганта, що може вплинути на його стратегію та подальші угоди.",
+   "url": "https://mediapost.com/publications/article/390977/musk-pours-1-billion-into-skydance.html, https://ceoworld.biz/2026/10/23/billionaire-elon-musks-reported-1-billion-skydance-stake-a-small-check-with-large-questions/, https://www.bestmediainfo.com/2026/10/skydance-gets-about-1-billion-dollars-from-elon-musk-weeks-after-warner-bros-discovery-deal, https://www.adgully.com/elon-musk-reportedly-invests-1b-in-skydance-equity-raise-post-paramount-wbd-mega-merger-124018.html, https://www.semafor.com/article/10/22/2026/elon-musk-makes-1-billion-investment-in-ellisons-skydance"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, Paramount, Warner Bros. Discovery",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery, створення Skydance Corporation",
+   "why": "Створює нового медіагіганта, що кардинально змінює ландшафт традиційної відеодистрибуції.",
+   "url": "https://ceoworld.biz/2026/10/23/billionaire-elon-musks-reported-1-billion-skydance-stake-a-small-check-with-large-questions/, https://www.bestmediainfo.com/2026/10/skydance-gets-about-1-billion-dollars-from-elon-musk-weeks-after-warner-bros-discovery-deal, https://www.adgully.com/elon-musk-reportedly-invests-1b-in-skydance-equity-raise-post-paramount-wbd-mega-merger-124018.html"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta, Нью-Мексико",
+   "title": "Meta оштрафована Нью-Мексико на $25 млрд за порушення конфіденційності даних",
+   "why": "Демонструє посилення регуляторного тиску на великі технологічні компанії та значні фінансові наслідки.",
+   "url": "https://www.mediapost.com/publications/article/390974/meta-ordered-to-pay-25b-in-new-mexico-for-misleadi.html, https://www.businessinsider.com/meta-ordered-to-pay-25b-in-new-mexico-for-misleading-users-on-privacy-2026-10"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд",
+   "why": "Значний штраф та зміни в політиці впливають на стратегію платформи та довіру користувачів.",
+   "url": "https://www.legal500.com/developments/in-house-insight/meta-settles-multi-state-child-safety-and-privacy-litigation/, https://oag.dc.gov/release/attorney-general-schwalb-announces-meta-will-pay"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok викритий у ризиках експлуатації дітей",
+   "why": "Створює тиск на TikTok щодо безпеки користувачів та може призвести до регуляторних змін.",
+   "url": "https://www.mediapost.com/publications/article/390973/court-documents-put-tiktok-in-the-eye-of-the-storm.html, https://www.medicaldaily.com/tiktok-safety-staff-testified-they-warned-executives-about-child-exploitation-and-suicide-content-risks-teen-users-447551, https://netinfluencer.com/tiktok-execs-were-warned-about-child-sexual-exploitation-suicide-content-risks-and-took-limited-action-court-records-show/, https://www.engadget.com/tiktok-employees-warned-executives-about-child-exploitation-risks-court-documents-show-000000624.html, https://9to5mac.com/2026/10/21/tiktok-child-sexual-exploitation-videos/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts з 2027 року",
+   "why": "Впливає на стратегію творців контенту та конкурентоспроможність платформи.",
+   "url": "https://scenema.ai/youtube-monetization-requirements-2026-2027/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація, контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program з фокусом на довгий оригінальний контент",
+   "why": "Стимулює створення більш якісного та довгого контенту, змінюючи стратегію творців.",
+   "url": "https://clip-short.ai/tiktok-creator-rewards-program-2026/, https://benly.com/tiktok-creator-rewards-program-2026/, https://influenceflow.com/tiktok-creator-rewards-payment-rates-2026/, https://influenceflow.com/tiktok-creator-rewards-program-in-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація, контент",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta об'єднує програми монетизації та посилює вимоги до оригінальності контенту",
+   "why": "Впливає на стратегію творців контенту та якість контенту на платформах Meta.",
+   "url": "https://clip-short.ai/facebook-monetization-policy-2026/, https://clip-short.ai/facebook-content-monetization-in-2026/"
+  },
+  {
+   "importance": "high",
+   "theme": "фандинг, продукт",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta звітує про зростання доходів від реклами та користувачів у Q3 2026, збільшуючи витрати на AI",
+   "why": "Показує фінансове здоров'я компанії та стратегічний фокус на AI, що вплине на майбутні продукти та алгоритми.",
+   "url": "https://www.mediapost.com/publications/article/390976/meta-q3-boosts-ai-spend-ad-biz-users.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Comcast",
+   "title": "Comcast анонсує масштабні скорочення робочих місць та реструктуризацію",
+   "why": "Вказує на виклики для традиційних медіа та телекомунікаційних компаній, що може вплинути на їхню стратегію відеодистрибуції.",
+   "url": "https://www.mediapost.com/publications/article/390977/musk-pours-1-billion-into-skydance.html, https://www.adgully.com/elon-musk-reportedly-invests-1b-in-skydance-equity-raise-post-paramount-wbd-mega-merger-124018.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat уніфікує програми монетизації для Stories та Spotlight",
+   "why": "Спрощує процес монетизації для творців та може збільшити їхню активність.",
+   "url": "https://clip-short.ai/how-snapchat-pays-creators-in-2026/, https://www.snapchat.com/creator/monetization, https://kompozy.com/snapchat-monetization-2026/, https://www.snapchat.com/creator/monetization/updates, https://storika.io/snapchat-creator-marketing-2026/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "регулятор",
+   "source": "ЄС",
+   "title": "Набули чинності правила ЄС щодо маркування AI-контенту",
+   "why": "Встановлює нові стандарти для контенту, створеного ШІ, що вплине на його дистрибуцію.",
+   "url": "https://www.conference-board.org/topics/artificial-intelligence/EU-AI-Act-Transparency-Rules-for-AI-Generated-Content, https://digital-strategy.ec.europa.eu/en/policies/enforcement-framework-ai-act, https://swfte.ai/eu-ai-act-2026-what-applies-now-and-what-comes-next/, https://insidelegal.ai/european-commission-maps-ai-act-enforcement-powers-and-penalties/, https://swfte.ai/eu-ai-act-in-2026-what-actually-applies-right-now/"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт, алгоритми",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video отримує значний редизайн з інтеграцією AI",
+   "why": "Підкреслює зростаючу роль AI у персоналізації та рекомендаціях контенту на великих стрімінгових платформах.",
+   "url": "https://press.amazon.com/2026/10/new-to-prime-video-in-october-2026, https://www.reuters.com/technology/amazon-prime-video-redesign-ai-bezos-2026-07-23/, https://techcentral.co.za/massive-changes-coming-to-amazon-prime-video/259468/, https://www.movieguide.org/news/prime-video-ai-helps-creativity.html"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація, контент",
+   "stream": "конкурент",
+   "source": "Bilibili",
+   "title": "Bilibili розширюється глобально, пропонуючи привабливі виплати творцям",
+   "why": "Посилює конкуренцію за творців контенту на міжнародному ринку, особливо в Азії.",
+   "url": "https://memeburn.com/2026/09/bilibili-vs-youtube-2026-why-creators-may-start-posting-on-both/, https://www.tbsnews.net/economy/bangladeshi-content-creators-explore-bilibili-monetization-307567, https://naise.ai/bilibili-vs-youtube-the-0-70-creator-payout-threat/, https://jawlah.com/is-chinas-bilibili-preparing-to-compete-with-youtube-for-content-creators/, https://profit.ndtv.com/news/youtube-rival-bilibili-expands-globally-reportedly-offering-creators-rs-60-per-1000-views-4328575"
+  },
+  {
+   "importance": "low",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube тестує щомісячні бонуси для творців Shorts",
+   "why": "Додаткові стимули для творців Shorts можуть посилити конкуренцію за короткий відеоконтент.",
+   "url": "https://www.mediapost.com/publications/article/390975/youtube-tests-monthly-bonuses-for-shorts-creators.html"
+  },
+  {
+   "importance": "low",
+   "theme": "алгоритми, продукт",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube оновлює вкладку \"Головна\" за допомогою AI-керованих стрічок",
+   "why": "Покращує персоналізацію контенту, що може збільшити залученість користувачів.",
+   "url": "https://www.adgully.com/elon-musk-reportedly-invests-1b-in-skydance-equity-raise-post-paramount-wbd-mega-merger-124018.html"
+  }
+ ],
+ "trends": [
+  "Консолідація традиційних медіаактивів та значні інвестиції у нових медіагігантів, таких як Skydance Corporation.",
+  "Посилення вимог до монетизації та фокус на оригінальному, якісному контенті на платформах (YouTube, TikTok, Meta, Snapchat).",
+  "Зростаючий регуляторний тиск на великі технологічні компанії щодо безпеки дітей, конфіденційності даних та прозорості AI-контенту, що призводить до багатомільярдних штрафів та врегулювань.",
+  "Активна інтеграція штучного інтелекту (AI) у продукти та алгоритми платформ для покращення персоналізації та залучення користувачів (Meta, Amazon Prime Video, YouTube).",
+  "Реструктуризація та скорочення робочих місць у традиційних телекомунікаційних компаніях на тлі змін у споживанні контенту (Comcast)."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Активні M&A процеси (США), значні інвестиції у медіагігантів, посилення регуляторного тиску на технологічні гіганти (США, ЄС), зміни в монетизації на глобальних платформах. Comcast анонсує скорочення робочих місць."
+  },
+  {
+   "region": "Азія",
+   "note": "TikTok оновлює Creator Rewards Program, що впливає на творців в Азії. Bilibili активно розширюється глобально, пропонуючи привабливі виплати творцям, що посилює конкуренцію за таланти."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів, але глобальні зміни в монетизації та контент-стратегіях платформ, а також регуляторні тенденції, впливають на місцевих творців та дистриб'юторів."
+  }
+ ],
+ "changed": "Проти попередніх днів, ринок відеодистрибуції отримав значну інвестицію Ілона Маска у новостворену Skydance Corporation, що підкреслює її зростаюче значення. Також з'явилися деталі про фінансові результати Meta у Q3 2026, що демонструють зростання доходів від реклами та інвестиції в AI. YouTube почав тестувати щомісячні бонуси для Shorts, а Amazon Prime Video анонсував значний редизайн з інтеграцією AI, що свідчить про посилення фокусу на AI-персоналізації. Крім того, Comcast оголосив про майбутні скорочення робочих місць, що відображає тиск на традиційні медіа.",
+ "bizdev": [
+  "Дослідження можливостей партнерства з Skydance Corporation та іншими новими медіагігантами для дистрибуції контенту.",
+  "Розробка контент-стратегій, що відповідають посиленим вимогам платформ до оригінальності та тривалості контенту (особливо для TikTok та Meta).",
+  "Інвестиції в AI-рішення для персоналізації контенту та покращення рекомендаційних систем на власних платформах або для партнерів.",
+  "Моніторинг та адаптація до регуляторних змін щодо безпеки дітей, конфіденційності даних та маркування AI-контенту для уникнення ризиків.",
+  "Вивчення можливостей співпраці з Bilibili для виходу на азіатські ринки та залучення нових творців, враховуючи їхні привабливі програми монетизації."
+ ],
+ "watch_next": [
+  "Подальші кроки Skydance Corporation щодо контент-стратегії, інтеграції активів та можливих M&A (наприклад, угода зі SpaceX).",
+  "Вплив нових програм монетизації та посилених вимог на доходи та стратегії творців на YouTube, TikTok, Meta та Snapchat.",
+  "Розвиток регуляторного ландшафту та подальші дії Meta та TikTok у відповідь на штрафи та позови.",
+  "Результати інтеграції AI в Amazon Prime Video та YouTube, а також їхній вплив на залуженість користувачів.",
+  "Наслідки реструктуризації Comcast для традиційного ринку відеодистрибуції та потенційні зміни в ландшафті кабельного телебачення."
+ ],
+ "sources": [
+  {
+   "label": "MediaPost",
+   "url": "https://www.mediapost.com"
+  },
+  {
+   "label": "CEOWORLD Magazine",
+   "url": "https://ceoworld.biz"
+  },
+  {
+   "label": "BestMediaInfo.com",
+   "url": "https://www.bestmediainfo.com"
+  },
+  {
+   "label": "Adgully",
+   "url": "https://www.adgully.com"
+  },
+  {
+   "label": "Semafor",
+   "url": "https://www.semafor.com"
+  },
+  {
+   "label": "Business Insider",
+   "url": "https://www.businessinsider.com"
+  },
+  {
+   "label": "Legal 500",
+   "url": "https://www.legal500.com"
+  },
+  {
+   "label": "Attorney General Schwalb",
+   "url": "https://oag.dc.gov"
+  },
+  {
+   "label": "Medical Daily",
+   "url": "https://www.medicaldaily.com"
+  },
+  {
+   "label": "Net Influencer",
+   "url": "https://netinfluencer.com"
+  },
+  {
+   "label": "Engadget",
+   "url": "https://www.engadget.com"
+  },
+  {
+   "label": "9to5Mac",
+   "url": "https://9to5mac.com"
+  },
+  {
+   "label": "Scenema AI",
+   "url": "https://scenema.ai"
+  },
+  {
+   "label": "Clip-Short AI",
+   "url": "https://clip-short.ai"
+  },
+  {
+   "label": "Benly",
+   "url": "https://benly.com"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com"
+  },
+  {
+   "label": "The Conference Board",
+   "url": "https://www.conference-board.org"
+  },
+  {
+   "label": "Shaping Europe's digital future (European Commission)",
+   "url": "https://digital-strategy.ec.europa.eu"
+  },
+  {
+   "label": "EU AI Act 2026 (Swfte)",
+   "url": "https://swfte.ai"
+  },
+  {
+   "label": "Inside Legal AI",
+   "url": "https://insidelegal.ai"
+  },
+  {
+   "label": "Amazon MGM Studios",
+   "url": "https://press.amazon.com"
+  },
+  {
+   "label": "Reuters",
+   "url": "https://www.reuters.com"
+  },
+  {
+   "label": "TechCentral",
+   "url": "https://techcentral.co.za"
+  },
+  {
+   "label": "Movieguide",
+   "url": "https://www.movieguide.org"
+  },
+  {
+   "label": "Memeburn",
+   "url": "https://memeburn.com"
+  },
+  {
+   "label": "TBS News",
+   "url": "https://www.tbsnews.net"
+  },
+  {
+   "label": "Naise AI",
+   "url": "https://naise.ai"
+  },
+  {
+   "label": "Jawlah",
+   "url": "https://jawlah.com"
+  },
+  {
+   "label": "NDTV Profit",
+   "url": "https://profit.ndtv.com"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://www.snapchat.com"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://kompozy.com"
+  },
+  {
+   "label": "Storika",
+   "url": "https://storika.io"
+  }
+ ]
+}
