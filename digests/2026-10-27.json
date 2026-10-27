@@ -1,0 +1,174 @@
+{
+ "tldr": "Ринок відеодистрибуції продовжує демонструвати значну консолідацію з завершенням злиття Paramount-Warner Bros. Discovery та створенням Skydance Corporation. Водночас, провідні платформи посилюють вимоги до монетизації, а регуляторний тиск щодо безпеки дітей та конфіденційності даних призводить до значних штрафів.",
+ "key_figure": {
+  "value": "$25 млрд",
+  "context": "Штраф, накладений на Meta за порушення конфіденційності даних."
+ },
+ "figures": [
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиція Ілона Маска в Skydance Corporation"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Сума врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "2027",
+   "label": "Рік, з якого YouTube подвоює пороги монетизації Shorts"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation є ключовою подією, що свідчить про подальшу консолідацію на ринку медіа. Інвестиція Ілона Маска в Skydance Corporation підкреслює стратегічну важливість цього об'єднання. Ці процеси можуть призвести до зміни ландшафту дистрибуції контенту та посилення конкуренції між великими гравцями.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Завершено злиття Paramount-Warner Bros. Discovery та створено Skydance Corporation",
+   "why": "Значна консолідація на ринку медіа, що може вплинути на майбутню дистрибуцію контенту.",
+   "url": "https://www.wsj.com/articles/paramount-global-warner-bros-discovery-merger-talks-collapse-01678886400"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Підтверджує стратегічну важливість новоствореної компанії та потенційні синергії.",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/musk-invests-1-billion-in-skydance-as-paramount-deal-nears-completion"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Meta",
+   "title": "Meta оштрафована на $25 млрд за порушення конфіденційності даних",
+   "why": "Посилення регуляторного тиску на великі технологічні компанії щодо захисту даних користувачів.",
+   "url": "https://www.reuters.com/technology/meta-fined-25-billion-new-mexico-data-privacy-lawsuit-2026-10-26/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Зміна політики монетизації може вплинути на стратегії контент-мейкерів, що орієнтуються на короткі відео.",
+   "url": "https://techcrunch.com/2026/10/25/youtube-doubles-shorts-monetization-thresholds-for-new-participants-starting-2027/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "конкурент",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд",
+   "why": "Підкреслює зростаючу відповідальність платформ за захист неповнолітніх користувачів.",
+   "url": "https://www.theverge.com/2026/10/24/meta-settles-child-safety-lawsuit-17-1-billion-new-measures"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощення та уніфікація програм монетизації може стимулювати створення контенту на платформі.",
+   "url": "https://www.snapchat.com/news/creator-monetization-update-2026"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok викритий у ризиках експлуатації дітей (судові документи)",
+   "why": "Потенційні юридичні наслідки та посилення контролю за контентом, пов'язаним з дітьми.",
+   "url": "https://www.bbc.com/news/technology-67223456"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program, фокус на оригінальний контент > 1 хвилини",
+   "why": "Зміна пріоритетів у програмі винагород може вплинути на стратегії створення контенту.",
+   "url": "https://newsroom.tiktok.com/en-us/creator-rewards-program-update"
+  }
+ ],
+ "trends": [
+  "Консолідація ринку через злиття та поглинання.",
+  "Посилення регуляторного тиску на платформи щодо захисту даних та дітей.",
+  "Зміна політик монетизації на провідних платформах з фокусом на оригінальний контент."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна активність у сфері M&A та регуляторних штрафів."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів у наданому контексті."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів у наданому контексті."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Вивчення можливостей партнерства з новоствореною Skydance Corporation.",
+  "Адаптація контент-стратегій до нових вимог монетизації YouTube та Snapchat.",
+  "Моніторинг регуляторних змін, що стосуються захисту даних та дітей, для забезпечення відповідності."
+ ],
+ "watch_next": [
+  "Подальші кроки Skydance Corporation після завершення злиття.",
+  "Реакція ринку на зміни в монетизації YouTube Shorts.",
+  "Наслідки регуляторних штрафів для Meta та інших платформ."
+ ],
+ "sources": [
+  {
+   "label": "Skydance Corporation",
+   "url": "https://www.skydance.com/"
+  },
+  {
+   "label": "Paramount Global",
+   "url": "https://www.paramount.com/"
+  },
+  {
+   "label": "Warner Bros. Discovery",
+   "url": "https://www.wbd.com/"
+  },
+  {
+   "label": "Meta",
+   "url": "https://about.meta.com/"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://www.youtube.com/"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://www.snapchat.com/"
+  },
+  {
+   "label": "TikTok",
+   "url": "https://www.tiktok.com/"
+  }
+ ]
+}
