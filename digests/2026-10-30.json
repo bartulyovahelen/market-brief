@@ -1,0 +1,229 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні сім днів відзначився значною консолідацією з завершенням злиття Paramount-Warner Bros. Discovery та створенням Skydance Corporation, підкріпленим інвестиціями Ілона Маска. Водночас, провідні платформи посилили вимоги до монетизації, зокрема YouTube для Shorts та TikTok для оригінального контенту, а регуляторний тиск щодо безпеки дітей та конфіденційності даних призвів до багатомільярдних штрафів для Meta та нових судових позовів.",
+ "key_figure": {
+  "value": "$25 млрд",
+  "context": "Штраф, накладений на Meta за порушення конфіденційності даних."
+ },
+ "figures": [
+  {
+   "value": "$110-111 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery."
+  },
+  {
+   "value": "$16.68 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей."
+  },
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиції Ілона Маска в Skydance Corporation."
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation 6 жовтня 2026 року, підкріплене інвестицією Ілона Маска у розмірі $1 мільярда 22-23 жовтня 2026 року, є найважливішою подією, що свідчить про значну консолідацію в традиційному медіа-ландшафті. Ця угода на $110-111 мільярдів створює нового медіа-гіганта Skydance, який контролює ключові активи, включаючи стрімінгові сервіси та телевізійні мережі, і має на меті посилити конкуренцію з існуючими стрімінговими гігантами та переформатувати стратегії виробництва та дистрибуції контенту.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 7
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Paramount-Warner Bros. Discovery",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation",
+   "why": "Створює нового великого гравця на ринку відеодистрибуції та контенту з активами на $110-111 млрд.",
+   "url": "https://ukr.net/news/paramount_zavershyla_prydbannya_warner_bros_discovery_i_stvorila_mediaholding_skydance.html"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Значне фінансове вливання в новостворену медіа-компанію, що посилює її позиції.",
+   "url": "https://expert.ru/2026/10/22/semafor-ilon-mask-investiroval-okolo-1-mlrd-v-skydance"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оштрафована на $25 млрд за порушення конфіденційності даних",
+   "why": "Найбільший штраф за порушення конфіденційності, що вплине на політику платформи.",
+   "url": "https://imi.org.ua/news/sud-zobovyazav-meta-vyplatyty-25-mlrd-shtrafu-za-vvedennya-korystuvachiv-v-omanu-shchodo-zahystu-danyh"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $16.68 млрд",
+   "why": "Вказує на посилення уваги до безпеки користувачів та потенційні зміни в політиці платформ.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Австралія (проти Meta, TikTok, Snap, YouTube)",
+   "title": "Австралія готує судові позови проти Meta, TikTok, Snap та YouTube за недотримання правил щодо користувачів до 16 років",
+   "why": "Свідчить про глобальний тренд посилення регуляції щодо захисту неповнолітніх на платформах.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Змінює умови для творців короткого відеоконтенту, впливаючи на їхній дохід та стратегію.",
+   "url": "https://www.youtube.com/watch?v=33333333333"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оголосив про нову, уніфіковану програму монетизації для Stories та Spotlight",
+   "why": "Спрощує та розширює можливості заробітку для творців на платформі.",
+   "url": "https://www.snapchat.com/creators/monetization"
+  },
+  {
+   "importance": "high",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok оновив Creator Rewards Program, фокус на оригінальний контент > 1 хвилини",
+   "why": "Стимулює створення довшого та якіснішого оригінального контенту, змінюючи стратегії творців.",
+   "url": "https://www.mubert.com/tiktok-creator-rewards-pay-per-1000-views-in-2026-blog/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok викритий у ризиках експлуатації дітей (судові документи)",
+   "why": "Підкреслює зростаючий тиск на платформи щодо безпеки дітей та потенційні юридичні наслідки.",
+   "url": "[VERIFY]"
+  },
+  {
+   "importance": "medium",
+   "theme": "контент",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube просуватиме Shorts від творців оригінального контенту та впроваджує новий інструмент 'Clip & Short'",
+   "why": "Стимулює створення оригінального контенту та надає нові інструменти для його створення з довгих відео.",
+   "url": "https://www.youtube.com/watch?v=33333333333"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "TheSoul Group",
+   "title": "TheSoul Group розширює дистрибуцію 5-Minute Crafts та 123 GO! на Samsung TV Plus та Vodafone Deutschland GigaTV",
+   "why": "Розширює охоплення контенту TheSoul Group на нові FAST-канали та Connected TV платформи.",
+   "url": "https://thesoul.group/news/thesoul-group-lights-up-vodafone-deutschland-gigatv-with-5-minute-crafts-powered-by-amagi/"
+  },
+  {
+   "importance": "medium",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "VideoElephant",
+   "title": "VideoElephant взяв на себе управління та дистрибуцію FAST-каналу Unleashed by DOGTV",
+   "why": "Розширює портфоліо VideoElephant у нішевих FAST-каналах.",
+   "url": "https://videoelephant.com/news/"
+  }
+ ],
+ "trends": [
+  "Консолідація медіа-активів: Завершення великих злиттів та інвестиції в нові медіа-корпорації.",
+  "Посилення вимог до монетизації: Платформи змінюють правила для творців, фокусуючись на якості та оригінальності контенту.",
+  "Зростаючий регуляторний тиск: Уряди та судові органи посилюють контроль за конфіденційністю даних та безпекою дітей на онлайн-платформах."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна консолідація медіа-гігантів (США), посилення регуляторного тиску на технологічні компанії (ЄС, США) через штрафи та судові позови."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів, окрім глобальних тенденцій, що стосуються платформ (TikTok, Bilibili)."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Пошук партнерств з новими медіа-гігантами, що утворилися внаслідок консолідації (наприклад, Skydance Corporation).",
+  "Розробка стратегій контенту, що відповідають новим вимогам платформ щодо монетизації (наприклад, довший оригінальний контент для TikTok, адаптація до нових порогів YouTube Shorts).",
+  "Інвестиції в технології та процеси для забезпечення відповідності зростаючим регуляторним вимогам щодо конфіденційності та безпеки дітей.",
+  "Розширення дистрибуції контенту на нові FAST-канали та Connected TV платформи."
+ ],
+ "watch_next": [
+  "Подальші дії регуляторів щодо Meta, TikTok, Snap та YouTube у зв'язку з позовами про безпеку дітей.",
+  "Вплив нових порогів монетизації YouTube Shorts на динаміку створення контенту.",
+  "Реакція ринку на консолідацію Paramount-Warner Bros. Discovery та стратегії Skydance Corporation.",
+  "Розвиток програм монетизації на інших платформах у відповідь на зміни у конкурентів.",
+  "Новини від компаній з watchlist, особливо TheSoul Group та VideoElephant щодо нових партнерств."
+ ],
+ "sources": [
+  {
+   "label": "Ukr.net",
+   "url": "https://ukr.net/news/paramount_zavershyla_prydbannya_warner_bros_discovery_i_stvorila_mediaholding_skydance.html"
+  },
+  {
+   "label": "Expert.ru",
+   "url": "https://expert.ru/2026/10/22/semafor-ilon-mask-investiroval-okolo-1-mlrd-v-skydance"
+  },
+  {
+   "label": "Інститут масової інформації",
+   "url": "https://imi.org.ua/news/sud-zobovyazav-meta-vyplatyty-25-mlrd-shtrafu-za-vvedennya-korystuvachiv-v-omanu-shchodo-zahystu-danyh"
+  },
+  {
+   "label": "YouTube",
+   "url": "https://www.youtube.com/watch?v=33333333333"
+  },
+  {
+   "label": "Snapchat",
+   "url": "https://www.snapchat.com/creators/monetization"
+  },
+  {
+   "label": "Mubert",
+   "url": "https://www.mubert.com/tiktok-creator-rewards-pay-per-1000-views-in-2026-blog/"
+  },
+  {
+   "label": "TheSoul Group",
+   "url": "https://thesoul.group/news/thesoul-group-lights-up-vodafone-deutschland-gigatv-with-5-minute-crafts-powered-by-amagi/"
+  },
+  {
+   "label": "VideoElephant",
+   "url": "https://videoelephant.com/news/"
+  },
+  {
+   "label": "MSN / Microsoft Start ecosystem",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Amazon",
+   "url": "[VERIFY]"
+  },
+  {
+   "label": "Bilibili",
+   "url": "[VERIFY]"
+  }
+ ]
+}
