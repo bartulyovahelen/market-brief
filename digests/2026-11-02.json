@@ -1,0 +1,202 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значною консолідацією з завершенням злиття Paramount-Warner Bros. Discovery та створенням Skydance Corporation, підкріпленим інвестиціями Ілона Маска. Водночас, провідні платформи зіткнулися з посиленим регуляторним тиском, що призвів до багатомільярдних штрафів для Meta та підготовки судових позовів проти кількох платформ в Австралії, а також змінами в монетизації Shorts на YouTube та програмі Snapchat.",
+ "key_figure": {
+  "value": "$25 млрд",
+  "context": "Штраф, накладений на Meta у Нью-Мексико за порушення конфіденційності даних."
+ },
+ "figures": [
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиції Ілона Маска в Skydance Corporation"
+  },
+  {
+   "value": "$110 млрд",
+   "label": "Вартість злиття Paramount-Warner Bros. Discovery"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation 6 жовтня 2026 року, підкріплене інвестиціями Ілона Маска на $1 млрд, є найважливішою подією, що сигналізує про значну консолідацію на ринку відеодистрибуції. Ця подія змінює ландшафт великих медіа-конгломератів, створюючи нового потужного гравця, який потенційно може вплинути на конкуренцію та стратегії дистрибуції контенту. Нова компанія, названа Skydance, об'єднує дві великі кіностудії, два глобальні стрімінгові сервіси (Paramount+ та HBO Max), телевізійні активи, включаючи CBS, HBO, CNN, та планує інтегрувати свої стрімінгові пропозиції. Залучення інвестицій від Ілона Маска підсилює позиції нового гравця на ринку та його потенціал розвитку. Далі варто спостерігати за інтеграцією активів та формуванням контентної стратегії Skydance Corporation.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оштрафована на $25 млрд за порушення конфіденційності даних",
+   "why": "Демонструє посилення регуляторного тиску на великі платформи щодо захисту даних користувачів, що може призвести до зміни бізнес-моделей та операційних практик.",
+   "url": "https://www.motleyrice.com/news/new-mexico-judge-orders-meta-to-pay-record-25-billion-privacy-penalty/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд",
+   "why": "Підкреслює зростаючу відповідальність платформ за безпеку неповнолітніх та значні фінансові наслідки, що впливає на політику контенту та дизайн платформ.",
+   "url": "https://www.pbs.org/newshour/nation/meta-reaches-17-billion-settlement-with-states-in-landmark-trial-over-teen-social-media-addiction"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation",
+   "why": "Значна консолідація на ринку відеодистрибуції, що змінює ландшафт великих медіа-конгломератів та конкурентне середовище.",
+   "url": "https://www.prnewswire.com/news-releases/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance-302307843.html"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, Ілон Маск",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Залучення значних інвестицій від впливової особистості підсилює позиції нового гравця на ринку та його потенціал розвитку.",
+   "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/22/musk-invests-1-billion-in-david-ellisons-skydance/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Уряд Австралії, Meta, TikTok, Snap, YouTube",
+   "title": "Австралія готує позови проти Meta, TikTok, Snap та YouTube",
+   "why": "Свідчить про глобальну тенденцію посилення контролю за віковими обмеженнями та захистом дітей на платформах, що може призвести до зміни політики.",
+   "url": "https://seekingalpha.com/news/4996956-australia-set-to-sue-meta-tiktok-and-other-tech-giants-over-under-16-social-media-ban"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts",
+   "why": "Змінює умови для творців короткого відеоконтенту, впливаючи на їхні стратегії та потенційні доходи з 2027 року.",
+   "url": "https://www.tubefilter.com/2026/08/10/youtube-shorts-monetization-requirements-partner-program-amjad-hanif/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оновив програму монетизації",
+   "why": "Вказує на зусилля платформи з підтримки та залучення творців контенту, що може вплинути на конкуренцію за таланти.",
+   "url": "https://searchlight.social/blog/snapchat-creator-monetization-income-streams"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація / контент",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok посилив вимоги до оригінального контенту",
+   "why": "Впливає на стратегії створення контенту та потенційні доходи творців на платформі, стимулюючи якісний контент.",
+   "url": "https://clippie.ai/blog/tiktok-changes-in-2026-what-creators-need-to-know"
+  }
+ ],
+ "trends": [
+  "Значна консолідація на ринку великих медіа-конгломератів, що призводить до появи нових потужних гравців.",
+  "Посилення регуляторного тиску на провідні платформи щодо конфіденційності даних та безпеки дітей, що виливається у багатомільярдні штрафи та судові позови.",
+  "Зміни в політиках монетизації на ключових платформах, що впливають на творців контенту та їхні стратегії заробітку."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Відбулася значна консолідація медіа-активів (злиття Paramount-Warner Bros. Discovery, інвестиції Ілона Маска в Skydance) та посилення регуляторного тиску на Meta з багатомільярдними штрафами та врегулюваннями. Австралія також готує судові позови проти великих платформ за недотримання правил щодо користувачів до 16 років."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів, окрім загальних регуляторних тенденцій, що стосуються TikTok у контексті австралійських позовів."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Перший бриф — бази для порівняння ще нема.",
+ "bizdev": [
+  "Розробка стратегій адаптації контенту та дистрибуції до посилених регуляторних вимог щодо безпеки дітей та конфіденційності даних.",
+  "Моніторинг змін у програмах монетизації YouTube Shorts, Snapchat та TikTok для оптимізації доходів творців та партнерів.",
+  "Вивчення можливостей співпраці з новими консолідованими гравцями ринку, такими як Skydance Corporation, для розширення охоплення та дистрибуції контенту."
+ ],
+ "watch_next": [
+  "Подальші дії регуляторних органів щодо Meta, TikTok, Snap та YouTube, особливо в Австралії, та потенційні нові штрафи або зміни в політиках.",
+  "Реакція творців контенту на зміни в політиках монетизації YouTube Shorts та Snapchat та їхній вплив на екосистеми платформ.",
+  "Стратегії інтеграції та контентні плани Skydance Corporation після злиття, включаючи можливі зміни у стрімінгових сервісах Paramount+ та HBO Max."
+ ],
+ "sources": [
+  {
+   "label": "Motley Rice",
+   "url": "https://www.motleyrice.com/news/new-mexico-judge-orders-meta-to-pay-record-25-billion-privacy-penalty/"
+  },
+  {
+   "label": "PBS",
+   "url": "https://www.pbs.org/newshour/nation/meta-reaches-17-billion-settlement-with-states-in-landmark-trial-over-teen-social-media-addiction"
+  },
+  {
+   "label": "Skydance Corporation",
+   "url": "https://www.prnewswire.com/news-releases/paramount-completes-acquisition-of-warner-bros-discovery-creating-a-new-global-entertainment-leader-skydance-302307843.html"
+  },
+  {
+   "label": "Forbes",
+   "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/22/musk-invests-1-billion-in-david-ellisons-skydance/"
+  },
+  {
+   "label": "Seeking Alpha",
+   "url": "https://seekingalpha.com/news/4996956-australia-set-to-sue-meta-tiktok-and-other-tech-giants-over-under-16-social-media-ban"
+  },
+  {
+   "label": "Tubefilter",
+   "url": "https://www.tubefilter.com/2026/08/10/youtube-shorts-monetization-requirements-partner-program-amjad-hanif/"
+  },
+  {
+   "label": "Searchlight Social",
+   "url": "https://searchlight.social/blog/snapchat-creator-monetization-income-streams"
+  },
+  {
+   "label": "Clippie AI",
+   "url": "https://clippie.ai/blog/tiktok-changes-in-2026-what-creators-need-to-know"
+  },
+  {
+   "label": "Hunton Andrews Kurth LLP",
+   "url": "https://www.huntonak.com/en/insights/meta-ordered-to-pay-new-mexico-25-billion-fine-for-violations-of-state-consumer-protection-law.html"
+  },
+  {
+   "label": "DipSonar",
+   "url": "https://www.dipsonar.com/news/paramount-completes-110-billion-warner-bros-discovery-merger-creating-a-new-hollywood-giant/"
+  },
+  {
+   "label": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/australia-sue-meta-tiktok-snap-google-under-16-ban/"
+  },
+  {
+   "label": "NCS",
+   "url": "https://ncs.io/blog/youtube-tightens-partner-program-requirements-raises-bar-for-shorts-monetization/"
+  },
+  {
+   "label": "Kompozy",
+   "url": "https://kompozy.com/blog/snapchat-monetization-2026-eligibility-payouts/"
+  },
+  {
+   "label": "InfluenceFlow",
+   "url": "https://influenceflow.com/blog/tiktok-original-content-standards-2026/"
+  }
+ ]
+}
