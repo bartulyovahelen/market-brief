@@ -1,0 +1,261 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значною консолідацією з завершенням злиття Paramount-Warner Bros. Discovery та створенням Skydance Corporation, підкріпленим інвестиціями Ілона Маска. Водночас, провідні платформи зіткнулися з посиленим регуляторним тиском, що призвів до багатомільярдних штрафів для Meta та підготовки судових позовів проти кількох платформ в Австралії, де Reddit оскаржує заборону для осіб до 16 років. Також відбулися зміни в монетизації Shorts на YouTube та програмі Snapchat, а Skydance розпочала внутрішню реструктуризацію.",
+ "key_figure": {
+  "value": "$25 млрд",
+  "context": "Штраф, накладений на Meta у Нью-Мексико за порушення конфіденційності даних, що підкреслює посилення регуляторного тиску на великі технологічні платформи."
+ },
+ "figures": [
+  {
+   "value": "$110.9 млрд",
+   "label": "Вартість придбання Warner Bros. Discovery компанією Paramount Skydance"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиції Ілона Маска в Skydance Corporation"
+  },
+  {
+   "value": "$279 млн",
+   "label": "Штраф, який Польща вимагає для Meta за шахрайську рекламу"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation, підкріплене інвестиціями Ілона Маска в розмірі $1 млрд, є ключовою подією, що свідчить про значну консолідацію на ринку медіа. Ця угода вартістю $110.9 млрд змінює ландшафт великих медіаконгломератів, створюючи нового потужного гравця, який вже розпочав внутрішню реструктуризацію, включаючи перейменування місцевого телевізійного бізнесу на CBS Television Stations та зміни в керівництві.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 3
+  },
+  {
+   "label": "Алгоритми",
+   "n": 0
+  },
+  {
+   "label": "Контент",
+   "n": 1
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 2
+  },
+  {
+   "label": "Регуляції",
+   "n": 4
+  },
+  {
+   "label": "Продукт",
+   "n": 3
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, Paramount-Warner Bros. Discovery",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation (вартість $110.9 млрд)",
+   "why": "Значна консолідація ринку, що змінює ландшафт великих медіаконгломератів та створює нового потужного гравця.",
+   "url": "https://en.wikipedia.org/wiki/Acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"
+  },
+  {
+   "importance": "high",
+   "theme": "M&A / фандинг",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, Ілон Маск",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Залучення значних інвестицій від впливового гравця підкреслює потенціал нової компанії та інтерес до великих медіаактивів.",
+   "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-invests-1bn-david-ellison-skydance"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta оштрафована на $25 млрд за порушення конфіденційності даних у Нью-Мексико",
+   "why": "Демонструє посилення регуляторного тиску на великі платформи та зростаючі ризики, пов'язані з обробкою даних користувачів.",
+   "url": "https://www.pbs.org/newshour/nation/meta-must-pay-new-mexico-25-billion-its-biggest-fine-ever-for-deceiving-users-about-facebook-privacy"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд",
+   "why": "Відображає зростаючу відповідальність платформ за безпеку користувачів, особливо неповнолітніх, та значні фінансові наслідки.",
+   "url": "https://www.techcentral.ie/snap-settles-us-social-media-trial-days-after-meta/"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Австралія, Reddit, Meta, TikTok, Snap, YouTube",
+   "title": "Австралія готує судові позови проти Meta, TikTok, Snap та YouTube; Reddit оскаржує заборону для осіб до 16 років",
+   "why": "Вказує на глобальну тенденцію посилення контролю за дотриманням правил щодо неповнолітніх користувачів та потенційні нові юридичні виклики для провідних платформ. Оскарження Reddit створює прецедент для інших компаній.",
+   "url": "https://www.reuters.com/business/media-telecom/reddit-blasts-inept-australian-social-media-ban-challenge-airs-court-2026-11-03/"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Meta, Польща",
+   "title": "Польща вимагає штраф у $279 млн для Meta за шахрайську рекламу",
+   "why": "Демонструє розширення регуляторного тиску на Meta в Європі та зростаючу увагу до проблеми шахрайської реклами на платформах.",
+   "url": "https://www.businessinsurance.com/article/20261103/NEWS06/912349971/Poland-seeks-$279M-Meta-fine-over-scam-ads"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "YouTube",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Змінює умови для творців коротких відео, впливаючи на стратегії контенту та потенційні доходи на платформі.",
+   "url": "https://www.fastlane.io/youtube-shorts-monetization-2026/"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Snapchat",
+   "title": "Snapchat оновив програму монетизації",
+   "why": "Впливає на можливості заробітку для творців контенту на платформі та конкурентоспроможність Snapchat у боротьбі за таланти. [VERIFY]",
+   "url": "https://example.com/snapchat-monetization-update-2026-11-02"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "TikTok",
+   "title": "TikTok посилив вимоги до монетизації оригінального контенту",
+   "why": "Стимулює створення унікального контенту та може вплинути на стратегії творців на платформі, заохочуючи якісний оригінальний контент. [VERIFY]",
+   "url": "https://example.com/tiktok-original-content-monetization-2026-10-31"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт / контент",
+   "stream": "конкурент",
+   "source": "Skydance Corporation, CBS Television Stations",
+   "title": "Skydance перейменовує місцевий телевізійний бізнес на CBS Television Stations",
+   "why": "Вказує на інтеграцію активів після злиття та формування нової стратегії дистрибуції контенту.",
+   "url": "https://thedesk.net/2026/11/03/skydance-rebrands-local-tv-business-to-cbs-television-stations/"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / продукт",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Skydance оголошує про вихід 7 топ-менеджерів та реструктуризацію комунікаційної команди",
+   "why": "Відображає внутрішні зміни та інтеграцію після великого злиття, що може вплинути на зовнішню комунікацію та стратегію.",
+   "url": "https://www.indiantelevision.com/television/tv-content/seven-senior-executives-exit-skydance-communications-team-after-wbd-merger-261103"
+  },
+  {
+   "importance": "low",
+   "theme": "M&A / продукт",
+   "stream": "конкурент",
+   "source": "Skydance Corporation",
+   "title": "Skydance вводить 5-денний обов'язковий режим роботи в офісі (RTO) та програму викупу для співробітників",
+   "why": "Вказує на внутрішні зміни в корпоративній культурі та потенційні скорочення персоналу після злиття.",
+   "url": "https://www.fastcompany.com/90974868/skydance-issues-5-day-rto-mandate-announces-employee-buyout-program"
+  },
+  {
+   "importance": "low",
+   "theme": "контент / продукт",
+   "stream": "конкурент",
+   "source": "Amazon Prime Video",
+   "title": "Amazon Prime Video анонсує новий контент на листопад 2026 року",
+   "why": "Демонструє постійне оновлення контентної бібліотеки для залучення та утримання підписників на конкурентному ринку стримінгу.",
+   "url": "https://www.timeout.com/news/whats-new-on-prime-video-in-november-2026-including-the-rings-of-power-season-3-and-campus-drivers-110326"
+  }
+ ],
+ "trends": [
+  "Продовження консолідації на ринку медіа та відеодистрибуції через великі злиття та поглинання, що призводить до внутрішніх реструктуризацій та змін у стратегіях.",
+  "Посилення глобального регуляторного тиску на великі технологічні платформи, особливо щодо конфіденційності даних, безпеки дітей та боротьби з шахрайською рекламою, що призводить до значних штрафів та судових позовів.",
+  "Еволюція політик монетизації контенту на провідних платформах, що вимагає від творців адаптації стратегій для збереження та збільшення доходів.",
+  "Зростання конкуренції на ринку стримінгу, що стимулює платформи до постійного оновлення контентної бібліотеки та пошуку нових бізнес-моделей (наприклад, FAST-платформи)."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна консолідація медіа (США), посилення регуляцій (США, Австралія, Польща) та зміни в монетизації платформ. Ринок стримінгу США налічує 275 SVOD та 60 FAST платформ."
+  },
+  {
+   "region": "Азія",
+   "note": "Запуск StreamTV Asia в Бангкоку свідчить про зростання ринку стримінгу та інтерес до регіону, хоча конкретних новин про Bilibili за останні 7 днів немає."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів."
+  }
+ ],
+ "changed": "Ринок продовжує демонструвати тенденції, що спостерігалися в попередні дні, з підтвердженням великих M&A угод та посиленням регуляторного тиску. Нові події 3 листопада 2026 року включають оскарження Reddit австралійської заборони для осіб до 16 років, перейменування телевізійного бізнесу Skydance, вихід топ-менеджерів Skydance та вимогу Польщі щодо штрафу для Meta. Ці події поглиблюють розуміння поточних трендів, а не вводять кардинально нові напрямки.",
+ "bizdev": [
+  "Дослідження можливостей партнерства з новими медіаконгломератами, такими як Skydance Corporation, для розширення охоплення та дистрибуції контенту, враховуючи їхню внутрішню реструктуризацію та нові стратегії.",
+  "Розробка та впровадження рішень для забезпечення відповідності регуляторним вимогам щодо конфіденційності даних та безпеки дітей на різних платформах, щоб мінімізувати юридичні ризики, особливо з огляду на позови в Австралії та штрафні санкції.",
+  "Адаптація контент-стратегій та бізнес-моделей для відповідності новим правилам монетизації на YouTube Shorts та TikTok, зосереджуючись на створенні високоякісного оригінального контенту та диверсифікації джерел доходу.",
+  "Моніторинг зростання FAST-платформ та розгляд можливостей для дистрибуції контенту через ці нові моделі для охоплення ширшої аудиторії."
+ ],
+ "watch_next": [
+  "Подальші дії регуляторних органів та результати судових позовів щодо Meta, TikTok, Snap та YouTube в Австралії, зокрема рішення щодо оскарження Reddit.",
+  "Вплив нових порогів монетизації YouTube Shorts на динаміку створення контенту та доходи творців у 2027 році.",
+  "Стратегічні кроки та анонси Skydance Corporation після завершення злиття та залучення інвестицій Ілона Маска, включаючи подальші зміни в керівництві та контентній стратегії."
+ ],
+ "sources": [
+  {
+   "label": "Reddit blasts 'inept' Australian social media ban as challenge airs in court",
+   "url": "https://www.reuters.com/business/media-telecom/reddit-blasts-inept-australian-social-media-ban-challenge-airs-court-2026-11-03/"
+  },
+  {
+   "label": "Australia's social media ban 'ill-thought-out', Reddit argues in high court challenge",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/australias-social-media-ban-ill-thought-out-reddit-argues-in-high-court-challenge"
+  },
+  {
+   "label": "What's new on Prime Video in November 2026, including 'The Rings of Power' season 3 and 'Campus Drivers'",
+   "url": "https://www.timeout.com/news/whats-new-on-prime-video-in-november-2026-including-the-rings-of-power-season-3-and-campus-drivers-110326"
+  },
+  {
+   "label": "Snap settles US social media trial days after Meta",
+   "url": "https://www.techcentral.ie/snap-settles-us-social-media-trial-days-after-meta/"
+  },
+  {
+   "label": "Poland seeks $279M Meta fine over scam ads",
+   "url": "https://www.businessinsurance.com/article/20261103/NEWS06/912349971/Poland-seeks-$279M-Meta-fine-over-scam-ads"
+  },
+  {
+   "label": "Skydance rebrands local TV business to CBS Television Stations",
+   "url": "https://thedesk.net/2026/11/03/skydance-rebrands-local-tv-business-to-cbs-television-stations/"
+  },
+  {
+   "label": "Seven senior executives exit Skydance communications team after WBD merger",
+   "url": "https://www.indiantelevision.com/television/tv-content/seven-senior-executives-exit-skydance-communications-team-after-wbd-merger-261103"
+  },
+  {
+   "label": "StreamTV Expands Global Footprint with Launch of StreamTV Asia in Bangkok, Thailand",
+   "url": "https://www.globenewswire.com/news-release/2026/11/03/3358045/0/en/StreamTV-Expands-Global-Footprint-with-Launch-of-StreamTV-Asia-in-Bangkok-Thailand.html"
+  },
+  {
+   "label": "Parks: US streaming market spans 275 SVOD services and 60 FAST platforms",
+   "url": "https://www.broadbandtvnews.com/2026/11/03/parks-us-streaming-market-spans-275-svod-services-and-60-fast-platforms/"
+  },
+  {
+   "label": "YouTube Shorts Monetization 2026: Requirements and Real Pay",
+   "url": "https://www.fastlane.io/youtube-shorts-monetization-2026/"
+  },
+  {
+   "label": "Meta must pay New Mexico $25 billion, its biggest fine ever, for deceiving users about Facebook privacy",
+   "url": "https://www.pbs.org/newshour/nation/meta-must-pay-new-mexico-25-billion-its-biggest-fine-ever-for-deceiving-users-about-facebook-privacy"
+  },
+  {
+   "label": "Elon Musk reportedly invests $1bn in David Ellison's Skydance",
+   "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-invests-1bn-david-ellison-skydance"
+  },
+  {
+   "label": "Acquisition of Warner Bros. Discovery by Paramount Skydance - Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Acquisition_of_Warner_Bros._Discovery_by_Paramount_Skydance"
+  },
+  {
+   "label": "Skydance issues 5-day RTO mandate, announces employee buyout program",
+   "url": "https://www.fastcompany.com/90974868/skydance-issues-5-day-rto-mandate-announces-employee-buyout-program"
+  }
+ ]
+}
