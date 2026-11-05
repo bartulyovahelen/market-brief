@@ -1,0 +1,287 @@
+{
+ "tldr": "Ринок відеодистрибуції за останні 7 днів відзначився значною консолідацією з завершенням злиття Paramount-Warner Bros. Discovery та створенням Skydance Corporation, підкріпленим інвестиціями Ілона Маска. Водночас, провідні платформи зіткнулися з посиленим регуляторним тиском, що призвів до багатомільярдних штрафів для Meta та підготовки судових позовів проти кількох платформ в Австралії, а також змінами в монетизації Shorts на YouTube та програмі Snapchat.",
+ "key_figure": {
+  "value": "$110.9 млрд",
+  "context": "Вартість завершеного злиття Paramount-Warner Bros. Discovery, що призвело до створення Skydance Corporation."
+ },
+ "figures": [
+  {
+   "value": "$25 млрд",
+   "label": "Штраф Meta за порушення конфіденційності даних"
+  },
+  {
+   "value": "$17.1 млрд",
+   "label": "Врегулювання позову Meta щодо безпеки дітей"
+  },
+  {
+   "value": "$1 млрд",
+   "label": "Інвестиції Ілона Маска в Skydance Corporation"
+  },
+  {
+   "value": "$279 млн",
+   "label": "Штраф, який Польща вимагає для Meta"
+  }
+ ],
+ "top_signal_deep": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation, підкріплене інвестиціями Ілона Маска, є найважливішою подією. Це створює нового гіганта на ринку традиційної медіадистрибуції та виробництва контенту, що може суттєво змінити ландшафт конкуренції, ліцензування контенту та можливості для креаторів на різних платформах. Внутрішня реструктуризація Skydance після злиття вказує на стратегічні зміни, спрямовані на оптимізацію та інтеграцію активів.",
+ "bars": [
+  {
+   "label": "Монетизація",
+   "n": 2
+  },
+  {
+   "label": "Алгоритми",
+   "n": 1
+  },
+  {
+   "label": "Контент",
+   "n": 0
+  },
+  {
+   "label": "M&A / фандинг",
+   "n": 3
+  },
+  {
+   "label": "Регуляції",
+   "n": 5
+  },
+  {
+   "label": "Продукт",
+   "n": 1
+  }
+ ],
+ "signals": [
+  {
+   "importance": "high",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Corporate INTL",
+   "title": "Завершення злиття Paramount-Warner Bros. Discovery та створення Skydance Corporation",
+   "why": "Створює нового гіганта на ринку відеодистрибуції та контенту, змінюючи конкурентний ландшафт.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF06RT17pADW0lhRJPzEOaymuv-NrwPRtkERd1yQLg2u52XfmqTg5ex4IWx4Vl0SnYeTXDwlqNRl0yO73YUC-7fYha6i2xol_HRinsKQVYHkqjoOXWleww-u2StrnwByDEgf8UegY_kfXnPCPnl1oRUcu90zC0IKx76w9xu_Bujjr9nRoHl"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "CBS News",
+   "title": "Meta оштрафована на $25 млрд за порушення конфіденційності даних у Нью-Мексико",
+   "why": "Вказує на посилення регуляторного тиску на великі платформи щодо захисту даних користувачів.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_1Vp27mdwhIggPi4bFU37ZaUAw99NCaktzhsOuXpirXigfpDSHVW_O1KBTu9fc7LuV_tn3JIUK-aJoV583ITjExEcK2wcg_MvwVeJKYflVndUVpgr7IX9781VQVh7jJglC1sP5YME8_RbK2pLlKgnmzXiOXinw4wV8r2Co2RhgEqE"
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Hindustan Times",
+   "title": "Meta врегулювала позов щодо безпеки дітей на $17.1 млрд",
+   "why": "Підкреслює зростаючу відповідальність платформ за безпеку неповнолітніх користувачів та їхній психічний стан."
+  },
+  {
+   "importance": "high",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "The New York Sun",
+   "title": "Австралія готує судові позови проти Meta, TikTok, Snap та YouTube",
+   "why": "Сигналізує про глобальне посилення контролю за безпекою користувачів, особливо неповнолітніх, та дотриманням вікових обмежень.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9r6-9hhycvqjuW56BlAnF7qSCVyJHVKebCj7Z-EAmrVWGQkDTD4Hh5OR-fPUGIkPLyvtR-yEclYwLGTrxBEab6XJv0LiOMYVtZdlq1-OGSIx7i0LcLIjnAWYszhHXW87EPTpNpM7VSxJR4SYx3QJ8yMSrCoZRq7iN36QvQSfbqKzTTYso526gt5iL8HUi8eMKQQr_wJKhQmaSj4ez2s8qSkhcY5v3MRqLElfnABV2asFpPb6lngnYsDKTHyXBP9c"
+  },
+  {
+   "importance": "medium",
+   "theme": "M&A",
+   "stream": "конкурент",
+   "source": "Barchart.com",
+   "title": "Ілон Маск інвестував $1 млрд у Skydance Corporation",
+   "why": "Підсилює позиції нового гравця на ринку контенту та дистрибуції, потенційно впливаючи на майбутні стратегії.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbPW4VAtRwjOpRETL6w5pEAPbmeCSfuTxJ144-lu-5K1McFjv1si8Q__hsMfpnSSti_2pdkcb1CMQQ8-w_XXvctyIQdF4txZGeu3BXPA2BJlZ85KXCAC7TwLmeA8ltlXCKXY2t2Glimq4Cird_URbI5SHTteYH64RcPMtChUHaa7pFLHmBhZtYnAg4xAGhG1Z9zVFRLJXo0ujnYuXXST6Prkp_lmteMRVzrdM58s3W6HIo0Mxtk-dr1Nyl0BpwdlWBqzDTj9pQXd0CIBqS"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "AITuber",
+   "title": "YouTube подвоює пороги монетизації Shorts для нових учасників з 2027 року",
+   "why": "Впливає на стратегії та доходи креаторів короткого відеоконтенту, особливо нових.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyy-4An6HF-aACWkbdV3UCleeZewNLm-Z90r9JTDqE6OK9K8r0N1Dpukxp6HhUpPLvToNVxAEk9MpiKkyzHFAUYEiGhVUgcgDat3id5eR4tJdByWEHW9IAcvgA_hsmFWvxkww7MdYoHm6HsezFvQ=="
+  },
+  {
+   "importance": "medium",
+   "theme": "алгоритми",
+   "stream": "платформа",
+   "source": "Social Media Today",
+   "title": "YouTube оновлює алгоритм Shorts, щоб надавати перевагу оригінальному контенту",
+   "why": "Змінює видимість контенту та стимулює креаторів до створення унікального відео.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG85mNYqNs1wFegG2MV6gfa9-vHX3T3l0iuhFfTCRgFbUjhnua59FElu6GTTE9d47FhGg0UtfiF1NtDIydfGubyrYtKlUoMGYqdpTO7FXJ4pCSt_bO6j2y-dRECU2UF88ujIpOmQkxXLhNBTP2n0EKXdMch3Gf1Isr3GkWlg2_Ww1lnd0H8tBb9uiIcc0AO3DeMpzepyjqzICx7TAVBKepg6i6UEDJtriJf3fl9F_LF"
+  },
+  {
+   "importance": "medium",
+   "theme": "монетизація",
+   "stream": "платформа",
+   "source": "Clip-Short AI",
+   "title": "Snapchat оновив свою програму монетизації",
+   "why": "Змінює умови для креаторів на платформі, фокусуючись на єдиній програмі монетизації.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUkqFMLv1Obyc9HFsP_x_XcfoyqLEIdpUJKHsFLpnqBGDgXz17Or6koxjceV_TKTW8hd9eOvYhOUJZuq8vnjwkvEa6jb-37xVo0iTX83BJiYZbVv6nouhzWzrj17wCoZwci71FwqNtW5eRZB8BY9QcGc"
+  },
+  {
+   "importance": "medium",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Forbes",
+   "title": "Польща вимагає штраф у $279 млн для Meta за шахрайську рекламу",
+   "why": "Демонструє регіональний регуляторний тиск на рекламні практики платформ та їхню відповідальність.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtimFOQ7Pxv0OH856xoGi5hWThUT_tGdtyLi9RO1wch6Wd7FQg4T1eWwKWPtClUr9zgSPNHlEUK390DJHid00u3satSCfvKyC3snXutxgKbNoNkjxA30AFBlmz9iDLHYgH_6X4I7pxPSFtVv30wpPa32uqkCvDfm-dRhK3gjpd24ahupdFEquTXNaCv2EXkUPHd1IkSLKrFJ-ozxjEiXPAq9F-ZwCePMWvfsLYH_RqCQ"
+  },
+  {
+   "importance": "low",
+   "theme": "продукт",
+   "stream": "конкурент",
+   "source": "The Guardian",
+   "title": "Skydance Corporation розпочала внутрішню реструктуризацію",
+   "why": "Очікувана дія після великого злиття, що може вплинути на майбутню стратегію та операційну ефективність.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTldiQQk87W-fWm4GUBHMAm4YZlLqAiWDpjZnHZHPSSpjPnJHANw4K_yvBMe9ZKAku1L5pwwImYjtARkeu9b1PDyZ98H5vVNEMAUH0bAfpdS0e2xQE9sQ6ktMHXDAuqNIvmWRnFAeU9zGWf6v7jrcee_El7RMc5L84Vjq1W-RjjCzKqGVmvmj-lf1PKyLUTaHBuSK9yMvIGL8"
+  },
+  {
+   "importance": "low",
+   "theme": "регуляції",
+   "stream": "платформа",
+   "source": "Reuters",
+   "title": "Reddit оскаржує заборону для осіб до 16 років в Австралії",
+   "why": "Відображає загальний тренд регулювання вікових обмежень на платформах, хоча не є прямою відеодистрибуцією.",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhRJV6hpVs8GxfBodcH-ypm_oIkP02EdFppBRLqMhS75rthsg0wZs6c3H_-VLycR1dWjL4wRLWY3w7gHH-Ji7BL8-G4bMAAkEsU5VZEscibK4wJCxOfaz74Gn-xZwJ5hGiQCYy6wISWXdkv-_ef_DTEWGXXNM8xxZJ3zjIvMy7NUEktYfSfozkUo4z-y6frCtrZzdgeQ1NBqhVFK871PsjG1fwFPeJ72o9Ipmw7Vdn1mOo0I7cR5SoOgpauZylLIU970INLrJvdklqbatpjSxBE_XsekL9McAwL2ywcQ=="
+  }
+ ],
+ "trends": [
+  "Консолідація медіа-гігантів та прихід нових інвесторів у традиційну відеодистрибуцію, що створює великі інтегровані компанії.",
+  "Посилення регуляторного тиску на великі платформи щодо конфіденційності даних, безпеки дітей та рекламних практик, що призводить до багатомільярдних штрафів та судових позовів.",
+  "Зміни в програмах монетизації короткого відеоконтенту на провідних платформах (YouTube Shorts, Snapchat), що впливають на стратегії та доходи креаторів.",
+  "Зростаюча увага платформ до оригінального контенту та зменшення видимості агрегованого або повторно завантаженого відео."
+ ],
+ "regions": [
+  {
+   "region": "Захід",
+   "note": "Значна консолідація медіа-активів (Paramount-WBD, Skydance), посилення регуляторного тиску на Meta в США (Нью-Мексико) та Європі (Польща), а також судові позови в Австралії проти провідних платформ."
+  },
+  {
+   "region": "Азія",
+   "note": "Без помітних рухів за останні 7 днів у контексті наданої інформації."
+  },
+  {
+   "region": "CIS",
+   "note": "Без помітних рухів за останні 7 днів у контексті наданої інформації."
+  }
+ ],
+ "changed": "Ринок відеодистрибуції продовжує демонструвати значну консолідацію та посилення регуляторного тиску. Нові деталі щодо штрафів Meta та судових позовів в Австралії підкреслюють зростаючу увагу до безпеки користувачів та конфіденційності даних. Зміни в монетизації Shorts на YouTube та програмі Snapchat вказують на адаптацію платформ до вимог ринку та креаторів.",
+ "bizdev": [
+  "Пошук партнерств з новими медіа-гігантами, що утворилися внаслідок консолідації, для розширення дистрибуції контенту.",
+  "Розробка рішень та стратегій для відповідності посиленим регуляторним вимогам щодо конфіденційності даних та безпеки дітей на різних ринках.",
+  "Адаптація контент-стратегій до змін у монетизації короткого відео та алгоритмів, що надають перевагу оригінальному контенту на ключових платформах.",
+  "Інвестиції в технології для виявлення та боротьби з шахрайською рекламою та неправдивим контентом на платформах."
+ ],
+ "watch_next": [
+  "Подальші дії регуляторів щодо Meta, TikTok, Snap та YouTube в Австралії та Європі, включаючи результати судових позовів.",
+  "Вплив внутрішньої реструктуризації Skydance Corporation на її контент-стратегію та партнерства.",
+  "Реакція креаторів та їхніх доходів на зміни в монетизації YouTube Shorts та Snapchat.",
+  "Розвиток ситуації навколо штрафу, який Польща вимагає для Meta, та його потенційний вплив на інші країни ЄС."
+ ],
+ "sources": [
+  {
+   "label": "Forbes",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtimFOQ7Pxv0OH856xoGi5hWThUT_tGdtyLi9RO1wch6Wd7FQg4T1eWwKWPtClUr9zgSPNHlEUK390DJHid00u3satSCfvKyC3snXutxgKbNoNkjxA30AFBlmz9iDLHYgH_6X4I7pxPSFtVv30wpPa32uqkCvDfm-dRhK3gjpd24ahupdFEquTXNaCv2EXkUPHd1IkSLKrFJ-ozxjEiXPAq9F-ZwCePMWvfsLYH_RqCQ"
+  },
+  {
+   "label": "Clip-Short AI",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUkqFMLv1Obyc9HFsP_x_XcfoyqLEIdpUJKHsFLpnqBGDgXz17Or6koxjceV_TKTW8hd9eOvYhOUJZuq8vnjwkvEa6jb-37xVo0iTX83BJiYZbVv6nouhzWzrj17wCoZwci71FwqNtW5eRZB8BY9QcGc"
+  },
+  {
+   "label": "Hindustan Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1BFdrndHlfWZxIqvexjQ7r6UZO6F2Mb109MuQwOWIwYxaR4vpDbFApG7ONY2jqHPZOdc9Hc2neEWNZWvZ-VJUD01y0J4I-AuiZVK8WqfqlHCa2fuZAA9EINq_GeuR6GwigmiNXGdNl-AXqEkA61Xjt792UvIVFapF6k91fWyL0W7IImEQKKJr4qVEB1KbB2OcSDhO5pv45LIY7yLEOD_9TUh8SVCg6tXEqLOldaMfd30gGJkpIEWEeVCS8nfbnU4lw1TgxTPsEqZrXS2f4qxqAcS8xHmLG7ZUQi0mPQCYla3Lr70QD-QhLsMQQ"
+  },
+  {
+   "label": "Barchart.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbPW4VAtRwjOpRETL6w5pEAPbmeCSfuTxJ144-lu-5K1McFjv1si8Q__hsMfpnSSti_2pdkcb1CMQQ8-w_XXvctyIQdF4txZGeu3BXPA2BJlZ85KXCAC7TwLmeA8ltlXCKXY2t2Glimq4Cird_URbI5SHTteYH64RcPMtChUHaa7pFLHmBhZtYnAg4xAGhG1Z9zVFRLJXo0ujnYuXXST6Prkp_lmteMRVzrdM58s3W6HIo0Mxtk-dr1Nyl0BpwdlWBqzDTj9pQXd0CIBqS"
+  },
+  {
+   "label": "Skydance",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKz1JVKWPoW-clyb10ak8BJ_6EWO-xlIUcY_YKZ-PkfHEuJ2UXpb5fGMES2L9ggO2h4T8xYkP74J13Q0BAkn5wVm0QWNXAgqzC6sHK-QcY9Nf04iKXYeObIr-TVCjdgok6Niwnx_7SU6g3x2je4yaF6ot_RsqxlFGWlJtBUgNEsLdxgYnlSlH1lwynVFOGlZNP-hfEGpLrF93d4CU59ynbrChSfdCwnWLQwsJffv5ZSc72SixeomEPC6vhtYZqPB4JwUj2KeJbkqY"
+  },
+  {
+   "label": "The National Law Review",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaFuHCEJNHB16d7PArpHkfy6Fcp1YFZOtuJ2KucsCAy1RZEq90RVQaCDsuYvuztUQshAufI1OudPoGp0mqnxkSo-OdIKukjOsSCKu10lBVouLL4qFgHWav3_nAjnG8dwnoCTU8n9D2YHJJH2Arh-Ozbh4Fvkury6dSZIW6xu-q-mh0H-ZEBYrRTf67xRpvmyThmiKrfQlM"
+  },
+  {
+   "label": "Movieguide",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH78BgqO9Xf9IrgG1_SKD-6251GtjlGGMOjJaOjxBvnqWU2dKdDNFYBm14tM_UsoV_pwYioT6Fn6-dAqp6XxQJmxXlawVJ4P1jHIxzhpZCUZl5kn1Wa-i5_TPOyVo2tJn06j0Ayd1GwBTaONr7wTNcsdT25-Z7jZDCCj0crZ05JG0QihbPPKkqkApUB0Mg9JjLBAg6t"
+  },
+  {
+   "label": "AIR Media-Tech",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsLwQUW9-MQBXXgdi9dS_oBRelqh8gz1JVxZgdiG0-tsxgMUBQr7OwAbbhgK6AjB8LETkvu0al0gvj0iIIQplxY6ZKlpHgQ_KkzomvkBB6w0V5XIRzdSoOypnHNtWIBfcYOvF0IU3PFzWHg_0O9nAVwT_eEWc9MNqmSuqnZ0urjBAxOpLA0VqXMWrQWVjycRh1JUoNUHDUfZC0-SXL"
+  },
+  {
+   "label": "The New York Sun",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9r6-9hhycvqjuW56BlAnF7qSCVyJHVKebCj7Z-EAmrVWGQkDTD4Hh5OR-fPUGIkPLyvtR-yEclYwLGTrxBEab6XJv0LiOMYVtZdlq1-OGSIx7i0LcLIjnAWYszhHXW87EPTpNpM7VSxJR4SYx3QJ8yMSrCoZRq7iN36QvQSfbqKzTTYso526gt5iL8HUi8eMKQQr_wJKhQmaSj4ez2s8qSkhcY5v3MRqLElfnABV2asFpPb6lngnYsDKTHyXBP9c"
+  },
+  {
+   "label": "VideoElephant",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGirnaiE8aQz9eTzr_OddPpmbedTa4oQa7iUTRxwbQsm5PaXvDXNUKaadYU-WMpF4eLfXusMYzRzwhVigEGFENg6BmCjTcCRWDHTs9886bwnkvGZXkDsMYCeLQdftNis-y3"
+  },
+  {
+   "label": "Reuters",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhRJV6hpVs8GxfBodcH-ypm_oIkP02EdFppBRLqMhS75rthsg0wZs6c3H_-VLycR1dWjL4wRLWY3w7gHH-Ji7BL8-G4bMAAkEsU5VZEscibK4wJCxOfaz74Gn-xZwJ5hGiQCYy6wISWXdkv-_ef_DTEWGXXNM8xxZJ3zjIvMy7NUEktYfSfozkUo4z-y6frCtrZzdgeQ1NBqhVFK871PsjG1fwFPeJ72o9Ipmw7Vdn1mOo0I7cR5SoOgpauZylLIU970INLrJvdklqbatpjSxBE_XsekL9McAwL2ywcQ=="
+  },
+  {
+   "label": "CBS News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_1Vp27mdwhIggPi4bFU37ZaUAw99NCaktzhsOuXpirXigfpDSHVW_O1KBTu9fc7LuV_tn3JIUK-aJoV583ITjExEcK2wcg_MvwVeJKYflVndUVpgr7IX9781VQVh7jJglC1sP5YME8_RbK2pLlKgnmzXiOXinw4wV8r2Co2RhgEqE"
+  },
+  {
+   "label": "TheWrap",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCd8C9iXIfPPJHi3_JFhG-p_XwVL4ZmvOqZGf4beDc7uuMBNYZi_FyAyfu_6Ixf4BgFZWdfm0uKV-L0-N4N6qVldSYbnUH616F54bBR0gWeYe9KI6RWwCDA9XBNVqwUGfgtFY_mFIIvGU0nE6U4FIOo7qYiwfO8CgRPSkqL-S_Ie4xFAIy-fVKAza6FJbM"
+  },
+  {
+   "label": "Mashable",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEpwe-YelTGfA4U2WCPGFB6AFjcuGrId_cvQPnQHo-cgwRTJOsEc6vFgh1Bv8fJUAh3WkGPSaIxJvE3XDwMX24MrSjCI6TSpXrKC-39HZLS9RM8KpOG-MzFBxMo7ZduNFHvpvDoH8KcEPOyXVG0E4_2pQ-GBoJ9VDKBElBWdVbtU-CYWg"
+  },
+  {
+   "label": "Quartz",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKrqFpdi7HkjBWdrxBCCu_1BzLXoK8PDoecmw-wViyb3smp-sZFU3QAXXmHAym3IGakPK7ZeXqzaqSd3KLbsPcaXBkfx1fOyG3-jRug63yH2IKdMpqcVAIFDgt0AnQf6Gf4vjDLyGm04EG7cdwaKogxmVcjOk2hKYJwRGE1-Jqg=="
+  },
+  {
+   "label": "TNW",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW6Vh1ehpvroW1EICLPwZhLLeL_fgVUr2qN5iV0LWd1kDan4J-Kx8-8LbeR1AzTjAYg0YH7cpjIe2wPA5ADisNiyj0-b2vaT6jEmBYgQuTvclmiiq_4ma4dge5ysJDO-iushJAGdDebZUEOFX9BepAYo1bgL-mkNOdO3w=="
+  },
+  {
+   "label": "AdNews",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4vQRf10514fVQDiwcROFxX6ZR81y-hN_PKN0rkDWOtv7QagFrgbBz9nfrmPMOAoFMCA6mGiDK2H3xEu-XBRA_bJfeFZFAgeSpA-2GCNnZ9zxdmFui81KdPTxXfXNHHzsr3nFp6Wx6HwCuVnvKrFcpxkyslsDb8KHvjrfq-tN4WYmtyNzOleRVfqSUuSb30puafsf2BN5RKQ=="
+  },
+  {
+   "label": "The Guardian",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTldiQQk87W-fWm4GUBHMAm4YZlLqAiWDpjZnHZHPSSpjPnJHANw4K_yvBMe9ZKAku1L5pwwImYjtARkeu9b1PDyZ98H5vVNEMAUH0bAfpdS0e5xQE9sQ6ktMHXDAuqNIvmWRnFAeU9zGWf6v7jrcee_El7RMc5L84Vjq1W-RjjCzKqGVmvmj-lf1PKyLUTaHBuSK9yMvIGL8"
+  },
+  {
+   "label": "Nacionale",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjlBJywEG4R5YlPjrUlgnqO4YuafnKdFu23n3scS9m1HeVcKrC203BDaaMZYwXLXmnnyrLvDSuzUt55UKadFCH3uEAU3sUGEHqtRwhf5aZItBjE9JAoL-Zav0mBF3TzjzeL_cVWDxYRBtvSGKLvx0xA8gf2RXD4CJ5ME_1o8TUUXCseKp86gpakaWKll0MAZCVCkW3x1akiXtrpJN-U7PNaCHq0ZyTgChBD5BGMnMGIN3y35"
+  },
+  {
+   "label": "Los Angeles Times",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE3SnGZL5uHcr7REKdk6HOKiMqLcrbjpCHlAcBTC4TQn03YocFqyWy66E-2jJ-hjUgqYXTxhyP2zXdfvu2l_rqOLrj2OQ3R0Nh15A9Lg8guoqQ1vDfL_m9sivv4Cvd9llb4TPv3hYt0-L4fU51rXaG4xcjmFporbHtS6s5qJ3fPlBY7tYXWe5DZaWEA8u0Dq58fiwMHiqPIuRwKoeHswUx4ACI078iokUtpv78Vs9j2w=="
+  },
+  {
+   "label": "NCS | NewscastStudio",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkZMHgQot0Lz6dxeCwCY_woZznpjZ9e-nhCdx6z29FgpVtbgGYxS7VTFBz5ZEVpzPYuRIx_gPiFFZUMgPZBlxgaO4_gf8OW-yCNl90yJAZiXEVz7Z3bvJ2ifNwEhqu4LSz5azqhO5khKZbZ5wl6Qrwi4uE-61P5aYhB_0httOdNz_2"
+  },
+  {
+   "label": "TechRepublic",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERvMlx35RbJIE2NOJJTVx44XaWYY7Rm7bUanT2E4_LGnVm-p-ircFXNJIxAzXjdnPN3WC-2VNfxSD5TtJVbKnP34TpAsY7NmjJuUYZF9IJDg-4tq2Rm7QSiLAg64LFqZTAUfsskBCh8oNDqjnuex926VHOvN3bjVT835bL1qbNyUYcyDfkqBn9BQkhSjRJRJGjTuRmGWX_T45aXW_Tpg=="
+  },
+  {
+   "label": "AITuber",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyy-4An6HF-aACWkbdV3UCleeZewNLm-Z90r9JTDqE6OK9K8r0N1Dpukxp6HhUpPLvToNVxAEk9MpiKkyzHFAUYEiGhVUgcgDat3id5eR4tJdByWEHW9IAcvgA_hsmFWvxkww7MdYoHm6HsezFvQ=="
+  },
+  {
+   "label": "Social Media Today",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG85mNYqNs1wFegG2MV6gfa9-vHX3T3l0iuhFfTCRgFbUjhnua59FElu6GTTE9d47FhGg0UtfiF1NtDIydfGubyrYtKlUoMGYqdpTO7FXJ4pCSt_bO6j2y-dRECU2UF88ujIpOmQkxXLhNBTP2n0EKXdMch3Gf1Isr3GkWlg2_Ww1lnd0H8tBb9uiIcc0AO3DeMpzepyjqzICx7TAVBKepg6i6UEDJtriJf3fl9F_LF"
+  },
+  {
+   "label": "Vanguard News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgWIkgIF4F0zd2iyp8NcTeR4LtiXff5ayDtNc-MoTb-d0aDAX0k_zqY4-jvqB9Gzvcnlo4Bq3S_xepnTmmzpPH8UbIcuoAfE_Glj0wKH5yXZcTvUY8EaHEWarR0xowh3-yKcmrQTN5jzd9fwyNSj8omoW3KUq8FVJSxsnGRlt1qoVpLPXcoXl5XskWW8bXn_8_7KwbkSgZ7Cc- "
+  }
+ ]
+}
